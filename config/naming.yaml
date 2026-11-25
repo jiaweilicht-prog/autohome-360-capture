@@ -1,0 +1,153 @@
+# =============================================================================
+# naming.yaml —— 命名规则、去重、断点续跑、失败清单
+# 作用：决定"文件叫什么、存哪、重复了怎么办、断了怎么续、失败怎么报"
+# =============================================================================
+
+version: 1
+
+# ---------------------------------------------------------------------------
+# 1. 命名模板（可用变量见文末"可用变量表"）
+# ---------------------------------------------------------------------------
+template: "{brand}_{series}_{color}_{view_name}_{seq}"
+
+# 分段规则：把长名字拆成文件夹层级，便于按品牌/车型浏览
+path_template: "{brand}/{series}/{color}/"
+
+# ---------------------------------------------------------------------------
+# 2. 字符清洗（避免非法文件名与乱码）
+# ---------------------------------------------------------------------------
+sanitize:
+  # 品牌/车型里常见的特殊字符替换
+  replace:
+    " ": "-"
+    "/": "-"
+    "\\": "-"
+    ":": "-"
+    "*": ""
+    "?": ""
+    "\"": ""
+    "<": ""
+    ">": ""
+    "|": "-"
+  max_length: 120                 # 超限则从中间截断
+  case: keep                      # keep | lower | upper
+  # 中文品牌名可同时保留英文别名，方便检索
+  alias_map:
+    "比亚迪": "BYD"
+    "宝马": "BMW"
+    "奔驰": "Benz"
+    "大众": "VW"
+
+# ---------------------------------------------------------------------------
+# 3. 序号规则
+#    seq 用于同一"车型+配色+机位"下的多次拍摄（如不同时间、不同光照预设）
+# ---------------------------------------------------------------------------
+sequence:
+  start: 1
+  width: 2                        # 补零位数：01, 02 ...
+  scope: [brand, series, color, view_id]   # 在这个组合内自增
+  on_conflict: increment          # increment（+1）| overwrite | skip
+
+# ---------------------------------------------------------------------------
+# 4. 去重（两个层次，先快后准）
+# ---------------------------------------------------------------------------
+dedupe:
+  level_1_fast:
+    enabled: true
+    method: phash                 # 感知哈希，抗轻微压缩与亮度变化
+    hamming_threshold: 4          # 距离 <= 4 视为同一张
+    action: skip                  # skip | keep_both | overwrite
+  level_2_exact:
+    enabled: true
+    method: sha256                # 内容精确哈希，兜底
+    action: skip
+  scope: global                   # global（全库比） | per_model（只比同车型）
+  note: "先 phash 快筛，再 sha256 确认，兼顾速度与准确"
+
+# ---------------------------------------------------------------------------
+# 5. 断点续跑
+#    每次跑完一条就在 manifest.db 记一笔；中断后重跑自动跳过已完成项
+# ---------------------------------------------------------------------------
+resume:
+  enabled: true
+  state_db: "./output/manifest.db"
+  status_values: [pending, running, done, skipped, failed]
+  on_restart:
+    skip_status: [done]                      # 已完成的直接跳过
+    reset_status: [running, failed]          # 上次跑到一半 / 失败的，重新排队
+    retry_failed: true
+    max_retry_per_item: 3
+  # 每次运行的快照，方便回滚
+  run_id: "auto"                  # auto = 时间戳；也可手动指定便于对照
+  lock_file: "./output/.run.lock" # 防止两个进程同时跑导致状态错乱
+
+# ---------------------------------------------------------------------------
+# 6. 失败清单输出
+# ---------------------------------------------------------------------------
+failure_report:
+  enabled: true
+  formats: [csv, json]            # CSV 给人看，JSON 给程序读
+  path: "./output/failures_{run_id}.csv"
+  columns:
+    - run_id
+    - timestamp
+    - brand
+    - series
+    - model_url
+    - color
+    - view_id
+    - step_id                     # 卡在哪一步
+    - reason                      # 失败原因码
+    - attempts                    # 已重试次数
+    - screenshot_path             # 失败时的现场截图（如果有）
+    - suggestion                  # 系统给出的处理建议
+  reason_codes:
+    - pano_load_timeout
+    - color_not_available
+    - view_not_available
+    - align_not_converged
+    - selector_missing
+    - captcha
+    - http_403
+    - http_429
+    - login_required
+    - page_version_mismatch
+    - image_blank
+    - unknown
+
+# ---------------------------------------------------------------------------
+# 7. 侧车元数据（每张图配一个同名 .json，记录来源，合规与溯源用）
+# ---------------------------------------------------------------------------
+sidecar:
+  enabled: true
+  format: json
+  fields:
+    - source_url
+    - captured_at
+    - view_id
+    - view_name
+    - brand
+    - series
+    - interior_color
+    - camera_state            # yaw/pitch/fov（若读得到）
+    - ssim_to_baseline
+    - phash
+    - viewport
+    - device_scale_factor
+    - software_version
+    - license_ref             # 授权编号，为空表示未授权
+
+# =============================================================================
+# 可用变量表
+#   {brand}        品牌
+#   {series}       车系
+#   {model_url}    车型页 URL
+#   {color}        内饰配色
+#   {view_id}      机位 ID，如 V02_ip_front
+#   {view_name}    机位中文名，如 中控正视
+#   {seq}          序号，如 01
+#   {date}         抓取日期 YYYYMMDD
+#   {time}         抓取时间 HHmmss
+#   {run_id}       本次运行 ID
+#   {dpr}          设备像素比，如 2x
+# =============================================================================

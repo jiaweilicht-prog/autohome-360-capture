@@ -1,0 +1,181 @@
+batch,brand_cn,brand_en,model,generation,years,powertrain,pano_id,run_batch,f1_captured,r1_captured,capture_status
+main,比亚迪,BYD,秦PLUS,—,在售,PHEV/DM-i,76109,main,Y,Y,captured
+main,比亚迪,BYD,秦L,—,在售,EV/PHEV,75141,main,Y,Y,captured
+main,比亚迪,BYD,汉,—,在售,PHEV/DM-i,77297,main,Y,Y,captured
+main,比亚迪,BYD,唐,—,在售,PHEV/DM-i,46807,main,Y,Y,captured
+main,比亚迪,BYD,宋Pro,—,在售,PHEV/DM-i,50651,main,Y,Y,captured
+main,比亚迪,BYD,宋PLUS,—,在售,PHEV/DM-i,45549,main,Y,Y,captured
+main,比亚迪,BYD,宋L,—,在售,PHEV/DM-i,75123,main,Y,Y,captured
+main,比亚迪,BYD,元PLUS,—,在售,EV/PHEV,76816,main,Y,Y,captured
+main,比亚迪,BYD,元UP,—,在售,EV/PHEV,71684,main,Y,Y,captured
+main,比亚迪,BYD,海豚,—,在售,EV/PHEV,71049,main,Y,Y,captured
+main,比亚迪,BYD,海豹,—,在售,EV/PHEV,71664,main,Y,Y,captured
+main,比亚迪,BYD,海豹06,—,在售,EV/PHEV,75940,main,Y,Y,captured
+main,比亚迪,BYD,海豹07,—,在售,PHEV/DM-i,74310,main,Y,Y,captured
+main,比亚迪,BYD,海鸥,—,在售,EV/PHEV,77748,main,Y,Y,captured
+main,比亚迪,BYD,驱逐舰05,—,在售,PHEV/DM-i,73236,main,Y,Y,captured
+main,比亚迪,BYD,护卫舰07,—,在售,PHEV/DM-i,67271,main,Y,Y,captured
+main,腾势,Denza,腾势D9,—,在售,EV,76887,main,Y,Y,captured
+main,腾势,Denza,腾势N7,—,在售,EV,71605,main,Y,Y,captured
+main,腾势,Denza,腾势N8,—,在售,EV,64054,main,Y,Y,captured
+main,腾势,Denza,腾势Z9,—,在售,EV,69559,main,Y,Y,captured
+main,吉利汽车,Geely,星越L,—,在售,ICE,77300,main,Y,Y,captured
+main,吉利汽车,Geely,缤越,—,在售,ICE,69434,main,Y,Y,captured
+main,吉利汽车,Geely,博越,—,在售,ICE,73941,main,Y,Y,captured
+main,吉利汽车,Geely,博越L,—,在售,ICE,76920,main,Y,Y,captured
+main,吉利汽车,Geely,帝豪,—,在售,ICE,77932,main,Y,Y,captured
+main,吉利汽车,Geely,帝豪L,—,在售,ICE,52576,main,Y,Y,captured
+main,吉利汽车,Geely,豪越L,—,在售,ICE,75462,main,Y,Y,captured
+main,吉利汽车,Geely,嘉际,—,在售,ICE,69221,?,N,N,pending
+main,吉利银河,Geely Galaxy,银河L6,—,在售,EV,71463,main,Y,Y,captured
+main,吉利银河,Geely Galaxy,银河L7,—,在售,EV,70348,main,Y,Y,captured
+main,吉利银河,Geely Galaxy,银河E8,—,在售,EV,72041,main,Y,Y,captured
+main,吉利银河,Geely Galaxy,银河E5,—,在售,EV,73945,main,Y,Y,captured
+main,吉利银河,Geely Galaxy,银河星舰7,—,在售,EV,75665,main,Y,Y,captured
+main,极氪,Zeekr,极氪001,—,在售,EV,75072,main,Y,Y,captured
+main,极氪,Zeekr,极氪007,—,在售,EV,76351,main,Y,Y,captured
+main,极氪,Zeekr,极氪009,—,在售,EV,76820,main,Y,Y,captured
+main,极氪,Zeekr,极氪7X,—,在售,EV,75350,main,Y,Y,captured
+main,极氪,Zeekr,极氪MIX,—,在售,EV,67165,main,Y,Y,captured
+main,领克,LynkCo,领克01,—,在售,ICE,73355,main,Y,Y,captured
+main,领克,LynkCo,领克03,—,在售,ICE,74958,main,Y,Y,captured
+main,领克,LynkCo,领克05,—,在售,ICE,61972,main,Y,Y,captured
+main,领克,LynkCo,领克06,—,在售,ICE,74023,main,Y,Y,captured
+main,领克,LynkCo,领克08,—,在售,ICE,74351,main,Y,Y,captured
+main,领克,LynkCo,领克09,—,在售,ICE,74882,main,Y,Y,captured
+main,领克,LynkCo,领克Z10,—,在售,ICE,69475,main,Y,Y,captured
+main,领克,LynkCo,领克Z20,—,在售,ICE,73165,main,Y,Y,captured
+main,哈弗,Haval,哈弗H6,—,在售,ICE,77796,main,Y,Y,captured
+main,哈弗,Haval,哈弗大狗,—,在售,ICE,73589,main,Y,Y,captured
+main,哈弗,Haval,哈弗猛龙,—,在售,ICE,68290,main,Y,Y,captured
+main,哈弗,Haval,哈弗H5,—,在售,ICE,71827,main,Y,Y,captured
+main,哈弗,Haval,哈弗赤兔,—,在售,ICE,62558,main,Y,Y,captured
+main,哈弗,Haval,哈弗神兽,—,在售,ICE,61800,main,Y,Y,captured
+main,哈弗,Haval,哈弗枭龙MAX,—,在售,ICE,70352,main,Y,Y,captured
+main,魏牌,WEY,魏牌蓝山,—,在售,ICE,75474,main,Y,Y,captured
+main,魏牌,WEY,魏牌摩卡,—,在售,ICE,54462,main,Y,N,"partial(F1=Y,R1=N)"
+main,魏牌,WEY,魏牌拿铁,—,在售,ICE,54254,main,Y,Y,captured
+main,长安,Changan,长安CS75PLUS,—,在售,ICE,75382,main,Y,Y,captured
+main,长安,Changan,长安CS55PLUS,—,在售,ICE,76831,main,Y,Y,captured
+main,长安,Changan,长安UNI-V,—,在售,ICE,77068,main,Y,Y,captured
+main,长安,Changan,长安UNI-K,—,在售,ICE,65563,main,Y,Y,captured
+main,长安,Changan,长安UNI-T,—,在售,ICE,61568,main,Y,Y,captured
+main,长安,Changan,逸达,—,在售,ICE,60082,main,Y,Y,captured
+main,长安,Changan,逸动,—,在售,ICE,73177,main,Y,Y,captured
+main,长安启源,Changan Qiyuan,启源A07,—,在售,EV,74615,main,Y,Y,captured
+main,长安启源,Changan Qiyuan,启源A05,—,在售,EV,70244,main,Y,Y,captured
+main,长安启源,Changan Qiyuan,启源Q05,—,在售,EV,74167,main,Y,Y,captured
+main,深蓝汽车,Deepal,深蓝SL03,—,在售,EV,72282,main,Y,Y,captured
+main,深蓝汽车,Deepal,深蓝S7,—,在售,EV,77050,main,Y,Y,captured
+main,深蓝汽车,Deepal,深蓝L07,—,在售,EV,74015,main,Y,Y,captured
+main,深蓝汽车,Deepal,深蓝S05,—,在售,EV,74326,main,Y,Y,captured
+main,阿维塔,Avatr,阿维塔11,—,在售,EV,72861,main,Y,Y,captured
+main,阿维塔,Avatr,阿维塔12,—,在售,EV,76220,main,Y,Y,captured
+main,阿维塔,Avatr,阿维塔07,—,在售,EV,74560,main,Y,Y,captured
+main,荣威,Roewe,荣威RX5,—,在售,ICE,72901,main,Y,Y,captured
+main,荣威,Roewe,荣威i5,—,在售,ICE,74338,main,Y,Y,captured
+main,荣威,Roewe,荣威i6,—,在售,ICE,46332,main,Y,Y,captured
+main,荣威,Roewe,荣威D7,—,在售,ICE,70575,main,Y,Y,captured
+main,荣威,Roewe,荣威D5X,—,在售,ICE,66355,main,Y,Y,captured
+main,MG,MG,名爵MG4,—,在售,EV,77335,main,Y,Y,captured
+main,MG,MG,名爵MG5,—,在售,EV,73536,main,Y,Y,captured
+main,MG,MG,名爵MG7,—,在售,EV,76091,main,Y,Y,captured
+main,MG,MG,名爵MG ONE,—,在售,EV,63956,main,Y,Y,captured
+main,MG,MG,名爵ES5,—,在售,EV,69101,main,Y,Y,captured
+main,荣威,Roewe,飞凡R7,—,在售,ICE,70803,main,Y,Y,captured
+main,荣威,Roewe,飞凡F7,—,在售,ICE,73263,main,Y,Y,captured
+main,智己汽车,IM Motors,智己L6,—,在售,EV,78892,main,Y,Y,captured
+main,智己汽车,IM Motors,智己L7,—,在售,EV,66715,main,Y,Y,captured
+main,智己汽车,IM Motors,智己LS6,—,在售,EV,78966,main,Y,Y,captured
+main,智己汽车,IM Motors,智己LS7,—,在售,EV,69131,main,Y,Y,captured
+main,广汽传祺,GAC Trumpchi,传祺GS4,—,在售,ICE,77782,main,Y,Y,captured
+main,广汽传祺,GAC Trumpchi,传祺GS8,—,在售,ICE,63561,main,Y,Y,captured
+main,广汽传祺,GAC Trumpchi,传祺M8,—,在售,ICE,76555,main,Y,Y,captured
+main,广汽传祺,GAC Trumpchi,传祺M6,—,在售,ICE,77855,main,Y,Y,captured
+main,广汽传祺,GAC Trumpchi,传祺影豹,—,在售,ICE,72606,main,Y,Y,captured
+main,广汽传祺,GAC Trumpchi,传祺影酷,—,在售,ICE,56368,main,Y,Y,captured
+main,广汽传祺,GAC Trumpchi,传祺E8,—,在售,ICE,69003,main,Y,Y,captured
+main,广汽传祺,GAC Trumpchi,传祺E9,—,在售,ICE,70697,main,Y,Y,captured
+main,埃安,AION,AION S,—,在售,EV,74298,main,Y,Y,captured
+main,埃安,AION,AION Y,—,在售,EV,73269,main,Y,Y,captured
+main,埃安,AION,AION V,—,在售,EV,74373,main,Y,Y,captured
+main,埃安,AION,AION Y Plus,—,在售,EV,73269,main,Y,Y,captured
+main,埃安,AION,AION RT,—,在售,EV,78651,main,Y,Y,captured
+main,广汽昊铂,GAC Hyper,昊铂HT,—,在售,EV,72932,main,Y,Y,captured
+main,广汽昊铂,GAC Hyper,昊铂GT,—,在售,EV,75490,main,Y,Y,captured
+main,奇瑞,Chery,瑞虎7,—,在售,ICE,76878,main,Y,Y,captured
+main,奇瑞,Chery,瑞虎8,—,在售,ICE,75236,main,Y,Y,captured
+main,奇瑞,Chery,瑞虎9,—,在售,ICE,75933,main,Y,Y,captured
+main,奇瑞,Chery,瑞虎8 PRO,—,在售,ICE,76796,main,Y,Y,captured
+main,奇瑞,Chery,艾瑞泽8,—,在售,ICE,75876,main,Y,Y,captured
+main,奇瑞,Chery,艾瑞泽5,—,在售,ICE,73351,main,Y,Y,captured
+main,星途,Exeed,星途瑶光,—,在售,ICE,77883,main,Y,Y,captured
+main,星途,Exeed,星途揽月,—,在售,ICE,79020,main,Y,Y,captured
+main,星途,Exeed,星途凌云,—,在售,ICE,76107,main,Y,Y,captured
+main,星途,Exeed,星途ET,—,在售,ICE,74024,main,Y,Y,captured
+main,星途,Exeed,星途ES,—,在售,ICE,78039,main,Y,Y,captured
+main,iCAR,iCAR,iCAR 03,—,在售,EV,65879,main,Y,Y,captured
+main,蔚来,NIO,蔚来ET5,—,在售,EV,76977,main,Y,Y,captured
+main,蔚来,NIO,蔚来ET5T,—,在售,EV,76979,main,Y,Y,captured
+main,蔚来,NIO,蔚来ET7,—,在售,EV,67323,main,Y,Y,captured
+main,蔚来,NIO,蔚来EC6,—,在售,EV,76975,main,Y,Y,captured
+main,蔚来,NIO,蔚来EC7,—,在售,EV,66805,main,Y,Y,captured
+main,蔚来,NIO,蔚来ES6,—,在售,EV,76972,main,Y,Y,captured
+main,蔚来,NIO,蔚来ES7,—,在售,EV,66800,main,Y,Y,captured
+main,蔚来,NIO,蔚来ES8,—,在售,EV,78270,main,Y,Y,captured
+main,乐道,ONVO,乐道L60,—,在售,EV,77967,main,Y,Y,captured
+main,firefly萤火虫,Firefly,萤火虫,—,在售,EV,75651,main,Y,Y,captured
+main,理想汽车,Li Auto,理想L6,—,在售,ICE,77775,main,Y,Y,captured
+main,理想汽车,Li Auto,理想L7,—,在售,ICE,71986,main,Y,Y,captured
+main,理想汽车,Li Auto,理想L8,—,在售,ICE,77236,main,Y,Y,captured
+main,理想汽车,Li Auto,理想L9,—,在售,ICE,76536,main,Y,Y,captured
+main,理想汽车,Li Auto,理想MEGA,—,在售,ICE,78129,main,Y,Y,captured
+main,小鹏,XPeng,小鹏G6,—,在售,EV,76162,main,Y,Y,captured
+main,小鹏,XPeng,小鹏G9,—,在售,EV,76194,main,Y,Y,captured
+main,小鹏,XPeng,小鹏P7,—,在售,EV,76791,main,Y,Y,captured
+main,小鹏,XPeng,小鹏P7+,—,在售,EV,76083,main,Y,Y,captured
+main,小鹏,XPeng,小鹏X9,—,在售,EV,75600,main,Y,Y,captured
+main,小鹏,XPeng,小鹏MONA M03,—,在售,EV,77001,main,Y,Y,captured
+main,零跑汽车,Leapmotor,零跑C01,—,在售,ICE,66879,main,Y,Y,captured
+main,零跑汽车,Leapmotor,零跑C10,—,在售,ICE,77239,main,Y,Y,captured
+main,零跑汽车,Leapmotor,零跑C11,—,在售,ICE,78083,main,Y,Y,captured
+main,零跑汽车,Leapmotor,零跑C16,—,在售,ICE,77969,main,Y,Y,captured
+main,零跑汽车,Leapmotor,零跑T03,—,在售,ICE,71892,main,Y,Y,captured
+main,哪吒汽车,Neta,哪吒S,—,在售,EV,66762,?,N,N,pending
+main,哪吒汽车,Neta,哪吒GT,—,在售,EV,60964,?,N,N,pending
+main,哪吒汽车,Neta,哪吒X,—,在售,EV,69293,?,N,N,pending
+main,哪吒汽车,Neta,哪吒L,—,在售,EV,66100,?,N,N,pending
+main,哪吒汽车,Neta,哪吒AYA,—,在售,EV,66321,?,N,N,pending
+main,AITO 问界,AITO 问界,问界M5,—,在售,EV,72006,main,Y,Y,captured
+main,AITO 问界,AITO 问界,问界M7,—,在售,EV,76952,main,Y,Y,captured
+main,AITO 问界,AITO 问界,问界M9,—,在售,EV,77438,main,Y,Y,captured
+main,AITO 问界,AITO 问界,问界M8,—,在售,EV,73981,main,Y,Y,captured
+main,岚图汽车,Voyah,岚图FREE,—,在售,EV,73126,main,Y,Y,captured
+main,岚图汽车,Voyah,岚图梦想家,—,在售,EV,78440,main,Y,Y,captured
+main,岚图汽车,Voyah,岚图追光,—,在售,EV,76997,main,Y,Y,captured
+main,岚图汽车,Voyah,岚图知音,—,在售,EV,73154,main,Y,Y,captured
+main,红旗,Hongqi,红旗H5,—,在售,ICE,77099,main,Y,Y,captured
+main,红旗,Hongqi,红旗H9,—,在售,ICE,74291,main,Y,Y,captured
+main,红旗,Hongqi,红旗HS5,—,在售,ICE,77773,main,Y,Y,captured
+main,红旗,Hongqi,红旗E-HS9,—,在售,ICE,69770,main,Y,Y,captured
+main,红旗,Hongqi,红旗HQ9,—,在售,ICE,72474,main,Y,Y,captured
+main,红旗,Hongqi,红旗E-QM5,—,在售,ICE,72244,?,N,N,pending
+main,奔腾,Bestune,奔腾B70,—,在售,ICE,75401,?,N,N,pending
+main,奔腾,Bestune,奔腾T90,—,在售,ICE,69875,?,N,N,pending
+main,奔腾,Bestune,奔腾T77,—,在售,ICE,60901,?,N,N,pending
+main,ARCFOX极狐,ARCFOX,极狐阿尔法S,—,在售,ICE,67998,?,N,N,pending
+main,ARCFOX极狐,ARCFOX,极狐阿尔法T,—,在售,ICE,63485,?,N,N,pending
+main,ARCFOX极狐,ARCFOX,极狐考拉,—,在售,ICE,61229,main,Y,Y,captured
+main,北京越野,BAIC Off-road,北京BJ30,—,在售,ICE,78347,main,Y,Y,captured
+main,北京越野,BAIC Off-road,北京BJ60,—,在售,ICE,75866,main,Y,Y,captured
+special,仰望,Yangwang,仰望U8,—,在售,EV,76716,main,Y,Y,captured
+special,仰望,Yangwang,仰望U9,—,在售,EV,62533,main,Y,N,"partial(F1=Y,R1=N)"
+special,方程豹,Fangchengbao,方程豹豹5,—,在售,ICE,77837,main,Y,Y,captured
+special,方程豹,Fangchengbao,方程豹豹8,—,在售,ICE,77834,main,Y,Y,captured
+special,方程豹,Fangchengbao,方程豹钛3,—,在售,ICE,76714,main,Y,Y,captured
+special,哈弗,Haval,哈弗H9,—,在售,ICE,77399,main,Y,Y,captured
+special,坦克,Tank,坦克300,—,在售,ICE,78289,main,Y,Y,captured
+special,坦克,Tank,坦克400,—,在售,ICE,75581,main,Y,Y,captured
+special,坦克,Tank,坦克500,—,在售,ICE,73937,main,Y,Y,captured
+special,广汽昊铂,GAC Hyper,昊铂SSR,—,在售,EV,59534,main,Y,N,"partial(F1=Y,R1=N)"
+special,北京越野,BAIC Off-road,北京BJ40,—,在售,ICE,73807,main,Y,Y,captured

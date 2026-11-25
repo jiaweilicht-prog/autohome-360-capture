@@ -1,0 +1,790 @@
+{
+ "generatedAt": "2026-09-09T15:07:20.004Z",
+ "total": 35,
+ "found": 35,
+ "noPano": 0,
+ "notFound": 0,
+ "errors": 0,
+ "results": [
+  {
+   "group": "G01",
+   "brandCn": "现代",
+   "modelEn": "Encino",
+   "modelCn": "昂希诺纯电 2019-2022",
+   "years": "2018-2021",
+   "searchNames": [
+    "昂希诺纯电动",
+    "昂希诺纯电 2019-2022"
+   ],
+   "status": "pano_found",
+   "seriesId": 5111,
+   "seriesName": "昂希诺纯电动",
+   "panoId": 42121,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/42121?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Encino_RC_2018",
+    "HYD_Encino_EV_2019"
+   ]
+  },
+  {
+   "group": "G02",
+   "brandCn": "现代",
+   "modelEn": "IX35",
+   "modelCn": "ix35 2010-2015",
+   "years": "2010-2015",
+   "searchNames": [
+    "北京现代ix35",
+    "ix35 2010-2015"
+   ],
+   "status": "pano_found",
+   "seriesId": 1007,
+   "seriesName": "北京现代ix35",
+   "panoId": 74166,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/74166?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_IX35_LM_2010",
+    "HYD_IX35_LM_Facelift_2013"
+   ]
+  },
+  {
+   "group": "G03",
+   "brandCn": "现代",
+   "modelEn": "Lafesta",
+   "modelCn": "菲斯塔 2022-2025",
+   "years": "2022-2025",
+   "searchNames": [
+    "菲斯塔",
+    "菲斯塔 2022-2025"
+   ],
+   "status": "pano_found",
+   "seriesId": 4817,
+   "seriesName": "菲斯塔",
+   "panoId": 58698,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/58698?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "HYD_Lafesta_CN_2018",
+    "HYD_Lafesta_Facelift_2022",
+    "HYD_Lafesta_EV_2022"
+   ]
+  },
+  {
+   "group": "G04",
+   "brandCn": "起亚",
+   "modelEn": "Forte",
+   "modelCn": "福瑞迪 2019-2021",
+   "years": "2008-2012",
+   "searchNames": [
+    "福瑞迪",
+    "福瑞迪 2019-2021"
+   ],
+   "status": "pano_found",
+   "seriesId": 813,
+   "seriesName": "福瑞迪",
+   "panoId": 38646,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/38646?_ahrotate=1",
+   "nVehicleIds": 4,
+   "vehicleIds": [
+    "KIA_Forte_TD_2008",
+    "KIA_Forte_TD_Facelift_2011",
+    "KIA_Cerato_YD_2016",
+    "KIA_Cerato_YD_Facelift_2019"
+   ]
+  },
+  {
+   "group": "G05",
+   "brandCn": "起亚",
+   "modelEn": "Carnival",
+   "modelCn": "嘉华 2020-2026",
+   "years": "2020-2026",
+   "searchNames": [
+    "嘉华",
+    "嘉华 2020-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 284,
+   "seriesName": "嘉华",
+   "panoId": 74289,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/74289?_ahrotate=1",
+   "nVehicleIds": 6,
+   "vehicleIds": [
+    "KIA_Carnival_VQ_2006",
+    "KIA_Carnival_YP_2010",
+    "KIA_Carnival_YP_Facelift_2013",
+    "KIA_Carnival_KA4_2020",
+    "KIA_Carnival_KA4_Facelift_2024",
+    "KIA_Carnival_Hybrid_KA4_2023"
+   ]
+  },
+  {
+   "group": "G06",
+   "brandCn": "捷尼赛思",
+   "modelEn": "G70_IK",
+   "modelCn": "G70 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "捷尼赛思G70",
+    "G70 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 4545,
+   "seriesName": "捷尼赛思G70",
+   "panoId": 65724,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/65724?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "GEN_G70_IK_2017",
+    "GEN_G70_IK_Facelift_2020",
+    "GEN_G70_IK_Facelift2_2023"
+   ]
+  },
+  {
+   "group": "G07",
+   "brandCn": "捷尼赛思",
+   "modelEn": "G80",
+   "modelCn": "G80 2024-2026",
+   "years": "2020-2024",
+   "searchNames": [
+    "捷尼赛思G80",
+    "G80 2024-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 4176,
+   "seriesName": "捷尼赛思G80",
+   "panoId": 73096,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/73096?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "GEN_G80_RG3_2020",
+    "GEN_G80_RG3_Facelift_2024"
+   ]
+  },
+  {
+   "group": "G08",
+   "brandCn": "捷尼赛思",
+   "modelEn": "G90",
+   "modelCn": "G90 2022-2026",
+   "years": "2022-2026",
+   "searchNames": [
+    "捷尼赛思G90",
+    "G90 2022-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 3982,
+   "seriesName": "捷尼赛思G90",
+   "panoId": 73616,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/73616?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "GEN_G90_HI_Facelift_2018",
+    "GEN_G90_RS4_2022",
+    "GEN_G90_RS4_Facelift_2025"
+   ]
+  },
+  {
+   "group": "G09",
+   "brandCn": "捷尼赛思",
+   "modelEn": "GV60",
+   "modelCn": "GV60 2025-2026",
+   "years": "2022-2025",
+   "searchNames": [
+    "捷尼赛思GV60",
+    "GV60 2025-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 5865,
+   "seriesName": "捷尼赛思GV60",
+   "panoId": 66108,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/66108?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "GEN_GV60_JW1_2022",
+    "GEN_GV60_JW1_Facelift_2025"
+   ]
+  },
+  {
+   "group": "G10",
+   "brandCn": "捷尼赛思",
+   "modelEn": "GV70",
+   "modelCn": "GV70 2024-2026",
+   "years": "2021-2024",
+   "searchNames": [
+    "捷尼赛思GV70",
+    "GV70 2024-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 5475,
+   "seriesName": "捷尼赛思GV70",
+   "panoId": 70888,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/70888?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "GEN_GV70_EN4_2021",
+    "GEN_GV70_EN4_Facelift_2024"
+   ]
+  },
+  {
+   "group": "G11",
+   "brandCn": "捷尼赛思",
+   "modelEn": "GV80",
+   "modelCn": "GV80 2024-2026",
+   "years": "2020-2024",
+   "searchNames": [
+    "捷尼赛思GV80",
+    "GV80 2024-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 4397,
+   "seriesName": "捷尼赛思GV80",
+   "panoId": 78634,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78634?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "GEN_GV80_EN4_2020",
+    "GEN_GV80_EN4_Facelift_2024"
+   ]
+  },
+  {
+   "group": "G12",
+   "brandCn": "现代",
+   "modelEn": "Custo",
+   "modelCn": "库斯途 2020-2026",
+   "years": "2020-2026",
+   "searchNames": [
+    "库斯途",
+    "库斯途 2020-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 6118,
+   "seriesName": "库斯途",
+   "panoId": 68238,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/68238?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Custo_PU_2020",
+    "HYD_Custin_PU_2021"
+   ]
+  },
+  {
+   "group": "G13",
+   "brandCn": "现代",
+   "modelEn": "Avante",
+   "modelCn": "领动 2016-2020",
+   "years": "2016-2020",
+   "searchNames": [
+    "领动",
+    "领动 2016-2020"
+   ],
+   "status": "pano_found",
+   "seriesId": 3959,
+   "seriesName": "领动",
+   "panoId": 45479,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/45479?_ahrotate=1",
+   "nVehicleIds": 1,
+   "vehicleIds": [
+    "HYD_Avante_AD_2016"
+   ]
+  },
+  {
+   "group": "G14",
+   "brandCn": "现代",
+   "modelEn": "Mistra",
+   "modelCn": "名图 2020-2023",
+   "years": "2013-2017",
+   "searchNames": [
+    "名图",
+    "名图 2020-2023"
+   ],
+   "status": "pano_found",
+   "seriesId": 3073,
+   "seriesName": "名图",
+   "panoId": 49405,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/49405?_ahrotate=1",
+   "nVehicleIds": 4,
+   "vehicleIds": [
+    "HYD_Mistra_DF_2013",
+    "HYD_Mistra_DF_Facelift_2017",
+    "HYD_Mistra_DF2_2020",
+    "HYD_Mistra_EV_2021"
+   ]
+  },
+  {
+   "group": "G15",
+   "brandCn": "起亚",
+   "modelEn": "EV5",
+   "modelCn": "EV5 2024-2026",
+   "years": "2024-2026",
+   "searchNames": [
+    "起亚EV5",
+    "EV5 2024-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 7352,
+   "seriesName": "起亚EV5",
+   "panoId": 71310,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/71310?_ahrotate=1",
+   "nVehicleIds": 1,
+   "vehicleIds": [
+    "KIA_EV5_SV1_2024"
+   ]
+  },
+  {
+   "group": "G16",
+   "brandCn": "起亚",
+   "modelEn": "EV6",
+   "modelCn": "EV6 2024-2026",
+   "years": "2021-2024",
+   "searchNames": [
+    "起亚EV6",
+    "EV6 2024-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 6050,
+   "seriesName": "起亚EV6",
+   "panoId": 63789,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/63789?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_EV6_CV1_2021",
+    "KIA_EV6_CV1_Facelift_2024"
+   ]
+  },
+  {
+   "group": "G17",
+   "brandCn": "起亚",
+   "modelEn": "K3",
+   "modelCn": "K3 EV 2022-2025",
+   "years": "2022-2025",
+   "searchNames": [
+    "起亚K3",
+    "K3 EV 2022-2025"
+   ],
+   "status": "pano_found",
+   "seriesId": 2886,
+   "seriesName": "起亚K3",
+   "panoId": 79043,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/79043?_ahrotate=1",
+   "nVehicleIds": 5,
+   "vehicleIds": [
+    "KIA_K3_BD_2012",
+    "KIA_K3_BD_Facelift_2015",
+    "KIA_K3_YD_2019",
+    "KIA_K3_YD_Facelift_2021",
+    "KIA_K3_EV_2022"
+   ]
+  },
+  {
+   "group": "G18",
+   "brandCn": "起亚",
+   "modelEn": "",
+   "modelCn": "K4 2025-2026",
+   "years": "2025-2026",
+   "searchNames": [
+    "起亚K4",
+    "K4 2025-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 3286,
+   "seriesName": "起亚K4",
+   "panoId": 27336,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/27336?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "KIA_K4_BD_2013",
+    "KIA_K4_BD_Facelift_2016",
+    "KIA_K4_2025"
+   ]
+  },
+  {
+   "group": "G19",
+   "brandCn": "起亚",
+   "modelEn": "Optima",
+   "modelCn": "K5 2016-2020",
+   "years": "2011-2015",
+   "searchNames": [
+    "起亚K5",
+    "K5 2016-2020"
+   ],
+   "status": "pano_found",
+   "seriesId": 2246,
+   "seriesName": "起亚K5",
+   "panoId": 69775,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/69775?_ahrotate=1",
+   "nVehicleIds": 4,
+   "vehicleIds": [
+    "KIA_Optima_TF_2011",
+    "KIA_Optima_TF_Facelift_2014",
+    "KIA_Optima_JF_2016",
+    "KIA_Optima_JF_Facelift_2018"
+   ]
+  },
+  {
+   "group": "G20",
+   "brandCn": "起亚",
+   "modelEn": "K9",
+   "modelCn": "K9 2018-2022",
+   "years": "2012-2015",
+   "searchNames": [
+    "起亚K900",
+    "K9 2018-2022"
+   ],
+   "status": "pano_found",
+   "seriesId": 3265,
+   "seriesName": "起亚K900",
+   "panoId": 34071,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/34071?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "KIA_K9_KH_2012",
+    "KIA_K9_KH_Facelift_2015",
+    "KIA_K9_RJ_2018"
+   ]
+  },
+  {
+   "group": "G21",
+   "brandCn": "起亚",
+   "modelEn": "KX5",
+   "modelCn": "KX5 2019-2021",
+   "years": "2016-2020",
+   "searchNames": [
+    "起亚KX5",
+    "KX5 2019-2021"
+   ],
+   "status": "pano_found",
+   "seriesId": 3954,
+   "seriesName": "起亚KX5",
+   "panoId": 51578,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/51578?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_KX5_NL_2016",
+    "KIA_KX5_NL_Facelift_2019"
+   ]
+  },
+  {
+   "group": "G22",
+   "brandCn": "起亚",
+   "modelEn": "KX7",
+   "modelCn": "KX7 2017-2020",
+   "years": "2017-2020",
+   "searchNames": [
+    "起亚KX7",
+    "KX7 2017-2020"
+   ],
+   "status": "pano_found",
+   "seriesId": 4200,
+   "seriesName": "起亚KX7",
+   "panoId": 49881,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/49881?_ahrotate=1",
+   "nVehicleIds": 1,
+   "vehicleIds": [
+    "KIA_KX7_XM_2017"
+   ]
+  },
+  {
+   "group": "G23",
+   "brandCn": "现代",
+   "modelEn": "Verna",
+   "modelCn": "瑞纳 2020-2026",
+   "years": "2020-2026",
+   "searchNames": [
+    "瑞纳",
+    "瑞纳 2020-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 2115,
+   "seriesName": "瑞纳",
+   "panoId": 43749,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/43749?_ahrotate=1",
+   "nVehicleIds": 4,
+   "vehicleIds": [
+    "HYD_Verna_MC_2005",
+    "HYD_Verna_RB_2010",
+    "HYD_Verna_RC_2017",
+    "HYD_Verna_AC_2020"
+   ]
+  },
+  {
+   "group": "G24",
+   "brandCn": "现代",
+   "modelEn": "SantaFe",
+   "modelCn": "胜达 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "胜达",
+    "胜达 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 2927,
+   "seriesName": "胜达",
+   "panoId": 70963,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/70963?_ahrotate=1",
+   "nVehicleIds": 7,
+   "vehicleIds": [
+    "HYD_SantaFe_CM_2006",
+    "HYD_SantaFe_DM_2012",
+    "HYD_SantaFe_DM_Facelift_2015",
+    "HYD_SantaFe_TM_2018",
+    "HYD_SantaFe_TM_Facelift_2020",
+    "HYD_SantaFe_LX5_2023",
+    "HYD_SantaFe_LX5_Hybrid_2024"
+   ]
+  },
+  {
+   "group": "G25",
+   "brandCn": "现代",
+   "modelEn": "Sonata_DN8",
+   "modelCn": "索纳塔 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "索纳塔",
+    "索纳塔 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 2649,
+   "seriesName": "索纳塔",
+   "panoId": 78125,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78125?_ahrotate=1",
+   "nVehicleIds": 8,
+   "vehicleIds": [
+    "HYD_Sonata_NF_2005",
+    "HYD_Sonata_NF_Facelift_2008",
+    "HYD_Sonata_YF_2009",
+    "HYD_Sonata_LF_2015",
+    "HYD_Sonata_LF_Facelift_2017",
+    "HYD_Sonata_DN8_2020",
+    "HYD_Sonata_DN8_Facelift_2023",
+    "HYD_Sonata_Hybrid_DN8_2020"
+   ]
+  },
+  {
+   "group": "G26",
+   "brandCn": "现代",
+   "modelEn": "Tucson",
+   "modelCn": "途胜L 2021-2026",
+   "years": "2021-2026",
+   "searchNames": [
+    "途胜",
+    "途胜L 2021-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 358,
+   "seriesName": "途胜",
+   "panoId": 78121,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78121?_ahrotate=1",
+   "nVehicleIds": 7,
+   "vehicleIds": [
+    "HYD_Tucson_JM_2005",
+    "HYD_Tucson_JM_Facelift_2008",
+    "HYD_Tucson_TL_2015",
+    "HYD_Tucson_TL_Facelift_2018",
+    "HYD_Tucson_NX4_2021",
+    "HYD_Tucson_NX4_Facelift_2024",
+    "HYD_Tucson_Hybrid_NX4_2022"
+   ]
+  },
+  {
+   "group": "G27",
+   "brandCn": "现代",
+   "modelEn": "Elantra",
+   "modelCn": "伊兰特 2021-2026",
+   "years": "2021-2026",
+   "searchNames": [
+    "伊兰特",
+    "伊兰特 2021-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 51,
+   "seriesName": "伊兰特",
+   "panoId": 78119,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78119?_ahrotate=1",
+   "nVehicleIds": 7,
+   "vehicleIds": [
+    "HYD_Elantra_HD_2005",
+    "HYD_Elantra_YF_Elantra_2011",
+    "HYD_Elantra_AD_2016",
+    "HYD_Elantra_AD_Facelift_2019",
+    "HYD_Elantra_CN7_2021",
+    "HYD_Elantra_CN7_Facelift_2024",
+    "HYD_Elantra_Hybrid_CN7_2021"
+   ]
+  },
+  {
+   "group": "G28",
+   "brandCn": "现代",
+   "modelEn": "Elantra",
+   "modelCn": "悦动 2011-2015",
+   "years": "2008-2012",
+   "searchNames": [
+    "悦动",
+    "悦动 2011-2015"
+   ],
+   "status": "pano_found",
+   "seriesId": 586,
+   "seriesName": "悦动",
+   "panoId": 46761,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/46761?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Elantra_Yuedong_2008",
+    "HYD_Elantra_Yuedong_Facelift_2011"
+   ]
+  },
+  {
+   "group": "G29",
+   "brandCn": "起亚",
+   "modelEn": "Sportage",
+   "modelCn": "智跑 2013-2016",
+   "years": "2010-2015",
+   "searchNames": [
+    "智跑",
+    "智跑 2013-2016"
+   ],
+   "status": "pano_found",
+   "seriesId": 2137,
+   "seriesName": "智跑",
+   "panoId": 60830,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/60830?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_Sportage_SL_2010",
+    "KIA_Sportage_SL_Facelift_2013"
+   ]
+  },
+  {
+   "group": "G30",
+   "brandCn": "现代",
+   "modelEn": "Ioniq5_NE",
+   "modelCn": "Ioniq 5 2024-2026",
+   "years": "2024-2026",
+   "searchNames": [
+    "IONIQ 5 N(艾尼氪5N)",
+    "Ioniq 5 2024-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 7325,
+   "seriesName": "IONIQ 5 N(艾尼氪5N)",
+   "panoId": 75728,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/75728?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Ioniq5_NE_2021",
+    "HYD_Ioniq5_NE_Facelift_2024"
+   ]
+  },
+  {
+   "group": "G31",
+   "brandCn": "现代",
+   "modelEn": "Ioniq",
+   "modelCn": "Ioniq 2019-2022",
+   "years": "2017-2019",
+   "searchNames": [
+    "IONIQ(艾尼氪)6",
+    "Ioniq 2019-2022"
+   ],
+   "status": "pano_found",
+   "seriesId": 6786,
+   "seriesName": "IONIQ(艾尼氪)6",
+   "panoId": 57753,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/57753?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Ioniq_AE_2017",
+    "HYD_Ioniq_AE_Facelift_2019"
+   ]
+  },
+  {
+   "group": "G32",
+   "brandCn": "现代",
+   "modelEn": "Kona",
+   "modelCn": "Kona 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "KONA N",
+    "Kona 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 7281,
+   "seriesName": "KONA N",
+   "panoId": 63082,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/63082?_ahrotate=1",
+   "nVehicleIds": 6,
+   "vehicleIds": [
+    "HYD_Kona_OS_2018",
+    "HYD_Kona_OS_Facelift_2020",
+    "HYD_Kona_EV_OS_2019",
+    "HYD_Kona_NX4_2023",
+    "HYD_Kona_EV_NX4_2023",
+    "HYD_Kona_N_NX4_2024"
+   ]
+  },
+  {
+   "group": "G33",
+   "brandCn": "起亚",
+   "modelEn": "KX3",
+   "modelCn": "KX3 傲跑 2023-2025",
+   "years": "2020-2024",
+   "searchNames": [
+    "KX3傲跑",
+    "KX3 傲跑 2023-2025"
+   ],
+   "status": "pano_found",
+   "seriesId": 3664,
+   "seriesName": "KX3傲跑",
+   "panoId": 51410,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/51410?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_KX3_SP2_2020",
+    "KIA_KX3_SP2_Facelift_2023"
+   ]
+  },
+  {
+   "group": "G34",
+   "brandCn": "起亚",
+   "modelEn": "Soul",
+   "modelCn": "Soul（秀尔） 2019-2026",
+   "years": "2009-2014",
+   "searchNames": [
+    "Soul",
+    "Soul（秀尔） 2019-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 666,
+   "seriesName": "Soul",
+   "panoId": 37167,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/37167?_ahrotate=1",
+   "nVehicleIds": 5,
+   "vehicleIds": [
+    "KIA_Soul_AM_2009",
+    "KIA_Soul_PS_2014",
+    "KIA_Soul_SK3_2019",
+    "KIA_Soul_EV_2015",
+    "KIA_Soul_EV_2020"
+   ]
+  },
+  {
+   "group": "G35",
+   "brandCn": "起亚",
+   "modelEn": "Telluride_LD",
+   "modelCn": "Telluride 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "Telluride",
+    "Telluride 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 4004,
+   "seriesName": "Telluride",
+   "panoId": 37655,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/37655?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_Telluride_LD_2019",
+    "KIA_Telluride_LD_Facelift_2023"
+   ]
+  }
+ ]
+}

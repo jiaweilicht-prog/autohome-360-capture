@@ -1,0 +1,7787 @@
+[
+  {
+    "pano": 77419,
+    "brand": "本田",
+    "series": "思域",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77719,
+    "brand": "本田",
+    "series": "英仕派",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73519,
+    "brand": "本田",
+    "series": "英仕派新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64446,
+    "brand": "本田",
+    "series": "本田XR-V",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78060,
+    "brand": "本田",
+    "series": "本田CR-V",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59443,
+    "brand": "本田",
+    "series": "本田CR-V新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77714,
+    "brand": "本田",
+    "series": "本田HR-V",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66473,
+    "brand": "本田",
+    "series": "猎光e:NS2",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69201,
+    "brand": "本田",
+    "series": "本田UR-V",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71976,
+    "brand": "本田",
+    "series": "东风本田S7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74214,
+    "brand": "本田",
+    "series": "艾力绅",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72799,
+    "brand": "本田",
+    "series": "东风本田GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61230,
+    "brand": "本田",
+    "series": "LIFE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38059,
+    "brand": "本田",
+    "series": "杰德",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 23072,
+    "brand": "本田",
+    "series": "哥瑞",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 27240,
+    "brand": "本田",
+    "series": "竞瑞",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 56266,
+    "brand": "本田",
+    "series": "享域",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 28585,
+    "brand": "本田",
+    "series": "思铂睿",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 56565,
+    "brand": "本田",
+    "series": "本田e:NS1",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61017,
+    "brand": "本田",
+    "series": "思域(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 42555,
+    "brand": "本田",
+    "series": "飞度(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35255,
+    "brand": "本田",
+    "series": "本田HR-V(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37100,
+    "brand": "本田",
+    "series": "Passport",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35193,
+    "brand": "本田",
+    "series": "Pilot",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72122,
+    "brand": "本田",
+    "series": "型格",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78335,
+    "brand": "本田",
+    "series": "雅阁",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75550,
+    "brand": "本田",
+    "series": "缤智",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77667,
+    "brand": "本田",
+    "series": "皓影",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70327,
+    "brand": "本田",
+    "series": "皓影新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76630,
+    "brand": "本田",
+    "series": "冠道",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67766,
+    "brand": "本田",
+    "series": "广汽本田P7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73968,
+    "brand": "本田",
+    "series": "奥德赛",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72647,
+    "brand": "本田",
+    "series": "飞度",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39281,
+    "brand": "本田",
+    "series": "锋范",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63255,
+    "brand": "本田",
+    "series": "凌派",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72263,
+    "brand": "本田",
+    "series": "雅阁新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57030,
+    "brand": "本田",
+    "series": "e:NP1 极湃1",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66474,
+    "brand": "本田",
+    "series": "e:NP2 极湃2",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59200,
+    "brand": "本田",
+    "series": "ZR-V 致在",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70806,
+    "brand": "丰田",
+    "series": "铂智4X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76040,
+    "brand": "丰田",
+    "series": "雷凌",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78811,
+    "brand": "丰田",
+    "series": "凯美瑞",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72767,
+    "brand": "丰田",
+    "series": "铂智7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77656,
+    "brand": "丰田",
+    "series": "铂智3X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73873,
+    "brand": "丰田",
+    "series": "锋兰达",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74173,
+    "brand": "丰田",
+    "series": "威兰达",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74935,
+    "brand": "丰田",
+    "series": "汉兰达",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68797,
+    "brand": "丰田",
+    "series": "威飒",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78081,
+    "brand": "丰田",
+    "series": "赛那SIENNA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 56854,
+    "brand": "丰田",
+    "series": "广汽丰田bZ4X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 54769,
+    "brand": "丰田",
+    "series": "YARiS L 致享",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 54767,
+    "brand": "丰田",
+    "series": "YARiS L 致炫",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34520,
+    "brand": "丰田",
+    "series": "雷凌双擎E+",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69030,
+    "brand": "丰田",
+    "series": "凌尚",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62002,
+    "brand": "丰田",
+    "series": "丰田C-HR",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 44730,
+    "brand": "丰田",
+    "series": "丰田C-HR EV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62034,
+    "brand": "丰田",
+    "series": "威兰达新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64662,
+    "brand": "丰田",
+    "series": "威尔法新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77197,
+    "brand": "丰田",
+    "series": "GR YARIS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59751,
+    "brand": "丰田",
+    "series": "Mirai",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67982,
+    "brand": "丰田",
+    "series": "皇冠(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63540,
+    "brand": "丰田",
+    "series": "埃尔法",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71298,
+    "brand": "丰田",
+    "series": "威尔法",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59175,
+    "brand": "丰田",
+    "series": "SUPRA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35749,
+    "brand": "丰田",
+    "series": "卡罗拉(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60627,
+    "brand": "丰田",
+    "series": "普锐斯新能源(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60295,
+    "brand": "丰田",
+    "series": "皇冠SportCross",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36156,
+    "brand": "丰田",
+    "series": "丰田RAV4(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 50815,
+    "brand": "丰田",
+    "series": "丰田bZ(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39008,
+    "brand": "丰田",
+    "series": "汉兰达(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65451,
+    "brand": "丰田",
+    "series": "皇冠SPORT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63359,
+    "brand": "丰田",
+    "series": "Grand Highlander",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55112,
+    "brand": "丰田",
+    "series": "兰德酷路泽(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64018,
+    "brand": "丰田",
+    "series": "普拉多(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 58707,
+    "brand": "丰田",
+    "series": "Tacoma",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 53460,
+    "brand": "丰田",
+    "series": "坦途",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 13441,
+    "brand": "丰田",
+    "series": "普瑞维亚",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 54680,
+    "brand": "丰田",
+    "series": "丰田86",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74685,
+    "brand": "丰田",
+    "series": "卡罗拉",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76002,
+    "brand": "丰田",
+    "series": "丰田bZ3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77062,
+    "brand": "丰田",
+    "series": "亚洲龙",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74683,
+    "brand": "丰田",
+    "series": "RAV4荣放",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75354,
+    "brand": "丰田",
+    "series": "卡罗拉锐放",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72739,
+    "brand": "丰田",
+    "series": "丰田bZ5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75239,
+    "brand": "丰田",
+    "series": "皇冠陆放",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77392,
+    "brand": "丰田",
+    "series": "普拉多",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78254,
+    "brand": "丰田",
+    "series": "格瑞维亚",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 58138,
+    "brand": "丰田",
+    "series": "RAV4荣放双擎E+",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 58177,
+    "brand": "丰田",
+    "series": "威驰",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 58197,
+    "brand": "丰田",
+    "series": "威驰FS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34527,
+    "brand": "丰田",
+    "series": "卡罗拉双擎E+",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63244,
+    "brand": "丰田",
+    "series": "亚洲狮",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 33069,
+    "brand": "丰田",
+    "series": "皇冠",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38860,
+    "brand": "丰田",
+    "series": "奕泽E进擎",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63234,
+    "brand": "丰田",
+    "series": "奕泽IZOA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68442,
+    "brand": "丰田",
+    "series": "凌放HARRIER",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 56067,
+    "brand": "丰田",
+    "series": "一汽丰田bZ4X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72817,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯ES",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66049,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯LS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75802,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯NX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74355,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯NX新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60659,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯RZ",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75873,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯GX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74909,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯RX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70425,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯RX新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70761,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯LX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75454,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯LM",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51913,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯LC",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 30361,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯IS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36921,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯RC",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47260,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯CT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 24494,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯GS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66712,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯UX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 42973,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯UX新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 27362,
+    "brand": "雷克萨斯",
+    "series": "雷克萨斯RC F",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34980,
+    "brand": "铃木",
+    "series": "吉姆尼(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31192,
+    "brand": "铃木",
+    "series": "英格尼斯",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 27566,
+    "brand": "铃木",
+    "series": "奥拓",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 27106,
+    "brand": "铃木",
+    "series": "雨燕",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31544,
+    "brand": "铃木",
+    "series": "启悦",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 23070,
+    "brand": "铃木",
+    "series": "维特拉",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 30890,
+    "brand": "铃木",
+    "series": "骁途",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 26657,
+    "brand": "铃木",
+    "series": "北斗星",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 32799,
+    "brand": "马自达",
+    "series": "马自达CX-3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34434,
+    "brand": "马自达",
+    "series": "马自达CX-8(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 54270,
+    "brand": "马自达",
+    "series": "马自达CX-90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65101,
+    "brand": "马自达",
+    "series": "马自达MX-5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51336,
+    "brand": "马自达",
+    "series": "马自达RX-7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67405,
+    "brand": "马自达",
+    "series": "马自达3 昂克赛拉",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75511,
+    "brand": "马自达",
+    "series": "马自达EZ-6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74583,
+    "brand": "马自达",
+    "series": "马自达CX-30",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73327,
+    "brand": "马自达",
+    "series": "马自达CX-5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60954,
+    "brand": "马自达",
+    "series": "马自达CX-50行也",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76129,
+    "brand": "马自达",
+    "series": "马自达EZ-60",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 49995,
+    "brand": "马自达",
+    "series": "阿特兹",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 50797,
+    "brand": "马自达",
+    "series": "马自达CX-30 EV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 46955,
+    "brand": "马自达",
+    "series": "马自达CX-4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37054,
+    "brand": "马自达",
+    "series": "马自达CX-8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29959,
+    "brand": "讴歌",
+    "series": "讴歌TLX-L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 46014,
+    "brand": "讴歌",
+    "series": "讴歌CDX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47292,
+    "brand": "讴歌",
+    "series": "讴歌RDX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35757,
+    "brand": "讴歌",
+    "series": "讴歌ILX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31260,
+    "brand": "讴歌",
+    "series": "讴歌RLX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 24490,
+    "brand": "讴歌",
+    "series": "讴歌RDX(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 30236,
+    "brand": "讴歌",
+    "series": "讴歌MDX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 21434,
+    "brand": "讴歌",
+    "series": "讴歌NSX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78587,
+    "brand": "日产",
+    "series": "探陆",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76408,
+    "brand": "日产",
+    "series": "日产NX8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63991,
+    "brand": "日产",
+    "series": "骐达TIIDA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74682,
+    "brand": "日产",
+    "series": "轩逸",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74151,
+    "brand": "日产",
+    "series": "日产N6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74182,
+    "brand": "日产",
+    "series": "天籁",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77571,
+    "brand": "日产",
+    "series": "日产N7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63824,
+    "brand": "日产",
+    "series": "劲客",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73478,
+    "brand": "日产",
+    "series": "逍客",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73628,
+    "brand": "日产",
+    "series": "奇骏",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63860,
+    "brand": "日产",
+    "series": "ARIYA艾睿雅",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 26368,
+    "brand": "日产",
+    "series": "阳光",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 42679,
+    "brand": "日产",
+    "series": "蓝鸟",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34282,
+    "brand": "日产",
+    "series": "轩逸·纯电",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 24553,
+    "brand": "日产",
+    "series": "西玛",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47163,
+    "brand": "日产",
+    "series": "楼兰",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 49041,
+    "brand": "日产",
+    "series": "Note",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39191,
+    "brand": "日产",
+    "series": "Sentra",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65486,
+    "brand": "日产",
+    "series": "聆风",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38756,
+    "brand": "日产",
+    "series": "阳光(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39186,
+    "brand": "日产",
+    "series": "Altima",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64110,
+    "brand": "日产",
+    "series": "Skyline",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39192,
+    "brand": "日产",
+    "series": "西玛(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65487,
+    "brand": "日产",
+    "series": "劲客(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 58392,
+    "brand": "日产",
+    "series": "奇骏(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39196,
+    "brand": "日产",
+    "series": "楼兰(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62738,
+    "brand": "日产",
+    "series": "探陆(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57831,
+    "brand": "日产",
+    "series": "途乐",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31637,
+    "brand": "日产",
+    "series": "日产370Z",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29243,
+    "brand": "日产",
+    "series": "Titan",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 1023109,
+    "brand": "日产",
+    "series": "纳瓦拉",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75173,
+    "brand": "日产",
+    "series": "锋坦Frontier Pro",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75186,
+    "brand": "日产",
+    "series": "锋坦Frontier Pro PHEV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 42725,
+    "brand": "日产",
+    "series": "途达",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 33176,
+    "brand": "日产",
+    "series": "日产NV200",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72350,
+    "brand": "斯巴鲁",
+    "series": "斯巴鲁WRX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73605,
+    "brand": "斯巴鲁",
+    "series": "森林人",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77120,
+    "brand": "斯巴鲁",
+    "series": "旭豹",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78426,
+    "brand": "斯巴鲁",
+    "series": "傲虎",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75279,
+    "brand": "斯巴鲁",
+    "series": "斯巴鲁BRZ",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41367,
+    "brand": "斯巴鲁",
+    "series": "翼豹",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 45643,
+    "brand": "斯巴鲁",
+    "series": "力狮",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51211,
+    "brand": "斯巴鲁",
+    "series": "SOLTERRA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 58093,
+    "brand": "斯巴鲁",
+    "series": "斯巴鲁XV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39858,
+    "brand": "三菱",
+    "series": "帕杰罗(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61125,
+    "brand": "三菱",
+    "series": "三菱L200",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 40982,
+    "brand": "三菱",
+    "series": "帕杰罗·劲畅(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 24616,
+    "brand": "三菱",
+    "series": "翼神",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 54536,
+    "brand": "三菱",
+    "series": "阿图柯AIRTREK",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 42770,
+    "brand": "三菱",
+    "series": "劲炫ASX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57869,
+    "brand": "三菱",
+    "series": "欧蓝德",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59027,
+    "brand": "三菱",
+    "series": "奕歌",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 1017479,
+    "brand": "五十铃",
+    "series": "庆铃五十铃T30",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 1014543,
+    "brand": "五十铃",
+    "series": "TAGA达咖H",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 1012265,
+    "brand": "五十铃",
+    "series": "庆铃五十铃T17",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66090,
+    "brand": "五十铃",
+    "series": "mu-X牧游侠",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 1016383,
+    "brand": "五十铃",
+    "series": "翼放",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 1015855,
+    "brand": "五十铃",
+    "series": "D-MAX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 1022123,
+    "brand": "五十铃",
+    "series": "RE-MAX 瑞迈",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 1020562,
+    "brand": "五十铃",
+    "series": "铃拓",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 18862,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪QX80",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 16814,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪Q50",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 44835,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪QX60(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35195,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪Q60",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37822,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪Q70",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 20283,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪ESQ",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35081,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪QX30",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59107,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪QX55",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 19832,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪QX70",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73820,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪QX50",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65537,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪QX60",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55844,
+    "brand": "英菲尼迪",
+    "series": "英菲尼迪Q50L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77072,
+    "brand": "奥迪",
+    "series": "奥迪Q6L e-tron",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72934,
+    "brand": "奥迪",
+    "series": "奥迪A3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73307,
+    "brand": "奥迪",
+    "series": "奥迪A4L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73534,
+    "brand": "奥迪",
+    "series": "奥迪A5L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76524,
+    "brand": "奥迪",
+    "series": "奥迪A6L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75885,
+    "brand": "奥迪",
+    "series": "奥迪A6L e-tron",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 79063,
+    "brand": "奥迪",
+    "series": "奥迪Q2L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75193,
+    "brand": "奥迪",
+    "series": "奥迪Q3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76048,
+    "brand": "奥迪",
+    "series": "奥迪Q3 Sportback",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65047,
+    "brand": "奥迪",
+    "series": "奥迪Q4 e-tron",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75906,
+    "brand": "奥迪",
+    "series": "奥迪Q5L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69008,
+    "brand": "奥迪",
+    "series": "奥迪Q5L Sportback",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77075,
+    "brand": "奥迪",
+    "series": "奥迪Q6L Sportback e-tron",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 58337,
+    "brand": "奥迪",
+    "series": "奥迪A6L新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55144,
+    "brand": "奥迪",
+    "series": "奥迪Q2L e-tron",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 27904,
+    "brand": "奥迪",
+    "series": "奥迪Q5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 45606,
+    "brand": "奥迪",
+    "series": "奥迪e-tron",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74079,
+    "brand": "奥迪",
+    "series": "奥迪A5L Sportback",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78991,
+    "brand": "奥迪",
+    "series": "奥迪A7L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68571,
+    "brand": "奥迪",
+    "series": "奥迪Q5 e-tron",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76321,
+    "brand": "奥迪",
+    "series": "奥迪Q6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65951,
+    "brand": "奥迪",
+    "series": "奥迪A4(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72322,
+    "brand": "奥迪",
+    "series": "奥迪A5(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72323,
+    "brand": "奥迪",
+    "series": "奥迪S4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66010,
+    "brand": "奥迪",
+    "series": "奥迪S5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70865,
+    "brand": "奥迪",
+    "series": "奥迪A6(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67100,
+    "brand": "奥迪",
+    "series": "奥迪S6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70825,
+    "brand": "奥迪",
+    "series": "奥迪A7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65820,
+    "brand": "奥迪",
+    "series": "奥迪S7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73042,
+    "brand": "奥迪",
+    "series": "奥迪A8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64048,
+    "brand": "奥迪",
+    "series": "奥迪S8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66921,
+    "brand": "奥迪",
+    "series": "奥迪SQ5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67867,
+    "brand": "奥迪",
+    "series": "奥迪SQ5 Sportback",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77393,
+    "brand": "奥迪",
+    "series": "奥迪Q7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64630,
+    "brand": "奥迪",
+    "series": "奥迪Q8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65368,
+    "brand": "奥迪",
+    "series": "奥迪SQ7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71165,
+    "brand": "奥迪",
+    "series": "奥迪SQ8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43864,
+    "brand": "奥迪",
+    "series": "奥迪A3(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47122,
+    "brand": "奥迪",
+    "series": "奥迪S3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51986,
+    "brand": "奥迪",
+    "series": "奥迪A8新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35502,
+    "brand": "奥迪",
+    "series": "奥迪SQ2",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36131,
+    "brand": "奥迪",
+    "series": "奥迪Q3(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 15389,
+    "brand": "奥迪",
+    "series": "奥迪Q5(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 52176,
+    "brand": "奥迪",
+    "series": "奥迪Q6 e-tron(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37077,
+    "brand": "奥迪",
+    "series": "奥迪Q7新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29948,
+    "brand": "奥迪",
+    "series": "奥迪TT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29957,
+    "brand": "奥迪",
+    "series": "奥迪TTS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34981,
+    "brand": "奥迪",
+    "series": "奥迪A1",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63692,
+    "brand": "奥迪",
+    "series": "奥迪e-tron GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 54932,
+    "brand": "奥迪",
+    "series": "奥迪e-tron(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76065,
+    "brand": "奥迪",
+    "series": "奥迪RS 4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66268,
+    "brand": "奥迪",
+    "series": "奥迪RS 5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66639,
+    "brand": "奥迪",
+    "series": "奥迪RS 6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73543,
+    "brand": "奥迪",
+    "series": "奥迪RS 7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74842,
+    "brand": "奥迪",
+    "series": "奥迪RS Q8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31663,
+    "brand": "奥迪",
+    "series": "奥迪RS 3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55115,
+    "brand": "奥迪",
+    "series": "奥迪R8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 26290,
+    "brand": "奥迪",
+    "series": "奥迪TT RS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60410,
+    "brand": "奥迪",
+    "series": "奥迪RS e-tron GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67892,
+    "brand": "阿斯顿·马丁",
+    "series": "阿斯顿·马丁DBX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55626,
+    "brand": "阿斯顿·马丁",
+    "series": "V8 Vantage",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69075,
+    "brand": "阿斯顿·马丁",
+    "series": "阿斯顿·马丁DB12",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69779,
+    "brand": "阿斯顿·马丁",
+    "series": "Vanquish",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55630,
+    "brand": "阿斯顿·马丁",
+    "series": "阿斯顿·马丁DB11",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 46229,
+    "brand": "阿斯顿·马丁",
+    "series": "阿斯顿·马丁DBS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71415,
+    "brand": "阿尔法·罗密欧",
+    "series": "Giulia朱丽叶",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71202,
+    "brand": "阿尔法·罗密欧",
+    "series": "Tonale托纳利",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63679,
+    "brand": "阿尔法·罗密欧",
+    "series": "Stelvio斯坦维",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60510,
+    "brand": "Abarth",
+    "series": "Abarth 595",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75953,
+    "brand": "奥迪AUDI",
+    "series": "奥迪E7X",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2641549,
+    "r1sz": 2495183
+  },
+  {
+    "pano": 72707,
+    "brand": "奥迪AUDI",
+    "series": "奥迪E5 Sportback",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2544846,
+    "r1sz": 3176121
+  },
+  {
+    "pano": 77781,
+    "brand": "奔驰",
+    "series": "奔驰GLE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74509,
+    "brand": "奔驰",
+    "series": "奔驰A级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74595,
+    "brand": "奔驰",
+    "series": "奔驰A级AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75156,
+    "brand": "奔驰",
+    "series": "奔驰CLA新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77922,
+    "brand": "奔驰",
+    "series": "奔驰C级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71974,
+    "brand": "奔驰",
+    "series": "奔驰C级新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75856,
+    "brand": "奔驰",
+    "series": "奔驰EQE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77140,
+    "brand": "奔驰",
+    "series": "奔驰E级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68559,
+    "brand": "奔驰",
+    "series": "奔驰E级新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73335,
+    "brand": "奔驰",
+    "series": "奔驰EQA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69332,
+    "brand": "奔驰",
+    "series": "奔驰EQB",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72405,
+    "brand": "奔驰",
+    "series": "奔驰GLA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75810,
+    "brand": "奔驰",
+    "series": "奔驰GLB",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77204,
+    "brand": "奔驰",
+    "series": "奔驰GLC",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74577,
+    "brand": "奔驰",
+    "series": "奔驰GLC新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75755,
+    "brand": "奔驰",
+    "series": "奔驰EQE SUV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57319,
+    "brand": "奔驰",
+    "series": "奔驰EQC",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74392,
+    "brand": "奔驰",
+    "series": "奔驰CLA(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75742,
+    "brand": "奔驰",
+    "series": "奔驰E级(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75445,
+    "brand": "奔驰",
+    "series": "奔驰S级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71822,
+    "brand": "奔驰",
+    "series": "奔驰S级新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77767,
+    "brand": "奔驰",
+    "series": "奔驰GLC轿跑",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75626,
+    "brand": "奔驰",
+    "series": "奔驰GLE(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78349,
+    "brand": "奔驰",
+    "series": "奔驰GLE轿跑",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70273,
+    "brand": "奔驰",
+    "series": "奔驰GLE新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75965,
+    "brand": "奔驰",
+    "series": "奔驰G级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78420,
+    "brand": "奔驰",
+    "series": "奔驰GLS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77733,
+    "brand": "奔驰",
+    "series": "奔驰CLE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34985,
+    "brand": "奔驰",
+    "series": "奔驰A级新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64582,
+    "brand": "奔驰",
+    "series": "奔驰CLA新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60240,
+    "brand": "奔驰",
+    "series": "奔驰C级(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64625,
+    "brand": "奔驰",
+    "series": "奔驰E级新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39928,
+    "brand": "奔驰",
+    "series": "奔驰GLB(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60653,
+    "brand": "奔驰",
+    "series": "奔驰GLE轿跑新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59847,
+    "brand": "奔驰",
+    "series": "奔驰A级(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59842,
+    "brand": "奔驰",
+    "series": "奔驰B级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63005,
+    "brand": "奔驰",
+    "series": "奔驰CLS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57400,
+    "brand": "奔驰",
+    "series": "奔驰GLC(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 28686,
+    "brand": "奔驰",
+    "series": "奔驰R级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 40744,
+    "brand": "奔驰",
+    "series": "奔驰SLC",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37853,
+    "brand": "奔驰",
+    "series": "奔驰SL级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73485,
+    "brand": "奔驰",
+    "series": "奔驰V级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73489,
+    "brand": "奔驰",
+    "series": "威霆",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66149,
+    "brand": "奔驰",
+    "series": "奔驰SL级AMG新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74612,
+    "brand": "奔驰",
+    "series": "奔驰A级AMG(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73657,
+    "brand": "奔驰",
+    "series": "奔驰CLA AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75628,
+    "brand": "奔驰",
+    "series": "奔驰C级AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67866,
+    "brand": "奔驰",
+    "series": "奔驰C级AMG新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62689,
+    "brand": "奔驰",
+    "series": "奔驰EQE AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61343,
+    "brand": "奔驰",
+    "series": "奔驰EQS AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71117,
+    "brand": "奔驰",
+    "series": "奔驰S级AMG新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72446,
+    "brand": "奔驰",
+    "series": "奔驰GLA AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73200,
+    "brand": "奔驰",
+    "series": "奔驰GLB AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77897,
+    "brand": "奔驰",
+    "series": "奔驰GLC AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73736,
+    "brand": "奔驰",
+    "series": "奔驰GLC轿跑 AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69663,
+    "brand": "奔驰",
+    "series": "奔驰EQE SUV AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76758,
+    "brand": "奔驰",
+    "series": "奔驰GLE AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61396,
+    "brand": "奔驰",
+    "series": "奔驰GLE轿跑 AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76383,
+    "brand": "奔驰",
+    "series": "奔驰G级AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62313,
+    "brand": "奔驰",
+    "series": "奔驰GLS AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64290,
+    "brand": "奔驰",
+    "series": "奔驰SL级AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75658,
+    "brand": "奔驰",
+    "series": "AMG GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71311,
+    "brand": "奔驰",
+    "series": "AMG GT新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77327,
+    "brand": "奔驰",
+    "series": "奔驰CLE AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67115,
+    "brand": "奔驰",
+    "series": "奔驰E级AMG新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60934,
+    "brand": "奔驰",
+    "series": "奔驰E级AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31657,
+    "brand": "奔驰",
+    "series": "奔驰S级AMG",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74778,
+    "brand": "奔驰",
+    "series": "奔驰EQS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67883,
+    "brand": "奔驰",
+    "series": "奔驰G级新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74777,
+    "brand": "奔驰",
+    "series": "奔驰EQS SUV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34688,
+    "brand": "奔驰",
+    "series": "奔驰EQC(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76960,
+    "brand": "奔驰",
+    "series": "迈巴赫S级",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61518,
+    "brand": "奔驰",
+    "series": "迈巴赫S级新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74463,
+    "brand": "奔驰",
+    "series": "迈巴赫EQS SUV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74923,
+    "brand": "奔驰",
+    "series": "迈巴赫GLS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76449,
+    "brand": "宝马",
+    "series": "宝马i5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76392,
+    "brand": "宝马",
+    "series": "宝马iX3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76465,
+    "brand": "宝马",
+    "series": "宝马2系",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76181,
+    "brand": "宝马",
+    "series": "宝马3系",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76440,
+    "brand": "宝马",
+    "series": "宝马5系",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77990,
+    "brand": "宝马",
+    "series": "宝马iX1",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76444,
+    "brand": "宝马",
+    "series": "宝马X1",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76409,
+    "brand": "宝马",
+    "series": "宝马X3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76453,
+    "brand": "宝马",
+    "series": "宝马X5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76420,
+    "brand": "宝马",
+    "series": "宝马i3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61031,
+    "brand": "宝马",
+    "series": "宝马1系",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 44548,
+    "brand": "宝马",
+    "series": "宝马2系旅行车",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 58848,
+    "brand": "宝马",
+    "series": "宝马5系新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47823,
+    "brand": "宝马",
+    "series": "宝马X1新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61034,
+    "brand": "宝马",
+    "series": "宝马X2",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76467,
+    "brand": "宝马",
+    "series": "宝马2系(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77314,
+    "brand": "宝马",
+    "series": "宝马4系",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68076,
+    "brand": "宝马",
+    "series": "宝马i4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76511,
+    "brand": "宝马",
+    "series": "宝马5系(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77455,
+    "brand": "宝马",
+    "series": "宝马7系",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57566,
+    "brand": "宝马",
+    "series": "宝马8系",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 56703,
+    "brand": "宝马",
+    "series": "宝马i7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76476,
+    "brand": "宝马",
+    "series": "宝马X2(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63896,
+    "brand": "宝马",
+    "series": "宝马iX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76484,
+    "brand": "宝马",
+    "series": "宝马X6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70889,
+    "brand": "宝马",
+    "series": "宝马X7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68604,
+    "brand": "宝马",
+    "series": "宝马1系(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36128,
+    "brand": "宝马",
+    "series": "宝马3系(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 42939,
+    "brand": "宝马",
+    "series": "宝马3系新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63215,
+    "brand": "宝马",
+    "series": "宝马5系新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60516,
+    "brand": "宝马",
+    "series": "宝马iX2",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68821,
+    "brand": "宝马",
+    "series": "宝马X3(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68819,
+    "brand": "宝马",
+    "series": "宝马X3新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64694,
+    "brand": "宝马",
+    "series": "宝马X5(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 48365,
+    "brand": "宝马",
+    "series": "宝马X5新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43861,
+    "brand": "宝马",
+    "series": "宝马i3(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 45964,
+    "brand": "宝马",
+    "series": "宝马3系GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 23326,
+    "brand": "宝马",
+    "series": "宝马5系GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69295,
+    "brand": "宝马",
+    "series": "宝马6系GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 56702,
+    "brand": "宝马",
+    "series": "宝马7系新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66091,
+    "brand": "宝马",
+    "series": "宝马X4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 44544,
+    "brand": "宝马",
+    "series": "宝马2系多功能旅行车",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 32969,
+    "brand": "宝马",
+    "series": "宝马i8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61598,
+    "brand": "宝马",
+    "series": "宝马Z4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76474,
+    "brand": "宝马",
+    "series": "宝马M235L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76570,
+    "brand": "宝马",
+    "series": "宝马X1 M35Li",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76568,
+    "brand": "宝马",
+    "series": "宝马M240i",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76477,
+    "brand": "宝马",
+    "series": "宝马i4 M",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77349,
+    "brand": "宝马",
+    "series": "宝马M3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72493,
+    "brand": "宝马",
+    "series": "宝马M4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63217,
+    "brand": "宝马",
+    "series": "宝马i5 M60",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68878,
+    "brand": "宝马",
+    "series": "宝马M5新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62588,
+    "brand": "宝马",
+    "series": "宝马i7 M70L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62587,
+    "brand": "宝马",
+    "series": "宝马M760Le",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76479,
+    "brand": "宝马",
+    "series": "宝马X2 M35i",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51645,
+    "brand": "宝马",
+    "series": "宝马X3 M",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76481,
+    "brand": "宝马",
+    "series": "宝马X3 M50",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51644,
+    "brand": "宝马",
+    "series": "宝马X4 M",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63897,
+    "brand": "宝马",
+    "series": "宝马iX M60",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63476,
+    "brand": "宝马",
+    "series": "宝马X5 M",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63477,
+    "brand": "宝马",
+    "series": "宝马X6 M",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68905,
+    "brand": "宝马",
+    "series": "宝马X7 M60i",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62467,
+    "brand": "宝马",
+    "series": "宝马XM",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73175,
+    "brand": "宝马",
+    "series": "宝马M2",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61600,
+    "brand": "宝马",
+    "series": "宝马Z4 M40i",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47992,
+    "brand": "宝马",
+    "series": "宝马M5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 22572,
+    "brand": "宝马",
+    "series": "宝马M6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55532,
+    "brand": "宝马",
+    "series": "宝马M8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57279,
+    "brand": "宝马",
+    "series": "宝马X3 M40i",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51640,
+    "brand": "宝马",
+    "series": "宝马X4 M40i",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75241,
+    "brand": "保时捷",
+    "series": "Taycan",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76910,
+    "brand": "保时捷",
+    "series": "Panamera",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73918,
+    "brand": "保时捷",
+    "series": "Macan",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75260,
+    "brand": "保时捷",
+    "series": "Macan新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75326,
+    "brand": "保时捷",
+    "series": "Cayenne",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75758,
+    "brand": "保时捷",
+    "series": "Cayenne新能源",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3005753,
+    "r1sz": 3017300
+  },
+  {
+    "pano": 56840,
+    "brand": "保时捷",
+    "series": "保时捷718",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75250,
+    "brand": "保时捷",
+    "series": "保时捷911",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67461,
+    "brand": "保时捷",
+    "series": "Panamera新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 17815,
+    "brand": "保时捷",
+    "series": "918 Spyder",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36129,
+    "brand": "标致",
+    "series": "标致508(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73629,
+    "brand": "标致",
+    "series": "标致408",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69013,
+    "brand": "标致",
+    "series": "标致408X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75900,
+    "brand": "标致",
+    "series": "标致508",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77608,
+    "brand": "标致",
+    "series": "标致4008",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72121,
+    "brand": "标致",
+    "series": "标致5008",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29620,
+    "brand": "标致",
+    "series": "标致301",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37361,
+    "brand": "标致",
+    "series": "标致308",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 21491,
+    "brand": "标致",
+    "series": "标致308S",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 48926,
+    "brand": "标致",
+    "series": "标致508L新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 53883,
+    "brand": "标致",
+    "series": "标致2008",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 42880,
+    "brand": "标致",
+    "series": "标致e2008",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36493,
+    "brand": "标致",
+    "series": "标致3008",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 50579,
+    "brand": "标致",
+    "series": "标致4008新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75097,
+    "brand": "宾利",
+    "series": "飞驰插电混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75088,
+    "brand": "宾利",
+    "series": "添越",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65993,
+    "brand": "宾利",
+    "series": "添越插电混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75077,
+    "brand": "宾利",
+    "series": "欧陆插电混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43894,
+    "brand": "宾利",
+    "series": "Bacalar",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 25323,
+    "brand": "宾利",
+    "series": "慕尚",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68260,
+    "brand": "宾利",
+    "series": "飞驰",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64378,
+    "brand": "宾利",
+    "series": "欧陆",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35528,
+    "brand": "布加迪",
+    "series": "Divo",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68844,
+    "brand": "布加迪",
+    "series": "Tourbillon",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75649,
+    "brand": "大众",
+    "series": "与众08",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75158,
+    "brand": "大众",
+    "series": "与众07",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77703,
+    "brand": "大众",
+    "series": "与众06",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76535,
+    "brand": "大众",
+    "series": "途锐",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41756,
+    "brand": "大众",
+    "series": "大众e-up!",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 33346,
+    "brand": "大众",
+    "series": "Jetta",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37806,
+    "brand": "大众",
+    "series": "高尔夫(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37635,
+    "brand": "大众",
+    "series": "Passat",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62624,
+    "brand": "大众",
+    "series": "大众ID.7(海外)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39236,
+    "brand": "大众",
+    "series": "Tiguan",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64588,
+    "brand": "大众",
+    "series": "ID. Buzz",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37980,
+    "brand": "大众",
+    "series": "迈特威",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31570,
+    "brand": "大众",
+    "series": "甲壳虫",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 50920,
+    "brand": "大众",
+    "series": "Arteon",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 50780,
+    "brand": "大众",
+    "series": "蔚揽",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36998,
+    "brand": "大众",
+    "series": "蔚揽新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38073,
+    "brand": "大众",
+    "series": "ID. BUGGY",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 48552,
+    "brand": "大众",
+    "series": "途锐新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35690,
+    "brand": "大众",
+    "series": "夏朗",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75418,
+    "brand": "大众",
+    "series": "朗逸",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72248,
+    "brand": "大众",
+    "series": "大众ID.3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73153,
+    "brand": "大众",
+    "series": "凌渡",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77700,
+    "brand": "大众",
+    "series": "ID.ERA 5S",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78951,
+    "brand": "大众",
+    "series": "帕萨特",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77745,
+    "brand": "大众",
+    "series": "帕萨特插电混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73086,
+    "brand": "大众",
+    "series": "ID.4 X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75363,
+    "brand": "大众",
+    "series": "途岳",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74576,
+    "brand": "大众",
+    "series": "途观L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76547,
+    "brand": "大众",
+    "series": "途观L插电混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62716,
+    "brand": "大众",
+    "series": "ID.6 X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69914,
+    "brand": "大众",
+    "series": "途昂",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76202,
+    "brand": "大众",
+    "series": "ID.ERA 9X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63117,
+    "brand": "大众",
+    "series": "途安",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70918,
+    "brand": "大众",
+    "series": "威然",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62295,
+    "brand": "大众",
+    "series": "Polo",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 48250,
+    "brand": "大众",
+    "series": "桑塔纳",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29390,
+    "brand": "大众",
+    "series": "朗行",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29395,
+    "brand": "大众",
+    "series": "朗境",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 49416,
+    "brand": "大众",
+    "series": "朗逸纯电",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 48239,
+    "brand": "大众",
+    "series": "辉昂",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60102,
+    "brand": "大众",
+    "series": "途铠",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29124,
+    "brand": "大众",
+    "series": "途观",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43247,
+    "brand": "大众",
+    "series": "途岳新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69354,
+    "brand": "大众",
+    "series": "途观X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77144,
+    "brand": "大众",
+    "series": "ID.AURA T6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75148,
+    "brand": "大众",
+    "series": "宝来",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75017,
+    "brand": "大众",
+    "series": "高尔夫",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76645,
+    "brand": "大众",
+    "series": "速腾",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75000,
+    "brand": "大众",
+    "series": "高尔夫GTI",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75524,
+    "brand": "大众",
+    "series": "迈腾",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76238,
+    "brand": "大众",
+    "series": "迈腾 PHEV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75012,
+    "brand": "大众",
+    "series": "一汽-大众CC",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74341,
+    "brand": "大众",
+    "series": "ID.4 CROZZ",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74968,
+    "brand": "大众",
+    "series": "T-ROC探歌",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77034,
+    "brand": "大众",
+    "series": "探岳",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76208,
+    "brand": "大众",
+    "series": "探岳L PHEV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67640,
+    "brand": "大众",
+    "series": "探岳X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73191,
+    "brand": "大众",
+    "series": "揽境",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74160,
+    "brand": "大众",
+    "series": "揽巡",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37067,
+    "brand": "大众",
+    "series": "捷达",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43165,
+    "brand": "大众",
+    "series": "C-TREK蔚领",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37679,
+    "brand": "大众",
+    "series": "宝来·纯电",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37098,
+    "brand": "大众",
+    "series": "高尔夫·纯电",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37030,
+    "brand": "大众",
+    "series": "高尔夫·嘉旅",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62442,
+    "brand": "大众",
+    "series": "大众ID.7 VIZZION",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64849,
+    "brand": "大众",
+    "series": "探影",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 67825,
+    "brand": "大众",
+    "series": "ID.6 CROZZ",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 32282,
+    "brand": "DS",
+    "series": "DS 4S",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31799,
+    "brand": "DS",
+    "series": "DS 5LS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31798,
+    "brand": "DS",
+    "series": "DS 5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47030,
+    "brand": "DS",
+    "series": "DS 9",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41880,
+    "brand": "DS",
+    "series": "DS 9新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 32287,
+    "brand": "DS",
+    "series": "DS 6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57732,
+    "brand": "DS",
+    "series": "DS 7",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35874,
+    "brand": "DS",
+    "series": "DS 3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51371,
+    "brand": "DS",
+    "series": "DS 3新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63377,
+    "brand": "DS",
+    "series": "DS 4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69226,
+    "brand": "法拉利",
+    "series": "法拉利F80",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55680,
+    "brand": "法拉利",
+    "series": "Purosangue",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73687,
+    "brand": "法拉利",
+    "series": "Amalfi",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68166,
+    "brand": "法拉利",
+    "series": "法拉利12Cilindri",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72904,
+    "brand": "法拉利",
+    "series": "法拉利296",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74649,
+    "brand": "法拉利",
+    "series": "法拉利849",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 48740,
+    "brand": "法拉利",
+    "series": "SF90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 27837,
+    "brand": "法拉利",
+    "series": "GTC4Lusso",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47700,
+    "brand": "法拉利",
+    "series": "Portofino",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61983,
+    "brand": "法拉利",
+    "series": "Roma",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41691,
+    "brand": "法拉利",
+    "series": "法拉利812",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41647,
+    "brand": "法拉利",
+    "series": "法拉利F8",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63550,
+    "brand": "菲亚特",
+    "series": "菲亚特500",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41825,
+    "brand": "菲亚特",
+    "series": "菲亚特500X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37918,
+    "brand": "菲亚特",
+    "series": "菲亚特124",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73421,
+    "brand": "捷豹",
+    "series": "捷豹XFL",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64279,
+    "brand": "捷豹",
+    "series": "捷豹E-PACE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72953,
+    "brand": "捷豹",
+    "series": "捷豹XEL",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39579,
+    "brand": "捷豹",
+    "series": "捷豹XF",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68418,
+    "brand": "捷豹",
+    "series": "捷豹F-PACE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62590,
+    "brand": "捷豹",
+    "series": "捷豹F-TYPE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 30853,
+    "brand": "捷豹",
+    "series": "捷豹XE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 33571,
+    "brand": "捷豹",
+    "series": "捷豹XJ",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 49170,
+    "brand": "捷豹",
+    "series": "捷豹I-PACE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65829,
+    "brand": "Polestar极星",
+    "series": "Polestar 4",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 53318,
+    "brand": "Polestar极星",
+    "series": "Polestar 3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62514,
+    "brand": "Polestar极星",
+    "series": "Polestar 2",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 32172,
+    "brand": "Polestar极星",
+    "series": "Polestar 1",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 9582,
+    "brand": "科尼赛克",
+    "series": "Agera",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73253,
+    "brand": "路虎",
+    "series": "揽胜星脉",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77268,
+    "brand": "路虎",
+    "series": "发现",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77014,
+    "brand": "路虎",
+    "series": "揽胜运动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76565,
+    "brand": "路虎",
+    "series": "揽胜",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68954,
+    "brand": "路虎",
+    "series": "路虎卫士",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31457,
+    "brand": "路虎",
+    "series": "揽胜极光(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36881,
+    "brand": "路虎",
+    "series": "揽胜新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57040,
+    "brand": "路虎",
+    "series": "揽胜运动新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 52966,
+    "brand": "路虎",
+    "series": "路虎卫士新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75264,
+    "brand": "路虎",
+    "series": "揽胜极光",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37938,
+    "brand": "路虎",
+    "series": "发现神行",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 68602,
+    "brand": "路虎",
+    "series": "发现运动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63891,
+    "brand": "路虎",
+    "series": "发现运动新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61838,
+    "brand": "路虎",
+    "series": "揽胜极光新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78855,
+    "brand": "莲花跑车",
+    "series": "EMEYA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75937,
+    "brand": "莲花跑车",
+    "series": "FOR ME",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78841,
+    "brand": "莲花跑车",
+    "series": "ELETRE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72302,
+    "brand": "莲花跑车",
+    "series": "EMIRA",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43652,
+    "brand": "莲花跑车",
+    "series": "Evora",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 29584,
+    "brand": "雷诺",
+    "series": "卡缤",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 32525,
+    "brand": "雷诺",
+    "series": "Espace经典",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 40077,
+    "brand": "雷诺",
+    "series": "科雷缤",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37825,
+    "brand": "雷诺",
+    "series": "雷诺 e诺",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38936,
+    "brand": "雷诺",
+    "series": "科雷傲",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 30233,
+    "brand": "雷诺",
+    "series": "科雷嘉",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59871,
+    "brand": "兰博基尼",
+    "series": "Urus",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77580,
+    "brand": "兰博基尼",
+    "series": "Urus SE",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71829,
+    "brand": "兰博基尼",
+    "series": "Revuelto",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43460,
+    "brand": "兰博基尼",
+    "series": "Huracán",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 31679,
+    "brand": "兰博基尼",
+    "series": "Aventador",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57074,
+    "brand": "劳斯莱斯",
+    "series": "幻影",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 53557,
+    "brand": "劳斯莱斯",
+    "series": "闪灵",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70216,
+    "brand": "劳斯莱斯",
+    "series": "古思特",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61629,
+    "brand": "劳斯莱斯",
+    "series": "库里南",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39217,
+    "brand": "劳斯莱斯",
+    "series": "魅影",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34538,
+    "brand": "劳斯莱斯",
+    "series": "曜影",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 47939,
+    "brand": "LEVC",
+    "series": "LEVC LX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60007,
+    "brand": "LEVC",
+    "series": "LEVC TX",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73763,
+    "brand": "玛莎拉蒂",
+    "series": "Mcpura",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78743,
+    "brand": "玛莎拉蒂",
+    "series": "Grecale格雷嘉",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70990,
+    "brand": "玛莎拉蒂",
+    "series": "Grecale格雷嘉新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72116,
+    "brand": "玛莎拉蒂",
+    "series": "Levante",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61374,
+    "brand": "玛莎拉蒂",
+    "series": "GranTurismo",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66962,
+    "brand": "玛莎拉蒂",
+    "series": "GranCabrio",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 69453,
+    "brand": "玛莎拉蒂",
+    "series": "玛莎拉蒂MC20",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 59938,
+    "brand": "玛莎拉蒂",
+    "series": "Ghibli",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 56748,
+    "brand": "玛莎拉蒂",
+    "series": "总裁",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76006,
+    "brand": "MINI",
+    "series": "电动MINI COOPER",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76007,
+    "brand": "MINI",
+    "series": "电动MINI JCW",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78477,
+    "brand": "MINI",
+    "series": "电动MINI ACEMAN",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78473,
+    "brand": "MINI",
+    "series": "电动MINI JCW ACEMAN",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78484,
+    "brand": "MINI",
+    "series": "MINI",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 40657,
+    "brand": "MINI",
+    "series": "MINI新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 57510,
+    "brand": "MINI",
+    "series": "MINI COUNTRYMAN",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41411,
+    "brand": "MINI",
+    "series": "MINI COUNTRYMAN新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 61464,
+    "brand": "MINI",
+    "series": "MINI CLUBMAN",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78483,
+    "brand": "MINI",
+    "series": "MINI JCW",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 64610,
+    "brand": "MINI",
+    "series": "MINI JCW COUNTRYMAN",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 60203,
+    "brand": "MINI",
+    "series": "MINI JCW CLUBMAN",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66871,
+    "brand": "迈凯伦",
+    "series": "Artura",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 56700,
+    "brand": "迈凯伦",
+    "series": "迈凯伦GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34251,
+    "brand": "迈凯伦",
+    "series": "迈凯伦540C",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34250,
+    "brand": "迈凯伦",
+    "series": "迈凯伦570",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37694,
+    "brand": "迈凯伦",
+    "series": "迈凯伦600LT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 34252,
+    "brand": "迈凯伦",
+    "series": "迈凯伦720S",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38089,
+    "brand": "摩根",
+    "series": "摩根Plus 6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39517,
+    "brand": "欧宝",
+    "series": "欧宝Corsa e",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41755,
+    "brand": "欧宝",
+    "series": "雅特",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39323,
+    "brand": "欧宝",
+    "series": "Grandland新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78601,
+    "brand": "smart",
+    "series": "smart精灵#1",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73742,
+    "brand": "smart",
+    "series": "smart精灵#3",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73835,
+    "brand": "smart",
+    "series": "smart精灵#5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38135,
+    "brand": "smart",
+    "series": "smart fortwo新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 41272,
+    "brand": "smart",
+    "series": "smart fortwo",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38022,
+    "brand": "smart",
+    "series": "smart forease+",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 24585,
+    "brand": "smart",
+    "series": "smart forfour",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39532,
+    "brand": "斯柯达",
+    "series": "Citigoᵉ iV",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39533,
+    "brand": "斯柯达",
+    "series": "速派新能源(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 66338,
+    "brand": "斯柯达",
+    "series": "明锐",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43842,
+    "brand": "斯柯达",
+    "series": "昕动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55587,
+    "brand": "斯柯达",
+    "series": "昕锐",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70255,
+    "brand": "斯柯达",
+    "series": "速派",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 27791,
+    "brand": "斯柯达",
+    "series": "Yeti",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70168,
+    "brand": "斯柯达",
+    "series": "柯米克",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70170,
+    "brand": "斯柯达",
+    "series": "柯珞克",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70173,
+    "brand": "斯柯达",
+    "series": "柯迪亚克",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55320,
+    "brand": "斯柯达",
+    "series": "柯迪亚克GT",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 71736,
+    "brand": "沃尔沃",
+    "series": "沃尔沃EX30",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77555,
+    "brand": "沃尔沃",
+    "series": "沃尔沃EM90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73730,
+    "brand": "沃尔沃",
+    "series": "沃尔沃S60",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72073,
+    "brand": "沃尔沃",
+    "series": "沃尔沃ES90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 79104,
+    "brand": "沃尔沃",
+    "series": "沃尔沃S90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72935,
+    "brand": "沃尔沃",
+    "series": "沃尔沃S90插电式混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73358,
+    "brand": "沃尔沃",
+    "series": "沃尔沃XC40",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 78741,
+    "brand": "沃尔沃",
+    "series": "沃尔沃XC60",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 73217,
+    "brand": "沃尔沃",
+    "series": "沃尔沃XC60插电式混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70636,
+    "brand": "沃尔沃",
+    "series": "沃尔沃EX90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 77340,
+    "brand": "沃尔沃",
+    "series": "沃尔沃XC70插电式混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 63660,
+    "brand": "沃尔沃",
+    "series": "沃尔沃S60插电式混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65331,
+    "brand": "沃尔沃",
+    "series": "沃尔沃C40",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 65334,
+    "brand": "沃尔沃",
+    "series": "沃尔沃XC40新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70855,
+    "brand": "沃尔沃",
+    "series": "沃尔沃V60",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 70863,
+    "brand": "沃尔沃",
+    "series": "沃尔沃V90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75641,
+    "brand": "沃尔沃",
+    "series": "沃尔沃XC90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 75646,
+    "brand": "沃尔沃",
+    "series": "沃尔沃XC90插电式混动",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 35008,
+    "brand": "沃尔沃",
+    "series": "沃尔沃S60(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 55720,
+    "brand": "沃尔沃",
+    "series": "沃尔沃C40(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 21221,
+    "brand": "沃尔沃",
+    "series": "沃尔沃XC40(进口)",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 36279,
+    "brand": "沃尔沃",
+    "series": "沃尔沃V40",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76915,
+    "brand": "雪铁龙",
+    "series": "凡尔赛C5 X",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76397,
+    "brand": "雪铁龙",
+    "series": "天逸 C5 AIRCROSS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 51393,
+    "brand": "雪铁龙",
+    "series": "雪铁龙C3-XR",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38480,
+    "brand": "雪铁龙",
+    "series": "雪铁龙C4L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 37278,
+    "brand": "雪铁龙",
+    "series": "爱丽舍",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 32554,
+    "brand": "雪铁龙",
+    "series": "C4世嘉",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 43242,
+    "brand": "雪铁龙",
+    "series": "雪铁龙C3L",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 30119,
+    "brand": "雪铁龙",
+    "series": "雪铁龙C5",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 62294,
+    "brand": "雪铁龙",
+    "series": "雪铁龙C6",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 38776,
+    "brand": "雪铁龙",
+    "series": "云逸 C4 AIRCROSS",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 44952,
+    "brand": "雪铁龙",
+    "series": "天逸 C5 AIRCROSS新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 39825,
+    "brand": "西雅特",
+    "series": "西雅特Mii新能源",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 74665,
+    "brand": "英力士掷弹兵",
+    "series": "英力士掷弹兵",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 72952,
+    "brand": "沃尔沃",
+    "series": "沃尔沃S90",
+    "f1": false,
+    "r1": false,
+    "f1sz": 0,
+    "r1sz": 0
+  },
+  {
+    "pano": 76109,
+    "brand": "比亚迪",
+    "series": "秦PLUS",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2840322,
+    "r1sz": 2640916
+  },
+  {
+    "pano": 75141,
+    "brand": "比亚迪",
+    "series": "秦L",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2472787,
+    "r1sz": 2184055
+  },
+  {
+    "pano": 77297,
+    "brand": "比亚迪",
+    "series": "汉",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3293182,
+    "r1sz": 2939023
+  },
+  {
+    "pano": 46807,
+    "brand": "比亚迪",
+    "series": "唐",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2977415,
+    "r1sz": 2843993
+  },
+  {
+    "pano": 50651,
+    "brand": "比亚迪",
+    "series": "宋Pro",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2544890,
+    "r1sz": 2582283
+  },
+  {
+    "pano": 45549,
+    "brand": "比亚迪",
+    "series": "宋PLUS",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3527611,
+    "r1sz": 3756406
+  },
+  {
+    "pano": 75123,
+    "brand": "比亚迪",
+    "series": "宋L DM-i",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3332878,
+    "r1sz": 3058489
+  },
+  {
+    "pano": 76816,
+    "brand": "比亚迪",
+    "series": "元PLUS",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2127995,
+    "r1sz": 1919894
+  },
+  {
+    "pano": 71684,
+    "brand": "比亚迪",
+    "series": "元UP",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2381696,
+    "r1sz": 2517396
+  },
+  {
+    "pano": 71049,
+    "brand": "比亚迪",
+    "series": "海豚",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2558624,
+    "r1sz": 2543660
+  },
+  {
+    "pano": 71664,
+    "brand": "比亚迪",
+    "series": "海豹",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2701404,
+    "r1sz": 2396062
+  },
+  {
+    "pano": 75940,
+    "brand": "比亚迪",
+    "series": "海豹06",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2109798,
+    "r1sz": 1891516
+  },
+  {
+    "pano": 74310,
+    "brand": "比亚迪",
+    "series": "海豹07 DM-i",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3441063,
+    "r1sz": 3188688
+  },
+  {
+    "pano": 77748,
+    "brand": "比亚迪",
+    "series": "海鸥",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2094214,
+    "r1sz": 1764902
+  },
+  {
+    "pano": 73236,
+    "brand": "比亚迪",
+    "series": "驱逐舰05",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2540424,
+    "r1sz": 2352489
+  },
+  {
+    "pano": 67271,
+    "brand": "比亚迪",
+    "series": "护卫舰07",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2788923,
+    "r1sz": 2271564
+  },
+  {
+    "pano": 76887,
+    "brand": "腾势",
+    "series": "腾势D9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2664123,
+    "r1sz": 2907591
+  },
+  {
+    "pano": 71605,
+    "brand": "腾势",
+    "series": "腾势N7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2951241,
+    "r1sz": 2898499
+  },
+  {
+    "pano": 64054,
+    "brand": "腾势",
+    "series": "腾势N8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3609004,
+    "r1sz": 3779182
+  },
+  {
+    "pano": 69559,
+    "brand": "腾势",
+    "series": "腾势Z9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3081775,
+    "r1sz": 2772150
+  },
+  {
+    "pano": 76716,
+    "brand": "仰望",
+    "series": "仰望U8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2929279,
+    "r1sz": 3367163
+  },
+  {
+    "pano": 62533,
+    "brand": "仰望",
+    "series": "仰望U9",
+    "f1": true,
+    "r1": false,
+    "f1sz": 2860653,
+    "r1sz": 0
+  },
+  {
+    "pano": 77837,
+    "brand": "方程豹",
+    "series": "豹5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2987369,
+    "r1sz": 3381226
+  },
+  {
+    "pano": 77834,
+    "brand": "方程豹",
+    "series": "豹8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2886851,
+    "r1sz": 2078458
+  },
+  {
+    "pano": 76714,
+    "brand": "方程豹",
+    "series": "钛3",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2474286,
+    "r1sz": 2226292
+  },
+  {
+    "pano": 77300,
+    "brand": "吉利汽车",
+    "series": "星越L",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2591833,
+    "r1sz": 3236146
+  },
+  {
+    "pano": 69434,
+    "brand": "吉利汽车",
+    "series": "缤越",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2406560,
+    "r1sz": 2855007
+  },
+  {
+    "pano": 73941,
+    "brand": "吉利汽车",
+    "series": "博越",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2422227,
+    "r1sz": 2361956
+  },
+  {
+    "pano": 76920,
+    "brand": "吉利汽车",
+    "series": "博越L",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2850023,
+    "r1sz": 2672168
+  },
+  {
+    "pano": 77932,
+    "brand": "吉利汽车",
+    "series": "帝豪",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2702724,
+    "r1sz": 2470786
+  },
+  {
+    "pano": 52576,
+    "brand": "吉利汽车",
+    "series": "帝豪L",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2575929,
+    "r1sz": 1963336
+  },
+  {
+    "pano": 75462,
+    "brand": "吉利汽车",
+    "series": "豪越L",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2691912,
+    "r1sz": 2597292
+  },
+  {
+    "pano": 71463,
+    "brand": "吉利银河",
+    "series": "银河L6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2166049,
+    "r1sz": 2116340
+  },
+  {
+    "pano": 70348,
+    "brand": "吉利银河",
+    "series": "银河L7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2847365,
+    "r1sz": 2636449
+  },
+  {
+    "pano": 72041,
+    "brand": "吉利银河",
+    "series": "银河E8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2506908,
+    "r1sz": 2094824
+  },
+  {
+    "pano": 73945,
+    "brand": "吉利银河",
+    "series": "银河E5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2112586,
+    "r1sz": 2097853
+  },
+  {
+    "pano": 75665,
+    "brand": "吉利银河",
+    "series": "银河星舰7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3010656,
+    "r1sz": 2923028
+  },
+  {
+    "pano": 75072,
+    "brand": "极氪",
+    "series": "极氪001",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2952676,
+    "r1sz": 2679345
+  },
+  {
+    "pano": 76351,
+    "brand": "极氪",
+    "series": "极氪007",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2061818,
+    "r1sz": 1991871
+  },
+  {
+    "pano": 76820,
+    "brand": "极氪",
+    "series": "极氪009",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2983965,
+    "r1sz": 3259449
+  },
+  {
+    "pano": 75350,
+    "brand": "极氪",
+    "series": "极氪7X",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2951340,
+    "r1sz": 3079532
+  },
+  {
+    "pano": 67165,
+    "brand": "极氪",
+    "series": "极氪MIX",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2634822,
+    "r1sz": 2264243
+  },
+  {
+    "pano": 73355,
+    "brand": "领克",
+    "series": "领克01",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2375896,
+    "r1sz": 2710177
+  },
+  {
+    "pano": 74958,
+    "brand": "领克",
+    "series": "领克03",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2734800,
+    "r1sz": 2837741
+  },
+  {
+    "pano": 61972,
+    "brand": "领克",
+    "series": "领克05",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2822079,
+    "r1sz": 3402046
+  },
+  {
+    "pano": 74023,
+    "brand": "领克",
+    "series": "领克06",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2714242,
+    "r1sz": 2563939
+  },
+  {
+    "pano": 74351,
+    "brand": "领克",
+    "series": "领克08 EM-P",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3399407,
+    "r1sz": 3124509
+  },
+  {
+    "pano": 74882,
+    "brand": "领克",
+    "series": "领克09",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2425863,
+    "r1sz": 2343517
+  },
+  {
+    "pano": 69475,
+    "brand": "领克",
+    "series": "领克Z10",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2241231,
+    "r1sz": 2137137
+  },
+  {
+    "pano": 73165,
+    "brand": "领克",
+    "series": "领克Z20",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2466531,
+    "r1sz": 2299422
+  },
+  {
+    "pano": 77796,
+    "brand": "哈弗",
+    "series": "哈弗H6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2391989,
+    "r1sz": 2244561
+  },
+  {
+    "pano": 77399,
+    "brand": "哈弗",
+    "series": "哈弗H9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2214936,
+    "r1sz": 2266948
+  },
+  {
+    "pano": 73589,
+    "brand": "哈弗",
+    "series": "哈弗大狗",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2307433,
+    "r1sz": 2127987
+  },
+  {
+    "pano": 68290,
+    "brand": "哈弗",
+    "series": "哈弗猛龙燃油",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2601637,
+    "r1sz": 2541191
+  },
+  {
+    "pano": 71827,
+    "brand": "哈弗",
+    "series": "哈弗H5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2922201,
+    "r1sz": 3127032
+  },
+  {
+    "pano": 62558,
+    "brand": "哈弗",
+    "series": "哈弗赤兔",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2557148,
+    "r1sz": 2642955
+  },
+  {
+    "pano": 61800,
+    "brand": "哈弗",
+    "series": "哈弗神兽",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2819863,
+    "r1sz": 2725544
+  },
+  {
+    "pano": 70352,
+    "brand": "哈弗",
+    "series": "哈弗枭龙MAX",
+    "f1": true,
+    "r1": true,
+    "f1sz": 1984673,
+    "r1sz": 2022078
+  },
+  {
+    "pano": 75474,
+    "brand": "魏牌",
+    "series": "魏牌 蓝山",
+    "f1": true,
+    "r1": true,
+    "f1sz": 1982495,
+    "r1sz": 1758578
+  },
+  {
+    "pano": 54462,
+    "brand": "魏牌",
+    "series": "魏牌 摩卡",
+    "f1": true,
+    "r1": false,
+    "f1sz": 1986628,
+    "r1sz": 0
+  },
+  {
+    "pano": 54254,
+    "brand": "魏牌",
+    "series": "魏牌 拿铁DHT",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3355872,
+    "r1sz": 3105521
+  },
+  {
+    "pano": 78289,
+    "brand": "坦克",
+    "series": "坦克300",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2577703,
+    "r1sz": 2344233
+  },
+  {
+    "pano": 75581,
+    "brand": "坦克",
+    "series": "坦克400",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3160454,
+    "r1sz": 3444109
+  },
+  {
+    "pano": 73937,
+    "brand": "坦克",
+    "series": "坦克500",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2988637,
+    "r1sz": 2676181
+  },
+  {
+    "pano": 75382,
+    "brand": "长安",
+    "series": "长安CS75PLUS",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2088197,
+    "r1sz": 1991957
+  },
+  {
+    "pano": 76831,
+    "brand": "长安",
+    "series": "长安CS55PLUS",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2033738,
+    "r1sz": 1809648
+  },
+  {
+    "pano": 77068,
+    "brand": "长安",
+    "series": "长安UNI-V",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2586846,
+    "r1sz": 2528432
+  },
+  {
+    "pano": 65563,
+    "brand": "长安",
+    "series": "长安UNI-K",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3013983,
+    "r1sz": 2719360
+  },
+  {
+    "pano": 61568,
+    "brand": "长安",
+    "series": "长安UNI-T",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2974873,
+    "r1sz": 2672692
+  },
+  {
+    "pano": 60082,
+    "brand": "长安",
+    "series": "逸达",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2647805,
+    "r1sz": 2682402
+  },
+  {
+    "pano": 73177,
+    "brand": "长安",
+    "series": "逸动",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2106994,
+    "r1sz": 2259829
+  },
+  {
+    "pano": 74615,
+    "brand": "长安启源",
+    "series": "长安启源A07",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2040229,
+    "r1sz": 2307136
+  },
+  {
+    "pano": 70244,
+    "brand": "长安启源",
+    "series": "长安启源A05经典",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2746013,
+    "r1sz": 2468290
+  },
+  {
+    "pano": 74167,
+    "brand": "长安启源",
+    "series": "长安启源Q05",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2773875,
+    "r1sz": 2577687
+  },
+  {
+    "pano": 72282,
+    "brand": "深蓝汽车",
+    "series": "深蓝SL03",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2687775,
+    "r1sz": 2535084
+  },
+  {
+    "pano": 77050,
+    "brand": "深蓝汽车",
+    "series": "深蓝S07",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2697370,
+    "r1sz": 2643519
+  },
+  {
+    "pano": 74015,
+    "brand": "深蓝汽车",
+    "series": "深蓝L07",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2853954,
+    "r1sz": 2819103
+  },
+  {
+    "pano": 74326,
+    "brand": "深蓝汽车",
+    "series": "深蓝S05",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2631431,
+    "r1sz": 2408983
+  },
+  {
+    "pano": 72861,
+    "brand": "阿维塔",
+    "series": "阿维塔11",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2758654,
+    "r1sz": 2675157
+  },
+  {
+    "pano": 76220,
+    "brand": "阿维塔",
+    "series": "阿维塔12",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3248331,
+    "r1sz": 3552133
+  },
+  {
+    "pano": 74560,
+    "brand": "阿维塔",
+    "series": "阿维塔07",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2581854,
+    "r1sz": 2473251
+  },
+  {
+    "pano": 72901,
+    "brand": "荣威",
+    "series": "荣威RX5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2576173,
+    "r1sz": 2566584
+  },
+  {
+    "pano": 74338,
+    "brand": "荣威",
+    "series": "荣威i5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2326235,
+    "r1sz": 2335060
+  },
+  {
+    "pano": 46332,
+    "brand": "荣威",
+    "series": "荣威i6 MAX",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2676151,
+    "r1sz": 2596042
+  },
+  {
+    "pano": 70575,
+    "brand": "荣威",
+    "series": "荣威D7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 1897757,
+    "r1sz": 1644447
+  },
+  {
+    "pano": 66355,
+    "brand": "荣威",
+    "series": "荣威D5X DMH",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3362984,
+    "r1sz": 3100750
+  },
+  {
+    "pano": 77335,
+    "brand": "MG",
+    "series": "MG4",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2984875,
+    "r1sz": 2685215
+  },
+  {
+    "pano": 73536,
+    "brand": "MG",
+    "series": "MG5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2832811,
+    "r1sz": 2690272
+  },
+  {
+    "pano": 76091,
+    "brand": "MG",
+    "series": "MG7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2972338,
+    "r1sz": 2240823
+  },
+  {
+    "pano": 63956,
+    "brand": "MG",
+    "series": "MG ONE",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2336213,
+    "r1sz": 2481269
+  },
+  {
+    "pano": 69101,
+    "brand": "MG",
+    "series": "MG ES5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2800261,
+    "r1sz": 2712128
+  },
+  {
+    "pano": 70803,
+    "brand": "荣威",
+    "series": "飞凡R7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2767560,
+    "r1sz": 2579628
+  },
+  {
+    "pano": 73263,
+    "brand": "荣威",
+    "series": "飞凡F7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2333968,
+    "r1sz": 2023424
+  },
+  {
+    "pano": 78892,
+    "brand": "智己汽车",
+    "series": "智己L6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2395013,
+    "r1sz": 2419542
+  },
+  {
+    "pano": 66715,
+    "brand": "智己汽车",
+    "series": "智己L7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3096508,
+    "r1sz": 3194830
+  },
+  {
+    "pano": 78966,
+    "brand": "智己汽车",
+    "series": "智己LS6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2011007,
+    "r1sz": 1777603
+  },
+  {
+    "pano": 69131,
+    "brand": "智己汽车",
+    "series": "智己LS7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2867410,
+    "r1sz": 2598299
+  },
+  {
+    "pano": 77782,
+    "brand": "广汽传祺",
+    "series": "传祺GS4",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2371057,
+    "r1sz": 2147259
+  },
+  {
+    "pano": 63561,
+    "brand": "广汽传祺",
+    "series": "传祺GS8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3420660,
+    "r1sz": 3167844
+  },
+  {
+    "pano": 76555,
+    "brand": "广汽传祺",
+    "series": "传祺M8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3103646,
+    "r1sz": 2816573
+  },
+  {
+    "pano": 77855,
+    "brand": "广汽传祺",
+    "series": "传祺M6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2629506,
+    "r1sz": 2529622
+  },
+  {
+    "pano": 72606,
+    "brand": "广汽传祺",
+    "series": "影豹",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2126791,
+    "r1sz": 1880164
+  },
+  {
+    "pano": 56368,
+    "brand": "广汽传祺",
+    "series": "影酷",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3254904,
+    "r1sz": 3970629
+  },
+  {
+    "pano": 69003,
+    "brand": "广汽传祺",
+    "series": "传祺E8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2187116,
+    "r1sz": 1749368
+  },
+  {
+    "pano": 70697,
+    "brand": "广汽传祺",
+    "series": "传祺E9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2730508,
+    "r1sz": 3098036
+  },
+  {
+    "pano": 74298,
+    "brand": "埃安",
+    "series": "AION S",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2511884,
+    "r1sz": 2576226
+  },
+  {
+    "pano": 73269,
+    "brand": "埃安",
+    "series": "AION Y",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2585481,
+    "r1sz": 2088002
+  },
+  {
+    "pano": 74373,
+    "brand": "埃安",
+    "series": "AION V",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2430637,
+    "r1sz": 2271875
+  },
+  {
+    "pano": 73269,
+    "brand": "埃安",
+    "series": "AION Y",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2585481,
+    "r1sz": 2088002
+  },
+  {
+    "pano": 78651,
+    "brand": "埃安",
+    "series": "AION RT",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2723079,
+    "r1sz": 2534577
+  },
+  {
+    "pano": 72932,
+    "brand": "广汽昊铂",
+    "series": "昊铂HT",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2611523,
+    "r1sz": 2722326
+  },
+  {
+    "pano": 75490,
+    "brand": "广汽昊铂",
+    "series": "昊铂GT",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2224050,
+    "r1sz": 2635375
+  },
+  {
+    "pano": 59534,
+    "brand": "广汽昊铂",
+    "series": "昊铂SSR",
+    "f1": true,
+    "r1": false,
+    "f1sz": 3173900,
+    "r1sz": 0
+  },
+  {
+    "pano": 76878,
+    "brand": "奇瑞",
+    "series": "瑞虎7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2545671,
+    "r1sz": 2581117
+  },
+  {
+    "pano": 75236,
+    "brand": "奇瑞",
+    "series": "瑞虎8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3220974,
+    "r1sz": 3172665
+  },
+  {
+    "pano": 75933,
+    "brand": "奇瑞",
+    "series": "瑞虎9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3370510,
+    "r1sz": 3401361
+  },
+  {
+    "pano": 76796,
+    "brand": "奇瑞",
+    "series": "瑞虎8 PRO",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3241941,
+    "r1sz": 3246779
+  },
+  {
+    "pano": 75876,
+    "brand": "奇瑞",
+    "series": "艾瑞泽8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3224095,
+    "r1sz": 3227369
+  },
+  {
+    "pano": 73351,
+    "brand": "奇瑞",
+    "series": "艾瑞泽5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2283211,
+    "r1sz": 2171991
+  },
+  {
+    "pano": 77883,
+    "brand": "星途",
+    "series": "星途瑶光",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3075326,
+    "r1sz": 3069211
+  },
+  {
+    "pano": 79020,
+    "brand": "星途",
+    "series": "星途揽月",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3318503,
+    "r1sz": 3640493
+  },
+  {
+    "pano": 76107,
+    "brand": "星途",
+    "series": "星途凌云",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2758074,
+    "r1sz": 2665453
+  },
+  {
+    "pano": 74024,
+    "brand": "星途",
+    "series": "星途ET5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2474219,
+    "r1sz": 2381850
+  },
+  {
+    "pano": 78039,
+    "brand": "星途",
+    "series": "星途ES",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2504009,
+    "r1sz": 2495163
+  },
+  {
+    "pano": 65879,
+    "brand": "iCAR",
+    "series": "iCAR 03",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2205707,
+    "r1sz": 2089660
+  },
+  {
+    "pano": 76977,
+    "brand": "蔚来",
+    "series": "蔚来ET5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2436496,
+    "r1sz": 2436431
+  },
+  {
+    "pano": 76979,
+    "brand": "蔚来",
+    "series": "蔚来ET5T",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2777910,
+    "r1sz": 2604343
+  },
+  {
+    "pano": 67323,
+    "brand": "蔚来",
+    "series": "蔚来ET7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2799713,
+    "r1sz": 2978447
+  },
+  {
+    "pano": 76975,
+    "brand": "蔚来",
+    "series": "蔚来EC6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2715078,
+    "r1sz": 2296915
+  },
+  {
+    "pano": 66805,
+    "brand": "蔚来",
+    "series": "蔚来EC7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2857738,
+    "r1sz": 2796155
+  },
+  {
+    "pano": 76972,
+    "brand": "蔚来",
+    "series": "蔚来ES6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2516393,
+    "r1sz": 2278902
+  },
+  {
+    "pano": 66800,
+    "brand": "蔚来",
+    "series": "蔚来ES7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2664880,
+    "r1sz": 2283046
+  },
+  {
+    "pano": 78270,
+    "brand": "蔚来",
+    "series": "蔚来ES8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3094911,
+    "r1sz": 2907864
+  },
+  {
+    "pano": 77967,
+    "brand": "乐道",
+    "series": "乐道L60",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2247154,
+    "r1sz": 2144731
+  },
+  {
+    "pano": 75651,
+    "brand": "firefly萤火虫",
+    "series": "firefly萤火虫",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2810020,
+    "r1sz": 2782082
+  },
+  {
+    "pano": 77775,
+    "brand": "理想汽车",
+    "series": "理想L6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2234693,
+    "r1sz": 2895465
+  },
+  {
+    "pano": 71986,
+    "brand": "理想汽车",
+    "series": "理想L7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2237285,
+    "r1sz": 2105368
+  },
+  {
+    "pano": 77236,
+    "brand": "理想汽车",
+    "series": "理想L8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2575861,
+    "r1sz": 2564280
+  },
+  {
+    "pano": 76536,
+    "brand": "理想汽车",
+    "series": "理想L9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2015405,
+    "r1sz": 2662311
+  },
+  {
+    "pano": 78129,
+    "brand": "理想汽车",
+    "series": "理想MEGA",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2569586,
+    "r1sz": 2322763
+  },
+  {
+    "pano": 76162,
+    "brand": "小鹏",
+    "series": "小鹏G6",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2446382,
+    "r1sz": 2463678
+  },
+  {
+    "pano": 76194,
+    "brand": "小鹏",
+    "series": "小鹏G9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2850319,
+    "r1sz": 2570862
+  },
+  {
+    "pano": 76791,
+    "brand": "小鹏",
+    "series": "小鹏P7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2575135,
+    "r1sz": 2241853
+  },
+  {
+    "pano": 76083,
+    "brand": "小鹏",
+    "series": "小鹏P7+",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2468098,
+    "r1sz": 2520216
+  },
+  {
+    "pano": 75600,
+    "brand": "小鹏",
+    "series": "小鹏X9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2673693,
+    "r1sz": 2758561
+  },
+  {
+    "pano": 77001,
+    "brand": "小鹏",
+    "series": "小鹏MONA M03",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2250639,
+    "r1sz": 2083897
+  },
+  {
+    "pano": 66879,
+    "brand": "零跑汽车",
+    "series": "零跑C01",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2967130,
+    "r1sz": 2882329
+  },
+  {
+    "pano": 77239,
+    "brand": "零跑汽车",
+    "series": "零跑C10",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3081252,
+    "r1sz": 2498433
+  },
+  {
+    "pano": 78083,
+    "brand": "零跑汽车",
+    "series": "零跑C11",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2696864,
+    "r1sz": 2387553
+  },
+  {
+    "pano": 77969,
+    "brand": "零跑汽车",
+    "series": "零跑C16",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3246798,
+    "r1sz": 3098958
+  },
+  {
+    "pano": 71892,
+    "brand": "零跑汽车",
+    "series": "零跑T03",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2266888,
+    "r1sz": 2187170
+  },
+  {
+    "pano": 72006,
+    "brand": "AITO 问界",
+    "series": "问界M5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3021464,
+    "r1sz": 3152851
+  },
+  {
+    "pano": 76952,
+    "brand": "AITO 问界",
+    "series": "问界M7",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2804685,
+    "r1sz": 2923491
+  },
+  {
+    "pano": 77438,
+    "brand": "AITO 问界",
+    "series": "问界M9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3331532,
+    "r1sz": 2970894
+  },
+  {
+    "pano": 73981,
+    "brand": "AITO 问界",
+    "series": "问界M8",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2549403,
+    "r1sz": 2690479
+  },
+  {
+    "pano": 73126,
+    "brand": "岚图汽车",
+    "series": "岚图FREE",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3083441,
+    "r1sz": 2995517
+  },
+  {
+    "pano": 78440,
+    "brand": "岚图汽车",
+    "series": "岚图梦想家",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3310767,
+    "r1sz": 3387131
+  },
+  {
+    "pano": 76997,
+    "brand": "岚图汽车",
+    "series": "岚图追光",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2518508,
+    "r1sz": 2515890
+  },
+  {
+    "pano": 73154,
+    "brand": "岚图汽车",
+    "series": "岚图知音",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2832020,
+    "r1sz": 2982290
+  },
+  {
+    "pano": 77099,
+    "brand": "红旗",
+    "series": "红旗H5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2688124,
+    "r1sz": 2853733
+  },
+  {
+    "pano": 74291,
+    "brand": "红旗",
+    "series": "红旗H9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3916174,
+    "r1sz": 3122295
+  },
+  {
+    "pano": 77773,
+    "brand": "红旗",
+    "series": "红旗HS5",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2460402,
+    "r1sz": 2718500
+  },
+  {
+    "pano": 69770,
+    "brand": "红旗",
+    "series": "红旗E-HS9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3215786,
+    "r1sz": 3053604
+  },
+  {
+    "pano": 72474,
+    "brand": "红旗",
+    "series": "红旗HQ9",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3514875,
+    "r1sz": 3333927
+  },
+  {
+    "pano": 61229,
+    "brand": "ARCFOX极狐",
+    "series": "极狐 考拉",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2625859,
+    "r1sz": 2655828
+  },
+  {
+    "pano": 78347,
+    "brand": "北京越野",
+    "series": "北京越野BJ30",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2832091,
+    "r1sz": 2517430
+  },
+  {
+    "pano": 73807,
+    "brand": "北京越野",
+    "series": "北京越野BJ40",
+    "f1": true,
+    "r1": true,
+    "f1sz": 2648108,
+    "r1sz": 2445482
+  },
+  {
+    "pano": 75866,
+    "brand": "北京越野",
+    "series": "北京越野BJ60增程",
+    "f1": true,
+    "r1": true,
+    "f1sz": 3224598,
+    "r1sz": 2997482
+  }
+]

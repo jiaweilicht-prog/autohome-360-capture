@@ -1,0 +1,37 @@
+{
+ "generatedAt": "2026-09-10T16:02:44.515Z",
+ "total": 1,
+ "found": 1,
+ "noPano": 0,
+ "notFound": 0,
+ "errors": 0,
+ "results": [
+  {
+   "group": "G25",
+   "brandCn": "现代",
+   "modelEn": "Sonata_DN8",
+   "modelCn": "索纳塔 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "索纳塔",
+    "索纳塔 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 2649,
+   "seriesName": "索纳塔",
+   "panoId": 78125,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78125?_ahrotate=1",
+   "nVehicleIds": 8,
+   "vehicleIds": [
+    "HYD_Sonata_NF_2005",
+    "HYD_Sonata_NF_Facelift_2008",
+    "HYD_Sonata_YF_2009",
+    "HYD_Sonata_LF_2015",
+    "HYD_Sonata_LF_Facelift_2017",
+    "HYD_Sonata_DN8_2020",
+    "HYD_Sonata_DN8_Facelift_2023",
+    "HYD_Sonata_Hybrid_DN8_2020"
+   ]
+  }
+ ]
+}

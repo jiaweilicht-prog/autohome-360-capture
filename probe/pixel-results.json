@@ -1,0 +1,135 @@
+[
+  {
+    "car": 0,
+    "maxDiffPixelPct": 11.785,
+    "pairs": {
+      "p01": {
+        "mad": 2.75,
+        "diffPixelPct": 3.164
+      },
+      "p12": {
+        "mad": 3.71,
+        "diffPixelPct": 5.638
+      },
+      "p02": {
+        "mad": 5.56,
+        "diffPixelPct": 11.785
+      }
+    },
+    "verdict": "抖动明显(需连拍取中位或降级)"
+  },
+  {
+    "car": 1,
+    "maxDiffPixelPct": 9.121,
+    "pairs": {
+      "p01": {
+        "mad": 2.12,
+        "diffPixelPct": 2.662
+      },
+      "p12": {
+        "mad": 2.99,
+        "diffPixelPct": 4.66
+      },
+      "p02": {
+        "mad": 4.6,
+        "diffPixelPct": 9.121
+      }
+    },
+    "verdict": "抖动明显(需连拍取中位或降级)"
+  },
+  {
+    "car": 2,
+    "maxDiffPixelPct": 8.841,
+    "pairs": {
+      "p01": {
+        "mad": 3.25,
+        "diffPixelPct": 5.351
+      },
+      "p12": {
+        "mad": 2.1,
+        "diffPixelPct": 2.341
+      },
+      "p02": {
+        "mad": 4.38,
+        "diffPixelPct": 8.841
+      }
+    },
+    "verdict": "抖动明显(需连拍取中位或降级)"
+  },
+  {
+    "car": 3,
+    "maxDiffPixelPct": 7.802,
+    "pairs": {
+      "p01": {
+        "mad": 1.83,
+        "diffPixelPct": 1.891
+      },
+      "p12": {
+        "mad": 2.33,
+        "diffPixelPct": 3.525
+      },
+      "p02": {
+        "mad": 3.62,
+        "diffPixelPct": 7.802
+      }
+    },
+    "verdict": "抖动明显(需连拍取中位或降级)"
+  },
+  {
+    "car": 4,
+    "maxDiffPixelPct": 10.111,
+    "pairs": {
+      "p01": {
+        "mad": 3.99,
+        "diffPixelPct": 6.043
+      },
+      "p12": {
+        "mad": 2.49,
+        "diffPixelPct": 2.537
+      },
+      "p02": {
+        "mad": 5.35,
+        "diffPixelPct": 10.111
+      }
+    },
+    "verdict": "抖动明显(需连拍取中位或降级)"
+  },
+  {
+    "car": 5,
+    "maxDiffPixelPct": 9.755,
+    "pairs": {
+      "p01": {
+        "mad": 2.46,
+        "diffPixelPct": 2.959
+      },
+      "p12": {
+        "mad": 2.75,
+        "diffPixelPct": 4.139
+      },
+      "p02": {
+        "mad": 4.4,
+        "diffPixelPct": 9.755
+      }
+    },
+    "verdict": "抖动明显(需连拍取中位或降级)"
+  },
+  {
+    "car": 6,
+    "maxDiffPixelPct": 13.61,
+    "pairs": {
+      "p01": {
+        "mad": 3.08,
+        "diffPixelPct": 5.77
+      },
+      "p12": {
+        "mad": 3.91,
+        "diffPixelPct": 8.41
+      },
+      "p02": {
+        "mad": 5.79,
+        "diffPixelPct": 13.61
+      }
+    },
+    "verdict": "抖动明显(需连拍取中位或降级)"
+  }
+]

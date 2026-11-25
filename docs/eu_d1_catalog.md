@@ -1,0 +1,107 @@
+# 欧系 D1 视角采集车型目录（主驾看副驾门）
+
+- 总计：**98 台**（97 已落盘 / 1 未采集）
+- 来源：`config/eu_d1_ddgs_rename_plan.json`（欧系压缩子集 98 台）
+- 成品目录：`output/images_by_view/主驾看副驾门/`
+- 未采集原因：源站无驾驶位 360° 全景图（已正确豁免）
+
+| # | 品牌 | 车型 | DDGS 命名 | 状态 |
+|---|---|---|---|---|
+| 1 | DS | DS-7 | IMG_DS_DS7_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 2 | DS | DS-9 | IMG_DS_DS9_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 3 | LEVC | LEVC-LX | IMG_LEVC_LX_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 4 | LEVC | LEVC-TX | IMG_LEVC_TX_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 5 | Polestar极星 | Polestar-3 | IMG_POLE_POLESTAR3_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 6 | Polestar极星 | Polestar-4 | IMG_POLE_POLESTAR4_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 7 | 保时捷 | 918-Spyder | IMG_POR_918-SPYDER_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 8 | 保时捷 | Cayenne | IMG_POR_CAYENNE_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 9 | 保时捷 | Macan | IMG_POR_MACAN_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 10 | 保时捷 | Macan新能源 | IMG_POR_MACAN-PHEV_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 11 | 保时捷 | Taycan | IMG_POR_TAYCAN_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 12 | 保时捷 | 保时捷718 | IMG_POR_718_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 13 | 保时捷 | 保时捷911 | IMG_POR_911_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 14 | 兰博基尼 | Aventador | IMG_LAM_AVENTADOR_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 15 | 兰博基尼 | Huracán | IMG_LAM_HURACAN_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 16 | 兰博基尼 | Revuelto | IMG_LAM_REVELTO_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 17 | 兰博基尼 | Urus | IMG_LAM_URUS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 18 | 劳斯莱斯 | 古思特 | IMG_RR_GHOST_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 19 | 劳斯莱斯 | 幻影 | IMG_RR_PHANTOM_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 20 | 劳斯莱斯 | 库里南 | IMG_RR_CULLINAN_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 21 | 劳斯莱斯 | 闪灵 | IMG_RR_SPECTRE_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 22 | 奔驰 | AMG-GT | IMG_MER_AMG-GT_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 23 | 奔驰 | MER/AMG-GT-PHEV（pano 71311） | —（源站无驾驶位全景） | ⚠️ 未采集 |
+| 24 | 奔驰 | 奔驰EQE-SUV | IMG_MER_EQE-SUV_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 25 | 奔驰 | 奔驰EQS | IMG_MER_EQS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 26 | 奔驰 | 奔驰E级 | IMG_MER_E-CLASS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 27 | 奔驰 | 奔驰G级 | IMG_MER_G-CLASS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 28 | 奔驰 | 奔驰S级 | IMG_MER_S-CLASS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 29 | 奔驰 | 迈巴赫EQS-SUV | IMG_MER_MAYBACH-EQS-SUV_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 30 | 奔驰 | 迈巴赫GLS | IMG_MER_MAYBACH-GLS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 31 | 奔驰 | 迈巴赫S级 | IMG_MER_MAYBACH-S_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 32 | 奔驰 | 迈巴赫S级新能源 | IMG_MER_MAYBACH-S-PHEV_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 33 | 奥迪 | 奥迪A8 | IMG_AUDI_A8_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 34 | 奥迪 | 奥迪Q6L-e-tron | IMG_AUDI_Q6L-ETRON_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 35 | 奥迪 | 奥迪Q8 | IMG_AUDI_Q8_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 36 | 奥迪 | 奥迪R8 | IMG_AUDI_R8_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 37 | 奥迪 | 奥迪RS-e-tron-GT | IMG_AUDI_RS-ETRON-GT_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 38 | 奥迪 | 奥迪TT | IMG_AUDI_TT_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 39 | 奥迪 | 奥迪TT-RS | IMG_AUDI_TT-RS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 40 | 奥迪 | 奥迪TTS | IMG_AUDI_TTS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 41 | 奥迪 | 奥迪e-tron-GT | IMG_AUDI_ETRON-GT_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 42 | 宝马 | 宝马7系 | IMG_BMW_7_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 43 | 宝马 | 宝马M8 | IMG_BMW_M8_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 44 | 宝马 | 宝马X3 | IMG_BMW_X3_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 45 | 宝马 | 宝马X5 | IMG_BMW_X5_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 46 | 宝马 | 宝马XM | IMG_BMW_XM_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 47 | 宝马 | 宝马Z4 | IMG_BMW_Z4_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 48 | 宝马 | 宝马i7 | IMG_BMW_I7_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 49 | 宝马 | 宝马i8 | IMG_BMW_I8_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 50 | 宝马 | 宝马iX | IMG_BMW_IX_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 51 | 宾利 | Bacalar | IMG_BEN_BACALAR_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 52 | 宾利 | 慕尚 | IMG_BEN_MULSANNE_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 53 | 宾利 | 欧陆 | IMG_BEN_CONTINENTAL_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 54 | 宾利 | 添越 | IMG_BEN_BENTAYGA_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 55 | 布加迪 | Divo | IMG_BUGA_DIVO_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 56 | 布加迪 | Tourbillon | IMG_BUGA_TOURBILLON_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 57 | 摩根 | 摩根Plus-6 | IMG_MORGAN_PLUS6_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 58 | 标致 | 标致3008 | IMG_PEU_3008_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 59 | 标致 | 标致408 | IMG_PEU_408_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 60 | 标致 | 标致508 | IMG_PEU_508_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 61 | 沃尔沃 | 沃尔沃ES90 | IMG_VOLVO_ES90_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 62 | 沃尔沃 | 沃尔沃EX30 | IMG_VOLVO_EX30_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 63 | 沃尔沃 | 沃尔沃EX90 | IMG_VOLVO_EX90_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 64 | 沃尔沃 | 沃尔沃XC90 | IMG_VOLVO_XC90_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 65 | 法拉利 | GTC4Lusso | IMG_FER_GTC4LUSSO_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 66 | 法拉利 | Portofino | IMG_FER_PORTOFINO_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 67 | 法拉利 | Purosangue | IMG_FER_PUROSANGUE_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 68 | 法拉利 | Roma | IMG_FER_ROMA_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 69 | 法拉利 | SF90 | IMG_FER_SF90_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 70 | 法拉利 | 法拉利12Cilindri | IMG_FER_12CILINDRI_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 71 | 法拉利 | 法拉利296 | IMG_FER_296_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 72 | 法拉利 | 法拉利812 | IMG_FER_812_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 73 | 法拉利 | 法拉利849 | IMG_FER_849_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 74 | 法拉利 | 法拉利F8 | IMG_FER_F8_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 75 | 法拉利 | 法拉利F80 | IMG_FER_F80_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 76 | 科尼赛克 | Agera | IMG_KONI_AGERA_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 77 | 英力士掷弹兵 | 英力士掷弹兵 | IMG_INEOS_GRENADIER_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 78 | 莲花跑车 | ELETRE | IMG_LOTUS_ELETRE_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 79 | 莲花跑车 | EMEYA | IMG_LOTUS_EMEYA_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 80 | 莲花跑车 | EMIRA | IMG_LOTUS_EMIRA_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 81 | 莲花跑车 | Evora | IMG_LOTUS_EVORA_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 82 | 莲花跑车 | FOR-ME | IMG_LOTUS_FORME_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 83 | 路虎 | 揽胜 | IMG_LR_RANGE-ROVER_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 84 | 路虎 | 揽胜星脉 | IMG_LR_VELAR_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 85 | 路虎 | 揽胜运动 | IMG_LR_RANGE-ROVER-SPORT_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 86 | 路虎 | 路虎卫士 | IMG_LR_DEFENDER_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 87 | 迈凯伦 | Artura | IMG_MCLAREN_ARTURA_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 88 | 迈凯伦 | 迈凯伦540C | IMG_MCLAREN_540C_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 89 | 迈凯伦 | 迈凯伦570 | IMG_MCLAREN_570_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 90 | 迈凯伦 | 迈凯伦600LT | IMG_MCLAREN_600LT_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 91 | 迈凯伦 | 迈凯伦720S | IMG_MCLAREN_720S_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 92 | 迈凯伦 | 迈凯伦GT | IMG_MCLAREN_GT_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 93 | 阿斯顿·马丁 | V8-Vantage | IMG_ASTON_V8-VANTAGE_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 94 | 阿斯顿·马丁 | Vanquish | IMG_ASTON_VANQUISH_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 95 | 阿斯顿·马丁 | 阿斯顿·马丁DB11 | IMG_ASTON_DB11_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 96 | 阿斯顿·马丁 | 阿斯顿·马丁DB12 | IMG_ASTON_DB12_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 97 | 阿斯顿·马丁 | 阿斯顿·马丁DBS | IMG_ASTON_DBS_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |
+| 98 | 阿斯顿·马丁 | 阿斯顿·马丁DBX | IMG_ASTON_DBX_NA_DOOR_DRV_NA_AUTO360_01.png | ✅ 已采集 |

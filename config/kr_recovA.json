@@ -1,0 +1,130 @@
+{
+ "generatedAt": "2026-09-10T15:19:10.429Z",
+ "total": 5,
+ "found": 5,
+ "noPano": 0,
+ "notFound": 0,
+ "errors": 0,
+ "results": [
+  {
+   "group": "G04",
+   "brandCn": "起亚",
+   "modelEn": "Forte",
+   "modelCn": "福瑞迪 2019-2021",
+   "years": "2008-2012",
+   "searchNames": [
+    "福瑞迪",
+    "福瑞迪 2019-2021"
+   ],
+   "status": "pano_found",
+   "seriesId": 813,
+   "seriesName": "福瑞迪",
+   "panoId": 38646,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/38646?_ahrotate=1",
+   "nVehicleIds": 4,
+   "vehicleIds": [
+    "KIA_Forte_TD_2008",
+    "KIA_Forte_TD_Facelift_2011",
+    "KIA_Cerato_YD_2016",
+    "KIA_Cerato_YD_Facelift_2019"
+   ]
+  },
+  {
+   "group": "G18",
+   "brandCn": "起亚",
+   "modelEn": "",
+   "modelCn": "K4 2025-2026",
+   "years": "2025-2026",
+   "searchNames": [
+    "起亚K4",
+    "K4 2025-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 3286,
+   "seriesName": "起亚K4",
+   "panoId": 27336,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/27336?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "KIA_K4_BD_2013",
+    "KIA_K4_BD_Facelift_2016",
+    "KIA_K4_2025"
+   ]
+  },
+  {
+   "group": "G23",
+   "brandCn": "现代",
+   "modelEn": "Verna",
+   "modelCn": "瑞纳 2020-2026",
+   "years": "2020-2026",
+   "searchNames": [
+    "瑞纳",
+    "瑞纳 2020-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 2115,
+   "seriesName": "瑞纳",
+   "panoId": 43749,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/43749?_ahrotate=1",
+   "nVehicleIds": 4,
+   "vehicleIds": [
+    "HYD_Verna_MC_2005",
+    "HYD_Verna_RB_2010",
+    "HYD_Verna_RC_2017",
+    "HYD_Verna_AC_2020"
+   ]
+  },
+  {
+   "group": "G26",
+   "brandCn": "现代",
+   "modelEn": "Tucson",
+   "modelCn": "途胜L 2021-2026",
+   "years": "2021-2026",
+   "searchNames": [
+    "途胜",
+    "途胜L 2021-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 358,
+   "seriesName": "途胜",
+   "panoId": 78121,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78121?_ahrotate=1",
+   "nVehicleIds": 7,
+   "vehicleIds": [
+    "HYD_Tucson_JM_2005",
+    "HYD_Tucson_JM_Facelift_2008",
+    "HYD_Tucson_TL_2015",
+    "HYD_Tucson_TL_Facelift_2018",
+    "HYD_Tucson_NX4_2021",
+    "HYD_Tucson_NX4_Facelift_2024",
+    "HYD_Tucson_Hybrid_NX4_2022"
+   ]
+  },
+  {
+   "group": "G27",
+   "brandCn": "现代",
+   "modelEn": "Elantra",
+   "modelCn": "伊兰特 2021-2026",
+   "years": "2021-2026",
+   "searchNames": [
+    "伊兰特",
+    "伊兰特 2021-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 51,
+   "seriesName": "伊兰特",
+   "panoId": 78119,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78119?_ahrotate=1",
+   "nVehicleIds": 7,
+   "vehicleIds": [
+    "HYD_Elantra_HD_2005",
+    "HYD_Elantra_YF_Elantra_2011",
+    "HYD_Elantra_AD_2016",
+    "HYD_Elantra_AD_Facelift_2019",
+    "HYD_Elantra_CN7_2021",
+    "HYD_Elantra_CN7_Facelift_2024",
+    "HYD_Elantra_Hybrid_CN7_2021"
+   ]
+  }
+ ]
+}

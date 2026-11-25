@@ -1,0 +1,9 @@
+﻿brand,series,series_id,model_url,color,views,priority,enabled
+比亚迪,宋PLUS EV,5221,https://www.autohome.com.cn/5221/,黑色/米色,V08_overall|V02_ip_front|V01_driver_eye|V03_console,1,true
+比亚迪,海豹,5643,https://www.autohome.com.cn/5643/,蓝灰,V08_overall|V02_ip_front|V05_rear_seat,1,true
+理想,L9,5332,https://www.autohome.com.cn/5332/,黑白双色,V08_overall|V02_ip_front|V01_driver_eye|V04_door_front_left|V05_rear_seat,1,true
+理想,L7,5702,https://www.autohome.com.cn/5702/,橙色,V08_overall|V02_ip_front,2,true
+蔚来,ES6,4780,https://www.autohome.com.cn/4780/,浅色,V08_overall|V02_ip_front|V07_headliner,2,true
+宝马,i3,5031,https://www.autohome.com.cn/5031/,黑色,V08_overall|V02_ip_front|V06_steering_wheel,2,true
+奔驰,EQE,5590,https://www.autohome.com.cn/5590/,棕色,V08_overall|V02_ip_front,3,true
+大众,ID.4 CROZZ,5103,https://www.autohome.com.cn/5103/,灰色,V08_overall|V02_ip_front,3,true

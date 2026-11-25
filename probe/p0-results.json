@@ -1,0 +1,1035 @@
+[
+  {
+    "idx": 0,
+    "url": "https://pano.autohome.com.cn/car/pano/76524?_ahrotate=1",
+    "ok": true,
+    "canvasReady": true,
+    "report": {
+      "env": {
+        "url": "https://pano.autohome.com.cn/car/pano/76524?_ahrotate=1",
+        "vw": 1600,
+        "vh": 900,
+        "dpr": 1,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36"
+      },
+      "engine": {
+        "type": "krpano",
+        "src": "getElementById('krpanoSWFObject')",
+        "currentScene": "s26in45192"
+      },
+      "camera": {
+        "hlookat": -1.7796930111111111,
+        "vlookat": 23.738077111111114,
+        "fov": 90
+      },
+      "scenes": [
+        {
+          "i": 0,
+          "name": "sj6hn45090",
+          "title": "驾驶位"
+        },
+        {
+          "i": 1,
+          "name": "s26in45192",
+          "title": "驾驶位"
+        },
+        {
+          "i": 2,
+          "name": "sj5hn45089",
+          "title": "驾驶位"
+        },
+        {
+          "i": 3,
+          "name": "svzpn45807",
+          "title": "驾驶位"
+        },
+        {
+          "i": 4,
+          "name": "smxin45171",
+          "title": "驾驶位"
+        },
+        {
+          "i": 5,
+          "name": "sj6hn45092",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 6,
+          "name": "s26in45194",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 7,
+          "name": "sj5hn45087",
+          "title": "后排"
+        },
+        {
+          "i": 8,
+          "name": "sj5hn45088",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 9,
+          "name": "svzpn45808",
+          "title": "后排"
+        },
+        {
+          "i": 10,
+          "name": "svzpn45809",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 11,
+          "name": "smxin45172",
+          "title": "后排"
+        },
+        {
+          "i": 12,
+          "name": "smxin45173",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 13,
+          "name": "sj6hn45091",
+          "title": "后排"
+        },
+        {
+          "i": 14,
+          "name": "s26in45193",
+          "title": "后排"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "全车讲解视频\n外观VR",
+          "tag": "div",
+          "id": "",
+          "cls": "left-btns"
+        },
+        {
+          "text": "外观VR",
+          "tag": "span",
+          "id": "",
+          "cls": ""
+        }
+      ],
+      "canvas": [
+        {
+          "id": "(无)",
+          "css": "1600x900",
+          "buf": "1600x900",
+          "ctx": "webgl",
+          "pdb": "false"
+        }
+      ],
+      "access": {
+        "login": null,
+        "captcha": null,
+        "loading": null,
+        "overlays": 6
+      }
+    },
+    "writable": true,
+    "testSet": {
+      "before": -1.7785819,
+      "target": 88.2214181,
+      "after": 88.22975143333332
+    },
+    "shots": [
+      "probe/shots/car0_0.png",
+      "probe/shots/car0_1.png",
+      "probe/shots/car0_2.png"
+    ],
+    "pixel": {
+      "method": "md5",
+      "identical": false,
+      "md5": [
+        "706a51a0b830e4393437d8c6fa1fdc5d",
+        "0f056175310e1de2e795332c940395c1",
+        "8c5b455ddbadf94532f7bdc94698f3ff"
+      ]
+    }
+  },
+  {
+    "idx": 1,
+    "url": "https://pano.autohome.com.cn/car/pano/73534?_ahrotate=1",
+    "ok": true,
+    "canvasReady": true,
+    "report": {
+      "env": {
+        "url": "https://pano.autohome.com.cn/car/pano/73534?_ahrotate=1",
+        "vw": 1600,
+        "vh": 900,
+        "dpr": 1,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36"
+      },
+      "engine": {
+        "type": "krpano",
+        "src": "getElementById('krpanoSWFObject')",
+        "currentScene": "sy8sn46264"
+      },
+      "camera": {
+        "hlookat": -19.81833749460453,
+        "vlookat": 39.48728060206056,
+        "fov": 90
+      },
+      "scenes": [
+        {
+          "i": 0,
+          "name": "sjegm41597",
+          "title": "驾驶位"
+        },
+        {
+          "i": 1,
+          "name": "sy8sn46264",
+          "title": "驾驶位"
+        },
+        {
+          "i": 2,
+          "name": "schpm41631",
+          "title": "驾驶位"
+        },
+        {
+          "i": 3,
+          "name": "sgbdm47148",
+          "title": "驾驶位"
+        },
+        {
+          "i": 4,
+          "name": "sgbdm40628",
+          "title": "驾驶位"
+        },
+        {
+          "i": 5,
+          "name": "su24k39769",
+          "title": "驾驶位"
+        },
+        {
+          "i": 6,
+          "name": "sjegm41598",
+          "title": "后排"
+        },
+        {
+          "i": 7,
+          "name": "sy8sn46265",
+          "title": "后排"
+        },
+        {
+          "i": 8,
+          "name": "sy8sn46266",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 9,
+          "name": "schpm41630",
+          "title": "后排"
+        },
+        {
+          "i": 10,
+          "name": "sgbdm47146",
+          "title": "后排"
+        },
+        {
+          "i": 11,
+          "name": "sgbdm47147",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 12,
+          "name": "sgbdm40626",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 13,
+          "name": "sgbdm40627",
+          "title": "后排"
+        },
+        {
+          "i": 14,
+          "name": "su24k39768",
+          "title": "后排"
+        },
+        {
+          "i": 15,
+          "name": "sgbdm41600",
+          "title": "驾驶位"
+        },
+        {
+          "i": 16,
+          "name": "sgbdm41602",
+          "title": "驾驶位"
+        },
+        {
+          "i": 17,
+          "name": "sgbdm41604",
+          "title": "驾驶位"
+        },
+        {
+          "i": 18,
+          "name": "sgbdm41606",
+          "title": "驾驶位"
+        },
+        {
+          "i": 19,
+          "name": "sgbdm41608",
+          "title": "驾驶位"
+        },
+        {
+          "i": 20,
+          "name": "sgbdm41610",
+          "title": "驾驶位"
+        },
+        {
+          "i": 21,
+          "name": "sgbdm41612",
+          "title": "驾驶位"
+        },
+        {
+          "i": 22,
+          "name": "sgbdm41599",
+          "title": "后排"
+        },
+        {
+          "i": 23,
+          "name": "sgbdm41601",
+          "title": "后排"
+        },
+        {
+          "i": 24,
+          "name": "sgbdm41603",
+          "title": "后排"
+        },
+        {
+          "i": 25,
+          "name": "sgbdm41605",
+          "title": "后排"
+        },
+        {
+          "i": 26,
+          "name": "sgbdm41607",
+          "title": "后排"
+        },
+        {
+          "i": 27,
+          "name": "sgbdm41609",
+          "title": "后排"
+        },
+        {
+          "i": 28,
+          "name": "sgbdm41611",
+          "title": "后排"
+        }
+      ],
+      "buttons": [],
+      "canvas": [
+        {
+          "id": "(无)",
+          "css": "1600x900",
+          "buf": "1600x900",
+          "ctx": "webgl",
+          "pdb": "false"
+        }
+      ],
+      "access": {
+        "login": null,
+        "captcha": null,
+        "loading": null,
+        "overlays": 6
+      }
+    },
+    "writable": true,
+    "testSet": {
+      "before": -3.7957696666666667,
+      "target": 86.20423033333333,
+      "after": 86.20728588888888
+    },
+    "shots": [
+      "probe/shots/car1_0.png",
+      "probe/shots/car1_1.png",
+      "probe/shots/car1_2.png"
+    ],
+    "pixel": {
+      "method": "md5",
+      "identical": false,
+      "md5": [
+        "b1b29d91469e158427d248766bd838d0",
+        "7c59b95301c81953bf9a298beb98a5dc",
+        "a0254561ab60f9cd76240358f639a0a9"
+      ]
+    }
+  },
+  {
+    "idx": 2,
+    "url": "https://pano.autohome.com.cn/car/pano/72934?_ahrotate=1",
+    "ok": true,
+    "canvasReady": true,
+    "report": {
+      "env": {
+        "url": "https://pano.autohome.com.cn/car/pano/72934?_ahrotate=1",
+        "vw": 1600,
+        "vh": 900,
+        "dpr": 1,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36"
+      },
+      "engine": {
+        "type": "krpano",
+        "src": "getElementById('krpanoSWFObject')",
+        "currentScene": "scu3m43315"
+      },
+      "camera": {
+        "hlookat": 11.843809555555556,
+        "vlookat": 27.448527444444448,
+        "fov": 90
+      },
+      "scenes": [
+        {
+          "i": 0,
+          "name": "sxvbp48720",
+          "title": "驾驶位"
+        },
+        {
+          "i": 1,
+          "name": "s6a3n47464",
+          "title": "驾驶位"
+        },
+        {
+          "i": 2,
+          "name": "s2ymn45506",
+          "title": "驾驶位"
+        },
+        {
+          "i": 3,
+          "name": "s8ejn45219",
+          "title": "驾驶位"
+        },
+        {
+          "i": 4,
+          "name": "scu3m43315",
+          "title": "驾驶位"
+        },
+        {
+          "i": 5,
+          "name": "sxvbp48719",
+          "title": "后排"
+        },
+        {
+          "i": 6,
+          "name": "s6a3n47463",
+          "title": "后排"
+        },
+        {
+          "i": 7,
+          "name": "s2ymn45505",
+          "title": "后排"
+        },
+        {
+          "i": 8,
+          "name": "s8ejn45218",
+          "title": "后排"
+        },
+        {
+          "i": 9,
+          "name": "scu3m43317",
+          "title": "后排"
+        },
+        {
+          "i": 10,
+          "name": "s2ymn45507",
+          "title": "后备厢"
+        },
+        {
+          "i": 11,
+          "name": "s8ejn45220",
+          "title": "后备厢"
+        },
+        {
+          "i": 12,
+          "name": "scu3m43316",
+          "title": "后备厢"
+        }
+      ],
+      "buttons": [],
+      "canvas": [
+        {
+          "id": "(无)",
+          "css": "1600x900",
+          "buf": "1600x900",
+          "ctx": "webgl",
+          "pdb": "false"
+        }
+      ],
+      "access": {
+        "login": null,
+        "captcha": null,
+        "loading": null,
+        "overlays": 6
+      }
+    },
+    "writable": true,
+    "testSet": {
+      "before": 11.844642888888888,
+      "target": 101.84464288888888,
+      "after": 101.84964288888888
+    },
+    "shots": [
+      "probe/shots/car2_0.png",
+      "probe/shots/car2_1.png",
+      "probe/shots/car2_2.png"
+    ],
+    "pixel": {
+      "method": "md5",
+      "identical": false,
+      "md5": [
+        "9bb1ccf9b147b049e532cdab95cb9c62",
+        "ac5e0fa3bc47f7fc1115c5302ef88ddf",
+        "e19c733857d7a417885cbf2caafdd20e"
+      ]
+    }
+  },
+  {
+    "idx": 3,
+    "url": "https://pano.autohome.com.cn/car/pano/74238?_ahrotate=1",
+    "ok": true,
+    "canvasReady": true,
+    "report": {
+      "env": {
+        "url": "https://pano.autohome.com.cn/car/pano/74238?_ahrotate=1",
+        "vw": 1600,
+        "vh": 900,
+        "dpr": 1,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36"
+      },
+      "engine": {
+        "type": "krpano",
+        "src": "getElementById('krpanoSWFObject')",
+        "currentScene": "saqwm42548"
+      },
+      "camera": {
+        "hlookat": 10.457175777777776,
+        "vlookat": 22.554956222222224,
+        "fov": 90
+      },
+      "scenes": [
+        {
+          "i": 0,
+          "name": "stuhn45064",
+          "title": "驾驶位"
+        },
+        {
+          "i": 1,
+          "name": "saqwm42548",
+          "title": "驾驶位"
+        },
+        {
+          "i": 2,
+          "name": "stuhn45065",
+          "title": "后排"
+        },
+        {
+          "i": 3,
+          "name": "saqwm42547",
+          "title": "后排"
+        },
+        {
+          "i": 4,
+          "name": "stuhn45066",
+          "title": "后备厢"
+        },
+        {
+          "i": 5,
+          "name": "saqwm42549",
+          "title": "后备厢"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "全车讲解视频\n外观VR",
+          "tag": "div",
+          "id": "",
+          "cls": "left-btns"
+        },
+        {
+          "text": "外观VR",
+          "tag": "span",
+          "id": "",
+          "cls": ""
+        }
+      ],
+      "canvas": [
+        {
+          "id": "(无)",
+          "css": "1600x900",
+          "buf": "1600x900",
+          "ctx": "webgl",
+          "pdb": "false"
+        }
+      ],
+      "access": {
+        "login": null,
+        "captcha": null,
+        "loading": null,
+        "overlays": 6
+      }
+    },
+    "writable": true,
+    "testSet": {
+      "before": 10.458564666666664,
+      "target": 100.45856466666666,
+      "after": 100.46273133333332
+    },
+    "shots": [
+      "probe/shots/car3_0.png",
+      "probe/shots/car3_1.png",
+      "probe/shots/car3_2.png"
+    ],
+    "pixel": {
+      "method": "md5",
+      "identical": false,
+      "md5": [
+        "e3bf6bd4db8699b4cd10aad76240f776",
+        "9fee110d38f5a7bcd51ef4415cee70c5",
+        "1f51e873eb248eb73d7120fe7c9cb38d"
+      ]
+    }
+  },
+  {
+    "idx": 4,
+    "url": "https://pano.autohome.com.cn/car/pano/75193?_ahrotate=1",
+    "ok": true,
+    "canvasReady": true,
+    "report": {
+      "env": {
+        "url": "https://pano.autohome.com.cn/car/pano/75193?_ahrotate=1",
+        "vw": 1600,
+        "vh": 900,
+        "dpr": 1,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36"
+      },
+      "engine": {
+        "type": "krpano",
+        "src": "getElementById('krpanoSWFObject')",
+        "currentScene": "shvzm43105"
+      },
+      "camera": {
+        "hlookat": 10.049821555555555,
+        "vlookat": 28.257405444444448,
+        "fov": 90
+      },
+      "scenes": [
+        {
+          "i": 0,
+          "name": "shvzm43105",
+          "title": "驾驶位"
+        },
+        {
+          "i": 1,
+          "name": "s52zm43117",
+          "title": "驾驶位"
+        },
+        {
+          "i": 2,
+          "name": "sf6dn44660",
+          "title": "驾驶位"
+        },
+        {
+          "i": 3,
+          "name": "shvzm43103",
+          "title": "后排"
+        },
+        {
+          "i": 4,
+          "name": "s52zm43115",
+          "title": "后排"
+        },
+        {
+          "i": 5,
+          "name": "sf6dn44662",
+          "title": "后排"
+        },
+        {
+          "i": 6,
+          "name": "shvzm43104",
+          "title": "后备厢"
+        },
+        {
+          "i": 7,
+          "name": "s52zm43116",
+          "title": "后备厢"
+        },
+        {
+          "i": 8,
+          "name": "sf6dn44661",
+          "title": "后备厢"
+        }
+      ],
+      "buttons": [],
+      "canvas": [
+        {
+          "id": "(无)",
+          "css": "1600x900",
+          "buf": "1600x900",
+          "ctx": "webgl",
+          "pdb": "false"
+        }
+      ],
+      "access": {
+        "login": null,
+        "captcha": null,
+        "loading": null,
+        "overlays": 6
+      }
+    },
+    "writable": true,
+    "testSet": {
+      "before": 10.050654888888888,
+      "target": 100.05065488888889,
+      "after": 100.05565488888888
+    },
+    "shots": [
+      "probe/shots/car4_0.png",
+      "probe/shots/car4_1.png",
+      "probe/shots/car4_2.png"
+    ],
+    "pixel": {
+      "method": "md5",
+      "identical": false,
+      "md5": [
+        "bc534955df0e2ef5825a267ee71d52cd",
+        "91f707b47197e407d8b5ceb91722468e",
+        "573a92fd29aed1f118d8708f1e3c898b"
+      ]
+    }
+  },
+  {
+    "idx": 5,
+    "url": "https://pano.autohome.com.cn/car/pano/65047?_ahrotate=1",
+    "ok": true,
+    "canvasReady": true,
+    "report": {
+      "env": {
+        "url": "https://pano.autohome.com.cn/car/pano/65047?_ahrotate=1",
+        "vw": 1600,
+        "vh": 900,
+        "dpr": 1,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36"
+      },
+      "engine": {
+        "type": "krpano",
+        "src": "getElementById('krpanoSWFObject')",
+        "currentScene": "sda8h31026"
+      },
+      "camera": {
+        "hlookat": 11.623106666666665,
+        "vlookat": 21.889187333333336,
+        "fov": 90
+      },
+      "scenes": [
+        {
+          "i": 0,
+          "name": "s9y8h45701",
+          "title": "驾驶位"
+        },
+        {
+          "i": 1,
+          "name": "sda8h31026",
+          "title": "驾驶位"
+        },
+        {
+          "i": 2,
+          "name": "s9y8h45700",
+          "title": "后排"
+        },
+        {
+          "i": 3,
+          "name": "sda8h31027",
+          "title": "后排"
+        },
+        {
+          "i": 4,
+          "name": "s9y8h45702",
+          "title": "后备厢"
+        },
+        {
+          "i": 5,
+          "name": "sda8h31028",
+          "title": "后备厢"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "全车讲解视频\n外观VR",
+          "tag": "div",
+          "id": "",
+          "cls": "left-btns"
+        },
+        {
+          "text": "外观VR",
+          "tag": "span",
+          "id": "",
+          "cls": ""
+        }
+      ],
+      "canvas": [
+        {
+          "id": "(无)",
+          "css": "1600x900",
+          "buf": "1600x900",
+          "ctx": "webgl",
+          "pdb": "false"
+        }
+      ],
+      "access": {
+        "login": null,
+        "captcha": null,
+        "loading": null,
+        "overlays": 6
+      }
+    },
+    "writable": true,
+    "testSet": {
+      "before": 11.624217777777776,
+      "target": 101.62421777777777,
+      "after": 101.6325511111111
+    },
+    "shots": [
+      "probe/shots/car5_0.png",
+      "probe/shots/car5_1.png",
+      "probe/shots/car5_2.png"
+    ],
+    "pixel": {
+      "method": "md5",
+      "identical": false,
+      "md5": [
+        "8536b2df3758f13f3ada2f7a6ba12469",
+        "5d7b8796b0c362e5e1c6eeff6266484d",
+        "0c81c53aa4dc92e3c7e2ffc524347e8a"
+      ]
+    }
+  },
+  {
+    "idx": 6,
+    "url": "https://pano.autohome.com.cn/car/pano/75906?_ahrotate=1",
+    "ok": true,
+    "canvasReady": true,
+    "report": {
+      "env": {
+        "url": "https://pano.autohome.com.cn/car/pano/75906?_ahrotate=1",
+        "vw": 1600,
+        "vh": 900,
+        "dpr": 1,
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36"
+      },
+      "engine": {
+        "type": "krpano",
+        "src": "getElementById('krpanoSWFObject')",
+        "currentScene": "s5pbn44238"
+      },
+      "camera": {
+        "hlookat": 11.754849333333333,
+        "vlookat": 33.90112166666667,
+        "fov": 90
+      },
+      "scenes": [
+        {
+          "i": 0,
+          "name": "sznbn44235",
+          "title": "驾驶位"
+        },
+        {
+          "i": 1,
+          "name": "s9abn44155",
+          "title": "驾驶位"
+        },
+        {
+          "i": 2,
+          "name": "s5pbn44238",
+          "title": "驾驶位"
+        },
+        {
+          "i": 3,
+          "name": "susbn44337",
+          "title": "驾驶位"
+        },
+        {
+          "i": 4,
+          "name": "sznbn44233",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 5,
+          "name": "s9abn44153",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 6,
+          "name": "s5pbn44237",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 7,
+          "name": "susbn44335",
+          "title": "副驾驶位"
+        },
+        {
+          "i": 8,
+          "name": "sznbn44232",
+          "title": "后排"
+        },
+        {
+          "i": 9,
+          "name": "s9abn44151",
+          "title": "后排"
+        },
+        {
+          "i": 10,
+          "name": "s5pbn44240",
+          "title": "后排"
+        },
+        {
+          "i": 11,
+          "name": "susbn44334",
+          "title": "后排"
+        },
+        {
+          "i": 12,
+          "name": "sznbn44231",
+          "title": "后备厢"
+        },
+        {
+          "i": 13,
+          "name": "s9abn44150",
+          "title": "后备厢"
+        },
+        {
+          "i": 14,
+          "name": "s5pbn44239",
+          "title": "后备厢"
+        },
+        {
+          "i": 15,
+          "name": "susbn44336",
+          "title": "后备厢"
+        },
+        {
+          "i": 16,
+          "name": "s5pbn44242",
+          "title": "驾驶位"
+        },
+        {
+          "i": 17,
+          "name": "s5pbn44244",
+          "title": "驾驶位"
+        },
+        {
+          "i": 18,
+          "name": "s5pbn44246",
+          "title": "驾驶位"
+        },
+        {
+          "i": 19,
+          "name": "s5pbn44248",
+          "title": "驾驶位"
+        },
+        {
+          "i": 20,
+          "name": "s5pbn44250",
+          "title": "驾驶位"
+        },
+        {
+          "i": 21,
+          "name": "s5pbn44252",
+          "title": "驾驶位"
+        },
+        {
+          "i": 22,
+          "name": "s5pbn44254",
+          "title": "驾驶位"
+        },
+        {
+          "i": 23,
+          "name": "s5pbn44241",
+          "title": "后排"
+        },
+        {
+          "i": 24,
+          "name": "s5pbn44243",
+          "title": "后排"
+        },
+        {
+          "i": 25,
+          "name": "s5pbn44245",
+          "title": "后排"
+        },
+        {
+          "i": 26,
+          "name": "s5pbn44247",
+          "title": "后排"
+        },
+        {
+          "i": 27,
+          "name": "s5pbn44249",
+          "title": "后排"
+        },
+        {
+          "i": 28,
+          "name": "s5pbn44251",
+          "title": "后排"
+        },
+        {
+          "i": 29,
+          "name": "s5pbn44253",
+          "title": "后排"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "全车讲解视频\n外观VR",
+          "tag": "div",
+          "id": "",
+          "cls": "left-btns"
+        },
+        {
+          "text": "外观VR",
+          "tag": "span",
+          "id": "",
+          "cls": ""
+        }
+      ],
+      "canvas": [
+        {
+          "id": "(无)",
+          "css": "1600x900",
+          "buf": "1600x900",
+          "ctx": "webgl",
+          "pdb": "false"
+        }
+      ],
+      "access": {
+        "login": null,
+        "captcha": null,
+        "loading": null,
+        "overlays": 6
+      }
+    },
+    "writable": true,
+    "testSet": {
+      "before": 11.755682666666665,
+      "target": 101.75568266666667,
+      "after": 101.76540488888888
+    },
+    "shots": [
+      "probe/shots/car6_0.png",
+      "probe/shots/car6_1.png",
+      "probe/shots/car6_2.png"
+    ],
+    "pixel": {
+      "method": "md5",
+      "identical": false,
+      "md5": [
+        "c9a3220a730cf9bf9c0dad4ab7600f76",
+        "afebfca65dc505c4fe432850e421bd60",
+        "b9aebc207fa8161481774b204e3e1d69"
+      ]
+    }
+  }
+]

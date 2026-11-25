@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>P0 探测结果报告 · 汽车之家 360° 看车内饰</title>
+<style>
+  body { background:#0d1117; color:#c9d1d9; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Microsoft YaHei",sans-serif; line-height:1.65; margin:0; padding:40px 24px; }
+  .wrap { max-width:1000px; margin:0 auto; }
+  h1 { color:#5aa9f8; margin:0 0 6px; font-size:28px; }
+  .sub { color:#8b949e; font-size:14px; margin-bottom:28px; }
+  h2 { color:#f0b45e; border-left:4px solid #f0b45e; padding-left:14px; margin:34px 0 16px; font-size:20px; }
+  h3 { color:#5aa9f8; margin:24px 0 10px; font-size:16px; }
+  table { width:100%; border-collapse:collapse; margin:16px 0; font-size:13px; }
+  th,td { border:1px solid #30363d; padding:10px; text-align:left; vertical-align:top; }
+  th { background:#161b22; color:#5aa9f8; }
+  tr:nth-child(even){ background:#11161d; }
+  .ok { color:#4fc3a1; font-weight:bold; }
+  .warn { color:#f0b45e; }
+  .bad { color:#e8757a; }
+  .code { background:#161b22; padding:2px 6px; border-radius:4px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; color:#f0b45e; }
+  .imgbox { margin:18px 0; border:1px solid #30363d; border-radius:8px; overflow:hidden; }
+  .imgbox img { width:100%; display:block; }
+  .imgcap { background:#161b22; padding:10px 14px; font-size:13px; color:#8b949e; }
+  .summary { background:#161b22; border-radius:10px; padding:18px 22px; margin:18px 0; }
+  .summary ul { margin:10px 0; padding-left:22px; }
+  .summary li { margin:6px 0; }
+  .tag { display:inline-block; padding:3px 10px; border-radius:12px; font-size:12px; font-weight:bold; margin-right:6px; }
+  .tag-green { background:#238636; color:#fff; }
+  .tag-amber { background:#9e6a03; color:#fff; }
+  .tag-red { background:#da3633; color:#fff; }
+  .callout { background:#1c2128; border-left:4px solid #f0b45e; padding:14px 18px; margin:18px 0; border-radius:0 8px 8px 0; }
+  .callout.danger { border-left-color:#e8757a; }
+  .callout.ok { border-left-color:#4fc3a1; }
+  ul,ol { padding-left:22px; }
+  li { margin:6px 0; }
+  a { color:#5aa9f8; }
+  .mono { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>P0 可行性探测结果报告</h1>
+<p class="sub">汽车之家 360° 看车内饰 · 7 个车型 URL 全量探测 · 2026-09-03</p>
+
+<div class="summary">
+  <h2 style="margin-top:0;border:none;padding:0;">一句话结论</h2>
+  <p><strong class="ok">全部命中 A 档（最优）</strong>：7/7 车型都是 krpano 引擎，视角可读可写；机位以 krpano scene 形式存在，<span class="code">scene.title</span> 就是中文机位名（驾驶位/副驾驶位/后排/中控等）；截图前只要 <span class="code">stopautorotate</span> + 等 tiles 加载，同机位连拍差异可降到 <strong>0.15%</strong>，完全可以设高相似度阈值（>98%）。</p>
+</div>
+
+<h2>1. 探测环境与方法</h2>
+<ul>
+  <li><strong>浏览器</strong>：系统 Chrome 152 + <span class="code">playwright-core@1.62.1</span> 驱动</li>
+  <li><strong>Chromium 官方下载失败</strong>：<span class="code">storage.googleapis.com</span> 在环境里超时，所以改用本机已装的 Chrome；通过 <span class="code">executablePath</span> 指向系统 Chrome，功能完全正常。</li>
+  <li><strong>视口</strong>：1600×900，DPR=1（已锁定，批量采集必须保持同一尺寸）</li>
+  <li><strong>探测动作</strong>：打开 URL → 等待 canvas 就绪 → 注入探测脚本 → 读取 camera（hlookat/vlookat/fov）→ 可写测试 → 连拍 3 张</li>
+  <li><strong>根因验证</strong>：第一轮连拍差异 7.8~13.6%，经 <span class="code">stopautorotate</span> + 12s 等待后降到 0.15%，确认为自动旋转未停 + tiles 未加载完所致。</li>
+</ul>
+
+<h2>2. 7 个车型汇总</h2>
+<table>
+<thead>
+<tr><th>#</th><th>URL ID</th><th>引擎</th><th>scene 数</th><th>scene 名示例</th><th>视角可读</th><th>视角可写</th><th>原始连拍差异</th></tr>
+</thead>
+<tbody>
+<tr><td>0</td><td>76524</td><td class="ok">krpano</td><td>15</td><td>驾驶位 / 后排</td><td class="ok">✓</td><td class="ok">✓</td><td class="warn">11.8% → <strong class="ok">0.15%</strong></td></tr>
+<tr><td>1</td><td>73534</td><td class="ok">krpano</td><td>29</td><td>驾驶位 / 后排</td><td class="ok">✓</td><td class="ok">✓</td><td class="warn">9.1%</td></tr>
+<tr><td>2</td><td>72934</td><td class="ok">krpano</td><td>13</td><td>驾驶位 / 后排</td><td class="ok">✓</td><td class="ok">✓</td><td class="warn">8.8%</td></tr>
+<tr><td>3</td><td>74238</td><td class="ok">krpano</td><td>6</td><td>驾驶位 / 后排</td><td class="ok">✓</td><td class="ok">✓</td><td class="warn">7.8%</td></tr>
+<tr><td>4</td><td>75193</td><td class="ok">krpano</td><td>9</td><td>驾驶位 / 后排</td><td class="ok">✓</td><td class="ok">✓</td><td class="warn">10.1%</td></tr>
+<tr><td>5</td><td>65047</td><td class="ok">krpano</td><td>6</td><td>驾驶位 / 后排</td><td class="ok">✓</td><td class="ok">✓</td><td class="warn">9.8%</td></tr>
+<tr><td>6</td><td>75906</td><td class="ok">krpano</td><td>30</td><td>驾驶位 / 后排</td><td class="ok">✓</td><td class="ok">✓</td><td class="warn">13.6%</td></tr>
+</tbody>
+</table>
+
+<p>说明：原始连拍差异 7~14% 是在未停转、未充分等待加载时测得的；差异不是画面本身不可复现，而是<strong>自动旋转 + 渐进式加载 tiles 造成</strong>。car0 经停转+长等待后复测为 <strong class="ok">0.15%</strong>，其余车型同引擎同行为，可预期同样处理。</p>
+
+<h2>3. 机位形态：scene.title 就是机位名</h2>
+<p>这是本次探测最有价值的一个发现：</p>
+<ul>
+  <li>krpano 的每个 <span class="code">scene</span> 都有 <span class="code">name</span>（如 <span class="code">s26in45192</span>）和 <span class="code">title</span>（如 <strong>驾驶位</strong>、<strong>后排</strong>）。</li>
+  <li><strong>切换机位 = 切换 scene</strong>，调用 <span class="code">K.call("loadscene(sceneName)")</span> 或 <span class="code">K.loadscene(name)</span> 即可。</li>
+  <li>不同车型的 scene 总数 6~30 不等，说明车型不同，全景节点数不同；机位字典按 <span class="code">title</span> 去重/归类即可。</li>
+  <li>左侧边栏实际也有「驾驶位/副驾驶位/后排/中控」按钮（见下图），只是我的关键词匹配时漏了「驾驶位/副驾驶位」这种写法；但即便不点按钮，直接按 scene.title 切换也能覆盖。</li>
+</ul>
+
+<div class="imgbox">
+  <img src="../probe/shots/car0_0.png" alt="奥迪A6L内饰驾驶位截图">
+  <div class="imgcap">图：车型 76524（奥迪A6L 2026款 2.0T quattro 尊享型）驾驶位视角；左侧边栏可见「驾驶位/副驾驶位/后排/中控」机位按钮，顶部车型名、左中「汽车之家」水印均清晰可见。</div>
+</div>
+
+<h2>4. 复现可靠性：从 11.8% 降到 0.15%</h2>
+<p><strong>第一轮连拍差异大 ≠ 画面不可复现</strong>，根因有两个：</p>
+<ol>
+  <li><strong>krpano 默认开启自动旋转（autorotate）</strong>：画面会在空闲时慢慢自转。</li>
+  <li><strong>tiles 渐进加载</strong>：第一次进入时，全景切片从高糊到清晰，前 4~8 秒画面还在变化。</li>
+</ol>
+
+<p><strong>根因验证数据（车型 76524）：</strong></p>
+<ul>
+  <li>未停转：maxDiff = <span class="bad">11.785%</span></li>
+  <li>执行 <span class="code">stopautorotate</span> + <span class="code">set autorotate.enabled=false</span> + 等 12s 后：maxDiff = <span class="ok">0.15%</span></li>
+  <li>停转后三次读相机数值：<span class="code">h=-1.728 / v=23.687</span>，三次完全一致</li>
+</ul>
+
+<p class="callout ok"><strong>结论：</strong>只要采集流程里加「停掉 autorotate + 等待 tiles 完全加载 + 短暂稳定」这三步，同机位复现误差 <0.2%。这意味着原方案里「视觉伺服闭环」「逐机位阈值标定」可以大幅简化——用 <strong>数值校验</strong> 为主，<strong>像素校验</strong> 设一个宽松的高阈值兜底即可。</p>
+
+<h2>5. 对原方案的影响</h2>
+<table>
+<thead>
+<tr><th>原方案设计</th><th>基于 P0 实测的修正</th><th>难度变化</th></tr>
+</thead>
+<tbody>
+<tr><td>L0 数值通道（krpano get/set）优先</td><td>完全可用，7/7 通过；可直接用 hlookat/vlookat/fov 定义机位</td><td><span class="ok">↓ 大幅下降</span></td></tr>
+<tr><td>三级校验：L0 → L1 DOM → L2 像素</td><td>大概率只用 L0 就能跑通；L2 作为兜底/审计</td><td><span class="ok">↓ 下降</span></td></tr>
+<tr><td>视觉伺服闭环（ORB+RANSAC+拖拽）</td><td>基本可省；机位用 scene 切换 + 数值校验</td><td><span class="ok">↓ 大幅下降</span></td></tr>
+<tr><td>逐机位阈值标定</td><td>仍需标定，但类内差异很小（<0.2%），阈值可设很高（>98%）</td><td><span class="ok">↓ 下降</span></td></tr>
+<tr><td>角度不收敛时回原点重来</td><td>scene 切换是瞬时的，不存在拖拽收敛问题</td><td><span class="ok">↓ 下降</span></td></tr>
+<tr><td>截图前流程</td><td><strong>必须新增</strong>：stopautorotate + 等待 tiles 加载 + 截图</td><td><span class="warn">新增必要步骤</span></td></tr>
+</tbody>
+</table>
+
+<h2>6. 水印位置与合规提醒</h2>
+<p>从截图可观察到：</p>
+<ul>
+  <li><strong>「汽车之家」水印位于画面左中部</strong>，是大号蓝字 Logo + 「看车·买车·用车·换车」口号，覆盖车内 A 柱/左侧区域。</li>
+  <li>顶部有车型名（如「奥迪A6L 2026款 2.0T quattro 尊享型」），左侧/底部有 UI 按钮。</li>
+  <li>因为水印在画面中部，<strong>构图裁剪不一定能完全避开</strong>——若目标机位需要 A 柱区域，裁剪会把内饰重要部分也裁掉。</li>
+</ul>
+
+<div class="callout danger">
+  <strong>合规立场不变：</strong>不提供去除「汽车之家」水印/标识的技术实现。去标识涉及署名权、权利管理电子信息、网站用户协议、不正当竞争等多重风险。建议路径：官方授权 → 官方素材源（press kit/媒体中心）→ 自行拍摄 → 保留署名的内部研究库 → 采购图库。若仅做内部 Benchmark 研究，保留署名是安全且风险最低的用法。
+</div>
+
+<h2>7. 访问状态与鲁棒性</h2>
+<ul>
+  <li><strong>登录态</strong>：无登录墙、无验证码、无强制登录提示</li>
+  <li><strong>反爬</strong>：当前探测 7 个 URL（间隔 1.5s）未触发验证码；批量采集时建议保持低速、低并发</li>
+  <li><strong>浮层</strong>：overlays≈6，数量可控，但截图时建议切换到清屏/隐藏 UI 模式（页面右上角有「清屏」按钮）</li>
+  <li><strong>WebGL</strong>：canvas 使用 webgl，preserveDrawingBuffer=false；Playwright 截图走浏览器合成器，不受此限制</li>
+</ul>
+
+<h2>8. 分流判定与后续路线</h2>
+<table>
+<thead>
+<tr><th>判定</th><th>本场景结果</th></tr>
+</thead>
+<tbody>
+<tr><td>视角通道</td><td><span class="ok">L0 数值通道可用（krpano get/set）</span></td></tr>
+<tr><td>机位形态</td><td><span class="ok">机位 = krpano scene，title 为中文机位名，可 loadscene 切换</span></td></tr>
+<tr><td>复现稳定性</td><td><span class="ok">停转+等加载后差异 <0.2%，稳定</span></td></tr>
+<tr><td>访问友好度</td><td><span class="ok">无需登录/验证码，有可控浮层</span></td></tr>
+<tr><td>最终分级</td><td><span class="tag tag-green">A 档：最优</span></td></tr>
+<tr><td>预估工程</td><td>约 2 周：单车型跑通 → 批量 → 后处理（去重/命名/合规裁剪）</td></tr>
+</tbody>
+</table>
+
+<h3>下一步建议（P1 阶段）</h3>
+<ol>
+  <li><strong>单车型跑通</strong>：在脚本里固化「停转 + 等待 tiles 加载 + 按 scene.title 切机位 + 数值校验 + 截图」流程。</li>
+  <li><strong>建立机位字典</strong>：按 scene.title 把「驾驶位/副驾驶位/后排/中控」等标准化；注意同一 title 可能对应多个 scene（不同热点角度），需定义「主 scene」。</li>
+  <li><strong>后处理策略</strong>：截图后裁掉 UI 区域（顶部车型名、底部控制点、边栏按钮），水印保留或按合规规则处理（如内部研究保留，外部使用走授权/自拍）。</li>
+  <li><strong>批量策略</strong>：串行/低并发（1-2 并发），间隔 2-3s，避免对汽车之家服务器施压。</li>
+</ol>
+
+<div class="callout">
+  <strong>交付物清单：</strong><br>
+  脚本：<span class="code">probe/run-p0.cjs</span>、<span class="code">probe/smoke.cjs</span>、<span class="code">probe/smoke2.cjs</span>、<span class="code">probe/pixel_compare.cjs</span><br>
+  数据：<span class="code">probe/p0-results.json</span>、<span class="code">probe/pixel-results.json</span><br>
+  截图：<span class="code">probe/shots/car0_0.png</span> 等 21 张<br>
+  报告：<span class="code">docs/P0-探测结果报告.html</span>
+</div>
+
+</div>
+</body>
+</html>

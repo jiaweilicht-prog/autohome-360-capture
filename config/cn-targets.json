@@ -1,0 +1,2392 @@
+{
+ "targets": [
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Qin Plus",
+   "modelCn": "秦PLUS",
+   "years": "2021-",
+   "searchNames": [
+    "秦PLUS",
+    "比亚迪秦PLUS"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Qin L",
+   "modelCn": "秦L",
+   "years": "2024-",
+   "searchNames": [
+    "秦L",
+    "比亚迪秦L"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Han",
+   "modelCn": "汉",
+   "years": "2020-",
+   "searchNames": [
+    "比亚迪汉",
+    "汉"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Tang",
+   "modelCn": "唐",
+   "years": "2015-",
+   "searchNames": [
+    "比亚迪唐",
+    "唐"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Song Pro",
+   "modelCn": "宋Pro",
+   "years": "2019-",
+   "searchNames": [
+    "宋Pro",
+    "比亚迪宋Pro"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Song Plus",
+   "modelCn": "宋PLUS",
+   "years": "2020-",
+   "searchNames": [
+    "宋PLUS",
+    "比亚迪宋PLUS"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Song L",
+   "modelCn": "宋L",
+   "years": "2023-",
+   "searchNames": [
+    "宋L",
+    "比亚迪宋L"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Yuan Plus",
+   "modelCn": "元PLUS",
+   "years": "2022-",
+   "searchNames": [
+    "元PLUS",
+    "比亚迪元PLUS"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Yuan UP",
+   "modelCn": "元UP",
+   "years": "2024-",
+   "searchNames": [
+    "元UP",
+    "比亚迪元UP"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Dolphin",
+   "modelCn": "海豚",
+   "years": "2021-",
+   "searchNames": [
+    "海豚",
+    "比亚迪海豚"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Seal",
+   "modelCn": "海豹",
+   "years": "2022-",
+   "searchNames": [
+    "海豹",
+    "比亚迪海豹"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Seal 06",
+   "modelCn": "海豹06",
+   "years": "2024-",
+   "searchNames": [
+    "海豹06",
+    "比亚迪海豹06"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Seal 07",
+   "modelCn": "海豹07",
+   "years": "2024-",
+   "searchNames": [
+    "海豹07",
+    "比亚迪海豹07"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Seagull",
+   "modelCn": "海鸥",
+   "years": "2023-",
+   "searchNames": [
+    "海鸥",
+    "比亚迪海鸥"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Destroyer 05",
+   "modelCn": "驱逐舰05",
+   "years": "2022-",
+   "searchNames": [
+    "驱逐舰05",
+    "比亚迪驱逐舰05"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "BYD",
+   "brandCn": "比亚迪",
+   "modelEn": "Frigate 07",
+   "modelCn": "护卫舰07",
+   "years": "2022-",
+   "searchNames": [
+    "护卫舰07",
+    "比亚迪护卫舰07"
+   ],
+   "note": "",
+   "_orig_brand": "比亚迪"
+  },
+  {
+   "brandEn": "Denza",
+   "brandCn": "腾势",
+   "modelEn": "D9",
+   "modelCn": "腾势D9",
+   "years": "2022-",
+   "searchNames": [
+    "腾势D9",
+    "D9"
+   ],
+   "note": "",
+   "_orig_brand": "腾势"
+  },
+  {
+   "brandEn": "Denza",
+   "brandCn": "腾势",
+   "modelEn": "N7",
+   "modelCn": "腾势N7",
+   "years": "2023-",
+   "searchNames": [
+    "腾势N7",
+    "N7"
+   ],
+   "note": "",
+   "_orig_brand": "腾势"
+  },
+  {
+   "brandEn": "Denza",
+   "brandCn": "腾势",
+   "modelEn": "N8",
+   "modelCn": "腾势N8",
+   "years": "2023-",
+   "searchNames": [
+    "腾势N8",
+    "N8"
+   ],
+   "note": "",
+   "_orig_brand": "腾势"
+  },
+  {
+   "brandEn": "Denza",
+   "brandCn": "腾势",
+   "modelEn": "Z9",
+   "modelCn": "腾势Z9",
+   "years": "2024-",
+   "searchNames": [
+    "腾势Z9",
+    "Z9"
+   ],
+   "note": "",
+   "_orig_brand": "腾势"
+  },
+  {
+   "brandEn": "Yangwang",
+   "brandCn": "仰望",
+   "modelEn": "U8",
+   "modelCn": "仰望U8",
+   "years": "2023-",
+   "searchNames": [
+    "仰望U8",
+    "U8"
+   ],
+   "note": "性能/越野 Special",
+   "_orig_brand": "仰望"
+  },
+  {
+   "brandEn": "Yangwang",
+   "brandCn": "仰望",
+   "modelEn": "U9",
+   "modelCn": "仰望U9",
+   "years": "2024-",
+   "searchNames": [
+    "仰望U9",
+    "U9"
+   ],
+   "note": "性能 Special",
+   "_orig_brand": "仰望"
+  },
+  {
+   "brandEn": "Fangchengbao",
+   "brandCn": "方程豹",
+   "modelEn": "Bao 5",
+   "modelCn": "方程豹豹5",
+   "years": "2023-",
+   "searchNames": [
+    "方程豹豹5",
+    "豹5"
+   ],
+   "note": "越野 Special",
+   "_orig_brand": "方程豹"
+  },
+  {
+   "brandEn": "Fangchengbao",
+   "brandCn": "方程豹",
+   "modelEn": "Bao 8",
+   "modelCn": "方程豹豹8",
+   "years": "2024-",
+   "searchNames": [
+    "方程豹豹8",
+    "豹8"
+   ],
+   "note": "越野 Special",
+   "_orig_brand": "方程豹"
+  },
+  {
+   "brandEn": "Fangchengbao",
+   "brandCn": "方程豹",
+   "modelEn": "Tai 3",
+   "modelCn": "方程豹钛3",
+   "years": "2025-",
+   "searchNames": [
+    "方程豹钛3",
+    "钛3"
+   ],
+   "note": "越野 Special",
+   "_orig_brand": "方程豹"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利汽车",
+   "modelEn": "Xingyue L",
+   "modelCn": "星越L",
+   "years": "2021-",
+   "searchNames": [
+    "星越L",
+    "吉利星越L"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利汽车",
+   "modelEn": "Binyue",
+   "modelCn": "缤越",
+   "years": "2018-",
+   "searchNames": [
+    "缤越",
+    "吉利缤越"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利汽车",
+   "modelEn": "Boyue",
+   "modelCn": "博越",
+   "years": "2016-",
+   "searchNames": [
+    "博越",
+    "吉利博越"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利汽车",
+   "modelEn": "Boyue L",
+   "modelCn": "博越L",
+   "years": "2022-",
+   "searchNames": [
+    "博越L",
+    "吉利博越L"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利汽车",
+   "modelEn": "Dihao",
+   "modelCn": "帝豪",
+   "years": "2009-",
+   "searchNames": [
+    "帝豪",
+    "吉利帝豪"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利汽车",
+   "modelEn": "Dihao L",
+   "modelCn": "帝豪L",
+   "years": "2021-",
+   "searchNames": [
+    "帝豪L",
+    "吉利帝豪L"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利汽车",
+   "modelEn": "Haoyue L",
+   "modelCn": "豪越L",
+   "years": "2022-",
+   "searchNames": [
+    "豪越L",
+    "吉利豪越L"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利汽车",
+   "modelEn": "Jiayue",
+   "modelCn": "嘉际",
+   "years": "2019-",
+   "searchNames": [
+    "嘉际",
+    "吉利嘉际"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利银河",
+   "modelEn": "Galaxy L6",
+   "modelCn": "银河L6",
+   "years": "2023-",
+   "searchNames": [
+    "银河L6",
+    "吉利银河L6"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利银河",
+   "modelEn": "Galaxy L7",
+   "modelCn": "银河L7",
+   "years": "2023-",
+   "searchNames": [
+    "银河L7",
+    "吉利银河L7"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利银河",
+   "modelEn": "Galaxy E8",
+   "modelCn": "银河E8",
+   "years": "2023-",
+   "searchNames": [
+    "银河E8",
+    "吉利银河E8"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利银河",
+   "modelEn": "Galaxy E5",
+   "modelCn": "银河E5",
+   "years": "2024-",
+   "searchNames": [
+    "银河E5",
+    "吉利银河E5"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Geely",
+   "brandCn": "吉利银河",
+   "modelEn": "Galaxy Starship 7",
+   "modelCn": "银河星舰7",
+   "years": "2024-",
+   "searchNames": [
+    "银河星舰7",
+    "吉利银河星舰7"
+   ],
+   "note": "",
+   "_orig_brand": "吉利"
+  },
+  {
+   "brandEn": "Zeekr",
+   "brandCn": "极氪",
+   "modelEn": "001",
+   "modelCn": "极氪001",
+   "years": "2021-",
+   "searchNames": [
+    "极氪001",
+    "ZEEKR 001"
+   ],
+   "note": "",
+   "_orig_brand": "极氪"
+  },
+  {
+   "brandEn": "Zeekr",
+   "brandCn": "极氪",
+   "modelEn": "007",
+   "modelCn": "极氪007",
+   "years": "2023-",
+   "searchNames": [
+    "极氪007",
+    "ZEEKR 007"
+   ],
+   "note": "",
+   "_orig_brand": "极氪"
+  },
+  {
+   "brandEn": "Zeekr",
+   "brandCn": "极氪",
+   "modelEn": "009",
+   "modelCn": "极氪009",
+   "years": "2022-",
+   "searchNames": [
+    "极氪009",
+    "ZEEKR 009"
+   ],
+   "note": "",
+   "_orig_brand": "极氪"
+  },
+  {
+   "brandEn": "Zeekr",
+   "brandCn": "极氪",
+   "modelEn": "7X",
+   "modelCn": "极氪7X",
+   "years": "2024-",
+   "searchNames": [
+    "极氪7X",
+    "ZEEKR 7X"
+   ],
+   "note": "",
+   "_orig_brand": "极氪"
+  },
+  {
+   "brandEn": "Zeekr",
+   "brandCn": "极氪",
+   "modelEn": "MIX",
+   "modelCn": "极氪MIX",
+   "years": "2024-",
+   "searchNames": [
+    "极氪MIX",
+    "ZEEKR MIX"
+   ],
+   "note": "",
+   "_orig_brand": "极氪"
+  },
+  {
+   "brandEn": "Lynk",
+   "brandCn": "领克",
+   "modelEn": "01",
+   "modelCn": "领克01",
+   "years": "2017-",
+   "searchNames": [
+    "领克01"
+   ],
+   "note": "",
+   "_orig_brand": "领克"
+  },
+  {
+   "brandEn": "Lynk",
+   "brandCn": "领克",
+   "modelEn": "03",
+   "modelCn": "领克03",
+   "years": "2016-",
+   "searchNames": [
+    "领克03"
+   ],
+   "note": "",
+   "_orig_brand": "领克"
+  },
+  {
+   "brandEn": "Lynk",
+   "brandCn": "领克",
+   "modelEn": "05",
+   "modelCn": "领克05",
+   "years": "2020-",
+   "searchNames": [
+    "领克05"
+   ],
+   "note": "",
+   "_orig_brand": "领克"
+  },
+  {
+   "brandEn": "Lynk",
+   "brandCn": "领克",
+   "modelEn": "06",
+   "modelCn": "领克06",
+   "years": "2020-",
+   "searchNames": [
+    "领克06"
+   ],
+   "note": "",
+   "_orig_brand": "领克"
+  },
+  {
+   "brandEn": "Lynk",
+   "brandCn": "领克",
+   "modelEn": "08",
+   "modelCn": "领克08",
+   "years": "2023-",
+   "searchNames": [
+    "领克08"
+   ],
+   "note": "",
+   "_orig_brand": "领克"
+  },
+  {
+   "brandEn": "Lynk",
+   "brandCn": "领克",
+   "modelEn": "09",
+   "modelCn": "领克09",
+   "years": "2021-",
+   "searchNames": [
+    "领克09"
+   ],
+   "note": "",
+   "_orig_brand": "领克"
+  },
+  {
+   "brandEn": "Lynk",
+   "brandCn": "领克",
+   "modelEn": "Z10",
+   "modelCn": "领克Z10",
+   "years": "2024-",
+   "searchNames": [
+    "领克Z10"
+   ],
+   "note": "",
+   "_orig_brand": "领克"
+  },
+  {
+   "brandEn": "Lynk",
+   "brandCn": "领克",
+   "modelEn": "Z20",
+   "modelCn": "领克Z20",
+   "years": "2024-",
+   "searchNames": [
+    "领克Z20"
+   ],
+   "note": "",
+   "_orig_brand": "领克"
+  },
+  {
+   "brandEn": "Haval",
+   "brandCn": "哈弗",
+   "modelEn": "H6",
+   "modelCn": "哈弗H6",
+   "years": "2011-",
+   "searchNames": [
+    "哈弗H6"
+   ],
+   "note": "",
+   "_orig_brand": "哈弗"
+  },
+  {
+   "brandEn": "Haval",
+   "brandCn": "哈弗",
+   "modelEn": "H9",
+   "modelCn": "哈弗H9",
+   "years": "2014-",
+   "searchNames": [
+    "哈弗H9"
+   ],
+   "note": "",
+   "_orig_brand": "哈弗"
+  },
+  {
+   "brandEn": "Haval",
+   "brandCn": "哈弗",
+   "modelEn": "Dagou",
+   "modelCn": "哈弗大狗",
+   "years": "2020-",
+   "searchNames": [
+    "哈弗大狗"
+   ],
+   "note": "",
+   "_orig_brand": "哈弗"
+  },
+  {
+   "brandEn": "Haval",
+   "brandCn": "哈弗",
+   "modelEn": "Menglong",
+   "modelCn": "哈弗猛龙",
+   "years": "2023-",
+   "searchNames": [
+    "哈弗猛龙"
+   ],
+   "note": "越野倾向",
+   "_orig_brand": "哈弗"
+  },
+  {
+   "brandEn": "Haval",
+   "brandCn": "哈弗",
+   "modelEn": "H5",
+   "modelCn": "哈弗H5",
+   "years": "2022-",
+   "searchNames": [
+    "哈弗H5"
+   ],
+   "note": "",
+   "_orig_brand": "哈弗"
+  },
+  {
+   "brandEn": "Haval",
+   "brandCn": "哈弗",
+   "modelEn": "Chitu",
+   "modelCn": "哈弗赤兔",
+   "years": "2021-",
+   "searchNames": [
+    "哈弗赤兔"
+   ],
+   "note": "",
+   "_orig_brand": "哈弗"
+  },
+  {
+   "brandEn": "Haval",
+   "brandCn": "哈弗",
+   "modelEn": "Shen兽",
+   "modelCn": "哈弗神兽",
+   "years": "2021-",
+   "searchNames": [
+    "哈弗神兽"
+   ],
+   "note": "",
+   "_orig_brand": "哈弗"
+  },
+  {
+   "brandEn": "Haval",
+   "brandCn": "哈弗",
+   "modelEn": "Xiaolong MAX",
+   "modelCn": "哈弗枭龙MAX",
+   "years": "2023-",
+   "searchNames": [
+    "哈弗枭龙MAX"
+   ],
+   "note": "",
+   "_orig_brand": "哈弗"
+  },
+  {
+   "brandEn": "WEY",
+   "brandCn": "魏牌",
+   "modelEn": "Lanshan",
+   "modelCn": "魏牌蓝山",
+   "years": "2023-",
+   "searchNames": [
+    "魏牌蓝山",
+    "蓝山"
+   ],
+   "note": "",
+   "_orig_brand": "魏牌"
+  },
+  {
+   "brandEn": "WEY",
+   "brandCn": "魏牌",
+   "modelEn": "Mocha",
+   "modelCn": "魏牌摩卡",
+   "years": "2021-",
+   "searchNames": [
+    "魏牌摩卡",
+    "摩卡"
+   ],
+   "note": "",
+   "_orig_brand": "魏牌"
+  },
+  {
+   "brandEn": "WEY",
+   "brandCn": "魏牌",
+   "modelEn": "Nadia",
+   "modelCn": "魏牌拿铁",
+   "years": "2021-",
+   "searchNames": [
+    "魏牌拿铁",
+    "拿铁"
+   ],
+   "note": "",
+   "_orig_brand": "魏牌"
+  },
+  {
+   "brandEn": "WEY",
+   "brandCn": "魏牌",
+   "modelEn": "Gaoshan",
+   "modelCn": "魏牌高山",
+   "years": "2023-",
+   "searchNames": [
+    "魏牌高山",
+    "高山"
+   ],
+   "note": "",
+   "_orig_brand": "魏牌"
+  },
+  {
+   "brandEn": "Tank",
+   "brandCn": "坦克",
+   "modelEn": "300",
+   "modelCn": "坦克300",
+   "years": "2020-",
+   "searchNames": [
+    "坦克300"
+   ],
+   "note": "越野 Special",
+   "_orig_brand": "坦克"
+  },
+  {
+   "brandEn": "Tank",
+   "brandCn": "坦克",
+   "modelEn": "400",
+   "modelCn": "坦克400",
+   "years": "2023-",
+   "searchNames": [
+    "坦克400"
+   ],
+   "note": "越野 Special",
+   "_orig_brand": "坦克"
+  },
+  {
+   "brandEn": "Tank",
+   "brandCn": "坦克",
+   "modelEn": "500",
+   "modelCn": "坦克500",
+   "years": "2022-",
+   "searchNames": [
+    "坦克500"
+   ],
+   "note": "越野 Special",
+   "_orig_brand": "坦克"
+  },
+  {
+   "brandEn": "Tank",
+   "brandCn": "坦克",
+   "modelEn": "700",
+   "modelCn": "坦克700",
+   "years": "2024-",
+   "searchNames": [
+    "坦克700"
+   ],
+   "note": "越野 Special",
+   "_orig_brand": "坦克"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安",
+   "modelEn": "CS75 PLUS",
+   "modelCn": "长安CS75PLUS",
+   "years": "2019-",
+   "searchNames": [
+    "长安CS75PLUS",
+    "CS75PLUS"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安",
+   "modelEn": "CS55 PLUS",
+   "modelCn": "长安CS55PLUS",
+   "years": "2019-",
+   "searchNames": [
+    "长安CS55PLUS",
+    "CS55PLUS"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安",
+   "modelEn": "UNI-V",
+   "modelCn": "长安UNI-V",
+   "years": "2022-",
+   "searchNames": [
+    "长安UNI-V",
+    "UNI-V"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安",
+   "modelEn": "UNI-K",
+   "modelCn": "长安UNI-K",
+   "years": "2021-",
+   "searchNames": [
+    "长安UNI-K",
+    "UNI-K"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安",
+   "modelEn": "UNI-T",
+   "modelCn": "长安UNI-T",
+   "years": "2020-",
+   "searchNames": [
+    "长安UNI-T",
+    "UNI-T"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安",
+   "modelEn": "Yida",
+   "modelCn": "逸达",
+   "years": "2023-",
+   "searchNames": [
+    "逸达",
+    "长安逸达"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安",
+   "modelEn": "Yidong",
+   "modelCn": "逸动",
+   "years": "2012-",
+   "searchNames": [
+    "逸动",
+    "长安逸动"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安启源",
+   "modelEn": "Qiyuan A07",
+   "modelCn": "启源A07",
+   "years": "2023-",
+   "searchNames": [
+    "启源A07",
+    "长安启源A07"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安启源",
+   "modelEn": "Qiyuan A05",
+   "modelCn": "启源A05",
+   "years": "2023-",
+   "searchNames": [
+    "启源A05",
+    "长安启源A05"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Changan",
+   "brandCn": "长安启源",
+   "modelEn": "Qiyuan Q05",
+   "modelCn": "启源Q05",
+   "years": "2023-",
+   "searchNames": [
+    "启源Q05",
+    "长安启源Q05"
+   ],
+   "note": "",
+   "_orig_brand": "长安"
+  },
+  {
+   "brandEn": "Deepal",
+   "brandCn": "深蓝汽车",
+   "modelEn": "SL03",
+   "modelCn": "深蓝SL03",
+   "years": "2022-",
+   "searchNames": [
+    "深蓝SL03",
+    "SL03"
+   ],
+   "note": "",
+   "_orig_brand": "深蓝"
+  },
+  {
+   "brandEn": "Deepal",
+   "brandCn": "深蓝汽车",
+   "modelEn": "S7",
+   "modelCn": "深蓝S7",
+   "years": "2023-",
+   "searchNames": [
+    "深蓝S07"
+   ],
+   "note": "",
+   "_orig_brand": "深蓝"
+  },
+  {
+   "brandEn": "Deepal",
+   "brandCn": "深蓝汽车",
+   "modelEn": "L07",
+   "modelCn": "深蓝L07",
+   "years": "2024-",
+   "searchNames": [
+    "深蓝L07",
+    "L07"
+   ],
+   "note": "",
+   "_orig_brand": "深蓝"
+  },
+  {
+   "brandEn": "Deepal",
+   "brandCn": "深蓝汽车",
+   "modelEn": "S05",
+   "modelCn": "深蓝S05",
+   "years": "2024-",
+   "searchNames": [
+    "深蓝S05",
+    "S05"
+   ],
+   "note": "",
+   "_orig_brand": "深蓝"
+  },
+  {
+   "brandEn": "Avatr",
+   "brandCn": "阿维塔",
+   "modelEn": "11",
+   "modelCn": "阿维塔11",
+   "years": "2022-",
+   "searchNames": [
+    "阿维塔11"
+   ],
+   "note": "",
+   "_orig_brand": "阿维塔"
+  },
+  {
+   "brandEn": "Avatr",
+   "brandCn": "阿维塔",
+   "modelEn": "12",
+   "modelCn": "阿维塔12",
+   "years": "2023-",
+   "searchNames": [
+    "阿维塔12"
+   ],
+   "note": "",
+   "_orig_brand": "阿维塔"
+  },
+  {
+   "brandEn": "Avatr",
+   "brandCn": "阿维塔",
+   "modelEn": "07",
+   "modelCn": "阿维塔07",
+   "years": "2024-",
+   "searchNames": [
+    "阿维塔07"
+   ],
+   "note": "",
+   "_orig_brand": "阿维塔"
+  },
+  {
+   "brandEn": "Roewe",
+   "brandCn": "荣威",
+   "modelEn": "RX5",
+   "modelCn": "荣威RX5",
+   "years": "2016-",
+   "searchNames": [
+    "荣威RX5"
+   ],
+   "note": "",
+   "_orig_brand": "荣威"
+  },
+  {
+   "brandEn": "Roewe",
+   "brandCn": "荣威",
+   "modelEn": "i5",
+   "modelCn": "荣威i5",
+   "years": "2018-",
+   "searchNames": [
+    "荣威i5"
+   ],
+   "note": "",
+   "_orig_brand": "荣威"
+  },
+  {
+   "brandEn": "Roewe",
+   "brandCn": "荣威",
+   "modelEn": "i6",
+   "modelCn": "荣威i6",
+   "years": "2017-",
+   "searchNames": [
+    "荣威i6"
+   ],
+   "note": "",
+   "_orig_brand": "荣威"
+  },
+  {
+   "brandEn": "Roewe",
+   "brandCn": "荣威",
+   "modelEn": "D7",
+   "modelCn": "荣威D7",
+   "years": "2023-",
+   "searchNames": [
+    "荣威D7"
+   ],
+   "note": "",
+   "_orig_brand": "荣威"
+  },
+  {
+   "brandEn": "Roewe",
+   "brandCn": "荣威",
+   "modelEn": "D5X",
+   "modelCn": "荣威D5X",
+   "years": "2024-",
+   "searchNames": [
+    "荣威D5X"
+   ],
+   "note": "",
+   "_orig_brand": "荣威"
+  },
+  {
+   "brandEn": "MG",
+   "brandCn": "MG",
+   "modelEn": "MG4",
+   "modelCn": "名爵MG4",
+   "years": "2022-",
+   "searchNames": [
+    "名爵MG4",
+    "MG4"
+   ],
+   "note": "",
+   "_orig_brand": "名爵"
+  },
+  {
+   "brandEn": "MG",
+   "brandCn": "MG",
+   "modelEn": "MG5",
+   "modelCn": "名爵MG5",
+   "years": "2019-",
+   "searchNames": [
+    "名爵MG5",
+    "MG5"
+   ],
+   "note": "",
+   "_orig_brand": "名爵"
+  },
+  {
+   "brandEn": "MG",
+   "brandCn": "MG",
+   "modelEn": "MG7",
+   "modelCn": "名爵MG7",
+   "years": "2022-",
+   "searchNames": [
+    "名爵MG7",
+    "MG7"
+   ],
+   "note": "",
+   "_orig_brand": "名爵"
+  },
+  {
+   "brandEn": "MG",
+   "brandCn": "MG",
+   "modelEn": "MG ONE",
+   "modelCn": "名爵MG ONE",
+   "years": "2021-",
+   "searchNames": [
+    "名爵MG ONE",
+    "MG ONE"
+   ],
+   "note": "",
+   "_orig_brand": "名爵"
+  },
+  {
+   "brandEn": "MG",
+   "brandCn": "MG",
+   "modelEn": "ES5",
+   "modelCn": "名爵ES5",
+   "years": "2024-",
+   "searchNames": [
+    "MG ES5"
+   ],
+   "note": "",
+   "_orig_brand": "名爵"
+  },
+  {
+   "brandEn": "Rising",
+   "brandCn": "荣威",
+   "modelEn": "R7",
+   "modelCn": "飞凡R7",
+   "years": "2022-",
+   "searchNames": [
+    "飞凡R7",
+    "R7"
+   ],
+   "note": "",
+   "_orig_brand": "飞凡"
+  },
+  {
+   "brandEn": "Rising",
+   "brandCn": "荣威",
+   "modelEn": "F7",
+   "modelCn": "飞凡F7",
+   "years": "2023-",
+   "searchNames": [
+    "飞凡F7",
+    "F7"
+   ],
+   "note": "",
+   "_orig_brand": "飞凡"
+  },
+  {
+   "brandEn": "IM",
+   "brandCn": "智己汽车",
+   "modelEn": "L6",
+   "modelCn": "智己L6",
+   "years": "2024-",
+   "searchNames": [
+    "智己L6",
+    "L6"
+   ],
+   "note": "",
+   "_orig_brand": "智己"
+  },
+  {
+   "brandEn": "IM",
+   "brandCn": "智己汽车",
+   "modelEn": "L7",
+   "modelCn": "智己L7",
+   "years": "2022-",
+   "searchNames": [
+    "智己L7",
+    "L7"
+   ],
+   "note": "",
+   "_orig_brand": "智己"
+  },
+  {
+   "brandEn": "IM",
+   "brandCn": "智己汽车",
+   "modelEn": "LS6",
+   "modelCn": "智己LS6",
+   "years": "2023-",
+   "searchNames": [
+    "智己LS6",
+    "LS6"
+   ],
+   "note": "",
+   "_orig_brand": "智己"
+  },
+  {
+   "brandEn": "IM",
+   "brandCn": "智己汽车",
+   "modelEn": "LS7",
+   "modelCn": "智己LS7",
+   "years": "2022-",
+   "searchNames": [
+    "智己LS7",
+    "LS7"
+   ],
+   "note": "",
+   "_orig_brand": "智己"
+  },
+  {
+   "brandEn": "GAC",
+   "brandCn": "广汽传祺",
+   "modelEn": "GS4",
+   "modelCn": "传祺GS4",
+   "years": "2015-",
+   "searchNames": [
+    "传祺GS4",
+    "广汽传祺GS4"
+   ],
+   "note": "",
+   "_orig_brand": "广汽传祺"
+  },
+  {
+   "brandEn": "GAC",
+   "brandCn": "广汽传祺",
+   "modelEn": "GS8",
+   "modelCn": "传祺GS8",
+   "years": "2016-",
+   "searchNames": [
+    "传祺GS8",
+    "广汽传祺GS8"
+   ],
+   "note": "",
+   "_orig_brand": "广汽传祺"
+  },
+  {
+   "brandEn": "GAC",
+   "brandCn": "广汽传祺",
+   "modelEn": "M8",
+   "modelCn": "传祺M8",
+   "years": "2017-",
+   "searchNames": [
+    "传祺M8",
+    "广汽传祺M8"
+   ],
+   "note": "",
+   "_orig_brand": "广汽传祺"
+  },
+  {
+   "brandEn": "GAC",
+   "brandCn": "广汽传祺",
+   "modelEn": "M6",
+   "modelCn": "传祺M6",
+   "years": "2018-",
+   "searchNames": [
+    "传祺M6",
+    "广汽传祺M6"
+   ],
+   "note": "",
+   "_orig_brand": "广汽传祺"
+  },
+  {
+   "brandEn": "GAC",
+   "brandCn": "广汽传祺",
+   "modelEn": "Yingbao",
+   "modelCn": "传祺影豹",
+   "years": "2021-",
+   "searchNames": [
+    "传祺影豹",
+    "影豹"
+   ],
+   "note": "",
+   "_orig_brand": "广汽传祺"
+  },
+  {
+   "brandEn": "GAC",
+   "brandCn": "广汽传祺",
+   "modelEn": "Yingku",
+   "modelCn": "传祺影酷",
+   "years": "2022-",
+   "searchNames": [
+    "传祺影酷",
+    "影酷"
+   ],
+   "note": "",
+   "_orig_brand": "广汽传祺"
+  },
+  {
+   "brandEn": "GAC",
+   "brandCn": "广汽传祺",
+   "modelEn": "E8",
+   "modelCn": "传祺E8",
+   "years": "2023-",
+   "searchNames": [
+    "传祺E8",
+    "广汽传祺E8"
+   ],
+   "note": "",
+   "_orig_brand": "广汽传祺"
+  },
+  {
+   "brandEn": "GAC",
+   "brandCn": "广汽传祺",
+   "modelEn": "E9",
+   "modelCn": "传祺E9",
+   "years": "2022-",
+   "searchNames": [
+    "传祺E9",
+    "广汽传祺E9"
+   ],
+   "note": "",
+   "_orig_brand": "广汽传祺"
+  },
+  {
+   "brandEn": "AION",
+   "brandCn": "埃安",
+   "modelEn": "AION S",
+   "modelCn": "AION S",
+   "years": "2019-",
+   "searchNames": [
+    "AION S",
+    "埃安AION S"
+   ],
+   "note": "",
+   "_orig_brand": "埃安"
+  },
+  {
+   "brandEn": "AION",
+   "brandCn": "埃安",
+   "modelEn": "AION Y",
+   "modelCn": "AION Y",
+   "years": "2021-",
+   "searchNames": [
+    "AION Y",
+    "埃安AION Y"
+   ],
+   "note": "",
+   "_orig_brand": "埃安"
+  },
+  {
+   "brandEn": "AION",
+   "brandCn": "埃安",
+   "modelEn": "AION V",
+   "modelCn": "AION V",
+   "years": "2020-",
+   "searchNames": [
+    "AION V",
+    "埃安AION V"
+   ],
+   "note": "",
+   "_orig_brand": "埃安"
+  },
+  {
+   "brandEn": "AION",
+   "brandCn": "埃安",
+   "modelEn": "AION Y Plus",
+   "modelCn": "AION Y Plus",
+   "years": "2022-",
+   "searchNames": [
+    "AION Y Plus",
+    "埃安AION Y Plus"
+   ],
+   "note": "",
+   "_orig_brand": "埃安"
+  },
+  {
+   "brandEn": "AION",
+   "brandCn": "埃安",
+   "modelEn": "AION RT",
+   "modelCn": "AION RT",
+   "years": "2024-",
+   "searchNames": [
+    "AION RT",
+    "埃安AION RT"
+   ],
+   "note": "",
+   "_orig_brand": "埃安"
+  },
+  {
+   "brandEn": "AION",
+   "brandCn": "广汽昊铂",
+   "modelEn": "Hyper HT",
+   "modelCn": "昊铂HT",
+   "years": "2023-",
+   "searchNames": [
+    "昊铂HT",
+    "Hyper HT"
+   ],
+   "note": "",
+   "_orig_brand": "埃安"
+  },
+  {
+   "brandEn": "AION",
+   "brandCn": "广汽昊铂",
+   "modelEn": "Hyper GT",
+   "modelCn": "昊铂GT",
+   "years": "2023-",
+   "searchNames": [
+    "昊铂GT",
+    "Hyper GT"
+   ],
+   "note": "",
+   "_orig_brand": "埃安"
+  },
+  {
+   "brandEn": "AION",
+   "brandCn": "广汽昊铂",
+   "modelEn": "Hyper SSR",
+   "modelCn": "昊铂SSR",
+   "years": "2023-",
+   "searchNames": [
+    "昊铂SSR",
+    "Hyper SSR"
+   ],
+   "note": "性能 Special",
+   "_orig_brand": "埃安"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Tiggo 7",
+   "modelCn": "瑞虎7",
+   "years": "2016-",
+   "searchNames": [
+    "瑞虎7",
+    "奇瑞瑞虎7"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Tiggo 8",
+   "modelCn": "瑞虎8",
+   "years": "2018-",
+   "searchNames": [
+    "瑞虎8",
+    "奇瑞瑞虎8"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Tiggo 9",
+   "modelCn": "瑞虎9",
+   "years": "2023-",
+   "searchNames": [
+    "瑞虎9",
+    "奇瑞瑞虎9"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Tiggo 8 PRO",
+   "modelCn": "瑞虎8 PRO",
+   "years": "2021-",
+   "searchNames": [
+    "瑞虎8 PRO",
+    "奇瑞瑞虎8 PRO"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Arrizo 8",
+   "modelCn": "艾瑞泽8",
+   "years": "2022-",
+   "searchNames": [
+    "艾瑞泽8",
+    "奇瑞艾瑞泽8"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Arrizo 5",
+   "modelCn": "艾瑞泽5",
+   "years": "2016-",
+   "searchNames": [
+    "艾瑞泽5",
+    "奇瑞艾瑞泽5"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Fengyun A8",
+   "modelCn": "风云A8",
+   "years": "2024-",
+   "searchNames": [
+    "风云A8",
+    "奇瑞风云A8"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Fengyun T9",
+   "modelCn": "风云T9",
+   "years": "2024-",
+   "searchNames": [
+    "风云T9",
+    "奇瑞风云T9"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Chery",
+   "brandCn": "奇瑞",
+   "modelEn": "Fengyun T10",
+   "modelCn": "风云T10",
+   "years": "2024-",
+   "searchNames": [
+    "风云T10",
+    "奇瑞风云T10"
+   ],
+   "note": "",
+   "_orig_brand": "奇瑞"
+  },
+  {
+   "brandEn": "Exeed",
+   "brandCn": "星途",
+   "modelEn": "Yaoguang",
+   "modelCn": "星途瑶光",
+   "years": "2023-",
+   "searchNames": [
+    "星途瑶光",
+    "瑶光"
+   ],
+   "note": "",
+   "_orig_brand": "星途"
+  },
+  {
+   "brandEn": "Exeed",
+   "brandCn": "星途",
+   "modelEn": "Lanyue",
+   "modelCn": "星途揽月",
+   "years": "2021-",
+   "searchNames": [
+    "星途揽月",
+    "揽月"
+   ],
+   "note": "",
+   "_orig_brand": "星途"
+  },
+  {
+   "brandEn": "Exeed",
+   "brandCn": "星途",
+   "modelEn": "Lingyun",
+   "modelCn": "星途凌云",
+   "years": "2020-",
+   "searchNames": [
+    "星途凌云",
+    "凌云"
+   ],
+   "note": "",
+   "_orig_brand": "星途"
+  },
+  {
+   "brandEn": "Exeed",
+   "brandCn": "星途",
+   "modelEn": "ET",
+   "modelCn": "星途ET",
+   "years": "2025-",
+   "searchNames": [
+    "星途ET",
+    "ET"
+   ],
+   "note": "",
+   "_orig_brand": "星途"
+  },
+  {
+   "brandEn": "Exeed",
+   "brandCn": "星途",
+   "modelEn": "ES",
+   "modelCn": "星途ES",
+   "years": "2025-",
+   "searchNames": [
+    "星途ES",
+    "ES"
+   ],
+   "note": "",
+   "_orig_brand": "星途"
+  },
+  {
+   "brandEn": "iCAR",
+   "brandCn": "iCAR",
+   "modelEn": "03",
+   "modelCn": "iCAR 03",
+   "years": "2024-",
+   "searchNames": [
+    "iCAR 03",
+    "iCAR03"
+   ],
+   "note": "",
+   "_orig_brand": "iCAR"
+  },
+  {
+   "brandEn": "iCAR",
+   "brandCn": "iCAR",
+   "modelEn": "V23",
+   "modelCn": "iCAR V23",
+   "years": "2024-",
+   "searchNames": [
+    "iCAR V23",
+    "iCARV23"
+   ],
+   "note": "",
+   "_orig_brand": "iCAR"
+  },
+  {
+   "brandEn": "NIO",
+   "brandCn": "蔚来",
+   "modelEn": "ET5",
+   "modelCn": "蔚来ET5",
+   "years": "2022-",
+   "searchNames": [
+    "蔚来ET5",
+    "ET5"
+   ],
+   "note": "",
+   "_orig_brand": "蔚来"
+  },
+  {
+   "brandEn": "NIO",
+   "brandCn": "蔚来",
+   "modelEn": "ET5T",
+   "modelCn": "蔚来ET5T",
+   "years": "2023-",
+   "searchNames": [
+    "蔚来ET5T",
+    "ET5T"
+   ],
+   "note": "",
+   "_orig_brand": "蔚来"
+  },
+  {
+   "brandEn": "NIO",
+   "brandCn": "蔚来",
+   "modelEn": "ET7",
+   "modelCn": "蔚来ET7",
+   "years": "2021-",
+   "searchNames": [
+    "蔚来ET7",
+    "ET7"
+   ],
+   "note": "",
+   "_orig_brand": "蔚来"
+  },
+  {
+   "brandEn": "NIO",
+   "brandCn": "蔚来",
+   "modelEn": "EC6",
+   "modelCn": "蔚来EC6",
+   "years": "2020-",
+   "searchNames": [
+    "蔚来EC6",
+    "EC6"
+   ],
+   "note": "",
+   "_orig_brand": "蔚来"
+  },
+  {
+   "brandEn": "NIO",
+   "brandCn": "蔚来",
+   "modelEn": "EC7",
+   "modelCn": "蔚来EC7",
+   "years": "2022-",
+   "searchNames": [
+    "蔚来EC7",
+    "EC7"
+   ],
+   "note": "",
+   "_orig_brand": "蔚来"
+  },
+  {
+   "brandEn": "NIO",
+   "brandCn": "蔚来",
+   "modelEn": "ES6",
+   "modelCn": "蔚来ES6",
+   "years": "2019-",
+   "searchNames": [
+    "蔚来ES6",
+    "ES6"
+   ],
+   "note": "",
+   "_orig_brand": "蔚来"
+  },
+  {
+   "brandEn": "NIO",
+   "brandCn": "蔚来",
+   "modelEn": "ES7",
+   "modelCn": "蔚来ES7",
+   "years": "2022-",
+   "searchNames": [
+    "蔚来ES7",
+    "ES7"
+   ],
+   "note": "",
+   "_orig_brand": "蔚来"
+  },
+  {
+   "brandEn": "NIO",
+   "brandCn": "蔚来",
+   "modelEn": "ES8",
+   "modelCn": "蔚来ES8",
+   "years": "2018-",
+   "searchNames": [
+    "蔚来ES8",
+    "ES8"
+   ],
+   "note": "",
+   "_orig_brand": "蔚来"
+  },
+  {
+   "brandEn": "ONVO",
+   "brandCn": "乐道",
+   "modelEn": "L60",
+   "modelCn": "乐道L60",
+   "years": "2024-",
+   "searchNames": [
+    "乐道L60",
+    "L60"
+   ],
+   "note": "",
+   "_orig_brand": "乐道"
+  },
+  {
+   "brandEn": "FIREFLY",
+   "brandCn": "firefly萤火虫",
+   "modelEn": "Firefly",
+   "modelCn": "萤火虫",
+   "years": "2025-",
+   "searchNames": [
+    "萤火虫",
+    "Firefly"
+   ],
+   "note": "",
+   "_orig_brand": "萤火虫"
+  },
+  {
+   "brandEn": "Li Auto",
+   "brandCn": "理想汽车",
+   "modelEn": "L6",
+   "modelCn": "理想L6",
+   "years": "2024-",
+   "searchNames": [
+    "理想L6",
+    "L6"
+   ],
+   "note": "",
+   "_orig_brand": "理想"
+  },
+  {
+   "brandEn": "Li Auto",
+   "brandCn": "理想汽车",
+   "modelEn": "L7",
+   "modelCn": "理想L7",
+   "years": "2022-",
+   "searchNames": [
+    "理想L7",
+    "L7"
+   ],
+   "note": "",
+   "_orig_brand": "理想"
+  },
+  {
+   "brandEn": "Li Auto",
+   "brandCn": "理想汽车",
+   "modelEn": "L8",
+   "modelCn": "理想L8",
+   "years": "2022-",
+   "searchNames": [
+    "理想L8",
+    "L8"
+   ],
+   "note": "",
+   "_orig_brand": "理想"
+  },
+  {
+   "brandEn": "Li Auto",
+   "brandCn": "理想汽车",
+   "modelEn": "L9",
+   "modelCn": "理想L9",
+   "years": "2021-",
+   "searchNames": [
+    "理想L9",
+    "L9"
+   ],
+   "note": "",
+   "_orig_brand": "理想"
+  },
+  {
+   "brandEn": "Li Auto",
+   "brandCn": "理想汽车",
+   "modelEn": "MEGA",
+   "modelCn": "理想MEGA",
+   "years": "2024-",
+   "searchNames": [
+    "理想MEGA",
+    "MEGA"
+   ],
+   "note": "旗舰倾向",
+   "_orig_brand": "理想"
+  },
+  {
+   "brandEn": "XPeng",
+   "brandCn": "小鹏",
+   "modelEn": "G6",
+   "modelCn": "小鹏G6",
+   "years": "2023-",
+   "searchNames": [
+    "小鹏G6",
+    "G6"
+   ],
+   "note": "",
+   "_orig_brand": "小鹏"
+  },
+  {
+   "brandEn": "XPeng",
+   "brandCn": "小鹏",
+   "modelEn": "G9",
+   "modelCn": "小鹏G9",
+   "years": "2022-",
+   "searchNames": [
+    "小鹏G9",
+    "G9"
+   ],
+   "note": "",
+   "_orig_brand": "小鹏"
+  },
+  {
+   "brandEn": "XPeng",
+   "brandCn": "小鹏",
+   "modelEn": "P7",
+   "modelCn": "小鹏P7",
+   "years": "2020-",
+   "searchNames": [
+    "小鹏P7",
+    "P7"
+   ],
+   "note": "",
+   "_orig_brand": "小鹏"
+  },
+  {
+   "brandEn": "XPeng",
+   "brandCn": "小鹏",
+   "modelEn": "P7+",
+   "modelCn": "小鹏P7+",
+   "years": "2024-",
+   "searchNames": [
+    "小鹏P7+",
+    "P7+"
+   ],
+   "note": "",
+   "_orig_brand": "小鹏"
+  },
+  {
+   "brandEn": "XPeng",
+   "brandCn": "小鹏",
+   "modelEn": "X9",
+   "modelCn": "小鹏X9",
+   "years": "2024-",
+   "searchNames": [
+    "小鹏X9",
+    "X9"
+   ],
+   "note": "",
+   "_orig_brand": "小鹏"
+  },
+  {
+   "brandEn": "XPeng",
+   "brandCn": "小鹏",
+   "modelEn": "MONA M03",
+   "modelCn": "小鹏MONA M03",
+   "years": "2024-",
+   "searchNames": [
+    "小鹏MONA M03",
+    "MONA M03"
+   ],
+   "note": "",
+   "_orig_brand": "小鹏"
+  },
+  {
+   "brandEn": "Leapmotor",
+   "brandCn": "零跑汽车",
+   "modelEn": "C01",
+   "modelCn": "零跑C01",
+   "years": "2022-",
+   "searchNames": [
+    "零跑C01",
+    "C01"
+   ],
+   "note": "",
+   "_orig_brand": "零跑"
+  },
+  {
+   "brandEn": "Leapmotor",
+   "brandCn": "零跑汽车",
+   "modelEn": "C10",
+   "modelCn": "零跑C10",
+   "years": "2024-",
+   "searchNames": [
+    "零跑C10",
+    "C10"
+   ],
+   "note": "",
+   "_orig_brand": "零跑"
+  },
+  {
+   "brandEn": "Leapmotor",
+   "brandCn": "零跑汽车",
+   "modelEn": "C11",
+   "modelCn": "零跑C11",
+   "years": "2021-",
+   "searchNames": [
+    "零跑C11",
+    "C11"
+   ],
+   "note": "",
+   "_orig_brand": "零跑"
+  },
+  {
+   "brandEn": "Leapmotor",
+   "brandCn": "零跑汽车",
+   "modelEn": "C16",
+   "modelCn": "零跑C16",
+   "years": "2024-",
+   "searchNames": [
+    "零跑C16",
+    "C16"
+   ],
+   "note": "",
+   "_orig_brand": "零跑"
+  },
+  {
+   "brandEn": "Leapmotor",
+   "brandCn": "零跑汽车",
+   "modelEn": "T03",
+   "modelCn": "零跑T03",
+   "years": "2020-",
+   "searchNames": [
+    "零跑T03",
+    "T03"
+   ],
+   "note": "",
+   "_orig_brand": "零跑"
+  },
+  {
+   "brandEn": "NETA",
+   "brandCn": "哪吒汽车",
+   "modelEn": "S",
+   "modelCn": "哪吒S",
+   "years": "2022-",
+   "searchNames": [
+    "哪吒S",
+    "S"
+   ],
+   "note": "",
+   "_orig_brand": "哪吒"
+  },
+  {
+   "brandEn": "NETA",
+   "brandCn": "哪吒汽车",
+   "modelEn": "GT",
+   "modelCn": "哪吒GT",
+   "years": "2023-",
+   "searchNames": [
+    "哪吒GT",
+    "GT"
+   ],
+   "note": "性能 Special",
+   "_orig_brand": "哪吒"
+  },
+  {
+   "brandEn": "NETA",
+   "brandCn": "哪吒汽车",
+   "modelEn": "X",
+   "modelCn": "哪吒X",
+   "years": "2023-",
+   "searchNames": [
+    "哪吒X",
+    "X"
+   ],
+   "note": "",
+   "_orig_brand": "哪吒"
+  },
+  {
+   "brandEn": "NETA",
+   "brandCn": "哪吒汽车",
+   "modelEn": "L",
+   "modelCn": "哪吒L",
+   "years": "2024-",
+   "searchNames": [
+    "哪吒L",
+    "L"
+   ],
+   "note": "",
+   "_orig_brand": "哪吒"
+  },
+  {
+   "brandEn": "NETA",
+   "brandCn": "哪吒汽车",
+   "modelEn": "AYA",
+   "modelCn": "哪吒AYA",
+   "years": "2023-",
+   "searchNames": [
+    "哪吒AYA",
+    "AYA"
+   ],
+   "note": "",
+   "_orig_brand": "哪吒"
+  },
+  {
+   "brandEn": "AITO",
+   "brandCn": "AITO 问界",
+   "modelEn": "M5",
+   "modelCn": "问界M5",
+   "years": "2022-",
+   "searchNames": [
+    "问界M5",
+    "M5"
+   ],
+   "note": "",
+   "_orig_brand": "问界"
+  },
+  {
+   "brandEn": "AITO",
+   "brandCn": "AITO 问界",
+   "modelEn": "M7",
+   "modelCn": "问界M7",
+   "years": "2022-",
+   "searchNames": [
+    "问界M7",
+    "M7"
+   ],
+   "note": "",
+   "_orig_brand": "问界"
+  },
+  {
+   "brandEn": "AITO",
+   "brandCn": "AITO 问界",
+   "modelEn": "M9",
+   "modelCn": "问界M9",
+   "years": "2023-",
+   "searchNames": [
+    "问界M9",
+    "M9"
+   ],
+   "note": "",
+   "_orig_brand": "问界"
+  },
+  {
+   "brandEn": "AITO",
+   "brandCn": "AITO 问界",
+   "modelEn": "M8",
+   "modelCn": "问界M8",
+   "years": "2025-",
+   "searchNames": [
+    "问界M8",
+    "M8"
+   ],
+   "note": "",
+   "_orig_brand": "问界"
+  },
+  {
+   "brandEn": "Voyah",
+   "brandCn": "岚图汽车",
+   "modelEn": "FREE",
+   "modelCn": "岚图FREE",
+   "years": "2021-",
+   "searchNames": [
+    "岚图FREE",
+    "FREE"
+   ],
+   "note": "",
+   "_orig_brand": "岚图"
+  },
+  {
+   "brandEn": "Voyah",
+   "brandCn": "岚图汽车",
+   "modelEn": "Dream",
+   "modelCn": "岚图梦想家",
+   "years": "2022-",
+   "searchNames": [
+    "岚图梦想家",
+    "梦想家"
+   ],
+   "note": "",
+   "_orig_brand": "岚图"
+  },
+  {
+   "brandEn": "Voyah",
+   "brandCn": "岚图汽车",
+   "modelEn": "Zhuiguang",
+   "modelCn": "岚图追光",
+   "years": "2023-",
+   "searchNames": [
+    "岚图追光",
+    "追光"
+   ],
+   "note": "",
+   "_orig_brand": "岚图"
+  },
+  {
+   "brandEn": "Voyah",
+   "brandCn": "岚图汽车",
+   "modelEn": "Zhixin",
+   "modelCn": "岚图知音",
+   "years": "2024-",
+   "searchNames": [
+    "岚图知音",
+    "知音"
+   ],
+   "note": "",
+   "_orig_brand": "岚图"
+  },
+  {
+   "brandEn": "Hongqi",
+   "brandCn": "红旗",
+   "modelEn": "H5",
+   "modelCn": "红旗H5",
+   "years": "2018-",
+   "searchNames": [
+    "红旗H5",
+    "H5"
+   ],
+   "note": "",
+   "_orig_brand": "红旗"
+  },
+  {
+   "brandEn": "Hongqi",
+   "brandCn": "红旗",
+   "modelEn": "H9",
+   "modelCn": "红旗H9",
+   "years": "2020-",
+   "searchNames": [
+    "红旗H9",
+    "H9"
+   ],
+   "note": "",
+   "_orig_brand": "红旗"
+  },
+  {
+   "brandEn": "Hongqi",
+   "brandCn": "红旗",
+   "modelEn": "HS5",
+   "modelCn": "红旗HS5",
+   "years": "2019-",
+   "searchNames": [
+    "红旗HS5",
+    "HS5"
+   ],
+   "note": "",
+   "_orig_brand": "红旗"
+  },
+  {
+   "brandEn": "Hongqi",
+   "brandCn": "红旗",
+   "modelEn": "E-HS9",
+   "modelCn": "红旗E-HS9",
+   "years": "2020-",
+   "searchNames": [
+    "红旗E-HS9",
+    "E-HS9"
+   ],
+   "note": "",
+   "_orig_brand": "红旗"
+  },
+  {
+   "brandEn": "Hongqi",
+   "brandCn": "红旗",
+   "modelEn": "HQ9",
+   "modelCn": "红旗HQ9",
+   "years": "2022-",
+   "searchNames": [
+    "红旗HQ9",
+    "HQ9"
+   ],
+   "note": "",
+   "_orig_brand": "红旗"
+  },
+  {
+   "brandEn": "Hongqi",
+   "brandCn": "红旗",
+   "modelEn": "E-QM5",
+   "modelCn": "红旗E-QM5",
+   "years": "2021-",
+   "searchNames": [
+    "红旗E-QM5",
+    "E-QM5"
+   ],
+   "note": "",
+   "_orig_brand": "红旗"
+  },
+  {
+   "brandEn": "Bestune",
+   "brandCn": "奔腾",
+   "modelEn": "B70",
+   "modelCn": "奔腾B70",
+   "years": "2006-",
+   "searchNames": [
+    "奔腾B70",
+    "B70"
+   ],
+   "note": "",
+   "_orig_brand": "奔腾"
+  },
+  {
+   "brandEn": "Bestune",
+   "brandCn": "奔腾",
+   "modelEn": "T90",
+   "modelCn": "奔腾T90",
+   "years": "2023-",
+   "searchNames": [
+    "奔腾T90",
+    "T90"
+   ],
+   "note": "",
+   "_orig_brand": "奔腾"
+  },
+  {
+   "brandEn": "Bestune",
+   "brandCn": "奔腾",
+   "modelEn": "T77",
+   "modelCn": "奔腾T77",
+   "years": "2018-",
+   "searchNames": [
+    "奔腾T77",
+    "T77"
+   ],
+   "note": "",
+   "_orig_brand": "奔腾"
+  },
+  {
+   "brandEn": "Arcfox",
+   "brandCn": "ARCFOX极狐",
+   "modelEn": "Alpha S",
+   "modelCn": "极狐阿尔法S",
+   "years": "2021-",
+   "searchNames": [
+    "极狐阿尔法S",
+    "阿尔法S"
+   ],
+   "note": "",
+   "_orig_brand": "极狐"
+  },
+  {
+   "brandEn": "Arcfox",
+   "brandCn": "ARCFOX极狐",
+   "modelEn": "Alpha T",
+   "modelCn": "极狐阿尔法T",
+   "years": "2021-",
+   "searchNames": [
+    "极狐阿尔法T",
+    "阿尔法T"
+   ],
+   "note": "",
+   "_orig_brand": "极狐"
+  },
+  {
+   "brandEn": "Arcfox",
+   "brandCn": "ARCFOX极狐",
+   "modelEn": "Kaola",
+   "modelCn": "极狐考拉",
+   "years": "2023-",
+   "searchNames": [
+    "极狐考拉",
+    "考拉"
+   ],
+   "note": "",
+   "_orig_brand": "极狐"
+  },
+  {
+   "brandEn": "Beijing",
+   "brandCn": "北京越野",
+   "modelEn": "BJ30",
+   "modelCn": "北京BJ30",
+   "years": "2024-",
+   "searchNames": [
+    "北京BJ30",
+    "BJ30"
+   ],
+   "note": "",
+   "_orig_brand": "北京"
+  },
+  {
+   "brandEn": "Beijing",
+   "brandCn": "北京越野",
+   "modelEn": "BJ40",
+   "modelCn": "北京BJ40",
+   "years": "2013-",
+   "searchNames": [
+    "北京BJ40",
+    "BJ40"
+   ],
+   "note": "越野 Special",
+   "_orig_brand": "北京"
+  },
+  {
+   "brandEn": "Beijing",
+   "brandCn": "北京越野",
+   "modelEn": "BJ60",
+   "modelCn": "北京BJ60",
+   "years": "2022-",
+   "searchNames": [
+    "北京BJ60",
+    "BJ60"
+   ],
+   "note": "越野倾向",
+   "_orig_brand": "北京"
+  }
+ ]
+}

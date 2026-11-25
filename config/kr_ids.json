@@ -1,0 +1,1685 @@
+[
+ {
+  "id": "HYD_Sonata_NF_2005",
+  "model": "索纳塔",
+  "y0": "2005",
+  "y1": "2008",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Sonata_NF_Facelift_2008",
+  "model": "索纳塔",
+  "y0": "2008",
+  "y1": "2010",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Sonata_YF_2009",
+  "model": "索纳塔",
+  "y0": "2009",
+  "y1": "2014",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Sonata_LF_2015",
+  "model": "索纳塔九",
+  "y0": "2015",
+  "y1": "2019",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Sonata_LF_Facelift_2017",
+  "model": "索纳塔九",
+  "y0": "2017",
+  "y1": "2019",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Sonata_DN8_2020",
+  "model": "索纳塔十",
+  "y0": "2020",
+  "y1": "2023",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Sonata_DN8_Facelift_2023",
+  "model": "索纳塔",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Sonata_Hybrid_DN8_2020",
+  "model": "索纳塔 混动",
+  "y0": "2020",
+  "y1": "2023",
+  "body": "4-door Sedan",
+  "power": "HEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Elantra_HD_2005",
+  "model": "伊兰特",
+  "y0": "2005",
+  "y1": "2010",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Elantra_YF_Elantra_2011",
+  "model": "伊兰特",
+  "y0": "2011",
+  "y1": "2015",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Elantra_AD_2016",
+  "model": "伊兰特",
+  "y0": "2016",
+  "y1": "2020",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Elantra_AD_Facelift_2019",
+  "model": "伊兰特",
+  "y0": "2019",
+  "y1": "2020",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Elantra_CN7_2021",
+  "model": "伊兰特",
+  "y0": "2021",
+  "y1": "2026",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Elantra_CN7_Facelift_2024",
+  "model": "伊兰特",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Elantra_Hybrid_CN7_2021",
+  "model": "伊兰特 混动",
+  "y0": "2021",
+  "y1": "2026",
+  "body": "4-door Sedan",
+  "power": "HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Tucson_JM_2005",
+  "model": "途胜",
+  "y0": "2005",
+  "y1": "2010",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Tucson_JM_Facelift_2008",
+  "model": "途胜",
+  "y0": "2008",
+  "y1": "2010",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_IX35_LM_2010",
+  "model": "ix35",
+  "y0": "2010",
+  "y1": "2015",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_IX35_LM_Facelift_2013",
+  "model": "ix35",
+  "y0": "2013",
+  "y1": "2015",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Tucson_TL_2015",
+  "model": "途胜",
+  "y0": "2015",
+  "y1": "2020",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Tucson_TL_Facelift_2018",
+  "model": "途胜",
+  "y0": "2018",
+  "y1": "2020",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Tucson_NX4_2021",
+  "model": "途胜L",
+  "y0": "2021",
+  "y1": "2026",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Tucson_NX4_Facelift_2024",
+  "model": "途胜L",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Tucson_Hybrid_NX4_2022",
+  "model": "途胜L 混动",
+  "y0": "2022",
+  "y1": "2026",
+  "body": "Compact SUV",
+  "power": "HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Custo_PU_2020",
+  "model": "库斯途",
+  "y0": "2020",
+  "y1": "2026",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_SantaFe_CM_2006",
+  "model": "胜达",
+  "y0": "2006",
+  "y1": "2010",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_SantaFe_DM_2012",
+  "model": "胜达",
+  "y0": "2012",
+  "y1": "2018",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_SantaFe_DM_Facelift_2015",
+  "model": "胜达",
+  "y0": "2015",
+  "y1": "2018",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_SantaFe_TM_2018",
+  "model": "胜达",
+  "y0": "2018",
+  "y1": "2023",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_SantaFe_TM_Facelift_2020",
+  "model": "胜达",
+  "y0": "2020",
+  "y1": "2023",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_SantaFe_LX5_2023",
+  "model": "胜达",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Mid-size SUV",
+  "power": "ICE/HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_SantaFe_LX5_Hybrid_2024",
+  "model": "胜达 混动",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Mid-size SUV",
+  "power": "HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Palisade_LD_2019",
+  "model": "Palisade",
+  "y0": "2019",
+  "y1": "2023",
+  "body": "Full-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Palisade_LD_Facelift_2022",
+  "model": "Palisade",
+  "y0": "2022",
+  "y1": "2025",
+  "body": "Full-size SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Palisade_LD2_2025",
+  "model": "Palisade",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "Full-size SUV",
+  "power": "ICE/HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Nexo_FE_2018",
+  "model": "Nexo",
+  "y0": "2018",
+  "y1": "2023",
+  "body": "Mid-size SUV",
+  "power": "FCEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Nexo_FE_Facelift_2022",
+  "model": "Nexo",
+  "y0": "2022",
+  "y1": "2026",
+  "body": "Mid-size SUV",
+  "power": "FCEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Ioniq5_NE_2021",
+  "model": "Ioniq 5",
+  "y0": "2021",
+  "y1": "2024",
+  "body": "Compact Crossover SUV",
+  "power": "BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Ioniq5_NE_Facelift_2024",
+  "model": "Ioniq 5",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Compact Crossover SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Ioniq5_XRT_2025",
+  "model": "Ioniq 5 XRT",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "Compact Crossover SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Ioniq6_CE_2022",
+  "model": "Ioniq 6",
+  "y0": "2022",
+  "y1": "2025",
+  "body": "4-door Sedan",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Ioniq6_CE_Facelift_2025",
+  "model": "Ioniq 6",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "4-door Sedan",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Ioniq_AE_2017",
+  "model": "Ioniq",
+  "y0": "2017",
+  "y1": "2019",
+  "body": "5-door Hatchback",
+  "power": "HEV/PHEV/BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Ioniq_AE_Facelift_2019",
+  "model": "Ioniq",
+  "y0": "2019",
+  "y1": "2022",
+  "body": "5-door Hatchback",
+  "power": "HEV/PHEV/BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Kona_OS_2018",
+  "model": "Kona",
+  "y0": "2018",
+  "y1": "2020",
+  "body": "Subcompact SUV",
+  "power": "ICE/BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Kona_OS_Facelift_2020",
+  "model": "Kona",
+  "y0": "2020",
+  "y1": "2023",
+  "body": "Subcompact SUV",
+  "power": "ICE/BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Kona_EV_OS_2019",
+  "model": "Kona EV",
+  "y0": "2019",
+  "y1": "2023",
+  "body": "Subcompact SUV",
+  "power": "BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Kona_NX4_2023",
+  "model": "Kona",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Subcompact SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Kona_EV_NX4_2023",
+  "model": "Kona EV",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Subcompact SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Kona_N_NX4_2024",
+  "model": "Kona N",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Subcompact SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Staria_US4_2022",
+  "model": "Staria",
+  "y0": "2022",
+  "y1": "2026",
+  "body": "MPV/Minivan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Staria_Hybrid_US4_2024",
+  "model": "Staria 混动",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "MPV/Minivan",
+  "power": "HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Lafesta_CN_2018",
+  "model": "菲斯塔",
+  "y0": "2018",
+  "y1": "2022",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Lafesta_Facelift_2022",
+  "model": "菲斯塔",
+  "y0": "2022",
+  "y1": "2025",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Lafesta_EV_2022",
+  "model": "菲斯塔纯电",
+  "y0": "2022",
+  "y1": "2025",
+  "body": "4-door Sedan",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Mistra_DF_2013",
+  "model": "名图",
+  "y0": "2013",
+  "y1": "2017",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Mistra_DF_Facelift_2017",
+  "model": "名图",
+  "y0": "2017",
+  "y1": "2020",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Mistra_DF2_2020",
+  "model": "名图",
+  "y0": "2020",
+  "y1": "2023",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Mistra_EV_2021",
+  "model": "名图纯电",
+  "y0": "2021",
+  "y1": "2023",
+  "body": "4-door Sedan",
+  "power": "BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Encino_RC_2018",
+  "model": "昂希诺",
+  "y0": "2018",
+  "y1": "2021",
+  "body": "Subcompact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Encino_EV_2019",
+  "model": "昂希诺纯电",
+  "y0": "2019",
+  "y1": "2022",
+  "body": "Subcompact SUV",
+  "power": "BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Verna_MC_2005",
+  "model": "瑞纳",
+  "y0": "2005",
+  "y1": "2010",
+  "body": "Subcompact Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Verna_RB_2010",
+  "model": "瑞纳",
+  "y0": "2010",
+  "y1": "2016",
+  "body": "Subcompact Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Verna_RC_2017",
+  "model": "瑞纳",
+  "y0": "2017",
+  "y1": "2020",
+  "body": "Subcompact Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Verna_AC_2020",
+  "model": "瑞纳",
+  "y0": "2020",
+  "y1": "2026",
+  "body": "Subcompact Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "HYD_Elantra_Yuedong_2008",
+  "model": "悦动",
+  "y0": "2008",
+  "y1": "2012",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Elantra_Yuedong_Facelift_2011",
+  "model": "悦动",
+  "y0": "2011",
+  "y1": "2015",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Veloster_JK_2012",
+  "model": "飞思",
+  "y0": "2012",
+  "y1": "2018",
+  "body": "3-door Hatchback",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Veloster_JS_2019",
+  "model": "飞思",
+  "y0": "2019",
+  "y1": "2022",
+  "body": "3-door Hatchback",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Veloster_N_JS_2020",
+  "model": "飞思 N",
+  "y0": "2020",
+  "y1": "2022",
+  "body": "3-door Hatchback",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Avante_AD_2016",
+  "model": "领动",
+  "y0": "2016",
+  "y1": "2020",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Custin_PU_2021",
+  "model": "库斯途",
+  "y0": "2021",
+  "y1": "2026",
+  "body": "Mid-size MPV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Forte_TD_2008",
+  "model": "福瑞迪",
+  "y0": "2008",
+  "y1": "2012",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Forte_TD_Facelift_2011",
+  "model": "福瑞迪",
+  "y0": "2011",
+  "y1": "2015",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K3_BD_2012",
+  "model": "K3",
+  "y0": "2012",
+  "y1": "2016",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K3_BD_Facelift_2015",
+  "model": "K3",
+  "y0": "2015",
+  "y1": "2018",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K3_YD_2019",
+  "model": "K3",
+  "y0": "2019",
+  "y1": "2022",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K3_YD_Facelift_2021",
+  "model": "K3",
+  "y0": "2021",
+  "y1": "2023",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K3_EV_2022",
+  "model": "K3 EV",
+  "y0": "2022",
+  "y1": "2025",
+  "body": "4-door Sedan",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_K5_DL3_2020",
+  "model": "K5 凯酷",
+  "y0": "2020",
+  "y1": "2024",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_K5_DL3_Facelift_2024",
+  "model": "K5 凯酷",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_KX3_SP2_2020",
+  "model": "KX3 傲跑",
+  "y0": "2020",
+  "y1": "2024",
+  "body": "Subcompact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_KX3_SP2_Facelift_2023",
+  "model": "KX3 傲跑",
+  "y0": "2023",
+  "y1": "2025",
+  "body": "Subcompact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Seltos_SP2_2019",
+  "model": "Seltos",
+  "y0": "2019",
+  "y1": "2024",
+  "body": "Subcompact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Seltos_SP2_Facelift_2023",
+  "model": "Seltos",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Subcompact SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Sportage_SL_2010",
+  "model": "智跑",
+  "y0": "2010",
+  "y1": "2015",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Sportage_SL_Facelift_2013",
+  "model": "智跑",
+  "y0": "2013",
+  "y1": "2016",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_KX5_NL_2016",
+  "model": "KX5",
+  "y0": "2016",
+  "y1": "2020",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_KX5_NL_Facelift_2019",
+  "model": "KX5",
+  "y0": "2019",
+  "y1": "2021",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Sportage_NQ5_2022",
+  "model": "狮跑",
+  "y0": "2022",
+  "y1": "2026",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Sportage_NQ5_Facelift_2025",
+  "model": "狮跑",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "Compact SUV",
+  "power": "ICE/HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Sportage_Hybrid_NQ5_2023",
+  "model": "狮跑 混动",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Compact SUV",
+  "power": "HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Sorento_XM_2010",
+  "model": "索兰托",
+  "y0": "2010",
+  "y1": "2014",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Sorento_XM_Facelift_2013",
+  "model": "索兰托",
+  "y0": "2013",
+  "y1": "2016",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Sorento_XM_FL2_2016",
+  "model": "索兰托",
+  "y0": "2016",
+  "y1": "2020",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_KX7_XM_2017",
+  "model": "KX7",
+  "y0": "2017",
+  "y1": "2020",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Sorento_MQ4_2020",
+  "model": "Sorento",
+  "y0": "2020",
+  "y1": "2024",
+  "body": "Mid-size SUV",
+  "power": "ICE/HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Sorento_MQ4_Facelift_2023",
+  "model": "Sorento",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Mid-size SUV",
+  "power": "ICE/HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Sorento_Hybrid_MQ4_2021",
+  "model": "Sorento 混动",
+  "y0": "2021",
+  "y1": "2026",
+  "body": "Mid-size SUV",
+  "power": "HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Carnival_VQ_2006",
+  "model": "嘉华",
+  "y0": "2006",
+  "y1": "2010",
+  "body": "Minivan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Carnival_YP_2010",
+  "model": "嘉华",
+  "y0": "2010",
+  "y1": "2014",
+  "body": "Minivan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Carnival_YP_Facelift_2013",
+  "model": "嘉华",
+  "y0": "2013",
+  "y1": "2018",
+  "body": "Minivan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Carnival_KA4_2020",
+  "model": "嘉华",
+  "y0": "2020",
+  "y1": "2026",
+  "body": "Minivan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Carnival_KA4_Facelift_2024",
+  "model": "嘉华",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Minivan",
+  "power": "ICE/HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Carnival_Hybrid_KA4_2023",
+  "model": "嘉华 混动",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Minivan",
+  "power": "HEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_EV6_CV1_2021",
+  "model": "EV6",
+  "y0": "2021",
+  "y1": "2024",
+  "body": "Compact Crossover",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_EV6_CV1_Facelift_2024",
+  "model": "EV6",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Compact Crossover",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_EV6_GT_CV1_2023",
+  "model": "EV6 GT",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Compact Crossover",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_EV9_MV1_2023",
+  "model": "EV9",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Full-size SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_EV9_GT_MV1_2025",
+  "model": "EV9 GT",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "Full-size SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_EV5_SV1_2024",
+  "model": "EV5",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Compact SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_EV5_GT_SV1_2025",
+  "model": "EV5 GT",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "Compact SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Stinger_CK_2017",
+  "model": "Stinger",
+  "y0": "2017",
+  "y1": "2020",
+  "body": "4-door Fastback Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Stinger_CK_Facelift_2020",
+  "model": "Stinger",
+  "y0": "2020",
+  "y1": "2023",
+  "body": "4-door Fastback Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Stinger_GT_CK_2018",
+  "model": "Stinger GT",
+  "y0": "2018",
+  "y1": "2023",
+  "body": "4-door Fastback Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Cerato_TD_2009",
+  "model": "赛拉图",
+  "y0": "2009",
+  "y1": "2012",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K4_BD_2013",
+  "model": "K4",
+  "y0": "2013",
+  "y1": "2017",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K4_BD_Facelift_2016",
+  "model": "K4",
+  "y0": "2016",
+  "y1": "2018",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K4_2025",
+  "model": "K4",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Pegas_2011",
+  "model": "锐欧",
+  "y0": "2011",
+  "y1": "2017",
+  "body": "Subcompact Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Pegas_Facelift_2015",
+  "model": "锐欧",
+  "y0": "2015",
+  "y1": "2018",
+  "body": "Subcompact Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Rio_FB_2017",
+  "model": "锐欧",
+  "y0": "2017",
+  "y1": "2020",
+  "body": "Subcompact Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Cerato_YD_2016",
+  "model": "福瑞迪",
+  "y0": "2016",
+  "y1": "2020",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Cerato_YD_Facelift_2019",
+  "model": "福瑞迪",
+  "y0": "2019",
+  "y1": "2021",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Optima_TF_2011",
+  "model": "K5",
+  "y0": "2011",
+  "y1": "2015",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Optima_TF_Facelift_2014",
+  "model": "K5",
+  "y0": "2014",
+  "y1": "2018",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Optima_JF_2016",
+  "model": "K5",
+  "y0": "2016",
+  "y1": "2020",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Optima_JF_Facelift_2018",
+  "model": "K5",
+  "y0": "2018",
+  "y1": "2020",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Niro_DE_2017",
+  "model": "Niro",
+  "y0": "2017",
+  "y1": "2020",
+  "body": "Compact Crossover",
+  "power": "HEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Niro_EV_DE_2019",
+  "model": "Niro EV",
+  "y0": "2019",
+  "y1": "2022",
+  "body": "Compact Crossover",
+  "power": "BEV",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Niro_SG2_2022",
+  "model": "Niro",
+  "y0": "2022",
+  "y1": "2026",
+  "body": "Compact Crossover",
+  "power": "HEV/PHEV/BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Niro_EV_SG2_2022",
+  "model": "Niro EV",
+  "y0": "2022",
+  "y1": "2026",
+  "body": "Compact Crossover",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Telluride_LD_2019",
+  "model": "Telluride",
+  "y0": "2019",
+  "y1": "2023",
+  "body": "Full-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Telluride_LD_Facelift_2023",
+  "model": "Telluride",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Full-size SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "KIA_Sportage_KM_2005",
+  "model": "狮跑",
+  "y0": "2005",
+  "y1": "2010",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Sportage_KM_Facelift_2008",
+  "model": "狮跑",
+  "y0": "2008",
+  "y1": "2010",
+  "body": "Compact SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Mohave_HM_2008",
+  "model": "Borrego/Mohave",
+  "y0": "2008",
+  "y1": "2011",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Mohave_HM_Facelift_2019",
+  "model": "Mohave",
+  "y0": "2019",
+  "y1": "2023",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K9_KH_2012",
+  "model": "K9",
+  "y0": "2012",
+  "y1": "2015",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K9_KH_Facelift_2015",
+  "model": "K9",
+  "y0": "2015",
+  "y1": "2018",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_K9_RJ_2018",
+  "model": "K9",
+  "y0": "2018",
+  "y1": "2022",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Cadenza_VG_2010",
+  "model": "K7/Cadenza",
+  "y0": "2010",
+  "y1": "2013",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Cadenza_VG_Facelift_2013",
+  "model": "K7/Cadenza",
+  "y0": "2013",
+  "y1": "2016",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Cadenza_YG_2016",
+  "model": "K7/Cadenza",
+  "y0": "2016",
+  "y1": "2020",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "KIA_Soul_AM_2009",
+  "model": "Soul（秀尔）",
+  "y0": "2009",
+  "y1": "2014",
+  "body": "5-door Hatchback",
+  "power": "ICE",
+  "status": "Production"
+ },
+ {
+  "id": "KIA_Soul_PS_2014",
+  "model": "Soul（秀尔）",
+  "y0": "2014",
+  "y1": "2019",
+  "body": "5-door Hatchback",
+  "power": "ICE",
+  "status": "Production"
+ },
+ {
+  "id": "KIA_Soul_SK3_2019",
+  "model": "Soul（秀尔）",
+  "y0": "2019",
+  "y1": "2026",
+  "body": "5-door Hatchback",
+  "power": "ICE/BEV",
+  "status": "Production"
+ },
+ {
+  "id": "KIA_Soul_EV_2015",
+  "model": "Soul EV",
+  "y0": "2015",
+  "y1": "2019",
+  "body": "5-door Hatchback",
+  "power": "BEV",
+  "status": "Production"
+ },
+ {
+  "id": "KIA_Soul_EV_2020",
+  "model": "Soul EV",
+  "y0": "2020",
+  "y1": "2026",
+  "body": "5-door Hatchback",
+  "power": "BEV",
+  "status": "Production"
+ },
+ {
+  "id": "GEN_G70_IK_2017",
+  "model": "G70",
+  "y0": "2017",
+  "y1": "2020",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "GEN_G70_IK_Facelift_2020",
+  "model": "G70",
+  "y0": "2020",
+  "y1": "2023",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "GEN_G70_IK_Facelift2_2023",
+  "model": "G70",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "4-door Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_G70_Shooting_Brake_2022",
+  "model": "G70 Shooting Brake",
+  "y0": "2022",
+  "y1": "2026",
+  "body": "5-door Wagon",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_G80_DH_2014",
+  "model": "Genesis (EQ900)",
+  "y0": "2014",
+  "y1": "2020",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "GEN_G80_RG3_2020",
+  "model": "G80",
+  "y0": "2020",
+  "y1": "2024",
+  "body": "Mid-size Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_G80_RG3_Facelift_2024",
+  "model": "G80",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Mid-size Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_G80_EV_M3_2021",
+  "model": "Electrified G80",
+  "y0": "2021",
+  "y1": "2026",
+  "body": "Mid-size Sedan",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_G90_HI_2016",
+  "model": "G90 (EQ900)",
+  "y0": "2016",
+  "y1": "2020",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "GEN_G90_HI_Facelift_2018",
+  "model": "G90",
+  "y0": "2018",
+  "y1": "2020",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "GEN_G90_RS4_2022",
+  "model": "G90",
+  "y0": "2022",
+  "y1": "2026",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_G90_RS4_Facelift_2025",
+  "model": "G90",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_GV60_JW1_2022",
+  "model": "GV60",
+  "y0": "2022",
+  "y1": "2025",
+  "body": "Compact Crossover SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_GV60_JW1_Facelift_2025",
+  "model": "GV60",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "Compact Crossover SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_GV70_EN4_2021",
+  "model": "GV70",
+  "y0": "2021",
+  "y1": "2024",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_GV70_EN4_Facelift_2024",
+  "model": "GV70",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Mid-size SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_GV70_EV_EN4_2023",
+  "model": "Electrified GV70",
+  "y0": "2023",
+  "y1": "2026",
+  "body": "Mid-size SUV",
+  "power": "BEV",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_GV80_EN4_2020",
+  "model": "GV80",
+  "y0": "2020",
+  "y1": "2024",
+  "body": "Full-size SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_GV80_EN4_Facelift_2024",
+  "model": "GV80",
+  "y0": "2024",
+  "y1": "2026",
+  "body": "Full-size SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_GV80_Coupe_2025",
+  "model": "GV80 Coupe",
+  "y0": "2025",
+  "y1": "2026",
+  "body": "Full-size Coupe SUV",
+  "power": "ICE",
+  "status": "On Sale"
+ },
+ {
+  "id": "GEN_Genesis_BH_2008",
+  "model": "Genesis Sedan",
+  "y0": "2008",
+  "y1": "2013",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "GEN_Equus_VI_2009",
+  "model": "Equus (雅科仕)",
+  "y0": "2009",
+  "y1": "2015",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "GEN_Equus_VI_Facelift_2013",
+  "model": "Equus",
+  "y0": "2013",
+  "y1": "2016",
+  "body": "Full-size Sedan",
+  "power": "ICE",
+  "status": "Discontinued"
+ },
+ {
+  "id": "HYD_Concept_N_Vision_74_2022",
+  "model": "N Vision 74",
+  "y0": "2022",
+  "y1": "—",
+  "body": "Concept Coupe",
+  "power": "FCEV/BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "HYD_Concept_Ioniq_XNB_2024",
+  "model": "Ioniq XNB",
+  "y0": "2024",
+  "y1": "—",
+  "body": "Concept SUV",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "HYD_Concept_Initium_2024",
+  "model": "Initium",
+  "y0": "2024",
+  "y1": "—",
+  "body": "Concept SUV",
+  "power": "FCEV",
+  "status": "Concept"
+ },
+ {
+  "id": "HYD_Concept_Seven_2021",
+  "model": "Seven Concept",
+  "y0": "2021",
+  "y1": "—",
+  "body": "Concept SUV",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "HYD_Concept_Prophecy_2020",
+  "model": "Prophecy Concept",
+  "y0": "2020",
+  "y1": "—",
+  "body": "Concept Sedan",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "HYD_Concept_HED_45_2023",
+  "model": "HED-45",
+  "y0": "2023",
+  "y1": "—",
+  "body": "Concept Crossover",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "KIA_Concept_EV9_2021",
+  "model": "EV9 Concept",
+  "y0": "2021",
+  "y1": "—",
+  "body": "Concept SUV",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "KIA_Concept_EV5_2023",
+  "model": "EV5 Concept",
+  "y0": "2023",
+  "y1": "—",
+  "body": "Concept SUV",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "KIA_Concept_Concept_KV5_2025",
+  "model": "KV5 Concept",
+  "y0": "2025",
+  "y1": "—",
+  "body": "Concept MPV",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "KIA_Concept_HabaNiro_2019",
+  "model": "HabaNiro Concept",
+  "y0": "2019",
+  "y1": "—",
+  "body": "Concept Crossover",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "KIA_Concept_Imagine_2019",
+  "model": "Imagine by Kia",
+  "y0": "2019",
+  "y1": "—",
+  "body": "Concept Sedan",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "GEN_Concept_X_2016",
+  "model": "Genesis Concept X",
+  "y0": "2016",
+  "y1": "—",
+  "body": "Concept SUV",
+  "power": "ICE",
+  "status": "Concept"
+ },
+ {
+  "id": "GEN_Concept_X_Speedium_2022",
+  "model": "X Speedium Coupe",
+  "y0": "2022",
+  "y1": "—",
+  "body": "Concept Coupe",
+  "power": "BEV",
+  "status": "Concept"
+ },
+ {
+  "id": "GEN_Concept_GV80_Coupe_2023",
+  "model": "GV80 Coupe Concept",
+  "y0": "2023",
+  "y1": "—",
+  "body": "Concept Coupe SUV",
+  "power": "ICE",
+  "status": "Concept"
+ },
+ {
+  "id": "GEN_Concept_New_York_2017",
+  "model": "New York Concept",
+  "y0": "2017",
+  "y1": "—",
+  "body": "Concept Sedan",
+  "power": "ICE",
+  "status": "Concept"
+ }
+]

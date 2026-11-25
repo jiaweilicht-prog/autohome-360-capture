@@ -1,0 +1,187 @@
+{
+  "_bestViewRefs": {
+    "_note": "Licht 指定的标准视角参考角（用户原话记录，勿擅自改数值）。h 为『相对车头锚点 frontAnchorH 的偏置』（跨车一致性模型），v/fov 为绝对值；v 正值=相机向下看。",
+    "marked": [
+      { "h": 0,  "v": 15, "fov": 95, "markedAt": "2026-09-05", "source": "用户上一轮原话：『h=0 v=10 f=95 和 h=0 v=15 f=95 是我认为最理想的视角』", "for": "待确认（疑为 F1）" },
+      { "h": 30, "v": 25, "fov": 95, "markedAt": "2026-09-05", "source": "用户本轮原话：『h=30 v=25 f=95 是我认为最好的视角，请标记』", "for": "待确认（疑为 F1 新定稿）", "best": true }
+    ],
+    "standardViewSpec": {
+      "F1": "图1：坐主驾、视线略抬，方向盘居中、完整仪表台 + 中控 + 两侧门板全入画",
+      "R1": "图2：坐后排、正对车头往前看，前排座椅在前景、完整 IP + 方向盘 + 两侧门板在后方"
+    },
+    "pendingConfirm": "两个参考角各自归属图1(F1) 还是 图2(R1)，尚未由用户最终确认；确认前不得据此重跑全量。"
+  },
+  "_readme": "P1 视角标定。角度模型：本文件采用「绝对角度」模式 (angleMode 各轴均 'absolute')——krpano 的 view.hlookat/view.vlookat/view.fov 设为标定绝对值，跨车型直接复用。vlookat 正值 = 相机向下看（见 directionConvention）。F1/R1 为 2026-09-05 经 A6L(pano 76524) 网格重扫后定稿的当前默认视角；V1/V2/V3 为早期试拍视角，已弃用仅留作对照。\n\n2026-09-05 修正（第三轮，详见 probe/calib_a6l_v2.cjs / result3.json）：\n1) 瓦片加载等待全面加长（修复模糊/残缺截图）：loadscene 后 12000ms、每次 set('view..') 后 10000ms、清屏后 800ms、初始加载 3000ms；run-p1.cjs 与标定脚本一致，且「无论 scene 是否复用都等长等待」。\n2) R1 构图修正：从二排看前排，要求 IP+方向盘落在画面上 1/3（亮→暗过渡行 transRow 落在 25–38%，实测选定 transRow≈30.3%），下方露门+中央通道。A6L 上由 h=-15/v=-7 重扫为 h=-15/v=-5（v 略减=更抬头/朝前），fov 维持站点上限 95。\n3) F1 构图修正：用户嫌「太近、门少」→ 推到最广 fov=95（原 90），且主驾门可见。A6L 上由 h15/v24/f90 重扫为 h0/v15/f95（h 由 +15 调到 0 让门入画、v 由 24 降到 15 避免压太低）。\n评分只依赖亮度剖面（模型无法看图；参考图 MSE 非 A6L 系弱信号），最终角由 probe/choose_final.cjs 在 v2 网格 PNG 上按上述目标重选；候选样张见 probe/calib_a6l/f1_gradient.html 与 r1_gradient.html，请人工确认后定稿。",
+  "calibratedAt": "2026-09-05",
+  "reference": "probe/shots/截屏2026-09-03 下午11.28.07.png (2880x1428, 用户提供的构图参考) + 用户剪贴板中的 F1/R1 目标图(未入库, 见 README)",
+  "method": "F1/R1 在 A6L(pano 76524) 上以固定 h/fov、扫描 v 的方式重扫（脚本 probe/calib_a6l_lower.cjs），用 pngjs+jpeg-js 以 MSE 比对对应参考 jpg。基线（2026-09-04）F1=h15/v15/f90、R1=h-15/v-10/f95。用户反馈「所有视角偏高、A柱太多、中控台太少」，要求整体再向下 3–10°（即增大 vlookat 3–10）。2026-09-05 下调结果：F1 v 15→24（+9°，区间内最低 MSE 9111 vs 10774），R1 v -10→-7（+3°，区间内最低可靠 MSE 8435 vs 8184）。F1 参考图很可能非 A6L，MSE 为弱信号，故以「区间内最低 MSE」+「构图字符图校验（顶部亮挡风、中部暗 IP）」双重判定；R1 MSE 可靠，直接取区间内最低。",
+  "refSourceCheck": "已对 P0 的 7 个 pano 逐一比对，MSE 均 >6300，确认参考图不在这 7 台车中；因此参考图仅作为「构图/取景」参考，而非同一台车的角度复现。",
+  "directionConvention": "实证结论：1) hlookat 增大 = 相机向右转（h+60 时正前方由亮挡风玻璃变为暗的中控台方向）；左舵车驾驶位门在相机左侧 → h 减小；副驾门在副驾位相机右侧 → h 增大。2) vlookat 正值 = 相机向下看（v 由 0 增至 20 时，亮的车窗自画面中部上移至上部，下部转暗露出座椅/中控台）。因此要看到更多中控台（在腰线以下）需增大 v，而不是减小。3) 站点 view.fov 上限为 95（设 >95 会被夹回 95）。",
+  "views": {
+    "F1": {
+      "name": "主驾正视前排IP",
+      "folder": "主驾位前望",
+      "_folder_note": "2026-09-08：按 Licht 要求改为「按视角统一归档」，同视角全部车型放同一文件夹；文件名保留 品牌_车型 以辨别具体车型。",
+      "desc": "图1 标准视角（定稿）：坐主驾看前排 IP。h = 驾驶位车头锚点 + 12.3（等价 A6L 绝对角 h=15）、v=25、fov=95。",
+      "role": "driver",
+      "sceneIndex": 0,
+      "useAnchor": true,
+      "anchorFlip": 0,
+      "dhOffset": 12.32,
+      "driverFrontOffset": 15,
+      "_driverFrontOffset_note": "2026-09-07 终版：F1 不再做驾驶位模板 360° 扫描（对 EV 不可靠且慢），改为「后排车头方向 + 该固定偏移」确定性合成。A6L 定稿 F1=h15/R1=h0 → 偏移 +15，已验证 A6L/A8/A3/宝马2系/3系/IONIQ 全部复现。若个别车构图仍偏，只调这一个数即可（每台车统一）。",
+      "v": 25,
+      "fov": 95,
+      "provisional": false,
+      "calibratedAt": "2026-09-05",
+      "method": "定稿依据：用户指定 f1_gradient.html 中标记『h=15 v=25 f=95』的格子（原图 probe/calib_a6l/F1_h15_v25_f95.png）为图1 标准。A6L 驾驶位锚点=2.68，故 dhOffset=15-2.68=+12.32，使每台车都落在「自己车头正前方 +12.3°」的同一取景点。",
+      "tuneHint": "此角已由用户目检定稿（provisional=false），勿再改动，除非用户明确要求。fov 已站点上限 95。"
+    },
+    "D1": {
+      "name": "主驾看副驾门",
+      "folder": "主驾看副驾门",
+      "_folder_note": "2026-09-17 新增视角：坐主驾向右看副驾门及门与IP关系。按视角统一归档。",
+      "desc": "坐主驾、向右转看副驾门板及门与副驾IP的衔接关系。h = 后排车头锚点 + 57（在 F1 基础上再右转 42°），v=30、fov=95（门更侧视、变形少）。出炉后固定矩形裁切：左40%/右78%/上16.6%/下64.5% → 16:10 成品；中控屏不进画面、椅垫切掉约2/3、A柱顶部裁掉。",
+      "role": "driver",
+      "sceneIndex": 0,
+      "useAnchor": true,
+      "anchorFlip": 0,
+      "driverFrontOffset": 57,
+      "v": 30,
+      "fov": 95,
+      "provisional": false,
+      "calibratedAt": "2026-09-17",
+      "calibratedOn": "Tesla Model 3 (pano 75117, scene svrcn44445)",
+      "method": "Model 3 黑内参考图标定；该 pano 有 9 个驾驶位机位（2 浅内+7 黑内为不同相机位），参考图真实相机位对应 svrcn44445。在正确机位上扫角确定 h=57/v=30/fov=95；裁切矩形由 Licht 目视定稿（左40%去中控、右78%去2/3椅垫、上16.6%去A柱、下64.5%保留下半门板），最终 16:10。",
+      "crop": { "l": 0.40, "r": 0.78, "t": 0.166, "b": 0.645 },
+      "aspect": "16:10",
+      "tuneHint": "若某车副驾门未完整入画或偏出，只调 driverFrontOffset 一个数（跨车统一，当前 57）。裁切矩形跨车固定。"
+    },
+    "F1A": {
+      "_deprecated": "2026-09-05 被 F1（h15/v25/f95 定稿）取代，仅保留供对照",
+      "name": "F1-参考角A(h0v15)(旧)",
+      "desc": "图1 候选 A：坐主驾。h = 驾驶位车头锚点 + 0，v=15，fov=95。",
+      "role": "driver",
+      "sceneIndex": 0,
+      "useAnchor": true,
+      "dhOffset": 0,
+      "v": 15,
+      "fov": 95,
+      "provisional": true,
+      "calibratedAt": "2026-09-05"
+    },
+    "F1B": {
+      "_deprecated": "2026-09-05 用户目检后改为 F1=h15/v25/f95，本候选弃用，仅保留供对照",
+      "name": "F1-参考角B(h30v25)(旧)",
+      "desc": "图1 标准视角候选 B：坐主驾。h = 驾驶位车头锚点 + 30（右转，带进中控台与两侧门板），v=25（更低头，中控台更多、A柱更少），fov=95。",
+      "role": "driver",
+      "sceneIndex": 0,
+      "useAnchor": true,
+      "dhOffset": 30,
+      "v": 25,
+      "fov": 95,
+      "provisional": true,
+      "calibratedAt": "2026-09-05",
+      "method": "用户本轮标记『最好的视角』（原话『h=30 v=25 f=95 是我认为最好的视角，请标记』）。★ 当前最优候选。待 Licht 目检后定稿。",
+      "tuneHint": "若门板/中控仍不足 → 继续增大 v 或 h；fov 已站点上限 95。"
+    },
+    "R1": {
+      "name": "二排正视前排",
+      "folder": "前舱正视",
+      "_folder_note": "2026-09-08：按视角统一归档（视角名统一为「前舱正视」）。",
+      "desc": "图2 标准视角（定稿）：坐后排、正对车头往前看。h = 后排车头锚点(已内置 +180° 翻转) − 9.5（等价 A6L 绝对角 h=0）、v=15、fov=95。",
+      "role": "rear",
+      "sceneIndex": 0,
+      "useAnchor": true,
+      "anchorFlip": 0,
+      "dhOffset": -9.5,
+      "v": 15,
+      "fov": 95,
+      "provisional": false,
+      "calibratedAt": "2026-09-05",
+      "method": "定稿依据：用户指定 r1_gradient.html 中标记『h=0 v=15 f=95』的格子（原图 probe/calib_a6l/R1_h0_v15_f95.png）为图2 标准。重要修正：A6L 后排锚点自动检测值=-170.5，与用户确认的 h=0 相差 ≈180° → 说明后排机位的自动前检测会系统性锁到反向（后排朝前/朝后都有亮窗，判据混淆）。故对 rear 角色固定翻转 180°（anchorFlip=180），翻转后等效锚点=9.5，dhOffset=0-9.5=-9.5。这也解释了此前 R1 一直「不对」的根因。",
+      "tuneHint": "此角已由用户目检定稿（provisional=false）。若个别车方向仍反 → 该车改 anchorFlip=0 或 dhOffset+180，并在 anchor_review.csv 记录。"
+    },
+    "R1A": {
+      "_deprecated": "2026-09-05 被 R1（h0/v15/f95 定稿）取代，仅保留供对照",
+      "name": "R1-参考角A(h0v15)(旧)",
+      "desc": "图2 候选 A：坐后排、正对车头往前看。h = 后排车头锚点 + 0，v=15，fov=95。",
+      "role": "rear",
+      "sceneIndex": 0,
+      "useAnchor": true,
+      "dhOffset": 0,
+      "v": 15,
+      "fov": 95,
+      "provisional": true,
+      "calibratedAt": "2026-09-05"
+    },
+    "R1B": {
+      "_deprecated": "2026-09-05 用户目检后改为 R1=h0/v15/f95，本候选弃用，仅保留供对照",
+      "name": "R1-参考角B(h30v25)(旧)",
+      "desc": "图2 标准视角候选 B：坐后排、正对车头往前看。h = 后排车头锚点 + 30（右转把车厢居中），v=25（更低头，座椅更占前景、IP 退到后方），fov=95。",
+      "role": "rear",
+      "sceneIndex": 0,
+      "useAnchor": true,
+      "dhOffset": 30,
+      "v": 25,
+      "fov": 95,
+      "provisional": true,
+      "calibratedAt": "2026-09-05",
+      "method": "按用户新给的图2 构图定义套用其标记的『最好』参考角 B。★ 当前最优候选。待目检定稿。",
+      "tuneHint": "若 IP 被座椅挡住 → 减小 v；若门板不全 → 调整 h。"
+    },
+    "V1": {
+      "name": "主驾前排IP(旧)",
+      "_deprecated": "2026-09-05 起由 F1 取代（F1 为同样机位但 v 下调 9°、改用绝对角）。仅保留供对照",
+      "desc": "主驾眼点位置看到完整的前排 IP（仪表板/中控台），挡风玻璃占画面顶部约 1/3",
+      "role": "driver",
+      "sceneIndex": 0,
+      "angleMode": {
+        "h": "relative",
+        "v": "absolute",
+        "fov": "absolute"
+      },
+      "dh": 0,
+      "v": 20,
+      "fov": 85,
+      "provisional": false
+    },
+    "V2": {
+      "name": "主驾门IP交接(旧)",
+      "_deprecated": "早期试拍视角，已由 F1/R1 取代，仅保留供对照",
+      "desc": "主驾视角下，能看到与 IP 区域相接的那部分门特征（门板与仪表的交界）",
+      "role": "driver",
+      "sceneIndex": 0,
+      "angleMode": {
+        "h": "relative",
+        "v": "absolute",
+        "fov": "absolute"
+      },
+      "dh": -48,
+      "v": 25,
+      "fov": 92,
+      "provisional": true,
+      "tuneHint": "若门板出现得太少 → 把 dh 再调小（如 -70）；若看不到 IP 交界 → 把 dh 调大（如 -40）"
+    },
+    "V3": {
+      "name": "副驾门板(旧)",
+      "_deprecated": "早期试拍视角，已由 F1/R1 取代，仅保留供对照",
+      "desc": "相对完整的副驾驶门板",
+      "role": "passenger",
+      "sceneIndex": 0,
+      "angleMode": {
+        "h": "relative",
+        "v": "absolute",
+        "fov": "absolute"
+      },
+      "dh": 60,
+      "v": 30,
+      "fov": 92,
+      "provisional": true,
+      "tuneHint": "若门板不完整 → 增大 dh（如 75-90）；若偏出车门 → 减小 dh",
+      "roleFallback": "driver",
+      "dhFallback": 85,
+      "fallbackDesc": "大量车型全景只有「驾驶位/后排/后备厢」机位、没有「副驾驶位」机位。此时从驾驶位机位向右偏转 85° 拍右前门（会带入中控台与副驾座椅，属降级产出，文件名带「-降级」标记）。"
+    }
+  }
+}

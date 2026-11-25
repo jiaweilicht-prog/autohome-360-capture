@@ -1,0 +1,74 @@
+[
+ {
+  "oldName": "宝马_宝马7系_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_BMW_7_G70_IPDRV_0204_AUTO360_01.png",
+  "dir": "主驾位前望",
+  "uncertain": true,
+  "note": "草稿无码;捕获年代不明(2025/2027?),G70为当前代,待确认",
+  "series": "7系"
+ },
+ {
+  "oldName": "宝马_宝马X3_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_BMW_X3_G01_IPDRV_0204_AUTO360_01.png",
+  "dir": "主驾位前望",
+  "uncertain": false,
+  "note": "",
+  "series": "X3"
+ },
+ {
+  "oldName": "宝马_宝马X5_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_BMW_X5_G38_IPDRV_0204_AUTO360_01.png",
+  "dir": "主驾位前望",
+  "uncertain": false,
+  "note": "草稿G38(中国长轴),全球为G05,待确认",
+  "series": "X5"
+ },
+ {
+  "oldName": "宝马_宝马Z4_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_BMW_Z4_G29_IPDRV_0204_AUTO360_01.png",
+  "dir": "主驾位前望",
+  "uncertain": false,
+  "note": "",
+  "series": "Z4"
+ },
+ {
+  "oldName": "宝马_宝马iX3_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_BMW_IX3_G08_IPDRV_0204_AUTO360_01.png",
+  "dir": "主驾位前望",
+  "uncertain": false,
+  "note": "",
+  "series": "iX3"
+ },
+ {
+  "oldName": "宝马_宝马7系_默认_二排正视前排_01.png",
+  "newName": "IMG_BMW_7_G70_IPFRONT_0101_AUTO360_01.png",
+  "dir": "前舱正视",
+  "uncertain": true,
+  "note": "草稿无码;捕获年代不明(2025/2027?),G70为当前代,待确认",
+  "series": "7系"
+ },
+ {
+  "oldName": "宝马_宝马X3_默认_二排正视前排_01.png",
+  "newName": "IMG_BMW_X3_G01_IPFRONT_0101_AUTO360_01.png",
+  "dir": "前舱正视",
+  "uncertain": false,
+  "note": "",
+  "series": "X3"
+ },
+ {
+  "oldName": "宝马_宝马X5_默认_二排正视前排_01.png",
+  "newName": "IMG_BMW_X5_G38_IPFRONT_0101_AUTO360_01.png",
+  "dir": "前舱正视",
+  "uncertain": false,
+  "note": "草稿G38(中国长轴),全球为G05,待确认",
+  "series": "X5"
+ },
+ {
+  "oldName": "宝马_宝马iX3_默认_二排正视前排_01.png",
+  "newName": "IMG_BMW_IX3_G08_IPFRONT_0101_AUTO360_01.png",
+  "dir": "前舱正视",
+  "uncertain": false,
+  "note": "",
+  "series": "iX3"
+ }
+]

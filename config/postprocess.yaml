@@ -1,0 +1,114 @@
+# =============================================================================
+# postprocess.yaml —— 可插拔图像处理链
+#
+# 工作方式：像流水线一样，一张原始图依次经过下面每个模块。
+# 每个模块可独立开关，顺序可调，新增模块只要实现 (image, ctx) -> image 接口即可。
+#
+# ⚠️ 合规说明（必读）
+#   本文件里的 "debrand"（去除站点标识）模块默认是禁用的，并且带有强制门槛：
+#   只有 compliance.license_ref 非空时才会启用。
+#   原因：去除他人站点/图片的署名标识，可能侵犯著作权中的署名权、违反网站用户
+#         协议，并在对外使用时构成来源混淆与不正当竞争风险。
+#   建议路径：优先用官方授权素材 / 自行拍摄 / 保留署名的内部研究库。
+#   具体合规分析见方案文档第 9 节。
+# =============================================================================
+
+version: 1
+
+pipeline:
+  # ---------------- 阶段 A：几何（先裁剪再做别的，省算力） ----------------
+  - id: crop
+    enabled: true
+    module: geometry.crop
+    params:
+      # 支持两种单位：ratio（相对比例，推荐，跨分辨率稳定）| px（绝对像素）
+      unit: ratio
+      # 留空则读取 views.yaml 里该机位的 crop 配置
+      region: null
+      # 裁剪区域超出边界时的处理
+      on_overflow: clamp
+
+  - id: resize
+    enabled: true
+    module: geometry.resize
+    params:
+      mode: fit_long_edge        # fit_long_edge | exact
+      long_edge: 2000
+      resample: lanczos
+      upscale: false             # 不允许放大，避免伪造细节
+
+  # ---------------- 阶段 B：色彩与一致性 ----------------------------------
+  - id: color_normalize
+    enabled: true
+    module: color.normalize
+    params:
+      # 统一到 sRGB，保证不同机器、不同批次颜色可比（做 CMF 对比的前提）
+      target_profile: sRGB
+      auto_level: false          # 是否自动拉伸对比度；做材质对比时建议关闭
+      auto_white_balance: false  # 同上，开启会破坏真实色彩关系
+
+  - id: sharpness
+    enabled: false
+    module: enhance.unsharp
+    params:
+      amount: 0.3
+      radius: 1.0
+      threshold: 3
+
+  # ---------------- 阶段 C：质量分级（不修图，只打标） --------------------
+  - id: quality_score
+    enabled: true
+    module: qa.score
+    params:
+      checks:
+        - { name: blur,      method: laplacian_variance, min: 80,  on_fail: flag }
+        - { name: exposure,  method: histogram_spread,   min: 0.15, on_fail: flag }
+        - { name: blank,     method: stddev,             min: 8,   on_fail: reject }
+        - { name: artifact,  method: edge_anomaly,       on_fail: flag }
+      # flag = 存图但在清单里标记待复核；reject = 不入库，记入失败清单
+      output_field: quality_grade      # A / B / C / reject
+
+  # ---------------- 阶段 D：来源处理（合规闸门所在） ----------------------
+  - id: debrand
+    enabled: false                     # 默认关闭
+    module: attribution.debrand
+    requires_license: true             # 强制门槛：license_ref 为空则跳过并告警
+    params:
+      mode: none                       # none | crop_out | blur | inpaint
+      #   none      —— 什么都不做（默认）
+      #   crop_out  —— 通过裁剪把标识区域排除在构图外（最干净、最推荐）
+      #   blur      —— 仅做模糊，保留"存在过"的痕迹
+      #   inpaint   —— 像素级擦除（本方案不提供实现，理由见合规章节）
+      regions: ["watermark_corner"]
+    on_missing_license:
+      action: skip_and_warn
+      message: "未配置 license_ref，已跳过去标识处理，保留原始来源标识"
+
+  # ---------------- 阶段 E：输出 ------------------------------------------
+  - id: export
+    enabled: true
+    module: io.export
+    params:
+      format: png                      # png（无损，推荐做基准）| webp | jpg
+      png_compress_level: 6
+      embed_metadata: true             # 写入来源信息，溯源用
+      sidecar_json: true
+
+# ---------------------------------------------------------------------------
+# 推荐的两套预设组合（用 --preset 选择）
+# ---------------------------------------------------------------------------
+presets:
+  # 合规默认：保留来源标识，用于内部竞品研究
+  internal_research:
+    pipeline: [crop, resize, color_normalize, quality_score, export]
+    note: "保留全部来源标识，元数据记录出处，不做任何擦除"
+
+  # 授权模式：仅在拿到书面授权后使用
+  licensed:
+    pipeline: [crop, resize, color_normalize, quality_score, debrand, export]
+    requires: "compliance.license_ref 必须非空"
+    note: "即便如此，仍建议优先选择 crop_out 而非像素擦除"
+
+  # 自用素材：自己拍的图，无需去标识，重点在色彩与尺寸统一
+  owned_capture:
+    pipeline: [crop, resize, color_normalize, quality_score, export]

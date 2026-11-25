@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>汽车之家 360° 看车 · 批量截图 Agent 方案设计</title>
+<style>
+  :root{
+    --bg:#0f1115; --panel:#171a21; --panel2:#1d212a; --line:rgba(255,255,255,.10);
+    --line2:rgba(255,255,255,.18); --tx:#e6e8ee; --tx2:#9aa3b2; --tx3:#6b7482;
+    --blue:#5aa9f8; --teal:#4fc3a1; --amber:#f0b45e; --red:#e8757a; --purple:#9b8cf0;
+    --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--tx);
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-size:15px;line-height:1.75;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 28px 120px}
+
+  header{padding:64px 0 40px;border-bottom:1px solid var(--line);margin-bottom:48px}
+  .kicker{font-size:12px;letter-spacing:.16em;color:var(--blue);text-transform:uppercase;margin-bottom:14px}
+  h1{font-size:32px;line-height:1.3;margin:0 0 16px;font-weight:600;letter-spacing:-.01em}
+  .sub{color:var(--tx2);font-size:16px;max-width:760px;margin:0}
+  .meta{margin-top:24px;display:flex;flex-wrap:wrap;gap:8px}
+  .tag{font-size:12px;padding:4px 10px;border:1px solid var(--line2);border-radius:999px;color:var(--tx2)}
+
+  h2{font-size:22px;margin:64px 0 8px;font-weight:600;letter-spacing:-.01em;scroll-margin-top:20px}
+  h2 .num{color:var(--blue);font-family:var(--mono);font-size:15px;margin-right:10px;font-weight:400}
+  h3{font-size:16px;margin:32px 0 10px;font-weight:600;color:var(--tx)}
+  h4{font-size:14px;margin:22px 0 6px;font-weight:600;color:var(--tx2)}
+  p{color:var(--tx);margin:10px 0}
+  .lead{color:var(--tx2);font-size:14px;margin-bottom:24px}
+  ul,ol{color:var(--tx);padding-left:20px;margin:10px 0}
+  li{margin:6px 0}
+  li::marker{color:var(--tx3)}
+  code{font-family:var(--mono);font-size:13px;background:var(--panel2);padding:1px 6px;border-radius:4px;color:#c7d2e0}
+  a{color:var(--blue)}
+
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:18px 0}
+  .panel.tight{padding:14px 18px}
+  .grid{display:grid;gap:14px}
+  .g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+  .g3{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+  .g4{grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+  .card .lbl{font-size:12px;color:var(--tx2);margin-bottom:6px}
+  .card .val{font-size:26px;font-weight:600;line-height:1.2}
+  .card .note{font-size:12px;color:var(--tx3);margin-top:6px;line-height:1.5}
+
+  table{width:100%;border-collapse:collapse;margin:16px 0;font-size:13.5px}
+  th{text-align:left;color:var(--tx2);font-weight:500;font-size:12px;letter-spacing:.04em;
+     padding:9px 12px;border-bottom:1px solid var(--line2);white-space:nowrap}
+  td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--tx)}
+  tr:last-child td{border-bottom:none}
+  tbody tr:hover{background:rgba(255,255,255,.02)}
+  td.c,th.c{text-align:center}
+
+  .pill{display:inline-block;font-size:11px;padding:2px 8px;border-radius:999px;font-weight:500;white-space:nowrap}
+  .p-blue{background:rgba(90,169,248,.15);color:var(--blue)}
+  .p-teal{background:rgba(79,195,161,.15);color:var(--teal)}
+  .p-amber{background:rgba(240,180,94,.15);color:var(--amber)}
+  .p-red{background:rgba(232,117,122,.15);color:var(--red)}
+  .p-purple{background:rgba(155,140,240,.15);color:var(--purple)}
+  .p-gray{background:rgba(255,255,255,.07);color:var(--tx2)}
+
+  pre{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:16px 18px;
+      overflow-x:auto;font-family:var(--mono);font-size:12.5px;line-height:1.65;margin:14px 0;color:#c7d2e0}
+  pre .k{color:var(--blue)} pre .c{color:#5d6673} pre .s{color:var(--teal)} pre .w{color:var(--amber)}
+
+  .callout{border-left:3px solid var(--blue);background:rgba(90,169,248,.06);padding:14px 18px;
+           border-radius:0 8px 8px 0;margin:18px 0}
+  .callout.warn{border-left-color:var(--amber);background:rgba(240,180,94,.06)}
+  .callout.danger{border-left-color:var(--red);background:rgba(232,117,122,.07)}
+  .callout.ok{border-left-color:var(--teal);background:rgba(79,195,161,.06)}
+  .callout .ttl{font-weight:600;font-size:14px;margin-bottom:6px}
+  .callout p{margin:6px 0;font-size:14px;color:var(--tx)}
+
+  .svgwrap{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;margin:20px 0}
+  .svgwrap svg{width:100%;height:auto;display:block}
+
+  .steps{counter-reset:s;margin:16px 0}
+  .step{position:relative;padding-left:44px;margin-bottom:20px}
+  .step:before{counter-increment:s;content:counter(s);position:absolute;left:0;top:0;
+    width:28px;height:28px;border-radius:50%;background:var(--panel2);border:1px solid var(--line2);
+    display:flex;align-items:center;justify-content:center;font-size:13px;color:var(--blue);font-family:var(--mono)}
+  .step .st{font-weight:600;font-size:15px;margin-bottom:3px}
+  .step .sd{font-size:13.5px;color:var(--tx2);line-height:1.7}
+
+  .toc{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px 22px;margin-bottom:8px}
+  .toc ol{columns:2;column-gap:32px;margin:0;padding-left:18px}
+  .toc li{margin:5px 0;font-size:13.5px;break-inside:avoid}
+  .toc a{color:var(--tx2);text-decoration:none}
+  .toc a:hover{color:var(--blue)}
+
+  footer{margin-top:72px;padding-top:24px;border-top:1px solid var(--line);color:var(--tx3);font-size:13px}
+  @media (max-width:720px){ .toc ol{columns:1} h1{font-size:26px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="kicker">Design Proposal · v1.0</div>
+  <h1>「演示一次，自动复刻」的 360° 看车批量截图 Agent</h1>
+  <p class="sub">面向汽车之家 360° 看车内饰页面的轨迹学习、稳定复现与批量采集系统设计。
+     核心命题不是"录屏回放"，而是把一次人工操作抽象成<strong>可参数化、可校验、可自愈</strong>的任务描述。</p>
+  <div class="meta">
+    <span class="tag">Playwright + CDP</span>
+    <span class="tag">视觉伺服对齐</span>
+    <span class="tag">三级状态校验</span>
+    <span class="tag">可插拔后处理</span>
+    <span class="tag">合规闸门</span>
+    <span class="tag">2026-09-03</span>
+  </div>
+</header>
+
+<div class="toc">
+  <ol>
+    <li><a href="#s1">五个关键设计判断</a></li>
+    <li><a href="#s2">整体架构与模块划分</a></li>
+    <li><a href="#s3">数据流：录制链路与执行链路</a></li>
+    <li><a href="#s4">机位字典：本方案真正的设计资产</a></li>
+    <li><a href="#s5">配置文件结构与字段说明</a></li>
+    <li><a href="#s6">核心难点：视觉伺服对齐</a></li>
+    <li><a href="#s7">关键失败场景与应对矩阵</a></li>
+    <li><a href="#s8">命名、存储、去重与断点续跑</a></li>
+    <li><a href="#s9">后处理链与合规风险</a></li>
+    <li><a href="#s10">分阶段实现路线</a></li>
+    <li><a href="#s11">技术难点排序</a></li>
+    <li><a href="#s12">验收指标与技术选型</a></li>
+  </ol>
+</div>
+
+<!-- ============ 1 ============ -->
+<h2 id="s1"><span class="num">01</span>五个关键设计判断</h2>
+<p class="lead">在动手之前，有五个判断决定了整个系统的走向。它们比任何一行代码都重要，方向错了后面全是返工。</p>
+
+<div class="grid g2">
+  <div class="card">
+    <div class="lbl">判断一</div>
+    <div class="val" style="font-size:17px">不录坐标，录语义</div>
+    <div class="note">传统宏录制记的是"在 (742, 381) 点一下"，页面一改版、分辨率一变就全废。本方案记的是"点了文案为『中控』的机位按钮，之后画面从 A 状态变成 B 状态"。回放时用多候选选择器重新定位，用状态变化校验结果。</div>
+  </div>
+  <div class="card">
+    <div class="lbl">判断二</div>
+    <div class="val" style="font-size:17px">视角是隐藏状态，必须靠图像确认</div>
+    <div class="note">360° 全景是 WebGL canvas 渲染，视角不在 DOM 里。你有三条路：直接读渲染引擎的 camera 对象（最准）、读页面上的机位按钮激活态（次之）、比对像素（永远可用的兜底）。系统要能自动在这三条之间降级。</div>
+  </div>
+  <div class="card">
+    <div class="lbl">判断三</div>
+    <div class="val" style="font-size:17px">"大概到了"不算到位</div>
+    <div class="note">拖拽调视角天然有误差，累积几次就偏了。必须用<strong>闭环</strong>：截图 → 与基准图算特征点匹配 → 估算还差多少像素 → 再拖 → 再比。这是控制论里的视觉伺服（visual servoing），是本方案的技术灵魂。</div>
+  </div>
+  <div class="card">
+    <div class="lbl">判断四</div>
+    <div class="val" style="font-size:17px">去标识是法律问题，不是技术问题</div>
+    <div class="note">技术上擦掉一个水印很容易，但那属于侵犯署名权、违反网站协议的高风险动作。本方案把"去标识"设计成需要授权令牌才能开启的模块，默认关闭，并给出四条合规替代路径。</div>
+  </div>
+  <div class="card" style="grid-column:1/-1">
+    <div class="lbl">判断五</div>
+    <div class="val" style="font-size:17px">先花半天做可行性探测，再写代码</div>
+    <div class="note">如果目标页面把 camera 对象暴露在 window 上，整个方案难度降一个数量级；如果机位全部是预设按钮，那就简单到不像话；如果只能纯拖拽且画面有随机噪声，方案复杂度会翻倍。<strong>这三种情况的工程量差 5 倍以上</strong>。P0 阶段必须先回答这个问题，再决定投入。</div>
+  </div>
+</div>
+
+<!-- ============ 2 ============ -->
+<h2 id="s2"><span class="num">02</span>整体架构与模块划分</h2>
+<p class="lead">系统分左右两半：左边"学一次"，右边"跑一万次"。中间的<strong>任务描述文件</strong>是唯一的契约——它是录制的产物，也是执行的输入。</p>
+
+<div class="svgwrap">
+<svg viewBox="0 0 680 500" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>系统架构图</title>
+<desc>左侧录制链路：人工演示经 Recorder、Abstractor 生成任务描述文件；右侧执行链路：车型清单与任务描述经 Runner、Aligner、Verifier、PostProcessor 输出成图</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+
+<text x="40" y="26" font-size="12" fill="#6b7482" letter-spacing="1.5">录制链路 · 只跑一次</text>
+<text x="380" y="26" font-size="12" fill="#6b7482" letter-spacing="1.5">执行链路 · 批量重复</text>
+
+<rect x="40" y="40" width="250" height="420" rx="14" fill="#1d212a" stroke="rgba(255,255,255,.10)" stroke-width="0.5"/>
+<rect x="360" y="40" width="280" height="420" rx="14" fill="#1d212a" stroke="rgba(255,255,255,.10)" stroke-width="0.5"/>
+
+<!-- left -->
+<rect x="60" y="62" width="210" height="50" rx="8" fill="#26215C" stroke="#7F77DD" stroke-width="0.5"/>
+<text x="165" y="80" font-size="13" fill="#CECBF6" text-anchor="middle" dominant-baseline="central" font-weight="500">Recorder 录制器</text>
+<text x="165" y="97" font-size="11" fill="#AFA9EC" text-anchor="middle" dominant-baseline="central">键鼠事件 · DOM 快照 · 画布帧</text>
+
+<path d="M165 112 L165 128" stroke="#7F77DD" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+
+<rect x="60" y="132" width="210" height="50" rx="8" fill="#26215C" stroke="#7F77DD" stroke-width="0.5"/>
+<text x="165" y="150" font-size="13" fill="#CECBF6" text-anchor="middle" dominant-baseline="central" font-weight="500">Abstractor 抽象器</text>
+<text x="165" y="167" font-size="11" fill="#AFA9EC" text-anchor="middle" dominant-baseline="central">去噪 · 选择器生成 · 变量抽取</text>
+
+<path d="M165 182 L165 198" stroke="#7F77DD" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+
+<rect x="60" y="202" width="210" height="50" rx="8" fill="#26215C" stroke="#7F77DD" stroke-width="0.5"/>
+<text x="165" y="220" font-size="13" fill="#CECBF6" text-anchor="middle" dominant-baseline="central" font-weight="500">StateProbe 状态探测</text>
+<text x="165" y="237" font-size="11" fill="#AFA9EC" text-anchor="middle" dominant-baseline="central">找 camera 对象 · 定校验通道</text>
+
+<path d="M165 252 L165 268" stroke="#7F77DD" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+
+<rect x="60" y="272" width="210" height="56" rx="8" fill="#2C2C2A" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="165" y="291" font-size="13" fill="#F1EFE8" text-anchor="middle" dominant-baseline="central" font-weight="500">Baselines 基准图库</text>
+<text x="165" y="309" font-size="11" fill="#B4B2A9" text-anchor="middle" dominant-baseline="central">人工验收通过的黄金样本</text>
+
+<path d="M165 328 L165 372" stroke="#9b8cf0" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+<rect x="72" y="336" width="186" height="28" rx="6" fill="#0C447C" stroke="#378ADD" stroke-width="0.5"/>
+<text x="165" y="350" font-size="12" fill="#B5D4F4" text-anchor="middle" dominant-baseline="central">task.yaml 任务描述文件</text>
+
+<rect x="60" y="376" width="210" height="62" rx="8" fill="#1d212a" stroke="rgba(255,255,255,.14)" stroke-width="0.5" stroke-dasharray="3 3"/>
+<text x="165" y="394" font-size="12" fill="#9aa3b2" text-anchor="middle" dominant-baseline="central">人类设计师验收</text>
+<text x="165" y="412" font-size="11" fill="#6b7482" text-anchor="middle" dominant-baseline="central">构图 · 曝光 · 是否表达设计意图</text>
+<text x="165" y="428" font-size="11" fill="#6b7482" text-anchor="middle" dominant-baseline="central">这一步不能省</text>
+
+<!-- right -->
+<rect x="380" y="62" width="240" height="44" rx="8" fill="#04342C" stroke="#1D9E75" stroke-width="0.5"/>
+<text x="500" y="84" font-size="13" fill="#9FE1CB" text-anchor="middle" dominant-baseline="central" font-weight="500">targets.csv 车型清单</text>
+
+<path d="M500 106 L500 122" stroke="#1D9E75" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+
+<rect x="380" y="126" width="240" height="44" rx="8" fill="#04342C" stroke="#1D9E75" stroke-width="0.5"/>
+<text x="500" y="148" font-size="13" fill="#9FE1CB" text-anchor="middle" dominant-baseline="central" font-weight="500">JobBuilder + 调度队列</text>
+
+<path d="M500 170 L500 186" stroke="#1D9E75" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+
+<rect x="380" y="190" width="240" height="56" rx="8" fill="#0C447C" stroke="#378ADD" stroke-width="0.5"/>
+<text x="500" y="209" font-size="13" fill="#B5D4F4" text-anchor="middle" dominant-baseline="central" font-weight="500">Runner 执行器</text>
+<text x="500" y="228" font-size="11" fill="#85B7EB" text-anchor="middle" dominant-baseline="central">逐步执行 · 显式等待 · 重试</text>
+
+<path d="M500 246 L500 262" stroke="#378ADD" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+
+<rect x="380" y="266" width="240" height="56" rx="8" fill="#412402" stroke="#BA7517" stroke-width="0.5"/>
+<text x="500" y="285" font-size="13" fill="#FAC775" text-anchor="middle" dominant-baseline="central" font-weight="500">Aligner + Verifier</text>
+<text x="500" y="304" font-size="11" fill="#EF9F27" text-anchor="middle" dominant-baseline="central">视觉伺服对齐 · 相似度校验</text>
+
+<path d="M500 322 L500 338" stroke="#BA7517" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+
+<rect x="380" y="342" width="240" height="50" rx="8" fill="#4B1528" stroke="#D4537E" stroke-width="0.5"/>
+<text x="500" y="360" font-size="13" fill="#F4C0D1" text-anchor="middle" dominant-baseline="central" font-weight="500">PostProcessor 后处理链</text>
+<text x="500" y="378" font-size="11" fill="#ED93B1" text-anchor="middle" dominant-baseline="central">裁剪 · 色彩 · 质检 · 合规闸门</text>
+
+<path d="M500 392 L500 408" stroke="#D4537E" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+
+<rect x="380" y="412" width="240" height="36" rx="8" fill="#173404" stroke="#639922" stroke-width="0.5"/>
+<text x="500" y="430" font-size="13" fill="#C0DD97" text-anchor="middle" dominant-baseline="central" font-weight="500">成品库 + manifest + 失败清单</text>
+
+<!-- cross link -->
+<path d="M165 300 L340 300 L340 218 L376 218" stroke="#9b8cf0" stroke-width="1" fill="none" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+<text x="268" y="292" font-size="10" fill="#9b8cf0" text-anchor="middle">任务契约</text>
+</svg>
+</div>
+
+<h3>模块清单与职责</h3>
+<table>
+<thead><tr><th style="width:130px">模块</th><th style="width:90px">类型</th><th>职责</th><th style="width:150px">关键输入 / 输出</th></tr></thead>
+<tbody>
+<tr><td><strong>Recorder</strong><br>录制器</td><td><span class="pill p-purple">一次性</span></td>
+<td>在人工演示过程中，同步采集四类信号：键鼠事件流（含时间戳与坐标）、DOM 快照（每次交互后的元素路径/属性/可见性/包围盒）、canvas 帧采样（每 200ms 或每次交互后）、网络请求（XHR/WebSocket，用于识别数据接口）。同时注入脚本探测 window 上是否暴露了渲染引擎的 camera 对象。</td>
+<td>入：人工操作<br>出：<code>raw_trajectory.jsonl</code></td></tr>
+
+<tr><td><strong>Abstractor</strong><br>抽象器</td><td><span class="pill p-purple">一次性</span></td>
+<td>把原始轨迹"清洗成人话"：① 去噪——删掉误点、合并连续 mousemove 成一个 drag 动作；② 生成鲁棒选择器——对每个被操作元素产出 4 层候选并按稳定性打分；③ 抽取变量——识别出哪些字符串随车型变化（URL、配色名、机位名）；④ 推导等待条件——从"这次等了 3.2 秒画面才出来"反推出应等待的条件（帧稳定 / 元素出现）。</td>
+<td>入：原始轨迹<br>出：<code>task.yaml</code></td></tr>
+
+<tr><td><strong>StateProbe</strong><br>状态探测</td><td><span class="pill p-blue">运行时</span></td>
+<td>决定"怎么确认到位"。三级通道自动降级：L0 直接读 camera 的 yaw/pitch/fov（误差 &lt;1.5° 即通过，最快最准）；L1 读 DOM 语义（激活按钮文本、URL hash）；L2 像素比对（永远可用）。运行时逐条尝试，记录当前生效的通道。</td>
+<td>出：当前校验通道等级</td></tr>
+
+<tr><td><strong>Runner</strong><br>执行器</td><td><span class="pill p-teal">批量</span></td>
+<td>单任务状态机。支持 8 种原子动作：<code>navigate / click / drag / wheel / select / wait / screenshot / assert</code>。每步执行遵循固定节奏：<strong>定位 → 前置校验 → 动作 → 显式等待 → 后置校验 → 判定</strong>。拒绝使用 <code>sleep(3000)</code> 这类固定等待，一律用条件等待。</td>
+<td>出：原始截图 + 步骤轨迹</td></tr>
+
+<tr><td><strong>Aligner</strong><br>视觉伺服对齐</td><td><span class="pill p-amber">核心</span></td>
+<td>把"大概到了"收敛到"精确到位"。迭代循环：截图 → 与基准图做 ORB 特征点匹配 → RANSAC 估计单应矩阵 → 换算成还需拖拽的像素量与方向 → 执行小步拖拽 → 重新截图比对。收敛条件：SSIM ≥ 阈值 或 特征内点率达标 或 位移落入死区（&lt;2px）。最多 6 轮，超预算则回全景原点重来。</td>
+<td>入：当前帧 + 基准图<br>出：对齐后的画面</td></tr>
+
+<tr><td><strong>Verifier</strong><br>校验器</td><td><span class="pill p-amber">核心</span></td>
+<td>两道关。前置：<strong>页面版本指纹</strong>——对 DOM 骨架算 hash，与录制时比对，变了说明改版，立刻停止并告警（不是重试能解决的问题）。后置：与基准图算 SSIM + pHash，判定 PASS / RETRY / DEGRADE / FAIL。</td>
+<td>出：判定结果 + 相似度数值</td></tr>
+
+<tr><td><strong>PostProcessor</strong><br>后处理链</td><td><span class="pill p-teal">批量</span></td>
+<td>可插拔流水线，每个模块实现统一接口 <code>(image, ctx) → image</code>，独立开关、顺序可调。内置：裁剪 / 缩放 / 色彩归一化 / 锐化 / 质量分级 / 来源处理 / 导出。其中"来源处理"模块带合规强制门槛。</td>
+<td>入：原始截图<br>出：成品图 + 评分</td></tr>
+
+<tr><td><strong>Naming &amp; Storage</strong><br>命名与存储</td><td><span class="pill p-teal">批量</span></td>
+<td>模板引擎渲染文件名与目录层级；两级去重（pHash 快筛 + SHA256 确认）；SQLite manifest 记录每条任务状态，支撑断点续跑；失败清单输出 CSV + JSON。</td>
+<td>出：成品库 + 状态库 + 报告</td></tr>
+
+<tr><td><strong>Scheduler &amp; Limiter</strong><br>调度与限流</td><td><span class="pill p-teal">批量</span></td>
+<td>并发上下文数控制（WebGL 上下文有浏览器级上限，建议 ≤4）；动作间与车型间的随机抖动延迟；指数退避；日配额熔断；触发 captcha / 403 / 429 时全局停止。</td>
+<td>出：任务队列节拍</td></tr>
+
+<tr><td><strong>ComplianceGate</strong><br>合规闸门</td><td><span class="pill p-red">强制</span></td>
+<td>独立于业务逻辑的硬门槛。校验 <code>license_ref</code>、<code>mode</code>、<code>attribution</code> 三项配置，决定后处理链中哪些模块允许启用。任何试图绕过授权的调用都会被拒绝并记录审计日志。</td>
+<td>出：放行 / 拒绝 + 审计</td></tr>
+
+<tr><td><strong>Observability</strong><br>可观测性</td><td><span class="pill p-gray">支撑</span></td>
+<td>每次运行生成证据包：原始截图、对齐迭代过程图、相似度数值曲线、步骤耗时、失败现场。出问题时不靠猜，靠证据包复现。</td>
+<td>出：<code>evidence/{run_id}/</code></td></tr>
+</tbody>
+</table>
+
+<!-- ============ 3 ============ -->
+<h2 id="s3"><span class="num">03</span>数据流：录制链路与执行链路</h2>
+
+<h3>录制链路（只跑一次，产出任务契约）</h3>
+<pre><span class="c"># 阶段 1：原始信号采集</span>
+人工打开浏览器 → 操作车型页 → 调机位 → 截一张满意的图
+                    ↓ 同步采集
+  ┌─────────────────┼─────────────────┬─────────────────┐
+  ↓                 ↓                 ↓                 ↓
+events.jsonl   dom_snapshots.jsonl  frames/          net.har
+(键鼠+时间戳)  (选择器/属性/包围盒)  (canvas 帧采样)  (接口请求)
+  └─────────────────┼─────────────────┴─────────────────┘
+                    ↓
+            raw_trajectory.jsonl        <span class="c">+ 人工圈定"满意的那张"作为基准图</span>
+
+<span class="c"># 阶段 2：抽象与参数化</span>
+raw_trajectory.jsonl
+        ↓  [去噪]        剔除误操作、合并 mousemove 序列
+        ↓  [定位]        为每个目标元素生成 4 层候选选择器 + 稳定性评分
+        ↓  [抽变量]      识别 URL / 配色名 / 机位名 → 声明为 {{param}}
+        ↓  [推等待]      "等了 3.2s" → 反推为 wait: canvas_stable(3 帧)
+        ↓  [定校验]      探测 camera 对象 → 确定 state_probe 通道
+        ↓
+   task.autohome360.yaml   +   baselines/V0x_*.png   +   人工验收签字</pre>
+
+<div class="callout">
+  <div class="ttl">选择器为什么需要 4 层候选</div>
+  <p>页面上的元素不会一直用同一个 class。稳妥的做法是按<strong>抗变更能力</strong>排序，运行时依次尝试，全挂了再走视觉锚点兜底：</p>
+  <p><span class="pill p-teal">L1 埋点属性</span> <code>[data-track='360-interior']</code> — 为数据而加，最不容易被UI重构误删<br>
+  <span class="pill p-blue">L2 语义属性</span> <code>[aria-label='进入全景']</code> / <code>[title=...]</code> — 兼顾无障碍，变更频率低<br>
+  <span class="pill p-amber">L3 可见文本</span> <code>text=中控</code> / <code>:has-text('中控')</code> — 会随文案改版变，但可读性好<br>
+  <span class="pill p-gray">L4 结构路径</span> <code>.pano-wrap > .nav > li:nth-child(2)</code> — 最脆，仅作兜底<br>
+  <span class="pill p-purple">L5 视觉锚点</span> 在基准图上标注元素区域，用模板匹配定位 — 改版后最后的救命稻草</p>
+</div>
+
+<h3>执行链路（批量重复）</h3>
+<pre>targets.csv  ×  task.yaml  ×  views.yaml
+        ↓  JobBuilder 做笛卡尔展开（车型 × 配色 × 机位）
+        ↓
+   Job Queue（优先级排序，同车型聚批，减少页面切换）
+        ↓
+   ┌──────────────────── Scheduler：并发 ≤3，随机抖动延迟 ────────────────────┐
+   ↓                                                                          ↓
+Runner(A)                    Runner(B)                    Runner(C)
+  open → dismiss → enter → color → wait_pano → goto_view                    
+     ↓                                                                       ↓
+  ┌──────────── Aligner 视觉伺服闭环（最多 6 轮）────────────┐                 
+  │  截当前帧 → ORB 特征匹配 → 单应估计 → 算残差位移 → 拖拽 │                 
+  │       ↑                                              ↓  │                 
+  │       └────── 未收敛？回全景原点重来 ← 达标？──────────┘  │                 
+  └──────────────────────────┬───────────────────────────────┘                
+                             ↓                                                
+                    Verifier：SSIM ≥ 0.90 ?                                   
+                     ↙ 是                    ↘ 否（重试 3 次后）               
+              PostProcessor 链           记入 failures.csv                     
+                     ↓                          ↓                             
+        命名 → 去重 → 落盘 → manifest      证据包 + 告警                       
+   └─────────────────────────────────────────────────────────────────────────┘</pre>
+
+<!-- ============ 4 ============ -->
+<h2 id="s4"><span class="num">04</span>机位字典：本方案真正的设计资产</h2>
+<p class="lead">这一节是给你的。前面讲的都是工程，但决定这套东西<strong>有没有专业价值</strong>的，是机位字典做得好不好。</p>
+
+<div class="callout ok">
+  <div class="ttl">为什么机位字典比 Agent 本身更重要</div>
+  <p>一个能自动截 500 张图的工具不值钱——截出来的图如果角度随机、光照不一、构图混乱，对 Benchmark 毫无意义，甚至会误导判断。真正值钱的是<strong>一套跨车型严格可比的标准化机位定义</strong>：同样是"中控正视"，理想 L9 和宝马 i3 截出来的必须是同一个观察关系，才能横向比 IP 分缝、屏幕占比、出风口节奏。</p>
+  <p>所以机位字典必须由你来定义，工程只是让它在几百台车上被忠实执行。</p>
+</div>
+
+<h3>每个机位需要定义三层</h3>
+<table>
+<thead><tr><th style="width:110px">层次</th><th style="width:150px">回答什么问题</th><th>示例（V02 中控正视）</th></tr></thead>
+<tbody>
+<tr><td><strong>semantic</strong><br>语义层</td><td>这个机位要表达什么设计信息？做横向对比时看什么？</td>
+<td>正对仪表板，横向对称；用于比较 IP 分缝、出风口形式、屏幕宽高比与厚度感</td></tr>
+<tr><td><strong>acquire</strong><br>获取层</td><td>怎么到达这个机位？是点预设按钮还是拖拽？</td>
+<td>优先点文案为"中控"的预设按钮；若无预设，则用基准图 <code>V02_ip_front.png</code> 做视觉伺服对齐</td></tr>
+<tr><td><strong>verify</strong><br>校验层</td><td>怎么确认到位？容差多少？</td>
+<td>SSIM ≥ 0.92、pHash 汉明距离 ≤ 6；若可读 camera 则 yaw/pitch 偏差 &lt; 1.5°</td></tr>
+</tbody>
+</table>
+
+<h3>建议的 8 机位起点（可按你的方法论调整）</h3>
+<div class="grid g4">
+  <div class="card"><div class="lbl">V01</div><div class="val" style="font-size:15px">主驾眼点</div><div class="note">方向盘上半 + 仪表 + 屏 + 左门板</div></div>
+  <div class="card"><div class="lbl">V02</div><div class="val" style="font-size:15px">中控正视</div><div class="note">IP 分缝、出风口、屏幕比例</div></div>
+  <div class="card"><div class="lbl">V03</div><div class="val" style="font-size:15px">副仪表板</div><div class="note">换挡、扶手箱、杯托、材质</div></div>
+  <div class="card"><div class="lbl">V04</div><div class="val" style="font-size:15px">前门板</div><div class="note">门板层次、扶手、氛围灯</div></div>
+  <div class="card"><div class="lbl">V05</div><div class="val" style="font-size:15px">后排视角</div><div class="note">空间、背板、后排出风口</div></div>
+  <div class="card"><div class="lbl">V06</div><div class="val" style="font-size:15px">方向盘特写</div><div class="note">造型、按键、缝线工艺</div></div>
+  <div class="card"><div class="lbl">V07</div><div class="val" style="font-size:15px">顶棚</div><div class="note">材质、天窗占比、阅读灯</div></div>
+  <div class="card"><div class="lbl">V08</div><div class="val" style="font-size:15px">座舱全景</div><div class="note">布局总览，兼作拖拽原点</div></div>
+</div>
+
+<div class="callout warn">
+  <div class="ttl">一个容易被忽略的细节：机位顺序</div>
+  <p>拖拽式机位会有<strong>误差累积</strong>——从 A 拖到 B 再拖到 C，每一步的残差会叠加，越往后偏得越多。解决办法是定义一条<strong>执行路线</strong>：每个车型都先回到全景（V08）作为原点，再从原点出发去各个机位，把累积误差清零。配置文件 <code>views.yaml</code> 里的 <code>default_route</code> 就是干这个的。</p>
+</div>
+
+<!-- ============ 5 ============ -->
+<h2 id="s5"><span class="num">05</span>配置文件结构与字段说明</h2>
+<p class="lead">配置分五份，职责单一。已生成在 <code>config/</code> 目录，可直接改着用。</p>
+
+<table>
+<thead><tr><th style="width:190px">文件</th><th style="width:90px">改的频率</th><th>管什么</th></tr></thead>
+<tbody>
+<tr><td><code>profile.yaml</code></td><td><span class="pill p-gray">低</span></td><td>全局运行参数：浏览器环境、并发限流、重试退避、超时、存储路径、<strong>合规等级</strong></td></tr>
+<tr><td><code>task.autohome360.yaml</code></td><td><span class="pill p-amber">中</span></td><td>任务描述文件（录制的产物）：参数声明、状态探测通道、步骤序列、全局兜底</td></tr>
+<tr><td><code>views.yaml</code></td><td><span class="pill p-teal">高</span></td><td>机位字典：语义、获取方式、校验容差、裁剪区域、执行路线</td></tr>
+<tr><td><code>naming.yaml</code></td><td><span class="pill p-gray">低</span></td><td>命名模板、字符清洗、序号规则、去重策略、断点续跑、失败清单字段、侧车元数据</td></tr>
+<tr><td><code>postprocess.yaml</code></td><td><span class="pill p-gray">低</span></td><td>后处理流水线：模块开关、参数、顺序，以及三套预设组合</td></tr>
+<tr><td><code>targets.csv</code></td><td><span class="pill p-teal">高</span></td><td>车型清单：品牌、车系、URL、配色、机位列表、优先级、开关</td></tr>
+</tbody>
+</table>
+
+<h3>任务描述文件的骨架（最关键的一份）</h3>
+<pre><span class="c"># 1. 参数声明 —— 由 targets.csv 列名绑定</span>
+<span class="k">params</span>:
+  - { name: brand,     type: string, required: true }
+  - { name: model_url, type: url,    required: true }
+  - { name: color,     type: string, required: true, default: <span class="s">"默认"</span> }
+  - { name: view_id,   type: string, required: true, ref: <span class="s">"views.yaml"</span> }
+
+<span class="c"># 2. 状态探测 —— 决定"怎么确认到位"，三级自动降级</span>
+<span class="k">state_probe</span>:
+  camera_hook: { enabled: true, candidates: [<span class="s">"window.__viewer?.camera"</span>, ...], tolerance_deg: 1.5 }
+  dom_state:   { enabled: true, sources: [<span class="s">".view-tab.active::text"</span>, <span class="s">"location.hash"</span>] }
+  pixel_fallback: { enabled: true }
+
+<span class="c"># 3. 步骤序列 —— 每步都是"定位 + 动作 + 等待 + 校验"四件套</span>
+<span class="k">steps</span>:
+  - id: open
+    action: navigate
+    url: <span class="s">"{{model_url}}"</span>
+    settle: [ {type: network_idle, duration_ms: 800} ]
+    post_check:
+      - { type: page_version, expected: <span class="s">"{{fingerprint}}"</span>, on_mismatch: abort_and_alert }
+
+  - id: wait_pano_ready              <span class="c"># 最容易失败的一步，给足预算</span>
+    action: wait
+    conditions:
+      - { type: canvas_stable, frame_diff_threshold: 0.004, consecutive_frames: 3, timeout_ms: 45000 }
+    on_timeout: [ {action: reload_once, then: retry}, {action: degrade, to: low_res_mode}, {action: fail_record} ]
+
+  - id: align                        <span class="c"># 视觉伺服闭环，方案核心</span>
+    action: align
+    baseline: <span class="s">"baselines/{{view_id}}.png"</span>
+    max_iterations: 6
+    convergence: { ssim_min: 0.90, phash_max: 8, camera_delta_deg: 1.5 }
+    deadzone_px: 2
+    on_not_converged: [ {action: reset_to_view, view_id: V08_overall, then: retry_align}, {action: fail_record} ]
+
+  - id: capture
+    action: screenshot
+    pre_actions:                     <span class="c"># 截图前"冻结"画面，保证可复现</span>
+      - { action: hide, selectors: [<span class="s">".tooltip"</span>, <span class="s">".share-bar"</span>] }
+      - { action: move_mouse_to, x: -10, y: -10 }   <span class="c"># 鼠标移出，避免 hover 高亮</span>
+      - { action: pause_animations, value: true }
+    filename: <span class="s">"{{brand}}_{{series}}_{{color}}_{{view_id}}_{{seq}}"</span>
+    post_check: [ {type: image_not_blank}, {type: verify_against, baseline: ..., ssim_min: 0.90} ]
+
+<span class="c"># 4. 全局兜底 —— 出现这些情况不是重试能解决的，要停</span>
+<span class="k">guards</span>:
+  on_captcha: stop_all_and_alert
+  on_login_required: stop_and_alert
+  on_http_429: { action: backoff, multiplier: 4, then: continue }
+  on_page_version_mismatch: stop_all_and_alert</pre>
+
+<h4>字段速查：等待条件（<code>settle</code> / <code>conditions</code>）的六种类型</h4>
+<table>
+<thead><tr><th style="width:170px">类型</th><th>含义与用途</th><th style="width:110px">典型超时</th></tr></thead>
+<tbody>
+<tr><td><code>selector</code></td><td>等待元素出现且可见。最常用</td><td>15s</td></tr>
+<tr><td><code>network_idle</code></td><td>连续 N 毫秒无网络请求。用于页面初始加载</td><td>10s</td></tr>
+<tr><td><code>canvas_stable</code></td><td><strong>连续 N 帧之间像素差 &lt; 阈值</strong>。360 全景加载与拖动停止的唯一可靠判据</td><td>45s</td></tr>
+<tr><td><code>no_progress_indicator</code></td><td>加载进度条 / spinner 消失</td><td>30s</td></tr>
+<tr><td><code>camera_reached</code></td><td>camera 的 yaw/pitch 进入目标角度容差内（仅 L0 通道可用）</td><td>20s</td></tr>
+<tr><td><code>delay</code></td><td>固定等待。<strong>只有在确认没有更好的条件时才用</strong>，且必须写注释说明原因</td><td>—</td></tr>
+</tbody>
+</table>
+
+<!-- ============ 6 ============ -->
+<h2 id="s6"><span class="num">06</span>核心难点：视觉伺服对齐</h2>
+<p class="lead">这是整个方案唯一有真正技术含量的地方，也是决定"能不能用"的分水岭。</p>
+
+<div class="callout danger">
+  <div class="ttl">问题的本质</div>
+  <p>你演示时把视角拖到了某个位置，系统记下"拖了 (dx=-312, dy=+47) 像素"。但这个数字<strong>不能直接用</strong>——因为拖拽量与角度变化的关系是非线性的：画面边缘和中心的灵敏度不同，不同车型的全景球体半径不同，鼠标加速度曲线也会干扰。更糟的是误差会累积。</p>
+  <p>所以必须用闭环：不预测"该拖多少"，而是<strong>看当前画面与基准图差多少，边看边修</strong>。这就是机器人领域的视觉伺服。</p>
+</div>
+
+<div class="svgwrap">
+<svg viewBox="0 0 680 300" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>视觉伺服对齐闭环</title>
+<desc>截当前帧、特征点匹配、单应估计、位移换算、微拖拽、收敛判定的迭代闭环</desc>
+<defs>
+  <marker id="arrow2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+
+<rect x="40" y="34" width="128" height="52" rx="8" fill="#0C447C" stroke="#378ADD" stroke-width="0.5"/>
+<text x="104" y="53" font-size="12.5" fill="#B5D4F4" text-anchor="middle" dominant-baseline="central" font-weight="500">截当前帧</text>
+<text x="104" y="70" font-size="10.5" fill="#85B7EB" text-anchor="middle" dominant-baseline="central">canvas.toDataURL</text>
+
+<path d="M168 60 L196 60" stroke="#378ADD" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+
+<rect x="200" y="34" width="128" height="52" rx="8" fill="#0C447C" stroke="#378ADD" stroke-width="0.5"/>
+<text x="264" y="53" font-size="12.5" fill="#B5D4F4" text-anchor="middle" dominant-baseline="central" font-weight="500">特征点匹配</text>
+<text x="264" y="70" font-size="10.5" fill="#85B7EB" text-anchor="middle" dominant-baseline="central">ORB + RANSAC</text>
+
+<path d="M328 60 L356 60" stroke="#378ADD" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+
+<rect x="360" y="34" width="128" height="52" rx="8" fill="#0C447C" stroke="#378ADD" stroke-width="0.5"/>
+<text x="424" y="53" font-size="12.5" fill="#B5D4F4" text-anchor="middle" dominant-baseline="central" font-weight="500">残差换算</text>
+<text x="424" y="70" font-size="10.5" fill="#85B7EB" text-anchor="middle" dominant-baseline="central">单应 → 像素位移</text>
+
+<path d="M488 60 L516 60" stroke="#378ADD" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+
+<rect x="520" y="34" width="120" height="52" rx="8" fill="#412402" stroke="#BA7517" stroke-width="0.5"/>
+<text x="580" y="53" font-size="12.5" fill="#FAC775" text-anchor="middle" dominant-baseline="central" font-weight="500">微拖拽</text>
+<text x="580" y="70" font-size="10.5" fill="#EF9F27" text-anchor="middle" dominant-baseline="central">mouse.move steps</text>
+
+<path d="M580 86 L580 112 L580 124" stroke="#BA7517" stroke-width="1.5" fill="none"/>
+<path d="M580 124 L104 124 L104 90" stroke="#BA7517" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+
+<rect x="180" y="140" width="320" height="52" rx="8" fill="#04342C" stroke="#1D9E75" stroke-width="0.5"/>
+<text x="340" y="159" font-size="12.5" fill="#9FE1CB" text-anchor="middle" dominant-baseline="central" font-weight="500">收敛判定</text>
+<text x="340" y="177" font-size="10.5" fill="#5DCAA5" text-anchor="middle" dominant-baseline="central">SSIM ≥ 阈值 · 内点率达标 · 位移 &lt; 2px 死区</text>
+
+<path d="M580 86 L580 166 L504 166" stroke="#1D9E75" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+
+<path d="M340 192 L340 216" stroke="#1D9E75" stroke-width="1.5" fill="none"/>
+<path d="M240 216 L440 216" stroke="#1D9E75" stroke-width="1.5" fill="none"/>
+<path d="M240 216 L240 240" stroke="#1D9E75" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+<path d="M440 216 L440 240" stroke="#1D9E75" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+
+<rect x="150" y="244" width="180" height="44" rx="8" fill="#173404" stroke="#639922" stroke-width="0.5"/>
+<text x="240" y="266" font-size="12.5" fill="#C0DD97" text-anchor="middle" dominant-baseline="central" font-weight="500">收敛 → 进入截图</text>
+
+<rect x="350" y="244" width="180" height="44" rx="8" fill="#501313" stroke="#E24B4A" stroke-width="0.5"/>
+<text x="440" y="257" font-size="12.5" fill="#F7C1C1" text-anchor="middle" dominant-baseline="central" font-weight="500">未收敛（≤6 轮）</text>
+<text x="440" y="274" font-size="10.5" fill="#F09595" text-anchor="middle" dominant-baseline="central">回全景原点重来 → 再不行则告警</text>
+
+<text x="40" y="270" font-size="11" fill="#6b7482">基准图从左侧右侧同时输入，作为比对参照</text>
+</svg>
+</div>
+
+<h3>几个必须想清楚的实现细节</h3>
+<ul>
+<li><strong>死区（dead zone）不能省。</strong>位移小于 2px 时必须判定收敛并停止，否则系统会在目标附近来回抖动，永远不收敛，白耗时间。</li>
+<li><strong>迭代轮次要设预算。</strong>最多 6 轮、总时长 60 秒。超预算不要硬扛，回全景原点重新开始——大概率是粗调阶段就跑偏了，继续微调没意义。</li>
+<li><strong>特征匹配会失效。</strong>如果画面是纯色顶棚、反光玻璃这类弱纹理区域，ORB 找不到足够特征点。此时要降级：改用相位相关（phase correlation）估整体平移，或者干脆只用 SSIM 做爬山搜索（慢但稳）。</li>
+<li><strong>阈值不能拍脑袋定。</strong>正确做法是标定：拿同一车型同一机位重复截 10 次，算它们之间的 SSIM 分布 → 得到<strong>类内方差</strong>；再拿同一车型不同机位的图互相比 → 得到<strong>类间方差</strong>。阈值取两者之间。不同机位的纹理丰富度不同，阈值应该<strong>逐机位标定</strong>，而不是全局一个值。这也解释了为什么 <code>views.yaml</code> 里每个机位有各自的 <code>tolerance_ssim</code>。</li>
+<li><strong>能读到 camera 就别用视觉。</strong>如果 L0 通道可用（能读 yaw/pitch），对齐就退化成一个简单的数值收敛问题，几十毫秒就能到位，且完全精确。视觉伺服只在 L0/L1 都不可用时才启用。这个优先级不能搞反。</li>
+</ul>
+
+<!-- ============ 7 ============ -->
+<h2 id="s7"><span class="num">07</span>关键失败场景与应对矩阵</h2>
+<p class="lead">区分两类失败很重要：<strong>系统故障</strong>（要重试/修复）和<strong>数据缺失</strong>（要记录/跳过）。把后者当故障重试是浪费时间，把前者当缺失跳过会静默丢数据。</p>
+
+<table>
+<thead><tr><th style="width:150px">失败场景</th><th style="width:90px">类别</th><th>检测信号</th><th>应对策略（按优先级）</th><th style="width:80px">最终兜底</th></tr></thead>
+<tbody>
+<tr>
+<td><strong>页面加载超时</strong></td><td><span class="pill p-amber">故障</span></td>
+<td>导航超时 / 关键元素 30s 未出现</td>
+<td>① 重载一次再等 ② 换用 <code>domcontentloaded</code> 而非 <code>networkidle</code>（全景页请求多，idle 很难达成）③ 检查是否被限流</td>
+<td>记 <code>pano_load_timeout</code></td></tr>
+
+<tr>
+<td><strong>全景切片加载不全</strong></td><td><span class="pill p-amber">故障</span></td>
+<td>帧稳定等待 45s 超时；画面局部模糊或有未加载的灰块</td>
+<td>① 延长等待至 60s 再判定 ② 轻微拖动一下触发切片补加载 ③ 降级到低清模式再截</td>
+<td>低清入库 + 打 <code>C</code> 级标记</td></tr>
+
+<tr>
+<td><strong>WebGL 上下文丢失</strong></td><td><span class="pill p-red">故障</span></td>
+<td>页面报 <code>webglcontextlost</code>；截图全黑或纯色</td>
+<td>① 监听事件后自动重载页面 ② 降低并发数（浏览器 WebGL 上下文有上限，通常 8~16，超了集体崩）③ 给每个 context 加 <code>--disable-gpu-program-cache</code></td>
+<td>重启该 worker</td></tr>
+
+<tr>
+<td><strong>弹窗 / 浮层遮挡</strong></td><td><span class="pill p-amber">故障</span></td>
+<td>点击被拦截（Playwright 报 element intercepts pointer events）；画布中心区域被覆盖</td>
+<td>① 步骤里内置 <code>dismiss_overlays</code>，按常见选择器逐个尝试关闭（失败不报错）② 点击前用 <code>scroll_into_view</code> + <code>force</code> 兜底 ③ 截图前统一隐藏已知浮层</td>
+<td>保存现场图供人看</td></tr>
+
+<tr>
+<td><strong>登录态要求</strong></td><td><span class="pill p-red">拦截</span></td>
+<td>出现登录遮罩；接口返回 401；高清全景提示"登录查看"</td>
+<td><strong>默认不抓取、不绕过。</strong>停止并告警。若确属自有授权账号：在 profile 中显式声明，走独立凭据管理，且仍需遵守站点条款与频率限制</td>
+<td>记 <code>login_required</code> 并停</td></tr>
+
+<tr>
+<td><strong>触发验证码</strong></td><td><span class="pill p-red">拦截</span></td>
+<td>出现验证码元素 / 滑动验证 / 接口返 403</td>
+<td><strong>立刻全局停止并告警，不做任何自动破解。</strong>这是站点明确的拒绝信号，继续尝试只会升级为 IP 封禁</td>
+<td>整体熔断</td></tr>
+
+<tr>
+<td><strong>被限流（429）</strong></td><td><span class="pill p-amber">故障</span></td>
+<td>HTTP 429；响应变慢；出现频率提示</td>
+<td>① 指数退避 ×4 后继续 ② 永久下调并发与速率（学习式降速）③ 当天剩余任务顺延</td>
+<td>日配额熔断</td></tr>
+
+<tr>
+<td><strong>页面改版</strong></td><td><span class="pill p-red">故障</span></td>
+<td><strong>页面版本指纹不匹配</strong>；连续多个元素选择器失效</td>
+<td>① 立刻停止全部任务并告警（不是重试能解决的）② 走多候选选择器自动尝试 ③ 尝试视觉锚点定位 ④ 全部失败则等待人工重新录制一次</td>
+<td>人工重录 + 更新基线</td></tr>
+
+<tr>
+<td><strong>车型无此配色</strong></td><td><span class="pill p-teal">数据缺失</span></td>
+<td>配色 tab 点击后无激活态；或列表里根本没有该配色项</td>
+<td><strong>直接跳过并记原因</strong>，不重试。事后从失败清单里批量修正配色名，或补录该车型的可选配色</td>
+<td>记 <code>color_not_available</code></td></tr>
+
+<tr>
+<td><strong>车型无 360 内饰</strong></td><td><span class="pill p-teal">数据缺失</span></td>
+<td>找不到"360°看车"入口；或只有外观没有内饰</td>
+<td>跳过并记录。可在 targets.csv 中把该车型标记为 <code>enabled=false</code>，避免每次重复探测</td>
+<td>记 <code>view_not_available</code></td></tr>
+
+<tr>
+<td><strong>机位对齐不收敛</strong></td><td><span class="pill p-amber">故障</span></td>
+<td>6 轮迭代后 SSIM 仍低于阈值；特征点数量不足</td>
+<td>① 回全景原点重新开始 ② 降级为爬山搜索（牺牲速度换成功率）③ 保存对齐过程的逐帧图供诊断</td>
+<td>记 <code>align_not_converged</code> + 证据包</td></tr>
+
+<tr>
+<td><strong>截图不确定</strong></td><td><span class="pill p-amber">故障</span></td>
+<td>同机位两次截图 pHash 距离 &gt; 4</td>
+<td>① 截图前隐藏动态元素（时间、在线人数、tooltip）② 鼠标移出画面避免 hover 高亮 ③ 暂停 CSS 动画 ④ 锁死 DPR、视口、色彩配置</td>
+<td>连拍 3 帧取中位</td></tr>
+
+<tr>
+<td><strong>反爬升级 / IP 封禁</strong></td><td><span class="pill p-red">拦截</span></td>
+<td>连续 403；连接被重置</td>
+<td><strong>停止全部任务。</strong>复盘频率是否过高。本方案不提供 IP 轮换、指纹伪造等对抗手段——那会把技术问题变成法律问题</td>
+<td>人工介入评估</td></tr>
+
+<tr>
+<td><strong>磁盘 / 重名 / 中断</strong></td><td><span class="pill p-gray">工程</span></td>
+<td>写入失败；同名冲突；进程被杀</td>
+<td>① 内容哈希去重 ② 序号自增避冲突 ③ SQLite manifest 记录状态，重启自动续跑 ④ lock 文件防并发跑串</td>
+<td>失败清单可重放</td></tr>
+</tbody>
+</table>
+
+<div class="callout">
+  <div class="ttl">页面版本指纹：一个便宜但极有用的机制</div>
+  <p>录制时，对页面的 DOM 骨架算一个哈希（比如：把关键容器下的标签结构、class 集合、元素数量拼成字符串再 hash）。每次执行前重算一次，与录制时比对。变了就说明页面改版——<strong>此时继续跑只会产生一堆错图</strong>，正确做法是立刻停下告警，让人来重新录一次。</p>
+  <p>这比"等截图相似度全部掉下来才发现"要早得多，也便宜得多。建议同时配一个<strong>每周一次的冒烟任务</strong>：拿 2~3 个已知车型跑一遍，只验指纹和相似度，不改任何产物——这是检测静默改版最省事的手段。</p>
+</div>
+
+<!-- ============ 8 ============ -->
+<h2 id="s8"><span class="num">08</span>命名、存储、去重与断点续跑</h2>
+
+<h3>命名规则</h3>
+<pre><span class="k">template</span>: <span class="s">"{brand}_{series}_{color}_{view_name}_{seq}"</span>
+<span class="k">path_template</span>: <span class="s">"{brand}/{series}/{color}/"</span>
+
+<span class="c"># 实际产出示例：</span>
+output/final/比亚迪/BYD-宋PLUS-EV/黑色-米色/比亚迪_宋PLUS-EV_黑色-米色_中控正视_01.png
+
+<span class="c"># 清洗规则：空格→连字符，非法字符剔除，中文品牌保留英文别名便于检索</span>
+<span class="k">alias_map</span>: { <span class="s">"比亚迪"</span>: <span class="s">"BYD"</span>, <span class="s">"宝马"</span>: <span class="s">"BMW"</span>, <span class="s">"奔驰"</span>: <span class="s">"Benz"</span> }
+<span class="k">max_length</span>: 120        <span class="c"># 超长从中间截断</span>
+<span class="k">sequence</span>:
+  width: 2              <span class="c"># 01, 02 ...</span>
+  scope: [brand, series, color, view_id]
+  on_conflict: increment</pre>
+
+<h3>两级去重</h3>
+<div class="grid g2">
+<div class="card">
+  <div class="lbl">第一级 · 快筛</div>
+  <div class="val" style="font-size:16px">pHash 感知哈希</div>
+  <div class="note">对缩放、轻微压缩、亮度变化不敏感。汉明距离 ≤ 4 视为同一张。O(1) 比对，适合全库扫描。</div>
+</div>
+<div class="card">
+  <div class="lbl">第二级 · 确认</div>
+  <div class="val" style="font-size:16px">SHA256 内容哈希</div>
+  <div class="note">精确判重。先 pHash 缩小候选集，再 SHA256 确认，兼顾速度与准确。</div>
+</div>
+</div>
+
+<h3>断点续跑的状态机</h3>
+<pre>pending ──→ running ──→ done
+               │
+               ├──→ skipped   （数据缺失，如无此配色，不重试）
+               │
+               └──→ failed    （系统故障，可重试 ≤3 次）
+
+重启时：
+  done     → 跳过（不重复劳动）
+  running  → 重置为 pending（上次跑到一半，重排队）
+  failed   → 若 retry 次数 &lt; 3，重排队；否则留在失败清单等人工
+  skipped  → 默认跳过，可用 --retry-skipped 强制重探</pre>
+
+<div class="callout warn">
+  <div class="ttl">两个容易被忽视的工程细节</div>
+  <p><strong>lock 文件。</strong>不加锁的话，两个终端同时跑会各自写 manifest，状态互相覆盖，最后数据一团乱。</p>
+  <p><strong>侧车元数据。</strong>每张图配一个同名 <code>.json</code>，记录来源 URL、抓取时间、机位、camera 数值、相似度、视口与 DPR、授权编号。这既是溯源需要（合规），也是日后发现"这批图角度偏了"时能反查原因的唯一依据。</p>
+</div>
+
+<h3>失败清单的字段设计</h3>
+<p>失败清单不只是"报错列表"，它应该是<strong>可直接重放的工单</strong>：</p>
+<pre>run_id, timestamp, brand, series, model_url, color, view_id,
+step_id,        <span class="c"># 卡在哪一步</span>
+reason,         <span class="c"># 原因码，见 naming.yaml 的 reason_codes</span>
+attempts,       <span class="c"># 已重试次数</span>
+screenshot_path,<span class="c"># 失败现场截图</span>
+suggestion      <span class="c"># 系统建议：改配色名 / 标记无机位 / 人工重录</span></pre>
+
+<!-- ============ 9 ============ -->
+<h2 id="s9"><span class="num">09</span>后处理链与合规风险</h2>
+
+<h3>可插拔流水线</h3>
+<pre>原始截图
+   ↓ [crop]            裁剪到固定区域（先裁剪再做别的，省算力）
+   ↓ [resize]          长边缩放到 2000px，不允许放大
+   ↓ [color_normalize] 统一到 sRGB（做 CMF 跨批次对比的前提）
+   ↓ [quality_score]   不修图，只打分：模糊 / 曝光 / 空白 / 伪影 → A/B/C/reject
+   ↓ [debrand]         <span class="w">⚠ 合规闸门，默认关闭</span>
+   ↓ [export]          输出 PNG + 侧车 JSON（写入来源信息）</pre>
+
+<div class="callout warn">
+  <div class="ttl">关于色彩处理的一个专业提醒</div>
+  <p><code>auto_level</code> 和 <code>auto_white_balance</code> 默认都关掉了。原因：做 CMF 和材质对比时，你要的恰恰是<strong>真实、未被修饰的色彩关系</strong>。自动拉伸对比度会让不同批次的图失去可比性——同一块木纹在两张图里被拉成了不同亮度，对比结论就不可信了。这两个开关只在"单张图用于展示"时才考虑打开。</p>
+</div>
+
+<h3>合规风险分析</h3>
+<div class="callout danger">
+  <div class="ttl">核心结论：去除站点标识是法律问题，不是技术问题</div>
+  <p>我的立场很明确——<strong>本方案不提供去除水印/标识的具体技术实现</strong>。下面说清楚为什么，以及合规的出路在哪。</p>
+</div>
+
+<table>
+<thead><tr><th style="width:170px">风险维度</th><th style="width:80px">等级</th><th>具体说明</th></tr></thead>
+<tbody>
+<tr><td><strong>著作权 · 署名权</strong></td><td><span class="pill p-red">高</span></td>
+<td>360° 看车的全景图与页面整体构成受《著作权法》保护（摄影作品 / 视听作品 / 汇编作品）。去除"汽车之家"标识直接指向署名权这一<strong>著作人身权</strong>——人身权不可转让、永久保护，即便拿到了使用权也不当然包含去除署名的权利。</td></tr>
+<tr><td><strong>权利管理信息</strong></td><td><span class="pill p-red">高</span></td>
+<td>水印属于典型的"权利管理电子信息"。故意删除或改变这类信息，在著作权法上有独立的责任条款，且往往是认定"故意侵权"的加重情节。</td></tr>
+<tr><td><strong>网站用户协议</strong></td><td><span class="pill p-amber">中高</span></td>
+<td>注册或使用站点通常需接受用户协议，其中普遍禁止批量抓取、禁止去除标识、禁止用于商业目的。即便技术上做得到，违约会带来封号、追责风险。</td></tr>
+<tr><td><strong>不正当竞争</strong></td><td><span class="pill p-amber">中高</span></td>
+<td>去除来源后对外使用（汇报、提案、对外发布），会造成来源混淆，可能被认定为《反不正当竞争法》下的混淆行为。这在<strong>商业场景</strong>下风险尤其大。</td></tr>
+<tr><td><strong>技术保护措施</strong></td><td><span class="pill p-amber">中</span></td>
+<td>若站点设置了访问控制、反爬机制，规避这些措施本身可能构成独立违法。所以本方案对验证码、403、封 IP 一律采取<strong>停止</strong>而非对抗策略。</td></tr>
+<tr><td><strong>数据抓取合规</strong></td><td><span class="pill p-amber">中</span></td>
+<td>需遵守 robots.txt、控制频率、声明身份、不抓取需登录或付费内容。高频抓取本身可能构成对服务的干扰。</td></tr>
+</tbody>
+</table>
+
+<h3>五条合规替代路径（按推荐度排序）</h3>
+<div class="steps">
+  <div class="step">
+    <div class="st">申请官方授权 / 商务合作</div>
+    <div class="sd">最干净的路径。汽车之家有开放平台与内容合作通道，主机厂与经销商体系也有官方素材库。拿到书面授权后，在系统里填入 <code>license_ref</code>，去标识模块才会解锁。授权要写清楚：用途、范围、期限、是否允许去标识。</div>
+  </div>
+  <div class="step">
+    <div class="st">使用官方素材源</div>
+    <div class="sd">主机厂 press kit、品牌官网新闻中心 / 媒体中心、经销商后台素材库。这些渠道的图<strong>本来就是给你用的</strong>，且通常提供高分辨率、多角度、无水印版本。做竞品研究时，先问自己"这张图官方有没有公开发过"。</div>
+  </div>
+  <div class="step">
+    <div class="st">自行拍摄（4S 店 / 车展 / 自有车辆）</div>
+    <div class="sd">作为内饰设计师，这条路径其实<strong>最适合你</strong>：完全可控、无版权负担、且能按你自己的机位字典拍摄。缺点是需要协调车辆与场地。建议把它作为主力数据源，把网页抓取作为补充。</div>
+  </div>
+  <div class="step">
+    <div class="st">保留署名的内部研究库</div>
+    <div class="sd">若确需从网页采集，采取保守模式：<strong>不去除任何标识</strong>、侧车 JSON 完整记录来源 URL 与抓取时间、严格限于内部研究不外发、控制频率与规模。即便如此也要注意——"内部使用"不是免责盾牌，商业目的的内部研究仍需谨慎。</div>
+  </div>
+  <div class="step">
+    <div class="st">采购第三方图库</div>
+    <div class="sd">视觉中国、IC photo、以及各主机厂官方图库。适合需要对外发布的场景，授权清晰、可追溯。成本可控，且省下的时间也是钱。</div>
+  </div>
+</div>
+
+<div class="callout ok">
+  <div class="ttl">给你的一条实操建议</div>
+  <p>把"去标识"这个需求重新表述一下，可能问题就消失了。你真正要的<strong>大概率不是"去掉汽车之家几个字"，而是"一张干净、没有干扰元素、能放进对比版面的内饰图"</strong>。</p>
+  <p>这个需求有合规的解法：<strong>通过构图裁剪把标识区域排除在外</strong>（<code>mode: crop_out</code>），而不是像素级擦除。多数水印在角落，而你的机位裁剪区域本来就不一定需要包含角落。这样既得到了干净画面，又完整保留了图片本身——这在合规上和"擦除"是两个性质完全不同的动作。</p>
+</div>
+
+<!-- ============ 10 ============ -->
+<h2 id="s10"><span class="num">10</span>分阶段实现路线</h2>
+<p class="lead">核心原则：<strong>每个阶段都有可验收的产出，每个阶段都可以停下来</strong>。不要试图一次做完——P0 的结论可能会推翻后面所有的工作量估算。</p>
+
+<table>
+<thead><tr><th style="width:60px">阶段</th><th style="width:130px">目标</th><th>做什么</th><th style="width:230px">验收标准</th></tr></thead>
+<tbody>
+<tr>
+<td><strong>P0</strong><br><span class="pill p-red">先做</span></td>
+<td>可行性探测</td>
+<td><strong>不写代码。</strong>手工打开 2~3 个车型页，用浏览器控制台回答四个问题：① window 上能不能找到 camera 对象？② 机位是预设按钮还是只能拖拽？③ 全景加载要多久、有没有稳定判据？④ 同一机位连截 3 次，像素是否完全一致？</td>
+<td>产出一份《可行性结论》：明确 L0/L1/L2 哪条通道可用，据此给出后续工作量估算。<strong>这一步的结论可能让工程量差 5 倍</strong></td></tr>
+
+<tr>
+<td><strong>P1</strong></td>
+<td>单车型跑通</td>
+<td>实现 Recorder + Abstractor（可先半自动：录制原始轨迹，人工辅助整理成 task.yaml）。实现 Runner 的单步执行 + 显式等待。实现 Aligner 视觉伺服。实现截图 + 相似度校验。</td>
+<td><strong>1 个车型 × 3 个配色 × 8 个机位 = 24 张图</strong>，人工验收全部通过。同一任务连跑 3 次，结果 pHash 距离 ≤ 4</td></tr>
+
+<tr>
+<td><strong>P2</strong></td>
+<td>小批量验证</td>
+<td>接 targets.csv，实现 JobBuilder 展开、并发调度、限流抖动、去重、断点续跑、失败清单。补上弹窗处理、超时重试、页面版本指纹。</td>
+<td><strong>30 个车型</strong>跑完，成功率 ≥ 90%，失败清单里每项都有明确原因码与处理建议。中断后重跑能正确续上</td></tr>
+
+<tr>
+<td><strong>P3</strong></td>
+<td>后处理与命名</td>
+<td>实现可插拔流水线：裁剪、缩放、色彩归一、质量分级、导出。接 naming.yaml 的命名、去重、侧车元数据。实现合规闸门。</td>
+<td>成品图命名规范、目录清晰、无重复；质量分级准确（抽样 50 张人工核对）；未授权时去标识模块确实无法启用</td></tr>
+
+<tr>
+<td><strong>P4</strong></td>
+<td>规模化与监控</td>
+<td>日配额、告警渠道（邮件/飞书）、每周冒烟任务（检测静默改版）、证据包归档、运行报表。</td>
+<td>300+ 车型稳定运行；页面改版能在 7 天内被发现；异常能自动通知到人</td></tr>
+
+<tr>
+<td><strong>P5</strong></td>
+<td>长期维护</td>
+<td>选择器漂移自愈（多候选自动切换 + 视觉锚点兜底）、基类增量采集（只跑新车型）、机位字典随方法论演进。</td>
+<td>月度维护成本 &lt; 2 小时；新车型增量采集自动化</td></tr>
+</tbody>
+</table>
+
+<div class="callout">
+  <div class="ttl">关于投入的一个现实提醒</div>
+  <p>如果你没有工程资源，P1 之前的投入主要在你的时间上——机位字典的定义、基准图的拍摄与验收，这些<strong>只有你能做</strong>。工程实现（P1~P3）在 P0 结论清晰的前提下，一个有经验的开发者大约 2~3 周能做出可用版本。</p>
+  <p>但更现实的选择可能是：<strong>先只做 P0 + 机位字典</strong>，用半自动方式（人工操作 + 简单脚本批量截图）跑通前 50 个车型，验证这套方法论对你到底有没有用，再决定是否投入工程化。工具是为方法论服务的，别反过来。</p>
+</div>
+
+<!-- ============ 11 ============ -->
+<h2 id="s11"><span class="num">11</span>技术难点排序</h2>
+
+<div class="grid g2">
+<div class="card" style="border-color:rgba(232,117,122,.35)">
+  <div class="lbl">难点 1 · 最高</div>
+  <div class="val" style="font-size:16px">视角是隐藏状态</div>
+  <div class="note">360 全景的视角不在 DOM 里，无法用常规选择器校验。必须靠 camera 对象读取或像素比对，而后者本身就有精度上限。这是与普通网页自动化最本质的差别，也决定了方案复杂度。<br><strong>缓解：</strong>P0 阶段优先确认 L0 通道是否可用，若可用难度直接降一个数量级。</div>
+</div>
+
+<div class="card" style="border-color:rgba(232,117,122,.35)">
+  <div class="lbl">难点 2</div>
+  <div class="val" style="font-size:16px">WebGL 截图的确定性</div>
+  <div class="note">抗锯齿抖动、渲染时序、加载进度条、鼠标 hover 高亮、动态元素都会让"同一机位的两次截图"产生差异。差异一大，相似度校验就失去意义。<br><strong>缓解：</strong>锁死 DPR/视口/色彩配置、暂停动画、隐藏动态元素、鼠标移出画面、必要时连拍 3 帧取中位。</div>
+</div>
+
+<div class="card" style="border-color:rgba(240,180,94,.35)">
+  <div class="lbl">难点 3</div>
+  <div class="val" style="font-size:16px">相似度阈值标定</div>
+  <div class="note">不同机位纹理丰富度差异极大（中控按键多 vs 顶棚纯色），全局一个阈值必然顾此失彼。<br><strong>缓解：</strong>逐机位标定——同机位重复截 10 次得类内方差，不同机位互比得类间方差，阈值取两者之间，写进 views.yaml。</div>
+</div>
+
+<div class="card" style="border-color:rgba(240,180,94,.35)">
+  <div class="lbl">难点 4</div>
+  <div class="val" style="font-size:16px">选择器漂移与改版</div>
+  <div class="note">页面改版后所有选择器可能同时失效，且往往是静默发生的。<br><strong>缓解：</strong>4 层候选选择器 + 视觉锚点兜底 + 页面版本指纹提前预警 + 每周冒烟任务。</div>
+</div>
+
+<div class="card">
+  <div class="lbl">难点 5</div>
+  <div class="val" style="font-size:16px">全景加载时间不确定</div>
+  <div class="note">切片数量多、CDN 波动，加载时间从 3 秒到 40 秒都有可能。固定等待不是太短就是太慢。<br><strong>缓解：</strong>帧稳定判定（连续 N 帧差异小于阈值）作为唯一可靠判据，配合进度条消失检测。</div>
+</div>
+
+<div class="card">
+  <div class="lbl">难点 6</div>
+  <div class="val" style="font-size:16px">并发下的 WebGL 资源上限</div>
+  <div class="note">浏览器同时活跃的 WebGL 上下文有限（通常 8~16），超了会集体崩溃，且崩溃方式很隐蔽（黑屏而非报错）。<br><strong>缓解：</strong>并发严格 ≤ 4，崩溃时优先怀疑并发数而非代码 bug。</div>
+</div>
+
+<div class="card">
+  <div class="lbl">难点 7</div>
+  <div class="val" style="font-size:16px">组合爆炸</div>
+  <div class="note">300 车型 × 3 配色 × 8 机位 = 7200 张。全量重跑代价极高，增量策略与去重必须在一开始就设计好，不能事后补。<br><strong>缓解：</strong>manifest 状态库 + 内容哈希去重 + 只跑新增/变更车型。</div>
+</div>
+
+<div class="card">
+  <div class="lbl">难点 8 · 隐性</div>
+  <div class="val" style="font-size:16px">基线本身会过期</div>
+  <div class="note">基准图是"黄金样本"，但站点可能调整渲染参数、换全景源、改光照——此时基准图本身就过时了，系统会把所有正常截图判为不合格。<br><strong>缓解：</strong>基准图带版本号与生成日期，冒烟任务定期复验基准图有效性。</div>
+</div>
+</div>
+
+<!-- ============ 12 ============ -->
+<h2 id="s12"><span class="num">12</span>验收指标与技术选型</h2>
+
+<h3>四个可量化的验收指标</h3>
+<div class="grid g4">
+  <div class="card"><div class="lbl">机位一致率</div><div class="val">≥ 95%</div><div class="note">与基准图 SSIM 达标比例</div></div>
+  <div class="card"><div class="lbl">可复现性</div><div class="val">≤ 4</div><div class="note">同任务连跑 3 次的 pHash 距离</div></div>
+  <div class="card"><div class="lbl">任务成功率</div><div class="val">≥ 90%</div><div class="note">排除数据缺失后的完成率</div></div>
+  <div class="card"><div class="lbl">单图耗时</div><div class="val">≤ 40s</div><div class="note">含加载、对齐、截图、后处理</div></div>
+</div>
+
+<h3>技术选型建议</h3>
+<table>
+<thead><tr><th style="width:110px">环节</th><th style="width:200px">选型</th><th>理由</th></tr></thead>
+<tbody>
+<tr><td>浏览器自动化</td><td>Playwright（Python 或 Node）</td><td>比 Selenium 的选择器引擎更现代，原生支持多候选、自动等待、trace 录制；CDP 直连方便注入 camera 探测脚本</td></tr>
+<tr><td>图像处理</td><td>OpenCV + Pillow / scikit-image</td><td>ORB 特征、RANSAC 单应、SSIM、pHash 一站式；Python 生态成熟</td></tr>
+<tr><td>相似度</td><td>SSIM + pHash 双指标</td><td>SSIM 敏感于结构差异（角度偏了会明显掉），pHash 抗压缩噪声（判重用）。两者互补，不要只用一个</td></tr>
+<tr><td>状态存储</td><td>SQLite</td><td>单文件、零运维、支持并发锁，做 manifest 和断点续跑够用了</td></tr>
+<tr><td>配置</td><td>YAML + CSV</td><td>YAML 可读性好、支持注释（配置要给人看）；车型清单用 CSV 便于在表格软件里编辑</td></tr>
+<tr><td>调度</td><td>内置队列即可</td><td>规模在千级任务以内，不需要 Celery / Airflow 这套重武器，徒增运维负担</td></tr>
+<tr><td>运行环境</td><td>headed + 锁定的固定机器</td><td>WebGL 在无头模式下容易出问题；固定机器保证 DPR、色彩配置、显卡驱动一致，这是截图可复现的前提</td></tr>
+</tbody>
+</table>
+
+<div class="callout danger">
+  <div class="ttl">最后一句</div>
+  <p>这套系统里，工程负责"忠实执行"，你负责"定义什么是对的"。机位字典写得有多专业，产出的图库就有多专业——反过来，机位字典如果随便定几个角度，那这套系统做得再完美，也只是<strong>高效地生产一堆没法对比的图</strong>。</p>
+  <p>建议顺序：<strong>先花时间把机位字典和基准图做扎实，再谈自动化。</strong></p>
+</div>
+
+<footer>
+  方案版本 v1.0 · 2026-09-03 · 配套配置文件见 <code>config/</code> 目录<br>
+  本文档中的合规章节为风险分析，不构成法律意见；涉及具体商业使用前建议咨询专业法律意见。
+</footer>
+
+</div>
+</body>
+</html>

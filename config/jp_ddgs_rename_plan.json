@@ -1,0 +1,3054 @@
+[
+ {
+  "pano": "77419",
+  "brandCode": "HON",
+  "modelCode": "CIVIC",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_思域_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_CIVIC_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77419",
+  "brandCode": "HON",
+  "modelCode": "CIVIC",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_思域_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_CIVIC_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77719",
+  "brandCode": "HON",
+  "modelCode": "INSPIRE",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_英仕派_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_INSPIRE_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77719",
+  "brandCode": "HON",
+  "modelCode": "INSPIRE",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_英仕派_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_INSPIRE_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73519",
+  "brandCode": "HON",
+  "modelCode": "INSPIRE_PHEV",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_英仕派新能源_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_INSPIRE_PHEV_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73519",
+  "brandCode": "HON",
+  "modelCode": "INSPIRE_PHEV",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_英仕派新能源_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_INSPIRE_PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "64446",
+  "brandCode": "HON",
+  "modelCode": "XRV",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_本田XR-V_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_XRV_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "64446",
+  "brandCode": "HON",
+  "modelCode": "XRV",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_本田XR-V_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_XRV_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78060",
+  "brandCode": "HON",
+  "modelCode": "CRV",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_本田CR-V_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_CRV_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78060",
+  "brandCode": "HON",
+  "modelCode": "CRV",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_本田CR-V_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_CRV_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "59443",
+  "brandCode": "HON",
+  "modelCode": "CRV_PHEV",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_本田CR-V新能源_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_CRV_PHEV_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "59443",
+  "brandCode": "HON",
+  "modelCode": "CRV_PHEV",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_本田CR-V新能源_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_CRV_PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77714",
+  "brandCode": "HON",
+  "modelCode": "HRV",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_本田HR-V_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_HRV_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77714",
+  "brandCode": "HON",
+  "modelCode": "HRV",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_本田HR-V_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_HRV_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "66473",
+  "brandCode": "HON",
+  "modelCode": "ENS2",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_猎光e-NS2_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_ENS2_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "66473",
+  "brandCode": "HON",
+  "modelCode": "ENS2",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_猎光e-NS2_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_ENS2_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=69201 HON/URV"
+ },
+ {
+  "pano": "71976",
+  "brandCode": "HON",
+  "modelCode": "S7",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_东风本田S7_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_S7_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "71976",
+  "brandCode": "HON",
+  "modelCode": "S7",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_东风本田S7_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_S7_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=74214 HON/ELYSION"
+ },
+ {
+  "pano": "72799",
+  "brandCode": "HON",
+  "modelCode": "GT_DF",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_东风本田GT_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_GT_DF_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72799",
+  "brandCode": "HON",
+  "modelCode": "GT_DF",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_东风本田GT_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_GT_DF_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=61230 HON/LIFE"
+ },
+ {
+  "pano": "38059",
+  "brandCode": "HON",
+  "modelCode": "JADE",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_杰德_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_JADE_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "38059",
+  "brandCode": "HON",
+  "modelCode": "JADE",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_杰德_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_JADE_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=23072 HON/GREIZ"
+ },
+ {
+  "err": "无图 pano=27240 HON/GIENIA"
+ },
+ {
+  "err": "无图 pano=56266 HON/ENVIX"
+ },
+ {
+  "pano": "28585",
+  "brandCode": "HON",
+  "modelCode": "SPIRIOR",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_思铂睿_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_SPIRIOR_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "28585",
+  "brandCode": "HON",
+  "modelCode": "SPIRIOR",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_思铂睿_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_SPIRIOR_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "56565",
+  "brandCode": "HON",
+  "modelCode": "ENS1",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_本田e-NS1_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_ENS1_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "56565",
+  "brandCode": "HON",
+  "modelCode": "ENS1",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_本田e-NS1_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_ENS1_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=61017 HON/CIVIC_IMPORT"
+ },
+ {
+  "err": "无图 pano=42555 HON/FIT_IMPORT"
+ },
+ {
+  "err": "无图 pano=35255 HON/HRV_OVERSEAS"
+ },
+ {
+  "pano": "37100",
+  "brandCode": "HON",
+  "modelCode": "PASSPORT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_Passport_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_PASSPORT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "37100",
+  "brandCode": "HON",
+  "modelCode": "PASSPORT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_Passport_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_PASSPORT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "35193",
+  "brandCode": "HON",
+  "modelCode": "PILOT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_Pilot_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_PILOT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=72122 HON/INTEGRA"
+ },
+ {
+  "pano": "78335",
+  "brandCode": "HON",
+  "modelCode": "ACCORD",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_雅阁_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_ACCORD_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78335",
+  "brandCode": "HON",
+  "modelCode": "ACCORD",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_雅阁_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_ACCORD_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75550",
+  "brandCode": "HON",
+  "modelCode": "BINZHI",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_缤智_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_BINZHI_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75550",
+  "brandCode": "HON",
+  "modelCode": "BINZHI",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_缤智_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_BINZHI_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=77667 HON/BREEZE"
+ },
+ {
+  "err": "无图 pano=70327 HON/BREEZE_PHEV"
+ },
+ {
+  "pano": "76630",
+  "brandCode": "HON",
+  "modelCode": "AVANCIER",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_冠道_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_AVANCIER_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "76630",
+  "brandCode": "HON",
+  "modelCode": "AVANCIER",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_冠道_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_AVANCIER_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "67766",
+  "brandCode": "HON",
+  "modelCode": "P7",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_广汽本田P7_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_P7_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "67766",
+  "brandCode": "HON",
+  "modelCode": "P7",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_广汽本田P7_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_P7_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73968",
+  "brandCode": "HON",
+  "modelCode": "ODYSSEY",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_奥德赛_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_ODYSSEY_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73968",
+  "brandCode": "HON",
+  "modelCode": "ODYSSEY",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_奥德赛_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_ODYSSEY_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72647",
+  "brandCode": "HON",
+  "modelCode": "FIT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_飞度_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_FIT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72647",
+  "brandCode": "HON",
+  "modelCode": "FIT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_飞度_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_FIT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "39281",
+  "brandCode": "HON",
+  "modelCode": "CITY",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_锋范_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_CITY_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "39281",
+  "brandCode": "HON",
+  "modelCode": "CITY",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_锋范_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_CITY_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63255",
+  "brandCode": "HON",
+  "modelCode": "CRIDER",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_凌派_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_CRIDER_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63255",
+  "brandCode": "HON",
+  "modelCode": "CRIDER",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_凌派_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_CRIDER_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=72263 HON/ACCORD_PHEV"
+ },
+ {
+  "err": "无图 pano=57030 HON/JIPAI1"
+ },
+ {
+  "err": "无图 pano=66474 HON/JIPAI2"
+ },
+ {
+  "pano": "59200",
+  "brandCode": "HON",
+  "modelCode": "ZRV",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/本田_ZR-V-致在_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_HON_ZRV_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "59200",
+  "brandCode": "HON",
+  "modelCode": "ZRV",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/本田_ZR-V-致在_默认_二排正视前排_01.png",
+  "newName": "IMG_HON_ZRV_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "70806",
+  "brandCode": "TOY",
+  "modelCode": "BOZHI4X",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_铂智4X_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_BOZHI4X_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "70806",
+  "brandCode": "TOY",
+  "modelCode": "BOZHI4X",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_铂智4X_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_BOZHI4X_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=76040 TOY/LEVIN"
+ },
+ {
+  "pano": "78811",
+  "brandCode": "TOY",
+  "modelCode": "CAMRY",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_凯美瑞_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_CAMRY_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78811",
+  "brandCode": "TOY",
+  "modelCode": "CAMRY",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_凯美瑞_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_CAMRY_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72767",
+  "brandCode": "TOY",
+  "modelCode": "BOZHI7",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_铂智7_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_BOZHI7_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72767",
+  "brandCode": "TOY",
+  "modelCode": "BOZHI7",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_铂智7_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_BOZHI7_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77656",
+  "brandCode": "TOY",
+  "modelCode": "BOZHI3X",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_铂智3X_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_BOZHI3X_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77656",
+  "brandCode": "TOY",
+  "modelCode": "BOZHI3X",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_铂智3X_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_BOZHI3X_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=73873 TOY/FRONTLANDER"
+ },
+ {
+  "err": "无图 pano=74173 TOY/WILDLANDER"
+ },
+ {
+  "pano": "74935",
+  "brandCode": "TOY",
+  "modelCode": "HIGHLANDER",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_汉兰达_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_HIGHLANDER_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74935",
+  "brandCode": "TOY",
+  "modelCode": "HIGHLANDER",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_汉兰达_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_HIGHLANDER_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=68797 TOY/VENZA"
+ },
+ {
+  "pano": "78081",
+  "brandCode": "TOY",
+  "modelCode": "SIENNA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_赛那SIENNA_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_SIENNA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78081",
+  "brandCode": "TOY",
+  "modelCode": "SIENNA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_赛那SIENNA_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_SIENNA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "56854",
+  "brandCode": "TOY",
+  "modelCode": "BZ4X",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_广汽丰田bZ4X_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_BZ4X_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "56854",
+  "brandCode": "TOY",
+  "modelCode": "BZ4X",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_广汽丰田bZ4X_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_BZ4X_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=54769 TOY/YARISL_ZHIXIANG"
+ },
+ {
+  "err": "无图 pano=54767 TOY/YARISL_ZHIXUAN"
+ },
+ {
+  "err": "无图 pano=34520 TOY/LEVIN_PHEV"
+ },
+ {
+  "err": "无图 pano=69030 TOY/LINGSHANG"
+ },
+ {
+  "pano": "62002",
+  "brandCode": "TOY",
+  "modelCode": "CHR",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_丰田C-HR_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_CHR_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "62002",
+  "brandCode": "TOY",
+  "modelCode": "CHR",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_丰田C-HR_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_CHR_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=44730 TOY/CHR_EV"
+ },
+ {
+  "err": "无图 pano=62034 TOY/WILDLANDER_PHEV"
+ },
+ {
+  "err": "无图 pano=64662 TOY/VELLFIRE_PHEV"
+ },
+ {
+  "pano": "77197",
+  "brandCode": "TOY",
+  "modelCode": "GR_YARIS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_GR-YARIS_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_GR_YARIS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77197",
+  "brandCode": "TOY",
+  "modelCode": "GR_YARIS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_GR-YARIS_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_GR_YARIS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "59751",
+  "brandCode": "TOY",
+  "modelCode": "MIRAI",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_Mirai_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_MIRAI_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "59751",
+  "brandCode": "TOY",
+  "modelCode": "MIRAI",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_Mirai_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_MIRAI_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=67982 TOY/CROWN_IMPORT"
+ },
+ {
+  "pano": "63540",
+  "brandCode": "TOY",
+  "modelCode": "ALPHARD",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_埃尔法_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_ALPHARD_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63540",
+  "brandCode": "TOY",
+  "modelCode": "ALPHARD",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_埃尔法_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_ALPHARD_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=71298 TOY/VELLFIRE"
+ },
+ {
+  "pano": "59175",
+  "brandCode": "TOY",
+  "modelCode": "SUPRA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_SUPRA_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_SUPRA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=35749 TOY/COROLLA_IMPORT"
+ },
+ {
+  "pano": "60627",
+  "brandCode": "TOY",
+  "modelCode": "PRIUS_PHEV",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_普锐斯新能源(海外)_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_PRIUS_PHEV_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "60627",
+  "brandCode": "TOY",
+  "modelCode": "PRIUS_PHEV",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_普锐斯新能源(海外)_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_PRIUS_PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "60295",
+  "brandCode": "TOY",
+  "modelCode": "CROWN_SPCROSS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_皇冠SportCross_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_CROWN_SPCROSS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "60295",
+  "brandCode": "TOY",
+  "modelCode": "CROWN_SPCROSS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_皇冠SportCross_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_CROWN_SPCROSS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=36156 TOY/RAV4_IMPORT"
+ },
+ {
+  "err": "无图 pano=50815 TOY/BZ"
+ },
+ {
+  "err": "无图 pano=39008 TOY/HIGHLANDER_IMPORT"
+ },
+ {
+  "pano": "65451",
+  "brandCode": "TOY",
+  "modelCode": "CROWN_SPORT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_皇冠SPORT_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_CROWN_SPORT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "65451",
+  "brandCode": "TOY",
+  "modelCode": "CROWN_SPORT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_皇冠SPORT_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_CROWN_SPORT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63359",
+  "brandCode": "TOY",
+  "modelCode": "GRANDHIGHLANDER",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_Grand-Highlander_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_GRANDHIGHLANDER_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63359",
+  "brandCode": "TOY",
+  "modelCode": "GRANDHIGHLANDER",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_Grand-Highlander_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_GRANDHIGHLANDER_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "55112",
+  "brandCode": "TOY",
+  "modelCode": "LANDCRUISER_IMPORT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_兰德酷路泽(进口)_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_LANDCRUISER_IMPORT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "55112",
+  "brandCode": "TOY",
+  "modelCode": "LANDCRUISER_IMPORT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_兰德酷路泽(进口)_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_LANDCRUISER_IMPORT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=64018 TOY/PRADO_IMPORT"
+ },
+ {
+  "pano": "58707",
+  "brandCode": "TOY",
+  "modelCode": "TACOMA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_Tacoma_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_TACOMA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "58707",
+  "brandCode": "TOY",
+  "modelCode": "TACOMA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_Tacoma_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_TACOMA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "53460",
+  "brandCode": "TOY",
+  "modelCode": "TUNDRA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_坦途_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_TUNDRA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "53460",
+  "brandCode": "TOY",
+  "modelCode": "TUNDRA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_坦途_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_TUNDRA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "13441",
+  "brandCode": "TOY",
+  "modelCode": "PREVIA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_普瑞维亚_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_PREVIA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "13441",
+  "brandCode": "TOY",
+  "modelCode": "PREVIA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_普瑞维亚_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_PREVIA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "54680",
+  "brandCode": "TOY",
+  "modelCode": "TOY86",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_丰田86_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_TOY86_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "54680",
+  "brandCode": "TOY",
+  "modelCode": "TOY86",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_丰田86_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_TOY86_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74685",
+  "brandCode": "TOY",
+  "modelCode": "COROLLA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_卡罗拉_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_COROLLA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74685",
+  "brandCode": "TOY",
+  "modelCode": "COROLLA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_卡罗拉_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_COROLLA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=76002 TOY/BZ3"
+ },
+ {
+  "pano": "77062",
+  "brandCode": "TOY",
+  "modelCode": "AVALON",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_亚洲龙_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_AVALON_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77062",
+  "brandCode": "TOY",
+  "modelCode": "AVALON",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_亚洲龙_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_AVALON_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74683",
+  "brandCode": "TOY",
+  "modelCode": "RAV4",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_RAV4荣放_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_RAV4_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74683",
+  "brandCode": "TOY",
+  "modelCode": "RAV4",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_RAV4荣放_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_RAV4_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75354",
+  "brandCode": "TOY",
+  "modelCode": "COROLLA_CROSS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_卡罗拉锐放_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_COROLLA_CROSS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75354",
+  "brandCode": "TOY",
+  "modelCode": "COROLLA_CROSS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_卡罗拉锐放_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_COROLLA_CROSS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72739",
+  "brandCode": "TOY",
+  "modelCode": "BZ5",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_丰田bZ5_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_BZ5_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72739",
+  "brandCode": "TOY",
+  "modelCode": "BZ5",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_丰田bZ5_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_BZ5_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=75239 TOY/CROWN_KLUGER"
+ },
+ {
+  "pano": "77392",
+  "brandCode": "TOY",
+  "modelCode": "PRADO",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_普拉多_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_PRADO_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77392",
+  "brandCode": "TOY",
+  "modelCode": "PRADO",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_普拉多_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_PRADO_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=78254 TOY/GRANVIA"
+ },
+ {
+  "err": "无图 pano=58138 TOY/RAV4_PHEV"
+ },
+ {
+  "pano": "58177",
+  "brandCode": "TOY",
+  "modelCode": "VIOS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_威驰_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_VIOS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "58177",
+  "brandCode": "TOY",
+  "modelCode": "VIOS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_威驰_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_VIOS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=58197 TOY/VIOS_FS"
+ },
+ {
+  "err": "无图 pano=34527 TOY/COROLLA_PHEV"
+ },
+ {
+  "pano": "63244",
+  "brandCode": "TOY",
+  "modelCode": "ALLION",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_亚洲狮_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_ALLION_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63244",
+  "brandCode": "TOY",
+  "modelCode": "ALLION",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_亚洲狮_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_ALLION_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "33069",
+  "brandCode": "TOY",
+  "modelCode": "CROWN",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_皇冠_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_CROWN_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "33069",
+  "brandCode": "TOY",
+  "modelCode": "CROWN",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_皇冠_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_CROWN_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=38860 TOY/IZOA_EV"
+ },
+ {
+  "err": "无图 pano=63234 TOY/IZOA"
+ },
+ {
+  "pano": "68442",
+  "brandCode": "TOY",
+  "modelCode": "HARRIER",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/丰田_凌放HARRIER_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_TOY_HARRIER_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "68442",
+  "brandCode": "TOY",
+  "modelCode": "HARRIER",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/丰田_凌放HARRIER_默认_二排正视前排_01.png",
+  "newName": "IMG_TOY_HARRIER_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=56067 TOY/BZ4X_FAW"
+ },
+ {
+  "pano": "72817",
+  "brandCode": "LEX",
+  "modelCode": "ES",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯ES_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_ES_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72817",
+  "brandCode": "LEX",
+  "modelCode": "ES",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯ES_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_ES_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "66049",
+  "brandCode": "LEX",
+  "modelCode": "LS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯LS_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_LS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "66049",
+  "brandCode": "LEX",
+  "modelCode": "LS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯LS_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_LS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75802",
+  "brandCode": "LEX",
+  "modelCode": "NX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯NX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_NX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75802",
+  "brandCode": "LEX",
+  "modelCode": "NX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯NX_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_NX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=74355 LEX/NX_PHEV"
+ },
+ {
+  "pano": "60659",
+  "brandCode": "LEX",
+  "modelCode": "RZ",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯RZ_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_RZ_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "60659",
+  "brandCode": "LEX",
+  "modelCode": "RZ",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯RZ_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_RZ_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75873",
+  "brandCode": "LEX",
+  "modelCode": "GX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯GX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_GX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75873",
+  "brandCode": "LEX",
+  "modelCode": "GX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯GX_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_GX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74909",
+  "brandCode": "LEX",
+  "modelCode": "RX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯RX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_RX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74909",
+  "brandCode": "LEX",
+  "modelCode": "RX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯RX_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_RX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=70425 LEX/RX_PHEV"
+ },
+ {
+  "pano": "70761",
+  "brandCode": "LEX",
+  "modelCode": "LX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯LX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_LX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "70761",
+  "brandCode": "LEX",
+  "modelCode": "LX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯LX_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_LX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75454",
+  "brandCode": "LEX",
+  "modelCode": "LM",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯LM_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_LM_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75454",
+  "brandCode": "LEX",
+  "modelCode": "LM",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯LM_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_LM_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "51913",
+  "brandCode": "LEX",
+  "modelCode": "LC",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯LC_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_LC_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "51913",
+  "brandCode": "LEX",
+  "modelCode": "LC",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯LC_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_LC_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "30361",
+  "brandCode": "LEX",
+  "modelCode": "IS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯IS_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_IS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "30361",
+  "brandCode": "LEX",
+  "modelCode": "IS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯IS_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_IS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "36921",
+  "brandCode": "LEX",
+  "modelCode": "RC",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯RC_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_RC_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "36921",
+  "brandCode": "LEX",
+  "modelCode": "RC",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯RC_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_RC_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "47260",
+  "brandCode": "LEX",
+  "modelCode": "CT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯CT_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_CT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "47260",
+  "brandCode": "LEX",
+  "modelCode": "CT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯CT_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_CT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "24494",
+  "brandCode": "LEX",
+  "modelCode": "GS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯GS_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_GS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "24494",
+  "brandCode": "LEX",
+  "modelCode": "GS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯GS_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_GS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "66712",
+  "brandCode": "LEX",
+  "modelCode": "UX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯UX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_UX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "66712",
+  "brandCode": "LEX",
+  "modelCode": "UX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/雷克萨斯_雷克萨斯UX_默认_二排正视前排_01.png",
+  "newName": "IMG_LEX_UX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=42973 LEX/UX_PHEV"
+ },
+ {
+  "pano": "27362",
+  "brandCode": "LEX",
+  "modelCode": "RC_F",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/雷克萨斯_雷克萨斯RC-F_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_LEX_RC_F_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "34980",
+  "brandCode": "SUZ",
+  "modelCode": "JIMNY_IMPORT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/铃木_吉姆尼(进口)_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUZ_JIMNY_IMPORT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "34980",
+  "brandCode": "SUZ",
+  "modelCode": "JIMNY_IMPORT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/铃木_吉姆尼(进口)_默认_二排正视前排_01.png",
+  "newName": "IMG_SUZ_JIMNY_IMPORT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=31192 SUZ/IGNIS"
+ },
+ {
+  "err": "无图 pano=27566 SUZ/ALTO"
+ },
+ {
+  "err": "无图 pano=27106 SUZ/SWIFT"
+ },
+ {
+  "err": "无图 pano=31544 SUZ/CIAZ"
+ },
+ {
+  "err": "无图 pano=23070 SUZ/VITARA"
+ },
+ {
+  "err": "无图 pano=30890 SUZ/SCROSS"
+ },
+ {
+  "err": "无图 pano=26657 SUZ/WAGONR"
+ },
+ {
+  "pano": "32799",
+  "brandCode": "MAZ",
+  "modelCode": "CX3",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达CX-3_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_CX3_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "32799",
+  "brandCode": "MAZ",
+  "modelCode": "CX3",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达CX-3_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_CX3_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=34434 MAZ/CX8_OVERSEAS"
+ },
+ {
+  "pano": "54270",
+  "brandCode": "MAZ",
+  "modelCode": "CX90",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达CX-90_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_CX90_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "65101",
+  "brandCode": "MAZ",
+  "modelCode": "MX5",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达MX-5_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_MX5_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "51336",
+  "brandCode": "MAZ",
+  "modelCode": "RX7",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达RX-7_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_RX7_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "67405",
+  "brandCode": "MAZ",
+  "modelCode": "MAZDA3",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达3-昂克赛拉_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_MAZDA3_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "67405",
+  "brandCode": "MAZ",
+  "modelCode": "MAZDA3",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达3-昂克赛拉_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_MAZDA3_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75511",
+  "brandCode": "MAZ",
+  "modelCode": "EZ6",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达EZ-6_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_EZ6_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75511",
+  "brandCode": "MAZ",
+  "modelCode": "EZ6",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达EZ-6_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_EZ6_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74583",
+  "brandCode": "MAZ",
+  "modelCode": "CX30",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达CX-30_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_CX30_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74583",
+  "brandCode": "MAZ",
+  "modelCode": "CX30",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达CX-30_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_CX30_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73327",
+  "brandCode": "MAZ",
+  "modelCode": "CX5",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达CX-5_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_CX5_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73327",
+  "brandCode": "MAZ",
+  "modelCode": "CX5",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达CX-5_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_CX5_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "60954",
+  "brandCode": "MAZ",
+  "modelCode": "CX50",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达CX-50行也_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_CX50_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "60954",
+  "brandCode": "MAZ",
+  "modelCode": "CX50",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达CX-50行也_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_CX50_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "76129",
+  "brandCode": "MAZ",
+  "modelCode": "EZ60",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达EZ-60_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_EZ60_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "76129",
+  "brandCode": "MAZ",
+  "modelCode": "EZ60",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达EZ-60_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_EZ60_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "49995",
+  "brandCode": "MAZ",
+  "modelCode": "ATENZA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_阿特兹_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_ATENZA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "49995",
+  "brandCode": "MAZ",
+  "modelCode": "ATENZA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_阿特兹_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_ATENZA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=50797 MAZ/CX30_EV"
+ },
+ {
+  "pano": "46955",
+  "brandCode": "MAZ",
+  "modelCode": "CX4",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/马自达_马自达CX-4_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MAZ_CX4_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "46955",
+  "brandCode": "MAZ",
+  "modelCode": "CX4",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达CX-4_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_CX4_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "37054",
+  "brandCode": "MAZ",
+  "modelCode": "CX8",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/马自达_马自达CX-8_默认_二排正视前排_01.png",
+  "newName": "IMG_MAZ_CX8_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "29959",
+  "brandCode": "ACU",
+  "modelCode": "TLXL",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/讴歌_讴歌TLX-L_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_ACU_TLXL_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "29959",
+  "brandCode": "ACU",
+  "modelCode": "TLXL",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/讴歌_讴歌TLX-L_默认_二排正视前排_01.png",
+  "newName": "IMG_ACU_TLXL_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "46014",
+  "brandCode": "ACU",
+  "modelCode": "CDX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/讴歌_讴歌CDX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_ACU_CDX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "46014",
+  "brandCode": "ACU",
+  "modelCode": "CDX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/讴歌_讴歌CDX_默认_二排正视前排_01.png",
+  "newName": "IMG_ACU_CDX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "47292",
+  "brandCode": "ACU",
+  "modelCode": "RDX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/讴歌_讴歌RDX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_ACU_RDX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "47292",
+  "brandCode": "ACU",
+  "modelCode": "RDX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/讴歌_讴歌RDX_默认_二排正视前排_01.png",
+  "newName": "IMG_ACU_RDX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "35757",
+  "brandCode": "ACU",
+  "modelCode": "ILX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/讴歌_讴歌ILX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_ACU_ILX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "35757",
+  "brandCode": "ACU",
+  "modelCode": "ILX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/讴歌_讴歌ILX_默认_二排正视前排_01.png",
+  "newName": "IMG_ACU_ILX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "31260",
+  "brandCode": "ACU",
+  "modelCode": "RLX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/讴歌_讴歌RLX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_ACU_RLX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "31260",
+  "brandCode": "ACU",
+  "modelCode": "RLX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/讴歌_讴歌RLX_默认_二排正视前排_01.png",
+  "newName": "IMG_ACU_RLX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=24490 ACU/RDX_IMPORT"
+ },
+ {
+  "pano": "30236",
+  "brandCode": "ACU",
+  "modelCode": "MDX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/讴歌_讴歌MDX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_ACU_MDX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "30236",
+  "brandCode": "ACU",
+  "modelCode": "MDX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/讴歌_讴歌MDX_默认_二排正视前排_01.png",
+  "newName": "IMG_ACU_MDX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "21434",
+  "brandCode": "ACU",
+  "modelCode": "NSX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/讴歌_讴歌NSX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_ACU_NSX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78587",
+  "brandCode": "NIS",
+  "modelCode": "PATHFINDER",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_探陆_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_PATHFINDER_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78587",
+  "brandCode": "NIS",
+  "modelCode": "PATHFINDER",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_探陆_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_PATHFINDER_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "76408",
+  "brandCode": "NIS",
+  "modelCode": "NX8",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_日产NX8_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_NX8_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "76408",
+  "brandCode": "NIS",
+  "modelCode": "NX8",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_日产NX8_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_NX8_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63991",
+  "brandCode": "NIS",
+  "modelCode": "TIIDA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_骐达TIIDA_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_TIIDA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63991",
+  "brandCode": "NIS",
+  "modelCode": "TIIDA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_骐达TIIDA_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_TIIDA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74682",
+  "brandCode": "NIS",
+  "modelCode": "SYLPHY",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_NA_SYLPHY_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_NIS_SYLPHY_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true,
+  "inByView": true
+ },
+ {
+  "pano": "74682",
+  "brandCode": "NIS",
+  "modelCode": "SYLPHY",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_NA_SYLPHY_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_NIS_SYLPHY_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true,
+  "inByView": true
+ },
+ {
+  "pano": "74151",
+  "brandCode": "NIS",
+  "modelCode": "N6",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_日产N6_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_N6_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74151",
+  "brandCode": "NIS",
+  "modelCode": "N6",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_日产N6_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_N6_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74182",
+  "brandCode": "NIS",
+  "modelCode": "TEANA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_天籁_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_TEANA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "74182",
+  "brandCode": "NIS",
+  "modelCode": "TEANA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_天籁_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_TEANA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77571",
+  "brandCode": "NIS",
+  "modelCode": "N7",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_日产N7_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_N7_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77571",
+  "brandCode": "NIS",
+  "modelCode": "N7",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_日产N7_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_N7_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63824",
+  "brandCode": "NIS",
+  "modelCode": "KICKS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_劲客_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_KICKS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63824",
+  "brandCode": "NIS",
+  "modelCode": "KICKS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_劲客_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_KICKS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73478",
+  "brandCode": "NIS",
+  "modelCode": "QASHQAI",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_逍客_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_QASHQAI_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73478",
+  "brandCode": "NIS",
+  "modelCode": "QASHQAI",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_逍客_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_QASHQAI_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73628",
+  "brandCode": "NIS",
+  "modelCode": "XTRAIL",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_奇骏_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_XTRAIL_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73628",
+  "brandCode": "NIS",
+  "modelCode": "XTRAIL",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_奇骏_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_XTRAIL_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63860",
+  "brandCode": "NIS",
+  "modelCode": "ARIYA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_ARIYA艾睿雅_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_ARIYA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "63860",
+  "brandCode": "NIS",
+  "modelCode": "ARIYA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_ARIYA艾睿雅_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_ARIYA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "26368",
+  "brandCode": "NIS",
+  "modelCode": "SUNNY",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_阳光_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_SUNNY_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "26368",
+  "brandCode": "NIS",
+  "modelCode": "SUNNY",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_阳光_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_SUNNY_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "42679",
+  "brandCode": "NIS",
+  "modelCode": "BLUEBIRD",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_蓝鸟_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_BLUEBIRD_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "42679",
+  "brandCode": "NIS",
+  "modelCode": "BLUEBIRD",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_蓝鸟_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_BLUEBIRD_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=34282 NIS/SYLPHY_EV"
+ },
+ {
+  "err": "无图 pano=24553 NIS/MAXIMA"
+ },
+ {
+  "pano": "47163",
+  "brandCode": "NIS",
+  "modelCode": "MURANO",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_楼兰_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_MURANO_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "47163",
+  "brandCode": "NIS",
+  "modelCode": "MURANO",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_楼兰_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_MURANO_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=49041 NIS/NOTE"
+ },
+ {
+  "err": "无图 pano=39191 NIS/SENTRA"
+ },
+ {
+  "pano": "65486",
+  "brandCode": "NIS",
+  "modelCode": "LEAF",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_聆风_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_LEAF_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "65486",
+  "brandCode": "NIS",
+  "modelCode": "LEAF",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_聆风_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_LEAF_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=38756 NIS/SUNNY_OVERSEAS"
+ },
+ {
+  "err": "无图 pano=39186 NIS/ALTIMA"
+ },
+ {
+  "err": "无图 pano=64110 NIS/SKYLINE"
+ },
+ {
+  "err": "无图 pano=39192 NIS/MAXIMA_OVERSEAS"
+ },
+ {
+  "err": "无图 pano=65487 NIS/KICKS_OVERSEAS"
+ },
+ {
+  "err": "无图 pano=58392 NIS/XTRAIL_IMPORT"
+ },
+ {
+  "err": "无图 pano=39196 NIS/MURANO_OVERSEAS"
+ },
+ {
+  "err": "无图 pano=62738 NIS/PATHFINDER_OVERSEAS"
+ },
+ {
+  "pano": "57831",
+  "brandCode": "NIS",
+  "modelCode": "PATROL",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_途乐_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_PATROL_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "57831",
+  "brandCode": "NIS",
+  "modelCode": "PATROL",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_途乐_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_PATROL_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "31637",
+  "brandCode": "NIS",
+  "modelCode": "N370Z",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_日产370Z_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_N370Z_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "29243",
+  "brandCode": "NIS",
+  "modelCode": "TITAN",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_Titan_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_TITAN_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "29243",
+  "brandCode": "NIS",
+  "modelCode": "TITAN",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_Titan_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_TITAN_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "1023109",
+  "brandCode": "NIS",
+  "modelCode": "NAVARA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_纳瓦拉_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_NAVARA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "1023109",
+  "brandCode": "NIS",
+  "modelCode": "NAVARA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_纳瓦拉_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_NAVARA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75173",
+  "brandCode": "NIS",
+  "modelCode": "FRONTIERPRO",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_锋坦Frontier-Pro_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_FRONTIERPRO_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75173",
+  "brandCode": "NIS",
+  "modelCode": "FRONTIERPRO",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_锋坦Frontier-Pro_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_FRONTIERPRO_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=75186 NIS/FRONTIERPRO_PHEV"
+ },
+ {
+  "pano": "42725",
+  "brandCode": "NIS",
+  "modelCode": "TERRA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_途达_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_TERRA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "33176",
+  "brandCode": "NIS",
+  "modelCode": "NV200",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/日产_日产NV200_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_NIS_NV200_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "33176",
+  "brandCode": "NIS",
+  "modelCode": "NV200",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/日产_日产NV200_默认_二排正视前排_01.png",
+  "newName": "IMG_NIS_NV200_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72350",
+  "brandCode": "SUB",
+  "modelCode": "WRX",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/斯巴鲁_斯巴鲁WRX_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUB_WRX_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "72350",
+  "brandCode": "SUB",
+  "modelCode": "WRX",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/斯巴鲁_斯巴鲁WRX_默认_二排正视前排_01.png",
+  "newName": "IMG_SUB_WRX_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73605",
+  "brandCode": "SUB",
+  "modelCode": "FORESTER",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/斯巴鲁_森林人_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUB_FORESTER_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73605",
+  "brandCode": "SUB",
+  "modelCode": "FORESTER",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/斯巴鲁_森林人_默认_二排正视前排_01.png",
+  "newName": "IMG_SUB_FORESTER_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77120",
+  "brandCode": "SUB",
+  "modelCode": "CROSSTREK",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/斯巴鲁_旭豹_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUB_CROSSTREK_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "77120",
+  "brandCode": "SUB",
+  "modelCode": "CROSSTREK",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/斯巴鲁_旭豹_默认_二排正视前排_01.png",
+  "newName": "IMG_SUB_CROSSTREK_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78426",
+  "brandCode": "SUB",
+  "modelCode": "OUTBACK",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/斯巴鲁_傲虎_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUB_OUTBACK_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "78426",
+  "brandCode": "SUB",
+  "modelCode": "OUTBACK",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/斯巴鲁_傲虎_默认_二排正视前排_01.png",
+  "newName": "IMG_SUB_OUTBACK_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75279",
+  "brandCode": "SUB",
+  "modelCode": "BRZ",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/斯巴鲁_斯巴鲁BRZ_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUB_BRZ_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "75279",
+  "brandCode": "SUB",
+  "modelCode": "BRZ",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/斯巴鲁_斯巴鲁BRZ_默认_二排正视前排_01.png",
+  "newName": "IMG_SUB_BRZ_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "41367",
+  "brandCode": "SUB",
+  "modelCode": "IMPREZA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/斯巴鲁_翼豹_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUB_IMPREZA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "41367",
+  "brandCode": "SUB",
+  "modelCode": "IMPREZA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/斯巴鲁_翼豹_默认_二排正视前排_01.png",
+  "newName": "IMG_SUB_IMPREZA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "45643",
+  "brandCode": "SUB",
+  "modelCode": "LEGACY",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/斯巴鲁_力狮_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUB_LEGACY_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "45643",
+  "brandCode": "SUB",
+  "modelCode": "LEGACY",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/斯巴鲁_力狮_默认_二排正视前排_01.png",
+  "newName": "IMG_SUB_LEGACY_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "51211",
+  "brandCode": "SUB",
+  "modelCode": "SOLTERRA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/斯巴鲁_SOLTERRA_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_SUB_SOLTERRA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "51211",
+  "brandCode": "SUB",
+  "modelCode": "SOLTERRA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/斯巴鲁_SOLTERRA_默认_二排正视前排_01.png",
+  "newName": "IMG_SUB_SOLTERRA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=58093 SUB/XV"
+ },
+ {
+  "err": "无图 pano=39858 MIT/PAJERO_IMPORT"
+ },
+ {
+  "err": "无图 pano=61125 MIT/L200"
+ },
+ {
+  "err": "无图 pano=40982 MIT/PAJEROSPORT_IMPORT"
+ },
+ {
+  "err": "无图 pano=24616 MIT/LANCER"
+ },
+ {
+  "pano": "54536",
+  "brandCode": "MIT",
+  "modelCode": "AIRTREK",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/三菱_阿图柯AIRTREK_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MIT_AIRTREK_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "54536",
+  "brandCode": "MIT",
+  "modelCode": "AIRTREK",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/三菱_阿图柯AIRTREK_默认_二排正视前排_01.png",
+  "newName": "IMG_MIT_AIRTREK_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=42770 MIT/ASX"
+ },
+ {
+  "err": "无图 pano=57869 MIT/OUTLANDER"
+ },
+ {
+  "err": "无图 pano=59027 MIT/ECLIPSE"
+ },
+ {
+  "err": "无图 pano=1017479 ISU/QL_T30"
+ },
+ {
+  "err": "无图 pano=1014543 ISU/TAGA_H"
+ },
+ {
+  "err": "无图 pano=1012265 ISU/QL_T17"
+ },
+ {
+  "err": "无图 pano=66090 ISU/MUX"
+ },
+ {
+  "err": "无图 pano=1016383 ISU/YIFANG"
+ },
+ {
+  "err": "无图 pano=1015855 ISU/DMAX"
+ },
+ {
+  "err": "无图 pano=1022123 ISU/RMAX"
+ },
+ {
+  "err": "无图 pano=1020562 ISU/LINGTUO"
+ },
+ {
+  "pano": "18862",
+  "brandCode": "INF",
+  "modelCode": "QX80",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪QX80_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_QX80_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "18862",
+  "brandCode": "INF",
+  "modelCode": "QX80",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪QX80_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_QX80_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "16814",
+  "brandCode": "INF",
+  "modelCode": "Q50",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪Q50_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_Q50_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "16814",
+  "brandCode": "INF",
+  "modelCode": "Q50",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪Q50_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_Q50_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=44835 INF/QX60_IMPORT"
+ },
+ {
+  "pano": "35195",
+  "brandCode": "INF",
+  "modelCode": "Q60",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪Q60_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_Q60_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "35195",
+  "brandCode": "INF",
+  "modelCode": "Q60",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪Q60_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_Q60_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "37822",
+  "brandCode": "INF",
+  "modelCode": "Q70",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪Q70_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_Q70_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "37822",
+  "brandCode": "INF",
+  "modelCode": "Q70",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪Q70_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_Q70_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "20283",
+  "brandCode": "INF",
+  "modelCode": "ESQ",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪ESQ_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_ESQ_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "20283",
+  "brandCode": "INF",
+  "modelCode": "ESQ",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪ESQ_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_ESQ_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "35081",
+  "brandCode": "INF",
+  "modelCode": "QX30",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪QX30_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_QX30_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "35081",
+  "brandCode": "INF",
+  "modelCode": "QX30",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪QX30_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_QX30_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "59107",
+  "brandCode": "INF",
+  "modelCode": "QX55",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪QX55_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_QX55_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "59107",
+  "brandCode": "INF",
+  "modelCode": "QX55",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪QX55_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_QX55_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "19832",
+  "brandCode": "INF",
+  "modelCode": "QX70",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪QX70_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_QX70_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "19832",
+  "brandCode": "INF",
+  "modelCode": "QX70",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪QX70_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_QX70_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73820",
+  "brandCode": "INF",
+  "modelCode": "QX50",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪QX50_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_QX50_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "73820",
+  "brandCode": "INF",
+  "modelCode": "QX50",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪QX50_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_QX50_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "65537",
+  "brandCode": "INF",
+  "modelCode": "QX60",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/英菲尼迪_英菲尼迪QX60_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_INF_QX60_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "pano": "65537",
+  "brandCode": "INF",
+  "modelCode": "QX60",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/英菲尼迪_英菲尼迪QX60_默认_二排正视前排_01.png",
+  "newName": "IMG_INF_QX60_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false,
+  "inByView": true
+ },
+ {
+  "err": "无图 pano=55844 INF/Q50L"
+ }
+]

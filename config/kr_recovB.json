@@ -1,0 +1,52 @@
+{
+ "generatedAt": "2026-09-10T15:19:10.430Z",
+ "total": 2,
+ "found": 2,
+ "noPano": 0,
+ "notFound": 0,
+ "errors": 0,
+ "results": [
+  {
+   "group": "G28",
+   "brandCn": "现代",
+   "modelEn": "Elantra",
+   "modelCn": "悦动 2011-2015",
+   "years": "2008-2012",
+   "searchNames": [
+    "悦动",
+    "悦动 2011-2015"
+   ],
+   "status": "pano_found",
+   "seriesId": 586,
+   "seriesName": "悦动",
+   "panoId": 46761,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/46761?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Elantra_Yuedong_2008",
+    "HYD_Elantra_Yuedong_Facelift_2011"
+   ]
+  },
+  {
+   "group": "G29",
+   "brandCn": "起亚",
+   "modelEn": "Sportage",
+   "modelCn": "智跑 2013-2016",
+   "years": "2010-2015",
+   "searchNames": [
+    "智跑",
+    "智跑 2013-2016"
+   ],
+   "status": "pano_found",
+   "seriesId": 2137,
+   "seriesName": "智跑",
+   "panoId": 60830,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/60830?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_Sportage_SL_2010",
+    "KIA_Sportage_SL_Facelift_2013"
+   ]
+  }
+ ]
+}

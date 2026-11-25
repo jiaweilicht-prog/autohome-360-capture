@@ -1,0 +1,126 @@
+# =============================================================================
+# views.yaml —— 机位字典（View Dictionary）
+#
+# 这是整套方案的"设计资产"，比代码更重要。
+# 作用：把"主驾视角""中控正视"这类模糊说法，定义成可重复、可比对、可跨车型横向
+#       对齐的标准化机位。有了它，不同车型的内饰截图才具备 Benchmark 价值——
+#       否则你拍到的只是"一堆角度随机的照片"，没法做同维度对比。
+#
+# 每个机位的三个层次：
+#   1) semantic —— 给人看的：这个机位要表达什么设计信息
+#   2) acquire  —— 怎么到达：是点预设按钮，还是拖拽（拖拽需要基准图）
+#   3) verify   —— 怎么确认到位：用 camera 数值，还是图像比对，容差多少
+# =============================================================================
+
+version: 1
+
+views:
+
+  - id: V01_driver_eye
+    name: 主驾眼点视角
+    semantic: 驾驶员坐姿眼点，看得到方向盘上半 + 仪表 + 中控屏 + 左侧门板
+    acquire:
+      mode: hotspot                # hotspot=点预设机位按钮 | drag=需要拖拽
+      hotspot_text: "主驾视角"      # 页面上按钮的可见文字
+      fallback: { mode: drag, baseline: "V01_driver_eye.png" }
+    verify:
+      tolerance_ssim: 0.90         # 与基准图的结构相似度下限
+      tolerance_phash: 8           # 感知哈希汉明距离上限
+    crop: { x: 0, y: 0, w: 1600, h: 900, unit: ratio }   # 全画面
+
+  - id: V02_ip_front
+    name: 中控正视
+    semantic: 正对仪表板，横向对称，用于比较 IP 分缝、出风口、屏幕比例
+    acquire:
+      mode: hotspot
+      hotspot_text: "中控"
+      fallback: { mode: drag, baseline: "V02_ip_front.png" }
+    verify:
+      tolerance_ssim: 0.92
+      tolerance_phash: 6
+    crop: { x: 0.12, y: 0.15, w: 0.76, h: 0.60, unit: ratio }  # 裁掉顶棚与地毯
+
+  - id: V03_console
+    name: 副仪表板俯视
+    semantic: 换挡区、扶手箱、杯托、无线充电位的布局与材质
+    acquire:
+      mode: hotspot
+      hotspot_text: "副仪表板"
+      fallback: { mode: drag, baseline: "V03_console.png" }
+    verify:
+      tolerance_ssim: 0.88
+      tolerance_phash: 10
+    crop: { x: 0.20, y: 0.30, w: 0.60, h: 0.55, unit: ratio }
+
+  - id: V04_door_front_left
+    name: 前门板
+    semantic: 门内饰板层次、扶手、拉手、氛围灯、包覆与拼缝
+    acquire:
+      mode: drag                   # 多数站点没有门板预设机位，必须拖拽
+      baseline: "V04_door_front_left.png"
+      drag_hint: { dx: -520, dy: 40 }    # 相对上一机位的大致位移（像素），仅作粗调
+    verify:
+      tolerance_ssim: 0.85         # 拖拽机位精度天然低于预设机位，容差放宽
+      tolerance_phash: 12
+    crop: { x: 0.10, y: 0.15, w: 0.70, h: 0.65, unit: ratio }
+
+  - id: V05_rear_seat
+    name: 后排视角
+    semantic: 后排空间、座椅背板、后排出风口、中央扶手
+    acquire:
+      mode: hotspot
+      hotspot_text: "后排"
+      fallback: { mode: drag, baseline: "V05_rear_seat.png" }
+    verify:
+      tolerance_ssim: 0.90
+      tolerance_phash: 8
+    crop: { x: 0.05, y: 0.10, w: 0.90, h: 0.75, unit: ratio }
+
+  - id: V06_steering_wheel
+    name: 方向盘特写
+    semantic: 方向盘造型、按键布局、logo 处理、缝线工艺
+    acquire:
+      mode: drag
+      baseline: "V06_steering_wheel.png"
+      drag_hint: { dx: 120, dy: -80 }
+    verify:
+      tolerance_ssim: 0.86
+      tolerance_phash: 10
+    crop: { x: 0.28, y: 0.25, w: 0.44, h: 0.50, unit: ratio }
+
+  - id: V07_headliner
+    name: 顶棚与遮阳板
+    semantic: 顶棚材质、天窗占比、阅读灯、遮阳板化妆镜
+    acquire:
+      mode: drag
+      baseline: "V07_headliner.png"
+      drag_hint: { dx: 0, dy: -420 }
+    verify:
+      tolerance_ssim: 0.84
+      tolerance_phash: 12
+    crop: { x: 0.10, y: 0.05, w: 0.80, h: 0.55, unit: ratio }
+
+  - id: V08_overall
+    name: 座舱全景
+    semantic: 整体座舱布局关系，用于快速索引与配色总览
+    acquire:
+      mode: hotspot
+      hotspot_text: "全景"
+      fallback: { mode: drag, baseline: "V08_overall.png" }
+    verify:
+      tolerance_ssim: 0.90
+      tolerance_phash: 8
+    crop: { x: 0, y: 0, w: 1600, h: 900, unit: ratio }
+
+# ---------------------------------------------------------------------------
+# 机位顺序策略：执行时按此顺序走一遍，能减少拖拽距离、降低漂移累积
+# ---------------------------------------------------------------------------
+default_route:
+  - V08_overall        # 先回全景，作为所有拖拽的"原点"，消除累积误差
+  - V02_ip_front
+  - V01_driver_eye
+  - V06_steering_wheel
+  - V03_console
+  - V04_door_front_left
+  - V05_rear_seat
+  - V07_headliner

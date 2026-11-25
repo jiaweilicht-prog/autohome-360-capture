@@ -1,0 +1,143 @@
+{
+ "generatedAt": "2026-09-10T14:52:55.439Z",
+ "total": 6,
+ "found": 6,
+ "noPano": 0,
+ "notFound": 0,
+ "errors": 0,
+ "results": [
+  {
+   "group": "G30",
+   "brandCn": "现代",
+   "modelEn": "Ioniq5_NE",
+   "modelCn": "Ioniq 5 2024-2026",
+   "years": "2024-2026",
+   "searchNames": [
+    "IONIQ 5 N(艾尼氪5N)",
+    "Ioniq 5 2024-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 7325,
+   "seriesName": "IONIQ 5 N(艾尼氪5N)",
+   "panoId": 75728,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/75728?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Ioniq5_NE_2021",
+    "HYD_Ioniq5_NE_Facelift_2024"
+   ]
+  },
+  {
+   "group": "G31",
+   "brandCn": "现代",
+   "modelEn": "Ioniq",
+   "modelCn": "Ioniq 2019-2022",
+   "years": "2017-2019",
+   "searchNames": [
+    "IONIQ(艾尼氪)6",
+    "Ioniq 2019-2022"
+   ],
+   "status": "pano_found",
+   "seriesId": 6786,
+   "seriesName": "IONIQ(艾尼氪)6",
+   "panoId": 57753,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/57753?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Ioniq_AE_2017",
+    "HYD_Ioniq_AE_Facelift_2019"
+   ]
+  },
+  {
+   "group": "G32",
+   "brandCn": "现代",
+   "modelEn": "Kona",
+   "modelCn": "Kona 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "KONA N",
+    "Kona 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 7281,
+   "seriesName": "KONA N",
+   "panoId": 63082,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/63082?_ahrotate=1",
+   "nVehicleIds": 6,
+   "vehicleIds": [
+    "HYD_Kona_OS_2018",
+    "HYD_Kona_OS_Facelift_2020",
+    "HYD_Kona_EV_OS_2019",
+    "HYD_Kona_NX4_2023",
+    "HYD_Kona_EV_NX4_2023",
+    "HYD_Kona_N_NX4_2024"
+   ]
+  },
+  {
+   "group": "G33",
+   "brandCn": "起亚",
+   "modelEn": "KX3",
+   "modelCn": "KX3 傲跑 2023-2025",
+   "years": "2020-2024",
+   "searchNames": [
+    "KX3傲跑",
+    "KX3 傲跑 2023-2025"
+   ],
+   "status": "pano_found",
+   "seriesId": 3664,
+   "seriesName": "KX3傲跑",
+   "panoId": 51410,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/51410?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_KX3_SP2_2020",
+    "KIA_KX3_SP2_Facelift_2023"
+   ]
+  },
+  {
+   "group": "G34",
+   "brandCn": "起亚",
+   "modelEn": "Soul",
+   "modelCn": "Soul（秀尔） 2019-2026",
+   "years": "2009-2014",
+   "searchNames": [
+    "Soul",
+    "Soul（秀尔） 2019-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 666,
+   "seriesName": "Soul",
+   "panoId": 37167,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/37167?_ahrotate=1",
+   "nVehicleIds": 5,
+   "vehicleIds": [
+    "KIA_Soul_AM_2009",
+    "KIA_Soul_PS_2014",
+    "KIA_Soul_SK3_2019",
+    "KIA_Soul_EV_2015",
+    "KIA_Soul_EV_2020"
+   ]
+  },
+  {
+   "group": "G35",
+   "brandCn": "起亚",
+   "modelEn": "Telluride_LD",
+   "modelCn": "Telluride 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "Telluride",
+    "Telluride 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 4004,
+   "seriesName": "Telluride",
+   "panoId": 37655,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/37655?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_Telluride_LD_2019",
+    "KIA_Telluride_LD_Facelift_2023"
+   ]
+  }
+ ]
+}

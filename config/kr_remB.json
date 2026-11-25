@@ -1,0 +1,154 @@
+{
+ "generatedAt": "2026-09-10T14:52:55.439Z",
+ "total": 6,
+ "found": 6,
+ "noPano": 0,
+ "notFound": 0,
+ "errors": 0,
+ "results": [
+  {
+   "group": "G23",
+   "brandCn": "现代",
+   "modelEn": "Verna",
+   "modelCn": "瑞纳 2020-2026",
+   "years": "2020-2026",
+   "searchNames": [
+    "瑞纳",
+    "瑞纳 2020-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 2115,
+   "seriesName": "瑞纳",
+   "panoId": 43749,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/43749?_ahrotate=1",
+   "nVehicleIds": 4,
+   "vehicleIds": [
+    "HYD_Verna_MC_2005",
+    "HYD_Verna_RB_2010",
+    "HYD_Verna_RC_2017",
+    "HYD_Verna_AC_2020"
+   ]
+  },
+  {
+   "group": "G25",
+   "brandCn": "现代",
+   "modelEn": "Sonata_DN8",
+   "modelCn": "索纳塔 2023-2026",
+   "years": "2023-2026",
+   "searchNames": [
+    "索纳塔",
+    "索纳塔 2023-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 2649,
+   "seriesName": "索纳塔",
+   "panoId": 78125,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78125?_ahrotate=1",
+   "nVehicleIds": 8,
+   "vehicleIds": [
+    "HYD_Sonata_NF_2005",
+    "HYD_Sonata_NF_Facelift_2008",
+    "HYD_Sonata_YF_2009",
+    "HYD_Sonata_LF_2015",
+    "HYD_Sonata_LF_Facelift_2017",
+    "HYD_Sonata_DN8_2020",
+    "HYD_Sonata_DN8_Facelift_2023",
+    "HYD_Sonata_Hybrid_DN8_2020"
+   ]
+  },
+  {
+   "group": "G26",
+   "brandCn": "现代",
+   "modelEn": "Tucson",
+   "modelCn": "途胜L 2021-2026",
+   "years": "2021-2026",
+   "searchNames": [
+    "途胜",
+    "途胜L 2021-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 358,
+   "seriesName": "途胜",
+   "panoId": 78121,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78121?_ahrotate=1",
+   "nVehicleIds": 7,
+   "vehicleIds": [
+    "HYD_Tucson_JM_2005",
+    "HYD_Tucson_JM_Facelift_2008",
+    "HYD_Tucson_TL_2015",
+    "HYD_Tucson_TL_Facelift_2018",
+    "HYD_Tucson_NX4_2021",
+    "HYD_Tucson_NX4_Facelift_2024",
+    "HYD_Tucson_Hybrid_NX4_2022"
+   ]
+  },
+  {
+   "group": "G27",
+   "brandCn": "现代",
+   "modelEn": "Elantra",
+   "modelCn": "伊兰特 2021-2026",
+   "years": "2021-2026",
+   "searchNames": [
+    "伊兰特",
+    "伊兰特 2021-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 51,
+   "seriesName": "伊兰特",
+   "panoId": 78119,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/78119?_ahrotate=1",
+   "nVehicleIds": 7,
+   "vehicleIds": [
+    "HYD_Elantra_HD_2005",
+    "HYD_Elantra_YF_Elantra_2011",
+    "HYD_Elantra_AD_2016",
+    "HYD_Elantra_AD_Facelift_2019",
+    "HYD_Elantra_CN7_2021",
+    "HYD_Elantra_CN7_Facelift_2024",
+    "HYD_Elantra_Hybrid_CN7_2021"
+   ]
+  },
+  {
+   "group": "G28",
+   "brandCn": "现代",
+   "modelEn": "Elantra",
+   "modelCn": "悦动 2011-2015",
+   "years": "2008-2012",
+   "searchNames": [
+    "悦动",
+    "悦动 2011-2015"
+   ],
+   "status": "pano_found",
+   "seriesId": 586,
+   "seriesName": "悦动",
+   "panoId": 46761,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/46761?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "HYD_Elantra_Yuedong_2008",
+    "HYD_Elantra_Yuedong_Facelift_2011"
+   ]
+  },
+  {
+   "group": "G29",
+   "brandCn": "起亚",
+   "modelEn": "Sportage",
+   "modelCn": "智跑 2013-2016",
+   "years": "2010-2015",
+   "searchNames": [
+    "智跑",
+    "智跑 2013-2016"
+   ],
+   "status": "pano_found",
+   "seriesId": 2137,
+   "seriesName": "智跑",
+   "panoId": 60830,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/60830?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_Sportage_SL_2010",
+    "KIA_Sportage_SL_Facelift_2013"
+   ]
+  }
+ ]
+}

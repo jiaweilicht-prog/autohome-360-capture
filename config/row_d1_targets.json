@@ -1,0 +1,5752 @@
+{
+  "generatedAt": "2026-09-18",
+  "total": 343,
+  "found": 343,
+  "noPano": 0,
+  "notFound": 0,
+  "errors": 0,
+  "results": [
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "威驰",
+      "seriesId": 111,
+      "brandEn": "TOYOTA",
+      "modelEn": "威驰",
+      "panoId": 58177,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/58177?_ahrotate=1",
+      "group": "JP0089",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "卡罗拉",
+      "seriesId": 526,
+      "brandEn": "TOYOTA",
+      "modelEn": "卡罗拉",
+      "panoId": 74685,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74685?_ahrotate=1",
+      "group": "JP0079",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "亚洲狮",
+      "seriesId": 5960,
+      "brandEn": "TOYOTA",
+      "modelEn": "亚洲狮",
+      "panoId": 63244,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63244?_ahrotate=1",
+      "group": "JP0092",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "卡罗拉锐放",
+      "seriesId": 6428,
+      "brandEn": "TOYOTA",
+      "modelEn": "卡罗拉锐放",
+      "panoId": 75354,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75354?_ahrotate=1",
+      "group": "JP0083",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "RAV4荣放",
+      "seriesId": 770,
+      "brandEn": "TOYOTA",
+      "modelEn": "RAV4荣放",
+      "panoId": 74683,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74683?_ahrotate=1",
+      "group": "JP0082",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "丰田C-HR",
+      "seriesId": 4645,
+      "brandEn": "TOYOTA",
+      "modelEn": "丰田C-HR",
+      "panoId": 62002,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/62002?_ahrotate=1",
+      "group": "JP0055",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "铂智3X",
+      "seriesId": 7712,
+      "brandEn": "TOYOTA",
+      "modelEn": "铂智3X",
+      "panoId": 77656,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77656?_ahrotate=1",
+      "group": "JP0044",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "铂智4X",
+      "seriesId": 7520,
+      "brandEn": "TOYOTA",
+      "modelEn": "铂智4X",
+      "panoId": 70806,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70806?_ahrotate=1",
+      "group": "JP0040",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "广汽丰田bZ4X",
+      "seriesId": 6505,
+      "brandEn": "TOYOTA",
+      "modelEn": "广汽丰田bZ4X",
+      "panoId": 56854,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/56854?_ahrotate=1",
+      "group": "JP0050",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "凌放HARRIER",
+      "seriesId": 6077,
+      "brandEn": "TOYOTA",
+      "modelEn": "凌放HARRIER",
+      "panoId": 68442,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/68442?_ahrotate=1",
+      "group": "JP0096",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "汉兰达",
+      "seriesId": 771,
+      "brandEn": "TOYOTA",
+      "modelEn": "汉兰达",
+      "panoId": 74935,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74935?_ahrotate=1",
+      "group": "JP0047",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "Grand Highlander",
+      "seriesId": 7002,
+      "brandEn": "TOYOTA",
+      "modelEn": "Grand Highlander",
+      "panoId": 63359,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63359?_ahrotate=1",
+      "group": "JP0072",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "凯美瑞",
+      "seriesId": 110,
+      "brandEn": "TOYOTA",
+      "modelEn": "凯美瑞",
+      "panoId": 78811,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78811?_ahrotate=1",
+      "group": "JP0042",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "亚洲龙",
+      "seriesId": 4962,
+      "brandEn": "TOYOTA",
+      "modelEn": "亚洲龙",
+      "panoId": 77062,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77062?_ahrotate=1",
+      "group": "JP0081",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "皇冠SportCross",
+      "seriesId": 7725,
+      "brandEn": "TOYOTA",
+      "modelEn": "皇冠SportCross",
+      "panoId": 60295,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/60295?_ahrotate=1",
+      "group": "JP0067",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "赛那SIENNA",
+      "seriesId": 6272,
+      "brandEn": "TOYOTA",
+      "modelEn": "赛那SIENNA",
+      "panoId": 78081,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78081?_ahrotate=1",
+      "group": "JP0049",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "埃尔法",
+      "seriesId": 2107,
+      "brandEn": "TOYOTA",
+      "modelEn": "埃尔法",
+      "panoId": 63540,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63540?_ahrotate=1",
+      "group": "JP0062",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "普拉多",
+      "seriesId": 46,
+      "brandEn": "TOYOTA",
+      "modelEn": "普拉多",
+      "panoId": 77392,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77392?_ahrotate=1",
+      "group": "JP0086",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "兰德酷路泽(进口)",
+      "seriesId": 550,
+      "brandEn": "TOYOTA",
+      "modelEn": "兰德酷路泽(进口)",
+      "panoId": 55112,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/55112?_ahrotate=1",
+      "group": "JP0073",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "铂智7",
+      "seriesId": 7724,
+      "brandEn": "TOYOTA",
+      "modelEn": "铂智7",
+      "panoId": 72767,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72767?_ahrotate=1",
+      "group": "JP0043",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "丰田bZ5",
+      "seriesId": 7713,
+      "brandEn": "TOYOTA",
+      "modelEn": "丰田bZ5",
+      "panoId": 72739,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72739?_ahrotate=1",
+      "group": "JP0084",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "飞度",
+      "seriesId": 81,
+      "brandEn": "HONDA",
+      "modelEn": "飞度",
+      "panoId": 72647,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72647?_ahrotate=1",
+      "group": "JP0033",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "凌派",
+      "seriesId": 3085,
+      "brandEn": "HONDA",
+      "modelEn": "凌派",
+      "panoId": 63255,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63255?_ahrotate=1",
+      "group": "JP0035",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "思域",
+      "seriesId": 135,
+      "brandEn": "HONDA",
+      "modelEn": "思域",
+      "panoId": 77419,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77419?_ahrotate=1",
+      "group": "JP0001",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "英仕派",
+      "seriesId": 4809,
+      "brandEn": "HONDA",
+      "modelEn": "英仕派",
+      "panoId": 77719,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77719?_ahrotate=1",
+      "group": "JP0002",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "雅阁",
+      "seriesId": 78,
+      "brandEn": "HONDA",
+      "modelEn": "雅阁",
+      "panoId": 78335,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78335?_ahrotate=1",
+      "group": "JP0026",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "缤智",
+      "seriesId": 3460,
+      "brandEn": "HONDA",
+      "modelEn": "缤智",
+      "panoId": 75550,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75550?_ahrotate=1",
+      "group": "JP0027",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "ZR-V 致在",
+      "seriesId": 6731,
+      "brandEn": "HONDA",
+      "modelEn": "ZR-V 致在",
+      "panoId": 59200,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/59200?_ahrotate=1",
+      "group": "JP0039",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "本田CR-V",
+      "seriesId": 314,
+      "brandEn": "HONDA",
+      "modelEn": "本田CR-V",
+      "panoId": 78060,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78060?_ahrotate=1",
+      "group": "JP0005",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "冠道",
+      "seriesId": 4102,
+      "brandEn": "HONDA",
+      "modelEn": "冠道",
+      "panoId": 76630,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76630?_ahrotate=1",
+      "group": "JP0030",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "奥德赛",
+      "seriesId": 880,
+      "brandEn": "HONDA",
+      "modelEn": "奥德赛",
+      "panoId": 73968,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73968?_ahrotate=1",
+      "group": "JP0032",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "猎光e:NS2",
+      "seriesId": 7244,
+      "brandEn": "HONDA",
+      "modelEn": "猎光e:NS2",
+      "panoId": 66473,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66473?_ahrotate=1",
+      "group": "JP0008",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "广汽本田P7",
+      "seriesId": 7677,
+      "brandEn": "HONDA",
+      "modelEn": "广汽本田P7",
+      "panoId": 67766,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/67766?_ahrotate=1",
+      "group": "JP0031",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "东风本田S7",
+      "seriesId": 7676,
+      "brandEn": "HONDA",
+      "modelEn": "东风本田S7",
+      "panoId": 71976,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71976?_ahrotate=1",
+      "group": "JP0010",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "东风本田GT",
+      "seriesId": 8122,
+      "brandEn": "HONDA",
+      "modelEn": "东风本田GT",
+      "panoId": 72799,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72799?_ahrotate=1",
+      "group": "JP0012",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "本田e:NS1",
+      "seriesId": 6152,
+      "brandEn": "HONDA",
+      "modelEn": "本田e:NS1",
+      "panoId": 56565,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/56565?_ahrotate=1",
+      "group": "JP0019",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "轩逸",
+      "seriesId": 448,
+      "brandEn": "NISSAN",
+      "modelEn": "轩逸",
+      "panoId": 74682,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74682?_ahrotate=1",
+      "group": "JP0150",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "骐达TIIDA",
+      "seriesId": 425,
+      "brandEn": "NISSAN",
+      "modelEn": "骐达TIIDA",
+      "panoId": 63991,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63991?_ahrotate=1",
+      "group": "JP0149",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "天籁",
+      "seriesId": 634,
+      "brandEn": "NISSAN",
+      "modelEn": "天籁",
+      "panoId": 74182,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74182?_ahrotate=1",
+      "group": "JP0152",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "日产N6",
+      "seriesId": 8243,
+      "brandEn": "NISSAN",
+      "modelEn": "日产N6",
+      "panoId": 74151,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74151?_ahrotate=1",
+      "group": "JP0151",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "日产N7",
+      "seriesId": 7935,
+      "brandEn": "NISSAN",
+      "modelEn": "日产N7",
+      "panoId": 77571,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77571?_ahrotate=1",
+      "group": "JP0153",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "劲客",
+      "seriesId": 4305,
+      "brandEn": "NISSAN",
+      "modelEn": "劲客",
+      "panoId": 63824,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63824?_ahrotate=1",
+      "group": "JP0154",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "逍客",
+      "seriesId": 564,
+      "brandEn": "NISSAN",
+      "modelEn": "逍客",
+      "panoId": 73478,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73478?_ahrotate=1",
+      "group": "JP0155",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "奇骏",
+      "seriesId": 656,
+      "brandEn": "NISSAN",
+      "modelEn": "奇骏",
+      "panoId": 73628,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73628?_ahrotate=1",
+      "group": "JP0156",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "楼兰",
+      "seriesId": 2381,
+      "brandEn": "NISSAN",
+      "modelEn": "楼兰",
+      "panoId": 47163,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/47163?_ahrotate=1",
+      "group": "JP0162",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "探陆",
+      "seriesId": 7396,
+      "brandEn": "NISSAN",
+      "modelEn": "探陆",
+      "panoId": 78587,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78587?_ahrotate=1",
+      "group": "JP0147",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "途达",
+      "seriesId": 4691,
+      "brandEn": "NISSAN",
+      "modelEn": "途达",
+      "panoId": 42725,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/42725?_ahrotate=1",
+      "group": "JP0180",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "ARIYA艾睿雅",
+      "seriesId": 6714,
+      "brandEn": "NISSAN",
+      "modelEn": "ARIYA艾睿雅",
+      "panoId": 63860,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63860?_ahrotate=1",
+      "group": "JP0157",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "途乐",
+      "seriesId": 264,
+      "brandEn": "NISSAN",
+      "modelEn": "途乐",
+      "panoId": 57831,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/57831?_ahrotate=1",
+      "group": "JP0174",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "日产NX8",
+      "seriesId": 8459,
+      "brandEn": "NISSAN",
+      "modelEn": "日产NX8",
+      "panoId": 76408,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76408?_ahrotate=1",
+      "group": "JP0148",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达3 昂克赛拉",
+      "seriesId": 3294,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达3 昂克赛拉",
+      "panoId": 67405,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/67405?_ahrotate=1",
+      "group": "JP0129",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达CX-30",
+      "seriesId": 5586,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达CX-30",
+      "panoId": 74583,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74583?_ahrotate=1",
+      "group": "JP0131",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达CX-5",
+      "seriesId": 2987,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达CX-5",
+      "panoId": 73327,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73327?_ahrotate=1",
+      "group": "JP0132",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达CX-50行也",
+      "seriesId": 7082,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达CX-50行也",
+      "panoId": 60954,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/60954?_ahrotate=1",
+      "group": "JP0133",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达CX-90",
+      "seriesId": 6482,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达CX-90",
+      "panoId": 54270,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/54270?_ahrotate=1",
+      "group": "JP0126",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达CX-8",
+      "seriesId": 4870,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达CX-8",
+      "panoId": 37054,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/37054?_ahrotate=1",
+      "group": "JP0138",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达CX-3",
+      "seriesId": 3538,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达CX-3",
+      "panoId": 32799,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/32799?_ahrotate=1",
+      "group": "JP0124",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达EZ-6",
+      "seriesId": 7692,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达EZ-6",
+      "panoId": 75511,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75511?_ahrotate=1",
+      "group": "JP0130",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达EZ-60",
+      "seriesId": 7717,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达EZ-60",
+      "panoId": 76129,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76129?_ahrotate=1",
+      "group": "JP0134",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯ES",
+      "seriesId": 403,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯ES",
+      "panoId": 72817,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72817?_ahrotate=1",
+      "group": "JP0098",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯LS",
+      "seriesId": 341,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯LS",
+      "panoId": 66049,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66049?_ahrotate=1",
+      "group": "JP0099",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯NX",
+      "seriesId": 3442,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯NX",
+      "panoId": 75802,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75802?_ahrotate=1",
+      "group": "JP0100",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯RZ",
+      "seriesId": 6525,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯RZ",
+      "panoId": 60659,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/60659?_ahrotate=1",
+      "group": "JP0102",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯GX",
+      "seriesId": 112,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯GX",
+      "panoId": 75873,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75873?_ahrotate=1",
+      "group": "JP0103",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯RX",
+      "seriesId": 3934,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯RX",
+      "panoId": 74909,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74909?_ahrotate=1",
+      "group": "JP0104",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯LX",
+      "seriesId": 352,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯LX",
+      "panoId": 70761,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70761?_ahrotate=1",
+      "group": "JP0106",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯LM",
+      "seriesId": 5220,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯LM",
+      "panoId": 75454,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75454?_ahrotate=1",
+      "group": "JP0107",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯UX",
+      "seriesId": 4197,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯UX",
+      "panoId": 66712,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66712?_ahrotate=1",
+      "group": "JP0113",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯LC",
+      "seriesId": 2623,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯LC",
+      "panoId": 51913,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/51913?_ahrotate=1",
+      "group": "JP0108",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪Q50",
+      "seriesId": 2992,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪Q50",
+      "panoId": 16814,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/16814?_ahrotate=1",
+      "group": "JP0208",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪QX50",
+      "seriesId": 3591,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪QX50",
+      "panoId": 73820,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73820?_ahrotate=1",
+      "group": "JP0216",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪QX60",
+      "seriesId": 6342,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪QX60",
+      "panoId": 65537,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/65537?_ahrotate=1",
+      "group": "JP0217",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪QX80",
+      "seriesId": 3100,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪QX80",
+      "panoId": 18862,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/18862?_ahrotate=1",
+      "group": "JP0207",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪QX55",
+      "seriesId": 5502,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪QX55",
+      "panoId": 59107,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/59107?_ahrotate=1",
+      "group": "JP0214",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "斯巴鲁",
+      "seriesName": "森林人",
+      "seriesId": 285,
+      "brandEn": "SUBARU",
+      "modelEn": "森林人",
+      "panoId": 73605,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73605?_ahrotate=1",
+      "group": "JP0183",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "斯巴鲁",
+      "seriesName": "旭豹",
+      "seriesId": 6933,
+      "brandEn": "SUBARU",
+      "modelEn": "旭豹",
+      "panoId": 77120,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77120?_ahrotate=1",
+      "group": "JP0184",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "斯巴鲁",
+      "seriesName": "傲虎",
+      "seriesId": 286,
+      "brandEn": "SUBARU",
+      "modelEn": "傲虎",
+      "panoId": 78426,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78426?_ahrotate=1",
+      "group": "JP0185",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "斯巴鲁",
+      "seriesName": "SOLTERRA",
+      "seriesId": 6212,
+      "brandEn": "SUBARU",
+      "modelEn": "SOLTERRA",
+      "panoId": 51211,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/51211?_ahrotate=1",
+      "group": "JP0189",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "三菱",
+      "seriesName": "阿图柯AIRTREK",
+      "seriesId": 6154,
+      "brandEn": "MITSU",
+      "modelEn": "阿图柯AIRTREK",
+      "panoId": 54536,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/54536?_ahrotate=1",
+      "group": "JP0195",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "铃木",
+      "seriesName": "吉姆尼(进口)",
+      "seriesId": 508,
+      "brandEn": "SUZUKI",
+      "modelEn": "吉姆尼(进口)",
+      "panoId": 34980,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/34980?_ahrotate=1",
+      "group": "JP0116",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "讴歌",
+      "seriesName": "讴歌RDX",
+      "seriesId": 4820,
+      "brandEn": "ACURA",
+      "modelEn": "讴歌RDX",
+      "panoId": 47292,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/47292?_ahrotate=1",
+      "group": "JP0141",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "讴歌",
+      "seriesName": "讴歌MDX",
+      "seriesId": 524,
+      "brandEn": "ACURA",
+      "modelEn": "讴歌MDX",
+      "panoId": 30236,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/30236?_ahrotate=1",
+      "group": "JP0145",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "SUPRA",
+      "seriesId": 2617,
+      "brandEn": "TOYOTA",
+      "modelEn": "SUPRA",
+      "panoId": 59175,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/59175?_ahrotate=1",
+      "group": "JP0064",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "丰田86",
+      "seriesId": 2574,
+      "brandEn": "TOYOTA",
+      "modelEn": "丰田86",
+      "panoId": 54680,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/54680?_ahrotate=1",
+      "group": "JP0078",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "GR YARIS",
+      "seriesId": 711,
+      "brandEn": "TOYOTA",
+      "modelEn": "GR YARIS",
+      "panoId": 77197,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77197?_ahrotate=1",
+      "group": "JP0059",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "皇冠SPORT",
+      "seriesId": 6834,
+      "brandEn": "TOYOTA",
+      "modelEn": "皇冠SPORT",
+      "panoId": 65451,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/65451?_ahrotate=1",
+      "group": "JP0071",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "皇冠",
+      "seriesId": 882,
+      "brandEn": "TOYOTA",
+      "modelEn": "皇冠",
+      "panoId": 33069,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/33069?_ahrotate=1",
+      "group": "JP0093",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "Mirai",
+      "seriesId": 3682,
+      "brandEn": "TOYOTA",
+      "modelEn": "Mirai",
+      "panoId": 59751,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/59751?_ahrotate=1",
+      "group": "JP0060",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "普锐斯新能源(海外)",
+      "seriesId": 7039,
+      "brandEn": "TOYOTA",
+      "modelEn": "普锐斯新能源(海外)",
+      "panoId": 60627,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/60627?_ahrotate=1",
+      "group": "JP0066",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "普瑞维亚",
+      "seriesId": 107,
+      "brandEn": "TOYOTA",
+      "modelEn": "普瑞维亚",
+      "panoId": 13441,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/13441?_ahrotate=1",
+      "group": "JP0077",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "Tacoma",
+      "seriesId": 2411,
+      "brandEn": "TOYOTA",
+      "modelEn": "Tacoma",
+      "panoId": 58707,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/58707?_ahrotate=1",
+      "group": "JP0075",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "丰田",
+      "seriesName": "坦途",
+      "seriesId": 2354,
+      "brandEn": "TOYOTA",
+      "modelEn": "坦途",
+      "panoId": 53460,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/53460?_ahrotate=1",
+      "group": "JP0076",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "杰德",
+      "seriesId": 3104,
+      "brandEn": "HONDA",
+      "modelEn": "杰德",
+      "panoId": 38059,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/38059?_ahrotate=1",
+      "group": "JP0014",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "思铂睿",
+      "seriesId": 859,
+      "brandEn": "HONDA",
+      "modelEn": "思铂睿",
+      "panoId": 28585,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/28585?_ahrotate=1",
+      "group": "JP0018",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "Passport",
+      "seriesId": 5041,
+      "brandEn": "HONDA",
+      "modelEn": "Passport",
+      "panoId": 37100,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/37100?_ahrotate=1",
+      "group": "JP0023",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "Pilot",
+      "seriesId": 810,
+      "brandEn": "HONDA",
+      "modelEn": "Pilot",
+      "panoId": 35193,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/35193?_ahrotate=1",
+      "group": "JP0024",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "本田",
+      "seriesName": "锋范",
+      "seriesId": 3876,
+      "brandEn": "HONDA",
+      "modelEn": "锋范",
+      "panoId": 39281,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/39281?_ahrotate=1",
+      "group": "JP0034",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "日产370Z",
+      "seriesId": 702,
+      "brandEn": "NISSAN",
+      "modelEn": "日产370Z",
+      "panoId": 31637,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/31637?_ahrotate=1",
+      "group": "JP0175",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "Titan",
+      "seriesId": 2479,
+      "brandEn": "NISSAN",
+      "modelEn": "Titan",
+      "panoId": 29243,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/29243?_ahrotate=1",
+      "group": "JP0176",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "纳瓦拉",
+      "seriesId": 4307,
+      "brandEn": "NISSAN",
+      "modelEn": "纳瓦拉",
+      "panoId": 1023109,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/1023109?_ahrotate=1",
+      "group": "JP0177",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "锋坦Frontier Pro",
+      "seriesId": 8316,
+      "brandEn": "NISSAN",
+      "modelEn": "锋坦Frontier Pro",
+      "panoId": 75173,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75173?_ahrotate=1",
+      "group": "JP0178",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "日产NV200",
+      "seriesId": 2113,
+      "brandEn": "NISSAN",
+      "modelEn": "日产NV200",
+      "panoId": 33176,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/33176?_ahrotate=1",
+      "group": "JP0181",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "蓝鸟",
+      "seriesId": 3817,
+      "brandEn": "NISSAN",
+      "modelEn": "蓝鸟",
+      "panoId": 42679,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/42679?_ahrotate=1",
+      "group": "JP0159",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "阳光",
+      "seriesId": 64,
+      "brandEn": "NISSAN",
+      "modelEn": "阳光",
+      "panoId": 26368,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/26368?_ahrotate=1",
+      "group": "JP0158",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "日产",
+      "seriesName": "聆风",
+      "seriesId": 894,
+      "brandEn": "NISSAN",
+      "modelEn": "聆风",
+      "panoId": 65486,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/65486?_ahrotate=1",
+      "group": "JP0165",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达MX-5",
+      "seriesId": 672,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达MX-5",
+      "panoId": 65101,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/65101?_ahrotate=1",
+      "group": "JP0127",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达RX-7",
+      "seriesId": 2647,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达RX-7",
+      "panoId": 51336,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/51336?_ahrotate=1",
+      "group": "JP0128",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "马自达CX-4",
+      "seriesId": 3968,
+      "brandEn": "MAZDA",
+      "modelEn": "马自达CX-4",
+      "panoId": 46955,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/46955?_ahrotate=1",
+      "group": "JP0137",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "马自达",
+      "seriesName": "阿特兹",
+      "seriesId": 3154,
+      "brandEn": "MAZDA",
+      "modelEn": "阿特兹",
+      "panoId": 49995,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/49995?_ahrotate=1",
+      "group": "JP0135",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯IS",
+      "seriesId": 201,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯IS",
+      "panoId": 30361,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/30361?_ahrotate=1",
+      "group": "JP0109",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯RC",
+      "seriesId": 3758,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯RC",
+      "panoId": 36921,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/36921?_ahrotate=1",
+      "group": "JP0110",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯RC F",
+      "seriesId": 3238,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯RC F",
+      "panoId": 27362,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/27362?_ahrotate=1",
+      "group": "JP0115",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯CT",
+      "seriesId": 2063,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯CT",
+      "panoId": 47260,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/47260?_ahrotate=1",
+      "group": "JP0111",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "雷克萨斯",
+      "seriesName": "雷克萨斯GS",
+      "seriesId": 261,
+      "brandEn": "LEXUS",
+      "modelEn": "雷克萨斯GS",
+      "panoId": 24494,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/24494?_ahrotate=1",
+      "group": "JP0112",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪Q60",
+      "seriesId": 3201,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪Q60",
+      "panoId": 35195,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/35195?_ahrotate=1",
+      "group": "JP0210",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪Q70",
+      "seriesId": 3097,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪Q70",
+      "panoId": 37822,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/37822?_ahrotate=1",
+      "group": "JP0211",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪ESQ",
+      "seriesId": 3535,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪ESQ",
+      "panoId": 20283,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/20283?_ahrotate=1",
+      "group": "JP0212",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪QX30",
+      "seriesId": 3652,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪QX30",
+      "panoId": 35081,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/35081?_ahrotate=1",
+      "group": "JP0213",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "英菲尼迪",
+      "seriesName": "英菲尼迪QX70",
+      "seriesId": 3099,
+      "brandEn": "INFINITI",
+      "modelEn": "英菲尼迪QX70",
+      "panoId": 19832,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/19832?_ahrotate=1",
+      "group": "JP0215",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "斯巴鲁",
+      "seriesName": "斯巴鲁WRX",
+      "seriesId": 3263,
+      "brandEn": "SUBARU",
+      "modelEn": "斯巴鲁WRX",
+      "panoId": 72350,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72350?_ahrotate=1",
+      "group": "JP0182",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "斯巴鲁",
+      "seriesName": "斯巴鲁BRZ",
+      "seriesId": 2557,
+      "brandEn": "SUBARU",
+      "modelEn": "斯巴鲁BRZ",
+      "panoId": 75279,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75279?_ahrotate=1",
+      "group": "JP0186",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "斯巴鲁",
+      "seriesName": "翼豹",
+      "seriesId": 283,
+      "brandEn": "SUBARU",
+      "modelEn": "翼豹",
+      "panoId": 41367,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/41367?_ahrotate=1",
+      "group": "JP0187",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "斯巴鲁",
+      "seriesName": "力狮",
+      "seriesId": 287,
+      "brandEn": "SUBARU",
+      "modelEn": "力狮",
+      "panoId": 45643,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/45643?_ahrotate=1",
+      "group": "JP0188",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "讴歌",
+      "seriesName": "讴歌NSX",
+      "seriesId": 2641,
+      "brandEn": "ACURA",
+      "modelEn": "讴歌NSX",
+      "panoId": 21434,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/21434?_ahrotate=1",
+      "group": "JP0146",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "讴歌",
+      "seriesName": "讴歌TLX-L",
+      "seriesId": 4381,
+      "brandEn": "ACURA",
+      "modelEn": "讴歌TLX-L",
+      "panoId": 29959,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/29959?_ahrotate=1",
+      "group": "JP0139",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "讴歌",
+      "seriesName": "讴歌CDX",
+      "seriesId": 4096,
+      "brandEn": "ACURA",
+      "modelEn": "讴歌CDX",
+      "panoId": 46014,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/46014?_ahrotate=1",
+      "group": "JP0140",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "讴歌",
+      "seriesName": "讴歌ILX",
+      "seriesId": 2642,
+      "brandEn": "ACURA",
+      "modelEn": "讴歌ILX",
+      "panoId": 35757,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/35757?_ahrotate=1",
+      "group": "JP0142",
+      "region": "JP"
+    },
+    {
+      "status": "pano_found",
+      "brandCn": "讴歌",
+      "seriesName": "讴歌RLX",
+      "seriesId": 2748,
+      "brandEn": "ACURA",
+      "modelEn": "讴歌RLX",
+      "panoId": 31260,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/31260?_ahrotate=1",
+      "group": "JP0143",
+      "region": "JP"
+    },
+    {
+      "group": "G01",
+      "brandCn": "现代",
+      "modelEn": "Encino",
+      "modelCn": "昂希诺纯电 2019-2022",
+      "years": "2018-2021",
+      "searchNames": [
+        "昂希诺纯电动",
+        "昂希诺纯电 2019-2022"
+      ],
+      "status": "pano_found",
+      "seriesId": 5111,
+      "seriesName": "昂希诺纯电动",
+      "panoId": 42121,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/42121?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "HYD_Encino_RC_2018",
+        "HYD_Encino_EV_2019"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G02",
+      "brandCn": "现代",
+      "modelEn": "IX35",
+      "modelCn": "ix35 2010-2015",
+      "years": "2010-2015",
+      "searchNames": [
+        "北京现代ix35",
+        "ix35 2010-2015"
+      ],
+      "status": "pano_found",
+      "seriesId": 1007,
+      "seriesName": "北京现代ix35",
+      "panoId": 74166,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74166?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "HYD_IX35_LM_2010",
+        "HYD_IX35_LM_Facelift_2013"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G03",
+      "brandCn": "现代",
+      "modelEn": "Lafesta",
+      "modelCn": "菲斯塔 2022-2025",
+      "years": "2022-2025",
+      "searchNames": [
+        "菲斯塔",
+        "菲斯塔 2022-2025"
+      ],
+      "status": "pano_found",
+      "seriesId": 4817,
+      "seriesName": "菲斯塔",
+      "panoId": 58698,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/58698?_ahrotate=1",
+      "nVehicleIds": 3,
+      "vehicleIds": [
+        "HYD_Lafesta_CN_2018",
+        "HYD_Lafesta_Facelift_2022",
+        "HYD_Lafesta_EV_2022"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G04",
+      "brandCn": "起亚",
+      "modelEn": "Forte",
+      "modelCn": "福瑞迪 2019-2021",
+      "years": "2008-2012",
+      "searchNames": [
+        "福瑞迪",
+        "福瑞迪 2019-2021"
+      ],
+      "status": "pano_found",
+      "seriesId": 813,
+      "seriesName": "福瑞迪",
+      "panoId": 38646,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/38646?_ahrotate=1",
+      "nVehicleIds": 4,
+      "vehicleIds": [
+        "KIA_Forte_TD_2008",
+        "KIA_Forte_TD_Facelift_2011",
+        "KIA_Cerato_YD_2016",
+        "KIA_Cerato_YD_Facelift_2019"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G05",
+      "brandCn": "起亚",
+      "modelEn": "Carnival",
+      "modelCn": "嘉华 2020-2026",
+      "years": "2020-2026",
+      "searchNames": [
+        "嘉华",
+        "嘉华 2020-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 284,
+      "seriesName": "嘉华",
+      "panoId": 74289,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74289?_ahrotate=1",
+      "nVehicleIds": 6,
+      "vehicleIds": [
+        "KIA_Carnival_VQ_2006",
+        "KIA_Carnival_YP_2010",
+        "KIA_Carnival_YP_Facelift_2013",
+        "KIA_Carnival_KA4_2020",
+        "KIA_Carnival_KA4_Facelift_2024",
+        "KIA_Carnival_Hybrid_KA4_2023"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G06",
+      "brandCn": "捷尼赛思",
+      "modelEn": "G70_IK",
+      "modelCn": "G70 2023-2026",
+      "years": "2023-2026",
+      "searchNames": [
+        "捷尼赛思G70",
+        "G70 2023-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 4545,
+      "seriesName": "捷尼赛思G70",
+      "panoId": 65724,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/65724?_ahrotate=1",
+      "nVehicleIds": 3,
+      "vehicleIds": [
+        "GEN_G70_IK_2017",
+        "GEN_G70_IK_Facelift_2020",
+        "GEN_G70_IK_Facelift2_2023"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G07",
+      "brandCn": "捷尼赛思",
+      "modelEn": "G80",
+      "modelCn": "G80 2024-2026",
+      "years": "2020-2024",
+      "searchNames": [
+        "捷尼赛思G80",
+        "G80 2024-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 4176,
+      "seriesName": "捷尼赛思G80",
+      "panoId": 73096,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73096?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "GEN_G80_RG3_2020",
+        "GEN_G80_RG3_Facelift_2024"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G08",
+      "brandCn": "捷尼赛思",
+      "modelEn": "G90",
+      "modelCn": "G90 2022-2026",
+      "years": "2022-2026",
+      "searchNames": [
+        "捷尼赛思G90",
+        "G90 2022-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 3982,
+      "seriesName": "捷尼赛思G90",
+      "panoId": 73616,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73616?_ahrotate=1",
+      "nVehicleIds": 3,
+      "vehicleIds": [
+        "GEN_G90_HI_Facelift_2018",
+        "GEN_G90_RS4_2022",
+        "GEN_G90_RS4_Facelift_2025"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G09",
+      "brandCn": "捷尼赛思",
+      "modelEn": "GV60",
+      "modelCn": "GV60 2025-2026",
+      "years": "2022-2025",
+      "searchNames": [
+        "捷尼赛思GV60",
+        "GV60 2025-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 5865,
+      "seriesName": "捷尼赛思GV60",
+      "panoId": 66108,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66108?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "GEN_GV60_JW1_2022",
+        "GEN_GV60_JW1_Facelift_2025"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G10",
+      "brandCn": "捷尼赛思",
+      "modelEn": "GV70",
+      "modelCn": "GV70 2024-2026",
+      "years": "2021-2024",
+      "searchNames": [
+        "捷尼赛思GV70",
+        "GV70 2024-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 5475,
+      "seriesName": "捷尼赛思GV70",
+      "panoId": 70888,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70888?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "GEN_GV70_EN4_2021",
+        "GEN_GV70_EN4_Facelift_2024"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G11",
+      "brandCn": "捷尼赛思",
+      "modelEn": "GV80",
+      "modelCn": "GV80 2024-2026",
+      "years": "2020-2024",
+      "searchNames": [
+        "捷尼赛思GV80",
+        "GV80 2024-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 4397,
+      "seriesName": "捷尼赛思GV80",
+      "panoId": 78634,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78634?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "GEN_GV80_EN4_2020",
+        "GEN_GV80_EN4_Facelift_2024"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G12",
+      "brandCn": "现代",
+      "modelEn": "Custo",
+      "modelCn": "库斯途 2020-2026",
+      "years": "2020-2026",
+      "searchNames": [
+        "库斯途",
+        "库斯途 2020-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 6118,
+      "seriesName": "库斯途",
+      "panoId": 68238,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/68238?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "HYD_Custo_PU_2020",
+        "HYD_Custin_PU_2021"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G13",
+      "brandCn": "现代",
+      "modelEn": "Avante",
+      "modelCn": "领动 2016-2020",
+      "years": "2016-2020",
+      "searchNames": [
+        "领动",
+        "领动 2016-2020"
+      ],
+      "status": "pano_found",
+      "seriesId": 3959,
+      "seriesName": "领动",
+      "panoId": 45479,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/45479?_ahrotate=1",
+      "nVehicleIds": 1,
+      "vehicleIds": [
+        "HYD_Avante_AD_2016"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G14",
+      "brandCn": "现代",
+      "modelEn": "Mistra",
+      "modelCn": "名图 2020-2023",
+      "years": "2013-2017",
+      "searchNames": [
+        "名图",
+        "名图 2020-2023"
+      ],
+      "status": "pano_found",
+      "seriesId": 3073,
+      "seriesName": "名图",
+      "panoId": 49405,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/49405?_ahrotate=1",
+      "nVehicleIds": 4,
+      "vehicleIds": [
+        "HYD_Mistra_DF_2013",
+        "HYD_Mistra_DF_Facelift_2017",
+        "HYD_Mistra_DF2_2020",
+        "HYD_Mistra_EV_2021"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G15",
+      "brandCn": "起亚",
+      "modelEn": "EV5",
+      "modelCn": "EV5 2024-2026",
+      "years": "2024-2026",
+      "searchNames": [
+        "起亚EV5",
+        "EV5 2024-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 7352,
+      "seriesName": "起亚EV5",
+      "panoId": 71310,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71310?_ahrotate=1",
+      "nVehicleIds": 1,
+      "vehicleIds": [
+        "KIA_EV5_SV1_2024"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G16",
+      "brandCn": "起亚",
+      "modelEn": "EV6",
+      "modelCn": "EV6 2024-2026",
+      "years": "2021-2024",
+      "searchNames": [
+        "起亚EV6",
+        "EV6 2024-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 6050,
+      "seriesName": "起亚EV6",
+      "panoId": 63789,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63789?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "KIA_EV6_CV1_2021",
+        "KIA_EV6_CV1_Facelift_2024"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G17",
+      "brandCn": "起亚",
+      "modelEn": "K3",
+      "modelCn": "K3 EV 2022-2025",
+      "years": "2022-2025",
+      "searchNames": [
+        "起亚K3",
+        "K3 EV 2022-2025"
+      ],
+      "status": "pano_found",
+      "seriesId": 2886,
+      "seriesName": "起亚K3",
+      "panoId": 79043,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/79043?_ahrotate=1",
+      "nVehicleIds": 5,
+      "vehicleIds": [
+        "KIA_K3_BD_2012",
+        "KIA_K3_BD_Facelift_2015",
+        "KIA_K3_YD_2019",
+        "KIA_K3_YD_Facelift_2021",
+        "KIA_K3_EV_2022"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G18",
+      "brandCn": "起亚",
+      "modelEn": "",
+      "modelCn": "K4 2025-2026",
+      "years": "2025-2026",
+      "searchNames": [
+        "起亚K4",
+        "K4 2025-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 3286,
+      "seriesName": "起亚K4",
+      "panoId": 27336,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/27336?_ahrotate=1",
+      "nVehicleIds": 3,
+      "vehicleIds": [
+        "KIA_K4_BD_2013",
+        "KIA_K4_BD_Facelift_2016",
+        "KIA_K4_2025"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G19",
+      "brandCn": "起亚",
+      "modelEn": "Optima",
+      "modelCn": "K5 2016-2020",
+      "years": "2011-2015",
+      "searchNames": [
+        "起亚K5",
+        "K5 2016-2020"
+      ],
+      "status": "pano_found",
+      "seriesId": 2246,
+      "seriesName": "起亚K5",
+      "panoId": 69775,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69775?_ahrotate=1",
+      "nVehicleIds": 4,
+      "vehicleIds": [
+        "KIA_Optima_TF_2011",
+        "KIA_Optima_TF_Facelift_2014",
+        "KIA_Optima_JF_2016",
+        "KIA_Optima_JF_Facelift_2018"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G20",
+      "brandCn": "起亚",
+      "modelEn": "K9",
+      "modelCn": "K9 2018-2022",
+      "years": "2012-2015",
+      "searchNames": [
+        "起亚K900",
+        "K9 2018-2022"
+      ],
+      "status": "pano_found",
+      "seriesId": 3265,
+      "seriesName": "起亚K900",
+      "panoId": 34071,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/34071?_ahrotate=1",
+      "nVehicleIds": 3,
+      "vehicleIds": [
+        "KIA_K9_KH_2012",
+        "KIA_K9_KH_Facelift_2015",
+        "KIA_K9_RJ_2018"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G21",
+      "brandCn": "起亚",
+      "modelEn": "KX5",
+      "modelCn": "KX5 2019-2021",
+      "years": "2016-2020",
+      "searchNames": [
+        "起亚KX5",
+        "KX5 2019-2021"
+      ],
+      "status": "pano_found",
+      "seriesId": 3954,
+      "seriesName": "起亚KX5",
+      "panoId": 51578,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/51578?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "KIA_KX5_NL_2016",
+        "KIA_KX5_NL_Facelift_2019"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G22",
+      "brandCn": "起亚",
+      "modelEn": "KX7",
+      "modelCn": "KX7 2017-2020",
+      "years": "2017-2020",
+      "searchNames": [
+        "起亚KX7",
+        "KX7 2017-2020"
+      ],
+      "status": "pano_found",
+      "seriesId": 4200,
+      "seriesName": "起亚KX7",
+      "panoId": 49881,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/49881?_ahrotate=1",
+      "nVehicleIds": 1,
+      "vehicleIds": [
+        "KIA_KX7_XM_2017"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G23",
+      "brandCn": "现代",
+      "modelEn": "Verna",
+      "modelCn": "瑞纳 2020-2026",
+      "years": "2020-2026",
+      "searchNames": [
+        "瑞纳",
+        "瑞纳 2020-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 2115,
+      "seriesName": "瑞纳",
+      "panoId": 43749,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/43749?_ahrotate=1",
+      "nVehicleIds": 4,
+      "vehicleIds": [
+        "HYD_Verna_MC_2005",
+        "HYD_Verna_RB_2010",
+        "HYD_Verna_RC_2017",
+        "HYD_Verna_AC_2020"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G24",
+      "brandCn": "现代",
+      "modelEn": "SantaFe",
+      "modelCn": "胜达 2023-2026",
+      "years": "2023-2026",
+      "searchNames": [
+        "胜达",
+        "胜达 2023-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 2927,
+      "seriesName": "胜达",
+      "panoId": 70963,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70963?_ahrotate=1",
+      "nVehicleIds": 7,
+      "vehicleIds": [
+        "HYD_SantaFe_CM_2006",
+        "HYD_SantaFe_DM_2012",
+        "HYD_SantaFe_DM_Facelift_2015",
+        "HYD_SantaFe_TM_2018",
+        "HYD_SantaFe_TM_Facelift_2020",
+        "HYD_SantaFe_LX5_2023",
+        "HYD_SantaFe_LX5_Hybrid_2024"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G25",
+      "brandCn": "现代",
+      "modelEn": "Sonata_DN8",
+      "modelCn": "索纳塔 2023-2026",
+      "years": "2023-2026",
+      "searchNames": [
+        "索纳塔",
+        "索纳塔 2023-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 2649,
+      "seriesName": "索纳塔",
+      "panoId": 78125,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78125?_ahrotate=1",
+      "nVehicleIds": 8,
+      "vehicleIds": [
+        "HYD_Sonata_NF_2005",
+        "HYD_Sonata_NF_Facelift_2008",
+        "HYD_Sonata_YF_2009",
+        "HYD_Sonata_LF_2015",
+        "HYD_Sonata_LF_Facelift_2017",
+        "HYD_Sonata_DN8_2020",
+        "HYD_Sonata_DN8_Facelift_2023",
+        "HYD_Sonata_Hybrid_DN8_2020"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G26",
+      "brandCn": "现代",
+      "modelEn": "Tucson",
+      "modelCn": "途胜L 2021-2026",
+      "years": "2021-2026",
+      "searchNames": [
+        "途胜",
+        "途胜L 2021-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 358,
+      "seriesName": "途胜",
+      "panoId": 78121,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78121?_ahrotate=1",
+      "nVehicleIds": 7,
+      "vehicleIds": [
+        "HYD_Tucson_JM_2005",
+        "HYD_Tucson_JM_Facelift_2008",
+        "HYD_Tucson_TL_2015",
+        "HYD_Tucson_TL_Facelift_2018",
+        "HYD_Tucson_NX4_2021",
+        "HYD_Tucson_NX4_Facelift_2024",
+        "HYD_Tucson_Hybrid_NX4_2022"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G27",
+      "brandCn": "现代",
+      "modelEn": "Elantra",
+      "modelCn": "伊兰特 2021-2026",
+      "years": "2021-2026",
+      "searchNames": [
+        "伊兰特",
+        "伊兰特 2021-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 51,
+      "seriesName": "伊兰特",
+      "panoId": 78119,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78119?_ahrotate=1",
+      "nVehicleIds": 7,
+      "vehicleIds": [
+        "HYD_Elantra_HD_2005",
+        "HYD_Elantra_YF_Elantra_2011",
+        "HYD_Elantra_AD_2016",
+        "HYD_Elantra_AD_Facelift_2019",
+        "HYD_Elantra_CN7_2021",
+        "HYD_Elantra_CN7_Facelift_2024",
+        "HYD_Elantra_Hybrid_CN7_2021"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G28",
+      "brandCn": "现代",
+      "modelEn": "Elantra",
+      "modelCn": "悦动 2011-2015",
+      "years": "2008-2012",
+      "searchNames": [
+        "悦动",
+        "悦动 2011-2015"
+      ],
+      "status": "pano_found",
+      "seriesId": 586,
+      "seriesName": "悦动",
+      "panoId": 46761,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/46761?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "HYD_Elantra_Yuedong_2008",
+        "HYD_Elantra_Yuedong_Facelift_2011"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G29",
+      "brandCn": "起亚",
+      "modelEn": "Sportage",
+      "modelCn": "智跑 2013-2016",
+      "years": "2010-2015",
+      "searchNames": [
+        "智跑",
+        "智跑 2013-2016"
+      ],
+      "status": "pano_found",
+      "seriesId": 2137,
+      "seriesName": "智跑",
+      "panoId": 60830,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/60830?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "KIA_Sportage_SL_2010",
+        "KIA_Sportage_SL_Facelift_2013"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G30",
+      "brandCn": "现代",
+      "modelEn": "Ioniq5_NE",
+      "modelCn": "Ioniq 5 2024-2026",
+      "years": "2024-2026",
+      "searchNames": [
+        "IONIQ 5 N(艾尼氪5N)",
+        "Ioniq 5 2024-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 7325,
+      "seriesName": "IONIQ 5 N(艾尼氪5N)",
+      "panoId": 75728,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75728?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "HYD_Ioniq5_NE_2021",
+        "HYD_Ioniq5_NE_Facelift_2024"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G31",
+      "brandCn": "现代",
+      "modelEn": "Ioniq",
+      "modelCn": "Ioniq 2019-2022",
+      "years": "2017-2019",
+      "searchNames": [
+        "IONIQ(艾尼氪)6",
+        "Ioniq 2019-2022"
+      ],
+      "status": "pano_found",
+      "seriesId": 6786,
+      "seriesName": "IONIQ(艾尼氪)6",
+      "panoId": 57753,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/57753?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "HYD_Ioniq_AE_2017",
+        "HYD_Ioniq_AE_Facelift_2019"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G32",
+      "brandCn": "现代",
+      "modelEn": "Kona",
+      "modelCn": "Kona 2023-2026",
+      "years": "2023-2026",
+      "searchNames": [
+        "KONA N",
+        "Kona 2023-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 7281,
+      "seriesName": "KONA N",
+      "panoId": 63082,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63082?_ahrotate=1",
+      "nVehicleIds": 6,
+      "vehicleIds": [
+        "HYD_Kona_OS_2018",
+        "HYD_Kona_OS_Facelift_2020",
+        "HYD_Kona_EV_OS_2019",
+        "HYD_Kona_NX4_2023",
+        "HYD_Kona_EV_NX4_2023",
+        "HYD_Kona_N_NX4_2024"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G33",
+      "brandCn": "起亚",
+      "modelEn": "KX3",
+      "modelCn": "KX3 傲跑 2023-2025",
+      "years": "2020-2024",
+      "searchNames": [
+        "KX3傲跑",
+        "KX3 傲跑 2023-2025"
+      ],
+      "status": "pano_found",
+      "seriesId": 3664,
+      "seriesName": "KX3傲跑",
+      "panoId": 51410,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/51410?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "KIA_KX3_SP2_2020",
+        "KIA_KX3_SP2_Facelift_2023"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G34",
+      "brandCn": "起亚",
+      "modelEn": "Soul",
+      "modelCn": "Soul（秀尔） 2019-2026",
+      "years": "2009-2014",
+      "searchNames": [
+        "Soul",
+        "Soul（秀尔） 2019-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 666,
+      "seriesName": "Soul",
+      "panoId": 37167,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/37167?_ahrotate=1",
+      "nVehicleIds": 5,
+      "vehicleIds": [
+        "KIA_Soul_AM_2009",
+        "KIA_Soul_PS_2014",
+        "KIA_Soul_SK3_2019",
+        "KIA_Soul_EV_2015",
+        "KIA_Soul_EV_2020"
+      ],
+      "region": "KR"
+    },
+    {
+      "group": "G35",
+      "brandCn": "起亚",
+      "modelEn": "Telluride_LD",
+      "modelCn": "Telluride 2023-2026",
+      "years": "2023-2026",
+      "searchNames": [
+        "Telluride",
+        "Telluride 2023-2026"
+      ],
+      "status": "pano_found",
+      "seriesId": 4004,
+      "seriesName": "Telluride",
+      "panoId": 37655,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/37655?_ahrotate=1",
+      "nVehicleIds": 2,
+      "vehicleIds": [
+        "KIA_Telluride_LD_2019",
+        "KIA_Telluride_LD_Facelift_2023"
+      ],
+      "region": "KR"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Qin Plus",
+      "modelCn": "秦PLUS",
+      "years": "2021-",
+      "searchNames": [
+        "秦PLUS",
+        "比亚迪秦PLUS"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 5964,
+      "seriesName": "秦PLUS",
+      "panoId": 76109,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76109?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Qin L",
+      "modelCn": "秦L",
+      "years": "2024-",
+      "searchNames": [
+        "秦L",
+        "比亚迪秦L"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 7578,
+      "seriesName": "秦L",
+      "panoId": 75141,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75141?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Han",
+      "modelCn": "汉",
+      "years": "2020-",
+      "searchNames": [
+        "比亚迪汉",
+        "汉"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 5499,
+      "seriesName": "汉",
+      "panoId": 77297,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77297?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Tang",
+      "modelCn": "唐",
+      "years": "2015-",
+      "searchNames": [
+        "比亚迪唐",
+        "唐"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 4802,
+      "seriesName": "唐",
+      "panoId": 46807,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/46807?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Song Pro",
+      "modelCn": "宋Pro",
+      "years": "2019-",
+      "searchNames": [
+        "宋Pro",
+        "比亚迪宋Pro"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 5178,
+      "seriesName": "宋Pro",
+      "panoId": 50651,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/50651?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Song Plus",
+      "modelCn": "宋PLUS",
+      "years": "2020-",
+      "searchNames": [
+        "宋PLUS",
+        "比亚迪宋PLUS"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 5760,
+      "seriesName": "宋PLUS",
+      "panoId": 45549,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/45549?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Song L",
+      "modelCn": "宋L",
+      "years": "2023-",
+      "searchNames": [
+        "宋L",
+        "比亚迪宋L"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 7815,
+      "seriesName": "宋L DM-i",
+      "panoId": 75123,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75123?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Yuan Plus",
+      "modelCn": "元PLUS",
+      "years": "2022-",
+      "searchNames": [
+        "元PLUS",
+        "比亚迪元PLUS"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 6298,
+      "seriesName": "元PLUS",
+      "panoId": 76816,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76816?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Yuan UP",
+      "modelCn": "元UP",
+      "years": "2024-",
+      "searchNames": [
+        "元UP",
+        "比亚迪元UP"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 7538,
+      "seriesName": "元UP",
+      "panoId": 71684,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71684?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Dolphin",
+      "modelCn": "海豚",
+      "years": "2021-",
+      "searchNames": [
+        "海豚",
+        "比亚迪海豚"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 6139,
+      "seriesName": "海豚",
+      "panoId": 71049,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71049?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Seal",
+      "modelCn": "海豹",
+      "years": "2022-",
+      "searchNames": [
+        "海豹",
+        "比亚迪海豹"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 6394,
+      "seriesName": "海豹",
+      "panoId": 71664,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71664?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Seal 06",
+      "modelCn": "海豹06",
+      "years": "2024-",
+      "searchNames": [
+        "海豹06",
+        "比亚迪海豹06"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 7588,
+      "seriesName": "海豹06",
+      "panoId": 75940,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75940?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Seal 07",
+      "modelCn": "海豹07",
+      "years": "2024-",
+      "searchNames": [
+        "海豹07",
+        "比亚迪海豹07"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 7822,
+      "seriesName": "海豹07 DM-i",
+      "panoId": 74310,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74310?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Seagull",
+      "modelCn": "海鸥",
+      "years": "2023-",
+      "searchNames": [
+        "海鸥",
+        "比亚迪海鸥"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 6762,
+      "seriesName": "海鸥",
+      "panoId": 77748,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77748?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Destroyer 05",
+      "modelCn": "驱逐舰05",
+      "years": "2022-",
+      "searchNames": [
+        "驱逐舰05",
+        "比亚迪驱逐舰05"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 6337,
+      "seriesName": "驱逐舰05",
+      "panoId": 73236,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73236?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "BYD",
+      "brandCn": "比亚迪",
+      "modelEn": "Frigate 07",
+      "modelCn": "护卫舰07",
+      "years": "2022-",
+      "searchNames": [
+        "护卫舰07",
+        "比亚迪护卫舰07"
+      ],
+      "note": "",
+      "_orig_brand": "比亚迪",
+      "status": "pano_found",
+      "seriesId": 6671,
+      "seriesName": "护卫舰07",
+      "panoId": 67271,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/67271?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Denza",
+      "brandCn": "腾势",
+      "modelEn": "D9",
+      "modelCn": "腾势D9",
+      "years": "2022-",
+      "searchNames": [
+        "腾势D9",
+        "D9"
+      ],
+      "note": "",
+      "_orig_brand": "腾势",
+      "status": "pano_found",
+      "seriesId": 6669,
+      "seriesName": "腾势D9",
+      "panoId": 76887,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76887?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Denza",
+      "brandCn": "腾势",
+      "modelEn": "N7",
+      "modelCn": "腾势N7",
+      "years": "2023-",
+      "searchNames": [
+        "腾势N7",
+        "N7"
+      ],
+      "note": "",
+      "_orig_brand": "腾势",
+      "status": "pano_found",
+      "seriesId": 6898,
+      "seriesName": "腾势N7",
+      "panoId": 71605,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71605?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Denza",
+      "brandCn": "腾势",
+      "modelEn": "N8",
+      "modelCn": "腾势N8",
+      "years": "2023-",
+      "searchNames": [
+        "腾势N8",
+        "N8"
+      ],
+      "note": "",
+      "_orig_brand": "腾势",
+      "status": "pano_found",
+      "seriesId": 7179,
+      "seriesName": "腾势N8",
+      "panoId": 64054,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/64054?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Denza",
+      "brandCn": "腾势",
+      "modelEn": "Z9",
+      "modelCn": "腾势Z9",
+      "years": "2024-",
+      "searchNames": [
+        "腾势Z9",
+        "Z9"
+      ],
+      "note": "",
+      "_orig_brand": "腾势",
+      "status": "pano_found",
+      "seriesId": 7838,
+      "seriesName": "腾势Z9",
+      "panoId": 69559,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69559?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利汽车",
+      "modelEn": "Xingyue L",
+      "modelCn": "星越L",
+      "years": "2021-",
+      "searchNames": [
+        "星越L",
+        "吉利星越L"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 6004,
+      "seriesName": "星越L",
+      "panoId": 77300,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77300?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利汽车",
+      "modelEn": "Binyue",
+      "modelCn": "缤越",
+      "years": "2018-",
+      "searchNames": [
+        "缤越",
+        "吉利缤越"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 4701,
+      "seriesName": "缤越",
+      "panoId": 69434,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69434?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利汽车",
+      "modelEn": "Boyue",
+      "modelCn": "博越",
+      "years": "2016-",
+      "searchNames": [
+        "博越",
+        "吉利博越"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 3788,
+      "seriesName": "博越",
+      "panoId": 73941,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73941?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利汽车",
+      "modelEn": "Boyue L",
+      "modelCn": "博越L",
+      "years": "2022-",
+      "searchNames": [
+        "博越L",
+        "吉利博越L"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 6814,
+      "seriesName": "博越L",
+      "panoId": 76920,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76920?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利汽车",
+      "modelEn": "Dihao",
+      "modelCn": "帝豪",
+      "years": "2009-",
+      "searchNames": [
+        "帝豪",
+        "吉利帝豪"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 3556,
+      "seriesName": "帝豪",
+      "panoId": 77932,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77932?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利汽车",
+      "modelEn": "Dihao L",
+      "modelCn": "帝豪L",
+      "years": "2021-",
+      "searchNames": [
+        "帝豪L",
+        "吉利帝豪L"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 6333,
+      "seriesName": "帝豪L",
+      "panoId": 52576,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/52576?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利汽车",
+      "modelEn": "Haoyue L",
+      "modelCn": "豪越L",
+      "years": "2022-",
+      "searchNames": [
+        "豪越L",
+        "吉利豪越L"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 6978,
+      "seriesName": "豪越L",
+      "panoId": 75462,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75462?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利汽车",
+      "modelEn": "Jiayue",
+      "modelCn": "嘉际",
+      "years": "2019-",
+      "searchNames": [
+        "嘉际",
+        "吉利嘉际"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 4396,
+      "seriesName": "嘉际",
+      "panoId": 69221,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69221?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利银河",
+      "modelEn": "Galaxy L6",
+      "modelCn": "银河L6",
+      "years": "2023-",
+      "searchNames": [
+        "银河L6",
+        "吉利银河L6"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 7167,
+      "seriesName": "银河L6",
+      "panoId": 71463,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71463?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利银河",
+      "modelEn": "Galaxy L7",
+      "modelCn": "银河L7",
+      "years": "2023-",
+      "searchNames": [
+        "银河L7",
+        "吉利银河L7"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 7158,
+      "seriesName": "银河L7",
+      "panoId": 70348,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70348?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利银河",
+      "modelEn": "Galaxy E8",
+      "modelCn": "银河E8",
+      "years": "2023-",
+      "searchNames": [
+        "银河E8",
+        "吉利银河E8"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 7170,
+      "seriesName": "银河E8",
+      "panoId": 72041,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72041?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利银河",
+      "modelEn": "Galaxy E5",
+      "modelCn": "银河E5",
+      "years": "2024-",
+      "searchNames": [
+        "银河E5",
+        "吉利银河E5"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 7650,
+      "seriesName": "银河E5",
+      "panoId": 73945,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73945?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Geely",
+      "brandCn": "吉利银河",
+      "modelEn": "Galaxy Starship 7",
+      "modelCn": "银河星舰7",
+      "years": "2024-",
+      "searchNames": [
+        "银河星舰7",
+        "吉利银河星舰7"
+      ],
+      "note": "",
+      "_orig_brand": "吉利",
+      "status": "pano_found",
+      "seriesId": 7864,
+      "seriesName": "银河星舰7",
+      "panoId": 75665,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75665?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Zeekr",
+      "brandCn": "极氪",
+      "modelEn": "001",
+      "modelCn": "极氪001",
+      "years": "2021-",
+      "searchNames": [
+        "极氪001",
+        "ZEEKR 001"
+      ],
+      "note": "",
+      "_orig_brand": "极氪",
+      "status": "pano_found",
+      "seriesId": 6091,
+      "seriesName": "极氪001",
+      "panoId": 75072,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75072?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Zeekr",
+      "brandCn": "极氪",
+      "modelEn": "007",
+      "modelCn": "极氪007",
+      "years": "2023-",
+      "searchNames": [
+        "极氪007",
+        "ZEEKR 007"
+      ],
+      "note": "",
+      "_orig_brand": "极氪",
+      "status": "pano_found",
+      "seriesId": 7491,
+      "seriesName": "极氪007",
+      "panoId": 76351,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76351?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Zeekr",
+      "brandCn": "极氪",
+      "modelEn": "009",
+      "modelCn": "极氪009",
+      "years": "2022-",
+      "searchNames": [
+        "极氪009",
+        "ZEEKR 009"
+      ],
+      "note": "",
+      "_orig_brand": "极氪",
+      "status": "pano_found",
+      "seriesId": 6846,
+      "seriesName": "极氪009",
+      "panoId": 76820,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76820?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Zeekr",
+      "brandCn": "极氪",
+      "modelEn": "7X",
+      "modelCn": "极氪7X",
+      "years": "2024-",
+      "searchNames": [
+        "极氪7X",
+        "ZEEKR 7X"
+      ],
+      "note": "",
+      "_orig_brand": "极氪",
+      "status": "pano_found",
+      "seriesId": 7777,
+      "seriesName": "极氪7X",
+      "panoId": 75350,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75350?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Zeekr",
+      "brandCn": "极氪",
+      "modelEn": "MIX",
+      "modelCn": "极氪MIX",
+      "years": "2024-",
+      "searchNames": [
+        "极氪MIX",
+        "ZEEKR MIX"
+      ],
+      "note": "",
+      "_orig_brand": "极氪",
+      "status": "pano_found",
+      "seriesId": 7631,
+      "seriesName": "极氪MIX",
+      "panoId": 67165,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/67165?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Lynk",
+      "brandCn": "领克",
+      "modelEn": "01",
+      "modelCn": "领克01",
+      "years": "2017-",
+      "searchNames": [
+        "领克01"
+      ],
+      "note": "",
+      "_orig_brand": "领克",
+      "status": "pano_found",
+      "seriesId": 4221,
+      "seriesName": "领克01",
+      "panoId": 73355,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73355?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Lynk",
+      "brandCn": "领克",
+      "modelEn": "03",
+      "modelCn": "领克03",
+      "years": "2016-",
+      "searchNames": [
+        "领克03"
+      ],
+      "note": "",
+      "_orig_brand": "领克",
+      "status": "pano_found",
+      "seriesId": 4402,
+      "seriesName": "领克03",
+      "panoId": 74958,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74958?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Lynk",
+      "brandCn": "领克",
+      "modelEn": "05",
+      "modelCn": "领克05",
+      "years": "2020-",
+      "searchNames": [
+        "领克05"
+      ],
+      "note": "",
+      "_orig_brand": "领克",
+      "status": "pano_found",
+      "seriesId": 5194,
+      "seriesName": "领克05",
+      "panoId": 61972,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/61972?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Lynk",
+      "brandCn": "领克",
+      "modelEn": "06",
+      "modelCn": "领克06",
+      "years": "2020-",
+      "searchNames": [
+        "领克06"
+      ],
+      "note": "",
+      "_orig_brand": "领克",
+      "status": "pano_found",
+      "seriesId": 5555,
+      "seriesName": "领克06",
+      "panoId": 74023,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74023?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Lynk",
+      "brandCn": "领克",
+      "modelEn": "08",
+      "modelCn": "领克08",
+      "years": "2023-",
+      "searchNames": [
+        "领克08"
+      ],
+      "note": "",
+      "_orig_brand": "领克",
+      "status": "pano_found",
+      "seriesId": 7243,
+      "seriesName": "领克08 EM-P",
+      "panoId": 74351,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74351?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Lynk",
+      "brandCn": "领克",
+      "modelEn": "09",
+      "modelCn": "领克09",
+      "years": "2021-",
+      "searchNames": [
+        "领克09"
+      ],
+      "note": "",
+      "_orig_brand": "领克",
+      "status": "pano_found",
+      "seriesId": 6144,
+      "seriesName": "领克09",
+      "panoId": 74882,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74882?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Lynk",
+      "brandCn": "领克",
+      "modelEn": "Z10",
+      "modelCn": "领克Z10",
+      "years": "2024-",
+      "searchNames": [
+        "领克Z10"
+      ],
+      "note": "",
+      "_orig_brand": "领克",
+      "status": "pano_found",
+      "seriesId": 5845,
+      "seriesName": "领克Z10",
+      "panoId": 69475,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69475?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Lynk",
+      "brandCn": "领克",
+      "modelEn": "Z20",
+      "modelCn": "领克Z20",
+      "years": "2024-",
+      "searchNames": [
+        "领克Z20"
+      ],
+      "note": "",
+      "_orig_brand": "领克",
+      "status": "pano_found",
+      "seriesId": 7812,
+      "seriesName": "领克Z20",
+      "panoId": 73165,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73165?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Haval",
+      "brandCn": "哈弗",
+      "modelEn": "H6",
+      "modelCn": "哈弗H6",
+      "years": "2011-",
+      "searchNames": [
+        "哈弗H6"
+      ],
+      "note": "",
+      "_orig_brand": "哈弗",
+      "status": "pano_found",
+      "seriesId": 2123,
+      "seriesName": "哈弗H6",
+      "panoId": 77796,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77796?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Haval",
+      "brandCn": "哈弗",
+      "modelEn": "Dagou",
+      "modelCn": "哈弗大狗",
+      "years": "2020-",
+      "searchNames": [
+        "哈弗大狗"
+      ],
+      "note": "",
+      "_orig_brand": "哈弗",
+      "status": "pano_found",
+      "seriesId": 5770,
+      "seriesName": "哈弗大狗",
+      "panoId": 73589,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73589?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Haval",
+      "brandCn": "哈弗",
+      "modelEn": "Menglong",
+      "modelCn": "哈弗猛龙",
+      "years": "2023-",
+      "searchNames": [
+        "哈弗猛龙"
+      ],
+      "note": "越野倾向",
+      "_orig_brand": "哈弗",
+      "status": "pano_found",
+      "seriesId": 7746,
+      "seriesName": "哈弗猛龙燃油",
+      "panoId": 68290,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/68290?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Haval",
+      "brandCn": "哈弗",
+      "modelEn": "H5",
+      "modelCn": "哈弗H5",
+      "years": "2022-",
+      "searchNames": [
+        "哈弗H5"
+      ],
+      "note": "",
+      "_orig_brand": "哈弗",
+      "status": "pano_found",
+      "seriesId": 7092,
+      "seriesName": "哈弗H5",
+      "panoId": 71827,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71827?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Haval",
+      "brandCn": "哈弗",
+      "modelEn": "Chitu",
+      "modelCn": "哈弗赤兔",
+      "years": "2021-",
+      "searchNames": [
+        "哈弗赤兔"
+      ],
+      "note": "",
+      "_orig_brand": "哈弗",
+      "status": "pano_found",
+      "seriesId": 6048,
+      "seriesName": "哈弗赤兔",
+      "panoId": 62558,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/62558?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Haval",
+      "brandCn": "哈弗",
+      "modelEn": "Shen兽",
+      "modelCn": "哈弗神兽",
+      "years": "2021-",
+      "searchNames": [
+        "哈弗神兽"
+      ],
+      "note": "",
+      "_orig_brand": "哈弗",
+      "status": "pano_found",
+      "seriesId": 6299,
+      "seriesName": "哈弗神兽",
+      "panoId": 61800,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/61800?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Haval",
+      "brandCn": "哈弗",
+      "modelEn": "Xiaolong MAX",
+      "modelCn": "哈弗枭龙MAX",
+      "years": "2023-",
+      "searchNames": [
+        "哈弗枭龙MAX"
+      ],
+      "note": "",
+      "_orig_brand": "哈弗",
+      "status": "pano_found",
+      "seriesId": 7150,
+      "seriesName": "哈弗枭龙MAX",
+      "panoId": 70352,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70352?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "WEY",
+      "brandCn": "魏牌",
+      "modelEn": "Lanshan",
+      "modelCn": "魏牌蓝山",
+      "years": "2023-",
+      "searchNames": [
+        "魏牌蓝山",
+        "蓝山"
+      ],
+      "note": "",
+      "_orig_brand": "魏牌",
+      "status": "pano_found",
+      "seriesId": 6979,
+      "seriesName": "魏牌 蓝山",
+      "panoId": 75474,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75474?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "WEY",
+      "brandCn": "魏牌",
+      "modelEn": "Mocha",
+      "modelCn": "魏牌摩卡",
+      "years": "2021-",
+      "searchNames": [
+        "魏牌摩卡",
+        "摩卡"
+      ],
+      "note": "",
+      "_orig_brand": "魏牌",
+      "status": "pano_found",
+      "seriesId": 6010,
+      "seriesName": "魏牌 摩卡",
+      "panoId": 54462,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/54462?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "WEY",
+      "brandCn": "魏牌",
+      "modelEn": "Nadia",
+      "modelCn": "魏牌拿铁",
+      "years": "2021-",
+      "searchNames": [
+        "魏牌拿铁",
+        "拿铁"
+      ],
+      "note": "",
+      "_orig_brand": "魏牌",
+      "status": "pano_found",
+      "seriesId": 6138,
+      "seriesName": "魏牌 拿铁DHT",
+      "panoId": 54254,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/54254?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安",
+      "modelEn": "CS75 PLUS",
+      "modelCn": "长安CS75PLUS",
+      "years": "2019-",
+      "searchNames": [
+        "长安CS75PLUS",
+        "CS75PLUS"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 5179,
+      "seriesName": "长安CS75PLUS",
+      "panoId": 75382,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75382?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安",
+      "modelEn": "CS55 PLUS",
+      "modelCn": "长安CS55PLUS",
+      "years": "2019-",
+      "searchNames": [
+        "长安CS55PLUS",
+        "CS55PLUS"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 5498,
+      "seriesName": "长安CS55PLUS",
+      "panoId": 76831,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76831?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安",
+      "modelEn": "UNI-V",
+      "modelCn": "长安UNI-V",
+      "years": "2022-",
+      "searchNames": [
+        "长安UNI-V",
+        "UNI-V"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 6335,
+      "seriesName": "长安UNI-V",
+      "panoId": 77068,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77068?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安",
+      "modelEn": "UNI-K",
+      "modelCn": "长安UNI-K",
+      "years": "2021-",
+      "searchNames": [
+        "长安UNI-K",
+        "UNI-K"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 5927,
+      "seriesName": "长安UNI-K",
+      "panoId": 65563,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/65563?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安",
+      "modelEn": "UNI-T",
+      "modelCn": "长安UNI-T",
+      "years": "2020-",
+      "searchNames": [
+        "长安UNI-T",
+        "UNI-T"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 5565,
+      "seriesName": "长安UNI-T",
+      "panoId": 61568,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/61568?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安",
+      "modelEn": "Yida",
+      "modelCn": "逸达",
+      "years": "2023-",
+      "searchNames": [
+        "逸达",
+        "长安逸达"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 6976,
+      "seriesName": "逸达",
+      "panoId": 60082,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/60082?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安",
+      "modelEn": "Yidong",
+      "modelCn": "逸动",
+      "years": "2012-",
+      "searchNames": [
+        "逸动",
+        "长安逸动"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 2429,
+      "seriesName": "逸动",
+      "panoId": 73177,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73177?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安启源",
+      "modelEn": "Qiyuan A07",
+      "modelCn": "启源A07",
+      "years": "2023-",
+      "searchNames": [
+        "启源A07",
+        "长安启源A07"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 7209,
+      "seriesName": "长安启源A07",
+      "panoId": 74615,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74615?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安启源",
+      "modelEn": "Qiyuan A05",
+      "modelCn": "启源A05",
+      "years": "2023-",
+      "searchNames": [
+        "启源A05",
+        "长安启源A05"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 7314,
+      "seriesName": "长安启源A05经典",
+      "panoId": 70244,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70244?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Changan",
+      "brandCn": "长安启源",
+      "modelEn": "Qiyuan Q05",
+      "modelCn": "启源Q05",
+      "years": "2023-",
+      "searchNames": [
+        "启源Q05",
+        "长安启源Q05"
+      ],
+      "note": "",
+      "_orig_brand": "长安",
+      "status": "pano_found",
+      "seriesId": 8241,
+      "seriesName": "长安启源Q05",
+      "panoId": 74167,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74167?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Deepal",
+      "brandCn": "深蓝汽车",
+      "modelEn": "SL03",
+      "modelCn": "深蓝SL03",
+      "years": "2022-",
+      "searchNames": [
+        "深蓝SL03",
+        "SL03"
+      ],
+      "note": "",
+      "_orig_brand": "深蓝",
+      "status": "pano_found",
+      "seriesId": 6353,
+      "seriesName": "深蓝SL03",
+      "panoId": 72282,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72282?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Deepal",
+      "brandCn": "深蓝汽车",
+      "modelEn": "S7",
+      "modelCn": "深蓝S7",
+      "years": "2023-",
+      "searchNames": [
+        "深蓝S07"
+      ],
+      "note": "",
+      "_orig_brand": "深蓝",
+      "status": "pano_found",
+      "seriesId": 6817,
+      "seriesName": "深蓝S07",
+      "panoId": 77050,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77050?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Deepal",
+      "brandCn": "深蓝汽车",
+      "modelEn": "L07",
+      "modelCn": "深蓝L07",
+      "years": "2024-",
+      "searchNames": [
+        "深蓝L07",
+        "L07"
+      ],
+      "note": "",
+      "_orig_brand": "深蓝",
+      "status": "pano_found",
+      "seriesId": 7738,
+      "seriesName": "深蓝L07",
+      "panoId": 74015,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74015?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Deepal",
+      "brandCn": "深蓝汽车",
+      "modelEn": "S05",
+      "modelCn": "深蓝S05",
+      "years": "2024-",
+      "searchNames": [
+        "深蓝S05",
+        "S05"
+      ],
+      "note": "",
+      "_orig_brand": "深蓝",
+      "status": "pano_found",
+      "seriesId": 7740,
+      "seriesName": "深蓝S05",
+      "panoId": 74326,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74326?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Avatr",
+      "brandCn": "阿维塔",
+      "modelEn": "11",
+      "modelCn": "阿维塔11",
+      "years": "2022-",
+      "searchNames": [
+        "阿维塔11"
+      ],
+      "note": "",
+      "_orig_brand": "阿维塔",
+      "status": "pano_found",
+      "seriesId": 6354,
+      "seriesName": "阿维塔11",
+      "panoId": 72861,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72861?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Avatr",
+      "brandCn": "阿维塔",
+      "modelEn": "12",
+      "modelCn": "阿维塔12",
+      "years": "2023-",
+      "searchNames": [
+        "阿维塔12"
+      ],
+      "note": "",
+      "_orig_brand": "阿维塔",
+      "status": "pano_found",
+      "seriesId": 7126,
+      "seriesName": "阿维塔12",
+      "panoId": 76220,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76220?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Avatr",
+      "brandCn": "阿维塔",
+      "modelEn": "07",
+      "modelCn": "阿维塔07",
+      "years": "2024-",
+      "searchNames": [
+        "阿维塔07"
+      ],
+      "note": "",
+      "_orig_brand": "阿维塔",
+      "status": "pano_found",
+      "seriesId": 7652,
+      "seriesName": "阿维塔07",
+      "panoId": 74560,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74560?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Roewe",
+      "brandCn": "荣威",
+      "modelEn": "RX5",
+      "modelCn": "荣威RX5",
+      "years": "2016-",
+      "searchNames": [
+        "荣威RX5"
+      ],
+      "note": "",
+      "_orig_brand": "荣威",
+      "status": "pano_found",
+      "seriesId": 4080,
+      "seriesName": "荣威RX5",
+      "panoId": 72901,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72901?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Roewe",
+      "brandCn": "荣威",
+      "modelEn": "i5",
+      "modelCn": "荣威i5",
+      "years": "2018-",
+      "searchNames": [
+        "荣威i5"
+      ],
+      "note": "",
+      "_orig_brand": "荣威",
+      "status": "pano_found",
+      "seriesId": 4869,
+      "seriesName": "荣威i5",
+      "panoId": 74338,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74338?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Roewe",
+      "brandCn": "荣威",
+      "modelEn": "i6",
+      "modelCn": "荣威i6",
+      "years": "2017-",
+      "searchNames": [
+        "荣威i6"
+      ],
+      "note": "",
+      "_orig_brand": "荣威",
+      "status": "pano_found",
+      "seriesId": 5799,
+      "seriesName": "荣威i6 MAX",
+      "panoId": 46332,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/46332?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Roewe",
+      "brandCn": "荣威",
+      "modelEn": "D7",
+      "modelCn": "荣威D7",
+      "years": "2023-",
+      "searchNames": [
+        "荣威D7"
+      ],
+      "note": "",
+      "_orig_brand": "荣威",
+      "status": "pano_found",
+      "seriesId": 7301,
+      "seriesName": "荣威D7",
+      "panoId": 70575,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70575?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Roewe",
+      "brandCn": "荣威",
+      "modelEn": "D5X",
+      "modelCn": "荣威D5X",
+      "years": "2024-",
+      "searchNames": [
+        "荣威D5X"
+      ],
+      "note": "",
+      "_orig_brand": "荣威",
+      "status": "pano_found",
+      "seriesId": 7394,
+      "seriesName": "荣威D5X DMH",
+      "panoId": 66355,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66355?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "MG",
+      "brandCn": "MG",
+      "modelEn": "MG4",
+      "modelCn": "名爵MG4",
+      "years": "2022-",
+      "searchNames": [
+        "名爵MG4",
+        "MG4"
+      ],
+      "note": "",
+      "_orig_brand": "名爵",
+      "status": "pano_found",
+      "seriesId": 6651,
+      "seriesName": "MG4",
+      "panoId": 77335,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77335?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "MG",
+      "brandCn": "MG",
+      "modelEn": "MG5",
+      "modelCn": "名爵MG5",
+      "years": "2019-",
+      "searchNames": [
+        "名爵MG5",
+        "MG5"
+      ],
+      "note": "",
+      "_orig_brand": "名爵",
+      "status": "pano_found",
+      "seriesId": 532,
+      "seriesName": "MG5",
+      "panoId": 73536,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73536?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "MG",
+      "brandCn": "MG",
+      "modelEn": "MG7",
+      "modelCn": "名爵MG7",
+      "years": "2022-",
+      "searchNames": [
+        "名爵MG7",
+        "MG7"
+      ],
+      "note": "",
+      "_orig_brand": "名爵",
+      "status": "pano_found",
+      "seriesId": 531,
+      "seriesName": "MG7",
+      "panoId": 76091,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76091?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "MG",
+      "brandCn": "MG",
+      "modelEn": "MG ONE",
+      "modelCn": "名爵MG ONE",
+      "years": "2021-",
+      "searchNames": [
+        "名爵MG ONE",
+        "MG ONE"
+      ],
+      "note": "",
+      "_orig_brand": "名爵",
+      "status": "pano_found",
+      "seriesId": 6300,
+      "seriesName": "MG ONE",
+      "panoId": 63956,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63956?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "MG",
+      "brandCn": "MG",
+      "modelEn": "ES5",
+      "modelCn": "名爵ES5",
+      "years": "2024-",
+      "searchNames": [
+        "MG ES5"
+      ],
+      "note": "",
+      "_orig_brand": "名爵",
+      "status": "pano_found",
+      "seriesId": 7805,
+      "seriesName": "MG ES5",
+      "panoId": 69101,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69101?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Rising",
+      "brandCn": "荣威",
+      "modelEn": "R7",
+      "modelCn": "飞凡R7",
+      "years": "2022-",
+      "searchNames": [
+        "飞凡R7",
+        "R7"
+      ],
+      "note": "",
+      "_orig_brand": "飞凡",
+      "status": "pano_found",
+      "seriesId": 6072,
+      "seriesName": "飞凡R7",
+      "panoId": 70803,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70803?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Rising",
+      "brandCn": "荣威",
+      "modelEn": "F7",
+      "modelCn": "飞凡F7",
+      "years": "2023-",
+      "searchNames": [
+        "飞凡F7",
+        "F7"
+      ],
+      "note": "",
+      "_orig_brand": "飞凡",
+      "status": "pano_found",
+      "seriesId": 6925,
+      "seriesName": "飞凡F7",
+      "panoId": 73263,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73263?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "IM",
+      "brandCn": "智己汽车",
+      "modelEn": "L6",
+      "modelCn": "智己L6",
+      "years": "2024-",
+      "searchNames": [
+        "智己L6",
+        "L6"
+      ],
+      "note": "",
+      "_orig_brand": "智己",
+      "status": "pano_found",
+      "seriesId": 7514,
+      "seriesName": "智己L6",
+      "panoId": 78892,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78892?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "IM",
+      "brandCn": "智己汽车",
+      "modelEn": "L7",
+      "modelCn": "智己L7",
+      "years": "2022-",
+      "searchNames": [
+        "智己L7",
+        "L7"
+      ],
+      "note": "",
+      "_orig_brand": "智己",
+      "status": "pano_found",
+      "seriesId": 6012,
+      "seriesName": "智己L7",
+      "panoId": 66715,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66715?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "IM",
+      "brandCn": "智己汽车",
+      "modelEn": "LS6",
+      "modelCn": "智己LS6",
+      "years": "2023-",
+      "searchNames": [
+        "智己LS6",
+        "LS6"
+      ],
+      "note": "",
+      "_orig_brand": "智己",
+      "status": "pano_found",
+      "seriesId": 7305,
+      "seriesName": "智己LS6",
+      "panoId": 78966,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78966?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "IM",
+      "brandCn": "智己汽车",
+      "modelEn": "LS7",
+      "modelCn": "智己LS7",
+      "years": "2022-",
+      "searchNames": [
+        "智己LS7",
+        "LS7"
+      ],
+      "note": "",
+      "_orig_brand": "智己",
+      "status": "pano_found",
+      "seriesId": 6013,
+      "seriesName": "智己LS7",
+      "panoId": 69131,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69131?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "GAC",
+      "brandCn": "广汽传祺",
+      "modelEn": "GS4",
+      "modelCn": "传祺GS4",
+      "years": "2015-",
+      "searchNames": [
+        "传祺GS4",
+        "广汽传祺GS4"
+      ],
+      "note": "",
+      "_orig_brand": "广汽传祺",
+      "status": "pano_found",
+      "seriesId": 3691,
+      "seriesName": "传祺GS4",
+      "panoId": 77782,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77782?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "GAC",
+      "brandCn": "广汽传祺",
+      "modelEn": "GS8",
+      "modelCn": "传祺GS8",
+      "years": "2016-",
+      "searchNames": [
+        "传祺GS8",
+        "广汽传祺GS8"
+      ],
+      "note": "",
+      "_orig_brand": "广汽传祺",
+      "status": "pano_found",
+      "seriesId": 4094,
+      "seriesName": "传祺GS8",
+      "panoId": 63561,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63561?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "GAC",
+      "brandCn": "广汽传祺",
+      "modelEn": "M8",
+      "modelCn": "传祺M8",
+      "years": "2017-",
+      "searchNames": [
+        "传祺M8",
+        "广汽传祺M8"
+      ],
+      "note": "",
+      "_orig_brand": "广汽传祺",
+      "status": "pano_found",
+      "seriesId": 4174,
+      "seriesName": "传祺M8",
+      "panoId": 76555,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76555?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "GAC",
+      "brandCn": "广汽传祺",
+      "modelEn": "M6",
+      "modelCn": "传祺M6",
+      "years": "2018-",
+      "searchNames": [
+        "传祺M6",
+        "广汽传祺M6"
+      ],
+      "note": "",
+      "_orig_brand": "广汽传祺",
+      "status": "pano_found",
+      "seriesId": 4662,
+      "seriesName": "传祺M6",
+      "panoId": 77855,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77855?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "GAC",
+      "brandCn": "广汽传祺",
+      "modelEn": "Yingbao",
+      "modelCn": "传祺影豹",
+      "years": "2021-",
+      "searchNames": [
+        "传祺影豹",
+        "影豹"
+      ],
+      "note": "",
+      "_orig_brand": "广汽传祺",
+      "status": "pano_found",
+      "seriesId": 5944,
+      "seriesName": "影豹",
+      "panoId": 72606,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72606?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "GAC",
+      "brandCn": "广汽传祺",
+      "modelEn": "Yingku",
+      "modelCn": "传祺影酷",
+      "years": "2022-",
+      "searchNames": [
+        "传祺影酷",
+        "影酷"
+      ],
+      "note": "",
+      "_orig_brand": "广汽传祺",
+      "status": "pano_found",
+      "seriesId": 6495,
+      "seriesName": "影酷",
+      "panoId": 56368,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/56368?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "GAC",
+      "brandCn": "广汽传祺",
+      "modelEn": "E8",
+      "modelCn": "传祺E8",
+      "years": "2023-",
+      "searchNames": [
+        "传祺E8",
+        "广汽传祺E8"
+      ],
+      "note": "",
+      "_orig_brand": "广汽传祺",
+      "status": "pano_found",
+      "seriesId": 7796,
+      "seriesName": "传祺E8",
+      "panoId": 69003,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69003?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "GAC",
+      "brandCn": "广汽传祺",
+      "modelEn": "E9",
+      "modelCn": "传祺E9",
+      "years": "2022-",
+      "searchNames": [
+        "传祺E9",
+        "广汽传祺E9"
+      ],
+      "note": "",
+      "_orig_brand": "广汽传祺",
+      "status": "pano_found",
+      "seriesId": 6869,
+      "seriesName": "传祺E9",
+      "panoId": 70697,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70697?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AION",
+      "brandCn": "埃安",
+      "modelEn": "AION S",
+      "modelCn": "AION S",
+      "years": "2019-",
+      "searchNames": [
+        "AION S",
+        "埃安AION S"
+      ],
+      "note": "",
+      "_orig_brand": "埃安",
+      "status": "pano_found",
+      "seriesId": 5026,
+      "seriesName": "AION S",
+      "panoId": 74298,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74298?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AION",
+      "brandCn": "埃安",
+      "modelEn": "AION Y Plus",
+      "modelCn": "AION Y Plus",
+      "years": "2022-",
+      "searchNames": [
+        "AION Y Plus",
+        "埃安AION Y Plus"
+      ],
+      "note": "",
+      "_orig_brand": "埃安",
+      "status": "pano_found",
+      "seriesId": 5976,
+      "seriesName": "AION Y",
+      "panoId": 73269,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73269?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AION",
+      "brandCn": "埃安",
+      "modelEn": "AION V",
+      "modelCn": "AION V",
+      "years": "2020-",
+      "searchNames": [
+        "AION V",
+        "埃安AION V"
+      ],
+      "note": "",
+      "_orig_brand": "埃安",
+      "status": "pano_found",
+      "seriesId": 5622,
+      "seriesName": "AION V",
+      "panoId": 74373,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74373?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AION",
+      "brandCn": "埃安",
+      "modelEn": "AION Y Plus",
+      "modelCn": "AION Y Plus",
+      "years": "2022-",
+      "searchNames": [
+        "AION Y Plus",
+        "埃安AION Y Plus"
+      ],
+      "note": "",
+      "_orig_brand": "埃安",
+      "status": "pano_found",
+      "seriesId": 5976,
+      "seriesName": "AION Y",
+      "panoId": 73269,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73269?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AION",
+      "brandCn": "埃安",
+      "modelEn": "AION RT",
+      "modelCn": "AION RT",
+      "years": "2024-",
+      "searchNames": [
+        "AION RT",
+        "埃安AION RT"
+      ],
+      "note": "",
+      "_orig_brand": "埃安",
+      "status": "pano_found",
+      "seriesId": 7860,
+      "seriesName": "AION RT",
+      "panoId": 78651,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78651?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AION",
+      "brandCn": "广汽昊铂",
+      "modelEn": "Hyper HT",
+      "modelCn": "昊铂HT",
+      "years": "2023-",
+      "searchNames": [
+        "昊铂HT",
+        "Hyper HT"
+      ],
+      "note": "",
+      "_orig_brand": "埃安",
+      "status": "pano_found",
+      "seriesId": 7395,
+      "seriesName": "昊铂HT",
+      "panoId": 72932,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72932?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AION",
+      "brandCn": "广汽昊铂",
+      "modelEn": "Hyper GT",
+      "modelCn": "昊铂GT",
+      "years": "2023-",
+      "searchNames": [
+        "昊铂GT",
+        "Hyper GT"
+      ],
+      "note": "",
+      "_orig_brand": "埃安",
+      "status": "pano_found",
+      "seriesId": 7084,
+      "seriesName": "昊铂GT",
+      "panoId": 75490,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75490?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Chery",
+      "brandCn": "奇瑞",
+      "modelEn": "Tiggo 7",
+      "modelCn": "瑞虎7",
+      "years": "2016-",
+      "searchNames": [
+        "瑞虎7",
+        "奇瑞瑞虎7"
+      ],
+      "note": "",
+      "_orig_brand": "奇瑞",
+      "status": "pano_found",
+      "seriesId": 3766,
+      "seriesName": "瑞虎7",
+      "panoId": 76878,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76878?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Chery",
+      "brandCn": "奇瑞",
+      "modelEn": "Tiggo 8",
+      "modelCn": "瑞虎8",
+      "years": "2018-",
+      "searchNames": [
+        "瑞虎8",
+        "奇瑞瑞虎8"
+      ],
+      "note": "",
+      "_orig_brand": "奇瑞",
+      "status": "pano_found",
+      "seriesId": 4693,
+      "seriesName": "瑞虎8",
+      "panoId": 75236,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75236?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Chery",
+      "brandCn": "奇瑞",
+      "modelEn": "Tiggo 9",
+      "modelCn": "瑞虎9",
+      "years": "2023-",
+      "searchNames": [
+        "瑞虎9",
+        "奇瑞瑞虎9"
+      ],
+      "note": "",
+      "_orig_brand": "奇瑞",
+      "status": "pano_found",
+      "seriesId": 7072,
+      "seriesName": "瑞虎9",
+      "panoId": 75933,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75933?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Chery",
+      "brandCn": "奇瑞",
+      "modelEn": "Tiggo 8 PRO",
+      "modelCn": "瑞虎8 PRO",
+      "years": "2021-",
+      "searchNames": [
+        "瑞虎8 PRO",
+        "奇瑞瑞虎8 PRO"
+      ],
+      "note": "",
+      "_orig_brand": "奇瑞",
+      "status": "pano_found",
+      "seriesId": 6547,
+      "seriesName": "瑞虎8 PRO",
+      "panoId": 76796,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76796?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Chery",
+      "brandCn": "奇瑞",
+      "modelEn": "Arrizo 8",
+      "modelCn": "艾瑞泽8",
+      "years": "2022-",
+      "searchNames": [
+        "艾瑞泽8",
+        "奇瑞艾瑞泽8"
+      ],
+      "note": "",
+      "_orig_brand": "奇瑞",
+      "status": "pano_found",
+      "seriesId": 6664,
+      "seriesName": "艾瑞泽8",
+      "panoId": 75876,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75876?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Chery",
+      "brandCn": "奇瑞",
+      "modelEn": "Arrizo 5",
+      "modelCn": "艾瑞泽5",
+      "years": "2016-",
+      "searchNames": [
+        "艾瑞泽5",
+        "奇瑞艾瑞泽5"
+      ],
+      "note": "",
+      "_orig_brand": "奇瑞",
+      "status": "pano_found",
+      "seriesId": 3405,
+      "seriesName": "艾瑞泽5",
+      "panoId": 73351,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73351?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Exeed",
+      "brandCn": "星途",
+      "modelEn": "Yaoguang",
+      "modelCn": "星途瑶光",
+      "years": "2023-",
+      "searchNames": [
+        "星途瑶光",
+        "瑶光"
+      ],
+      "note": "",
+      "_orig_brand": "星途",
+      "status": "pano_found",
+      "seriesId": 6170,
+      "seriesName": "星途瑶光",
+      "panoId": 77883,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77883?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Exeed",
+      "brandCn": "星途",
+      "modelEn": "Lanyue",
+      "modelCn": "星途揽月",
+      "years": "2021-",
+      "searchNames": [
+        "星途揽月",
+        "揽月"
+      ],
+      "note": "",
+      "_orig_brand": "星途",
+      "status": "pano_found",
+      "seriesId": 5306,
+      "seriesName": "星途揽月",
+      "panoId": 79020,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/79020?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Exeed",
+      "brandCn": "星途",
+      "modelEn": "Lingyun",
+      "modelCn": "星途凌云",
+      "years": "2020-",
+      "searchNames": [
+        "星途凌云",
+        "凌云"
+      ],
+      "note": "",
+      "_orig_brand": "星途",
+      "status": "pano_found",
+      "seriesId": 5942,
+      "seriesName": "星途凌云",
+      "panoId": 76107,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76107?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Exeed",
+      "brandCn": "星途",
+      "modelEn": "ET",
+      "modelCn": "星途ET",
+      "years": "2025-",
+      "searchNames": [
+        "星途ET",
+        "ET"
+      ],
+      "note": "",
+      "_orig_brand": "星途",
+      "status": "pano_found",
+      "seriesId": 8210,
+      "seriesName": "星途ET5",
+      "panoId": 74024,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74024?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Exeed",
+      "brandCn": "星途",
+      "modelEn": "ES",
+      "modelCn": "星途ES",
+      "years": "2025-",
+      "searchNames": [
+        "星途ES",
+        "ES"
+      ],
+      "note": "",
+      "_orig_brand": "星途",
+      "status": "pano_found",
+      "seriesId": 7035,
+      "seriesName": "星途ES",
+      "panoId": 78039,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78039?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "iCAR",
+      "brandCn": "iCAR",
+      "modelEn": "03",
+      "modelCn": "iCAR 03",
+      "years": "2024-",
+      "searchNames": [
+        "iCAR 03",
+        "iCAR03"
+      ],
+      "note": "",
+      "_orig_brand": "iCAR",
+      "status": "pano_found",
+      "seriesId": 7069,
+      "seriesName": "iCAR 03",
+      "panoId": 65879,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/65879?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NIO",
+      "brandCn": "蔚来",
+      "modelEn": "ET5",
+      "modelCn": "蔚来ET5",
+      "years": "2022-",
+      "searchNames": [
+        "蔚来ET5",
+        "ET5"
+      ],
+      "note": "",
+      "_orig_brand": "蔚来",
+      "status": "pano_found",
+      "seriesId": 6453,
+      "seriesName": "蔚来ET5",
+      "panoId": 76977,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76977?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NIO",
+      "brandCn": "蔚来",
+      "modelEn": "ET5T",
+      "modelCn": "蔚来ET5T",
+      "years": "2023-",
+      "searchNames": [
+        "蔚来ET5T",
+        "ET5T"
+      ],
+      "note": "",
+      "_orig_brand": "蔚来",
+      "status": "pano_found",
+      "seriesId": 7306,
+      "seriesName": "蔚来ET5T",
+      "panoId": 76979,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76979?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NIO",
+      "brandCn": "蔚来",
+      "modelEn": "ET7",
+      "modelCn": "蔚来ET7",
+      "years": "2021-",
+      "searchNames": [
+        "蔚来ET7",
+        "ET7"
+      ],
+      "note": "",
+      "_orig_brand": "蔚来",
+      "status": "pano_found",
+      "seriesId": 5264,
+      "seriesName": "蔚来ET7",
+      "panoId": 67323,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/67323?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NIO",
+      "brandCn": "蔚来",
+      "modelEn": "EC6",
+      "modelCn": "蔚来EC6",
+      "years": "2020-",
+      "searchNames": [
+        "蔚来EC6",
+        "EC6"
+      ],
+      "note": "",
+      "_orig_brand": "蔚来",
+      "status": "pano_found",
+      "seriesId": 5569,
+      "seriesName": "蔚来EC6",
+      "panoId": 76975,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76975?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NIO",
+      "brandCn": "蔚来",
+      "modelEn": "EC7",
+      "modelCn": "蔚来EC7",
+      "years": "2022-",
+      "searchNames": [
+        "蔚来EC7",
+        "EC7"
+      ],
+      "note": "",
+      "_orig_brand": "蔚来",
+      "status": "pano_found",
+      "seriesId": 6994,
+      "seriesName": "蔚来EC7",
+      "panoId": 66805,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66805?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NIO",
+      "brandCn": "蔚来",
+      "modelEn": "ES6",
+      "modelCn": "蔚来ES6",
+      "years": "2019-",
+      "searchNames": [
+        "蔚来ES6",
+        "ES6"
+      ],
+      "note": "",
+      "_orig_brand": "蔚来",
+      "status": "pano_found",
+      "seriesId": 4881,
+      "seriesName": "蔚来ES6",
+      "panoId": 76972,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76972?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NIO",
+      "brandCn": "蔚来",
+      "modelEn": "ES7",
+      "modelCn": "蔚来ES7",
+      "years": "2022-",
+      "searchNames": [
+        "蔚来ES7",
+        "ES7"
+      ],
+      "note": "",
+      "_orig_brand": "蔚来",
+      "status": "pano_found",
+      "seriesId": 6700,
+      "seriesName": "蔚来ES7",
+      "panoId": 66800,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66800?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NIO",
+      "brandCn": "蔚来",
+      "modelEn": "ES8",
+      "modelCn": "蔚来ES8",
+      "years": "2018-",
+      "searchNames": [
+        "蔚来ES8",
+        "ES8"
+      ],
+      "note": "",
+      "_orig_brand": "蔚来",
+      "status": "pano_found",
+      "seriesId": 4427,
+      "seriesName": "蔚来ES8",
+      "panoId": 78270,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78270?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "ONVO",
+      "brandCn": "乐道",
+      "modelEn": "L60",
+      "modelCn": "乐道L60",
+      "years": "2024-",
+      "searchNames": [
+        "乐道L60",
+        "L60"
+      ],
+      "note": "",
+      "_orig_brand": "乐道",
+      "status": "pano_found",
+      "seriesId": 7687,
+      "seriesName": "乐道L60",
+      "panoId": 77967,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77967?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "FIREFLY",
+      "brandCn": "firefly萤火虫",
+      "modelEn": "Firefly",
+      "modelCn": "萤火虫",
+      "years": "2025-",
+      "searchNames": [
+        "萤火虫",
+        "Firefly"
+      ],
+      "note": "",
+      "_orig_brand": "萤火虫",
+      "status": "pano_found",
+      "seriesId": 7990,
+      "seriesName": "firefly萤火虫",
+      "panoId": 75651,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75651?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Li Auto",
+      "brandCn": "理想汽车",
+      "modelEn": "L6",
+      "modelCn": "理想L6",
+      "years": "2024-",
+      "searchNames": [
+        "理想L6",
+        "L6"
+      ],
+      "note": "",
+      "_orig_brand": "理想",
+      "status": "pano_found",
+      "seriesId": 6950,
+      "seriesName": "理想L6",
+      "panoId": 77775,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77775?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Li Auto",
+      "brandCn": "理想汽车",
+      "modelEn": "L7",
+      "modelCn": "理想L7",
+      "years": "2022-",
+      "searchNames": [
+        "理想L7",
+        "L7"
+      ],
+      "note": "",
+      "_orig_brand": "理想",
+      "status": "pano_found",
+      "seriesId": 6949,
+      "seriesName": "理想L7",
+      "panoId": 71986,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71986?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Li Auto",
+      "brandCn": "理想汽车",
+      "modelEn": "L8",
+      "modelCn": "理想L8",
+      "years": "2022-",
+      "searchNames": [
+        "理想L8",
+        "L8"
+      ],
+      "note": "",
+      "_orig_brand": "理想",
+      "status": "pano_found",
+      "seriesId": 6910,
+      "seriesName": "理想L8",
+      "panoId": 77236,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77236?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Li Auto",
+      "brandCn": "理想汽车",
+      "modelEn": "L9",
+      "modelCn": "理想L9",
+      "years": "2021-",
+      "searchNames": [
+        "理想L9",
+        "L9"
+      ],
+      "note": "",
+      "_orig_brand": "理想",
+      "status": "pano_found",
+      "seriesId": 6576,
+      "seriesName": "理想L9",
+      "panoId": 76536,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76536?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Li Auto",
+      "brandCn": "理想汽车",
+      "modelEn": "MEGA",
+      "modelCn": "理想MEGA",
+      "years": "2024-",
+      "searchNames": [
+        "理想MEGA",
+        "MEGA"
+      ],
+      "note": "旗舰倾向",
+      "_orig_brand": "理想",
+      "status": "pano_found",
+      "seriesId": 6939,
+      "seriesName": "理想MEGA",
+      "panoId": 78129,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78129?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "XPeng",
+      "brandCn": "小鹏",
+      "modelEn": "G6",
+      "modelCn": "小鹏G6",
+      "years": "2023-",
+      "searchNames": [
+        "小鹏G6",
+        "G6"
+      ],
+      "note": "",
+      "_orig_brand": "小鹏",
+      "status": "pano_found",
+      "seriesId": 7162,
+      "seriesName": "小鹏G6",
+      "panoId": 76162,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76162?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "XPeng",
+      "brandCn": "小鹏",
+      "modelEn": "G9",
+      "modelCn": "小鹏G9",
+      "years": "2022-",
+      "searchNames": [
+        "小鹏G9",
+        "G9"
+      ],
+      "note": "",
+      "_orig_brand": "小鹏",
+      "status": "pano_found",
+      "seriesId": 6492,
+      "seriesName": "小鹏G9",
+      "panoId": 76194,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76194?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "XPeng",
+      "brandCn": "小鹏",
+      "modelEn": "P7",
+      "modelCn": "小鹏P7",
+      "years": "2020-",
+      "searchNames": [
+        "小鹏P7",
+        "P7"
+      ],
+      "note": "",
+      "_orig_brand": "小鹏",
+      "status": "pano_found",
+      "seriesId": 5213,
+      "seriesName": "小鹏P7",
+      "panoId": 76791,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76791?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "XPeng",
+      "brandCn": "小鹏",
+      "modelEn": "P7+",
+      "modelCn": "小鹏P7+",
+      "years": "2024-",
+      "searchNames": [
+        "小鹏P7+",
+        "P7+"
+      ],
+      "note": "",
+      "_orig_brand": "小鹏",
+      "status": "pano_found",
+      "seriesId": 7554,
+      "seriesName": "小鹏P7+",
+      "panoId": 76083,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76083?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "XPeng",
+      "brandCn": "小鹏",
+      "modelEn": "X9",
+      "modelCn": "小鹏X9",
+      "years": "2024-",
+      "searchNames": [
+        "小鹏X9",
+        "X9"
+      ],
+      "note": "",
+      "_orig_brand": "小鹏",
+      "status": "pano_found",
+      "seriesId": 7067,
+      "seriesName": "小鹏X9",
+      "panoId": 75600,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75600?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "XPeng",
+      "brandCn": "小鹏",
+      "modelEn": "MONA M03",
+      "modelCn": "小鹏MONA M03",
+      "years": "2024-",
+      "searchNames": [
+        "小鹏MONA M03",
+        "MONA M03"
+      ],
+      "note": "",
+      "_orig_brand": "小鹏",
+      "status": "pano_found",
+      "seriesId": 6998,
+      "seriesName": "小鹏MONA M03",
+      "panoId": 77001,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77001?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Leapmotor",
+      "brandCn": "零跑汽车",
+      "modelEn": "C01",
+      "modelCn": "零跑C01",
+      "years": "2022-",
+      "searchNames": [
+        "零跑C01",
+        "C01"
+      ],
+      "note": "",
+      "_orig_brand": "零跑",
+      "status": "pano_found",
+      "seriesId": 6161,
+      "seriesName": "零跑C01",
+      "panoId": 66879,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66879?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Leapmotor",
+      "brandCn": "零跑汽车",
+      "modelEn": "C10",
+      "modelCn": "零跑C10",
+      "years": "2024-",
+      "searchNames": [
+        "零跑C10",
+        "C10"
+      ],
+      "note": "",
+      "_orig_brand": "零跑",
+      "status": "pano_found",
+      "seriesId": 7382,
+      "seriesName": "零跑C10",
+      "panoId": 77239,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77239?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Leapmotor",
+      "brandCn": "零跑汽车",
+      "modelEn": "C11",
+      "modelCn": "零跑C11",
+      "years": "2021-",
+      "searchNames": [
+        "零跑C11",
+        "C11"
+      ],
+      "note": "",
+      "_orig_brand": "零跑",
+      "status": "pano_found",
+      "seriesId": 5205,
+      "seriesName": "零跑C11",
+      "panoId": 78083,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78083?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Leapmotor",
+      "brandCn": "零跑汽车",
+      "modelEn": "C16",
+      "modelCn": "零跑C16",
+      "years": "2024-",
+      "searchNames": [
+        "零跑C16",
+        "C16"
+      ],
+      "note": "",
+      "_orig_brand": "零跑",
+      "status": "pano_found",
+      "seriesId": 7674,
+      "seriesName": "零跑C16",
+      "panoId": 77969,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77969?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Leapmotor",
+      "brandCn": "零跑汽车",
+      "modelEn": "T03",
+      "modelCn": "零跑T03",
+      "years": "2020-",
+      "searchNames": [
+        "零跑T03",
+        "T03"
+      ],
+      "note": "",
+      "_orig_brand": "零跑",
+      "status": "pano_found",
+      "seriesId": 5515,
+      "seriesName": "零跑T03",
+      "panoId": 71892,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71892?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NETA",
+      "brandCn": "哪吒汽车",
+      "modelEn": "S",
+      "modelCn": "哪吒S",
+      "years": "2022-",
+      "searchNames": [
+        "哪吒S",
+        "S"
+      ],
+      "note": "",
+      "_orig_brand": "哪吒",
+      "status": "pano_found",
+      "seriesId": 5830,
+      "seriesName": "哪吒S",
+      "panoId": 66762,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66762?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NETA",
+      "brandCn": "哪吒汽车",
+      "modelEn": "GT",
+      "modelCn": "哪吒GT",
+      "years": "2023-",
+      "searchNames": [
+        "哪吒GT",
+        "GT"
+      ],
+      "note": "性能 Special",
+      "_orig_brand": "哪吒",
+      "status": "pano_found",
+      "seriesId": 7085,
+      "seriesName": "哪吒GT",
+      "panoId": 60964,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/60964?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NETA",
+      "brandCn": "哪吒汽车",
+      "modelEn": "X",
+      "modelCn": "哪吒X",
+      "years": "2023-",
+      "searchNames": [
+        "哪吒X",
+        "X"
+      ],
+      "note": "",
+      "_orig_brand": "哪吒",
+      "status": "pano_found",
+      "seriesId": 7389,
+      "seriesName": "哪吒X",
+      "panoId": 69293,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69293?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NETA",
+      "brandCn": "哪吒汽车",
+      "modelEn": "L",
+      "modelCn": "哪吒L",
+      "years": "2024-",
+      "searchNames": [
+        "哪吒L",
+        "L"
+      ],
+      "note": "",
+      "_orig_brand": "哪吒",
+      "status": "pano_found",
+      "seriesId": 7531,
+      "seriesName": "哪吒L",
+      "panoId": 66100,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66100?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "NETA",
+      "brandCn": "哪吒汽车",
+      "modelEn": "AYA",
+      "modelCn": "哪吒AYA",
+      "years": "2023-",
+      "searchNames": [
+        "哪吒AYA",
+        "AYA"
+      ],
+      "note": "",
+      "_orig_brand": "哪吒",
+      "status": "pano_found",
+      "seriesId": 7337,
+      "seriesName": "哪吒AYA",
+      "panoId": 66321,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/66321?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AITO",
+      "brandCn": "AITO 问界",
+      "modelEn": "M5",
+      "modelCn": "问界M5",
+      "years": "2022-",
+      "searchNames": [
+        "问界M5",
+        "M5"
+      ],
+      "note": "",
+      "_orig_brand": "问界",
+      "status": "pano_found",
+      "seriesId": 6388,
+      "seriesName": "问界M5",
+      "panoId": 72006,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72006?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AITO",
+      "brandCn": "AITO 问界",
+      "modelEn": "M7",
+      "modelCn": "问界M7",
+      "years": "2022-",
+      "searchNames": [
+        "问界M7",
+        "M7"
+      ],
+      "note": "",
+      "_orig_brand": "问界",
+      "status": "pano_found",
+      "seriesId": 6643,
+      "seriesName": "问界M7",
+      "panoId": 76952,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76952?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AITO",
+      "brandCn": "AITO 问界",
+      "modelEn": "M9",
+      "modelCn": "问界M9",
+      "years": "2023-",
+      "searchNames": [
+        "问界M9",
+        "M9"
+      ],
+      "note": "",
+      "_orig_brand": "问界",
+      "status": "pano_found",
+      "seriesId": 7207,
+      "seriesName": "问界M9",
+      "panoId": 77438,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77438?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AITO",
+      "brandCn": "AITO 问界",
+      "modelEn": "M8",
+      "modelCn": "问界M8",
+      "years": "2025-",
+      "searchNames": [
+        "问界M8",
+        "M8"
+      ],
+      "note": "",
+      "_orig_brand": "问界",
+      "status": "pano_found",
+      "seriesId": 8003,
+      "seriesName": "问界M8",
+      "panoId": 73981,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73981?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Voyah",
+      "brandCn": "岚图汽车",
+      "modelEn": "FREE",
+      "modelCn": "岚图FREE",
+      "years": "2021-",
+      "searchNames": [
+        "岚图FREE",
+        "FREE"
+      ],
+      "note": "",
+      "_orig_brand": "岚图",
+      "status": "pano_found",
+      "seriesId": 5924,
+      "seriesName": "岚图FREE",
+      "panoId": 73126,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73126?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Voyah",
+      "brandCn": "岚图汽车",
+      "modelEn": "Dream",
+      "modelCn": "岚图梦想家",
+      "years": "2022-",
+      "searchNames": [
+        "岚图梦想家",
+        "梦想家"
+      ],
+      "note": "",
+      "_orig_brand": "岚图",
+      "status": "pano_found",
+      "seriesId": 6459,
+      "seriesName": "岚图梦想家",
+      "panoId": 78440,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78440?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Voyah",
+      "brandCn": "岚图汽车",
+      "modelEn": "Zhuiguang",
+      "modelCn": "岚图追光",
+      "years": "2023-",
+      "searchNames": [
+        "岚图追光",
+        "追光"
+      ],
+      "note": "",
+      "_orig_brand": "岚图",
+      "status": "pano_found",
+      "seriesId": 6915,
+      "seriesName": "岚图追光",
+      "panoId": 76997,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76997?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Voyah",
+      "brandCn": "岚图汽车",
+      "modelEn": "Zhixin",
+      "modelCn": "岚图知音",
+      "years": "2024-",
+      "searchNames": [
+        "岚图知音",
+        "知音"
+      ],
+      "note": "",
+      "_orig_brand": "岚图",
+      "status": "pano_found",
+      "seriesId": 7728,
+      "seriesName": "岚图知音",
+      "panoId": 73154,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73154?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Hongqi",
+      "brandCn": "红旗",
+      "modelEn": "H5",
+      "modelCn": "红旗H5",
+      "years": "2018-",
+      "searchNames": [
+        "红旗H5",
+        "H5"
+      ],
+      "note": "",
+      "_orig_brand": "红旗",
+      "status": "pano_found",
+      "seriesId": 4410,
+      "seriesName": "红旗H5",
+      "panoId": 77099,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77099?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Hongqi",
+      "brandCn": "红旗",
+      "modelEn": "H9",
+      "modelCn": "红旗H9",
+      "years": "2020-",
+      "searchNames": [
+        "红旗H9",
+        "H9"
+      ],
+      "note": "",
+      "_orig_brand": "红旗",
+      "status": "pano_found",
+      "seriesId": 5566,
+      "seriesName": "红旗H9",
+      "panoId": 74291,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74291?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Hongqi",
+      "brandCn": "红旗",
+      "modelEn": "HS5",
+      "modelCn": "红旗HS5",
+      "years": "2019-",
+      "searchNames": [
+        "红旗HS5",
+        "HS5"
+      ],
+      "note": "",
+      "_orig_brand": "红旗",
+      "status": "pano_found",
+      "seriesId": 5048,
+      "seriesName": "红旗HS5",
+      "panoId": 77773,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77773?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Hongqi",
+      "brandCn": "红旗",
+      "modelEn": "E-HS9",
+      "modelCn": "红旗E-HS9",
+      "years": "2020-",
+      "searchNames": [
+        "红旗E-HS9",
+        "E-HS9"
+      ],
+      "note": "",
+      "_orig_brand": "红旗",
+      "status": "pano_found",
+      "seriesId": 5425,
+      "seriesName": "红旗E-HS9",
+      "panoId": 69770,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69770?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Hongqi",
+      "brandCn": "红旗",
+      "modelEn": "HQ9",
+      "modelCn": "红旗HQ9",
+      "years": "2022-",
+      "searchNames": [
+        "红旗HQ9",
+        "HQ9"
+      ],
+      "note": "",
+      "_orig_brand": "红旗",
+      "status": "pano_found",
+      "seriesId": 6726,
+      "seriesName": "红旗HQ9",
+      "panoId": 72474,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72474?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Hongqi",
+      "brandCn": "红旗",
+      "modelEn": "E-QM5",
+      "modelCn": "红旗E-QM5",
+      "years": "2021-",
+      "searchNames": [
+        "红旗E-QM5",
+        "E-QM5"
+      ],
+      "note": "",
+      "_orig_brand": "红旗",
+      "status": "pano_found",
+      "seriesId": 6002,
+      "seriesName": "红旗E-QM5",
+      "panoId": 72244,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72244?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Bestune",
+      "brandCn": "奔腾",
+      "modelEn": "B70",
+      "modelCn": "奔腾B70",
+      "years": "2006-",
+      "searchNames": [
+        "奔腾B70",
+        "B70"
+      ],
+      "note": "",
+      "_orig_brand": "奔腾",
+      "status": "pano_found",
+      "seriesId": 466,
+      "seriesName": "奔腾B70",
+      "panoId": 75401,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75401?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Bestune",
+      "brandCn": "奔腾",
+      "modelEn": "T90",
+      "modelCn": "奔腾T90",
+      "years": "2023-",
+      "searchNames": [
+        "奔腾T90",
+        "T90"
+      ],
+      "note": "",
+      "_orig_brand": "奔腾",
+      "status": "pano_found",
+      "seriesId": 7149,
+      "seriesName": "奔腾T90",
+      "panoId": 69875,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69875?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Bestune",
+      "brandCn": "奔腾",
+      "modelEn": "T77",
+      "modelCn": "奔腾T77",
+      "years": "2018-",
+      "searchNames": [
+        "奔腾T77",
+        "T77"
+      ],
+      "note": "",
+      "_orig_brand": "奔腾",
+      "status": "pano_found",
+      "seriesId": 4800,
+      "seriesName": "奔腾T77",
+      "panoId": 60901,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/60901?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Arcfox",
+      "brandCn": "ARCFOX极狐",
+      "modelEn": "Alpha S",
+      "modelCn": "极狐阿尔法S",
+      "years": "2021-",
+      "searchNames": [
+        "极狐阿尔法S",
+        "阿尔法S"
+      ],
+      "note": "",
+      "_orig_brand": "极狐",
+      "status": "pano_found",
+      "seriesId": 5824,
+      "seriesName": "极狐 阿尔法S",
+      "panoId": 67998,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/67998?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Arcfox",
+      "brandCn": "ARCFOX极狐",
+      "modelEn": "Alpha T",
+      "modelCn": "极狐阿尔法T",
+      "years": "2021-",
+      "searchNames": [
+        "极狐阿尔法T",
+        "阿尔法T"
+      ],
+      "note": "",
+      "_orig_brand": "极狐",
+      "status": "pano_found",
+      "seriesId": 5590,
+      "seriesName": "极狐 阿尔法T",
+      "panoId": 63485,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63485?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Arcfox",
+      "brandCn": "ARCFOX极狐",
+      "modelEn": "Kaola",
+      "modelCn": "极狐考拉",
+      "years": "2023-",
+      "searchNames": [
+        "极狐考拉",
+        "考拉"
+      ],
+      "note": "",
+      "_orig_brand": "极狐",
+      "status": "pano_found",
+      "seriesId": 7120,
+      "seriesName": "极狐 考拉",
+      "panoId": 61229,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/61229?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Beijing",
+      "brandCn": "北京越野",
+      "modelEn": "BJ30",
+      "modelCn": "北京BJ30",
+      "years": "2024-",
+      "searchNames": [
+        "北京BJ30",
+        "BJ30"
+      ],
+      "note": "",
+      "_orig_brand": "北京",
+      "status": "pano_found",
+      "seriesId": 5771,
+      "seriesName": "北京越野BJ30",
+      "panoId": 78347,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78347?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Beijing",
+      "brandCn": "北京越野",
+      "modelEn": "BJ60",
+      "modelCn": "北京BJ60",
+      "years": "2022-",
+      "searchNames": [
+        "北京BJ60",
+        "BJ60"
+      ],
+      "note": "越野倾向",
+      "_orig_brand": "北京",
+      "status": "pano_found",
+      "seriesId": 7513,
+      "seriesName": "北京越野BJ60增程",
+      "panoId": 75866,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75866?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Yangwang",
+      "brandCn": "仰望",
+      "modelEn": "U8",
+      "modelCn": "仰望U8",
+      "years": "2023-",
+      "searchNames": [
+        "仰望U8",
+        "U8"
+      ],
+      "note": "性能/越野 Special",
+      "_orig_brand": "仰望",
+      "status": "pano_found",
+      "seriesId": 7003,
+      "seriesName": "仰望U8",
+      "panoId": 76716,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76716?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Yangwang",
+      "brandCn": "仰望",
+      "modelEn": "U9",
+      "modelCn": "仰望U9",
+      "years": "2024-",
+      "searchNames": [
+        "仰望U9",
+        "U9"
+      ],
+      "note": "性能 Special",
+      "_orig_brand": "仰望",
+      "status": "pano_found",
+      "seriesId": 7116,
+      "seriesName": "仰望U9",
+      "panoId": 62533,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/62533?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Fangchengbao",
+      "brandCn": "方程豹",
+      "modelEn": "Bao 5",
+      "modelCn": "方程豹豹5",
+      "years": "2023-",
+      "searchNames": [
+        "方程豹豹5",
+        "豹5"
+      ],
+      "note": "越野 Special",
+      "_orig_brand": "方程豹",
+      "status": "pano_found",
+      "seriesId": 7177,
+      "seriesName": "豹5",
+      "panoId": 77837,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77837?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Fangchengbao",
+      "brandCn": "方程豹",
+      "modelEn": "Bao 8",
+      "modelCn": "方程豹豹8",
+      "years": "2024-",
+      "searchNames": [
+        "方程豹豹8",
+        "豹8"
+      ],
+      "note": "越野 Special",
+      "_orig_brand": "方程豹",
+      "status": "pano_found",
+      "seriesId": 7353,
+      "seriesName": "豹8",
+      "panoId": 77834,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77834?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Fangchengbao",
+      "brandCn": "方程豹",
+      "modelEn": "Tai 3",
+      "modelCn": "方程豹钛3",
+      "years": "2025-",
+      "searchNames": [
+        "方程豹钛3",
+        "钛3"
+      ],
+      "note": "越野 Special",
+      "_orig_brand": "方程豹",
+      "status": "pano_found",
+      "seriesId": 7356,
+      "seriesName": "钛3",
+      "panoId": 76714,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76714?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Haval",
+      "brandCn": "哈弗",
+      "modelEn": "H9",
+      "modelCn": "哈弗H9",
+      "years": "2014-",
+      "searchNames": [
+        "哈弗H9"
+      ],
+      "note": "",
+      "_orig_brand": "哈弗",
+      "status": "pano_found",
+      "seriesId": 3298,
+      "seriesName": "哈弗H9",
+      "panoId": 77399,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77399?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Tank",
+      "brandCn": "坦克",
+      "modelEn": "300",
+      "modelCn": "坦克300",
+      "years": "2020-",
+      "searchNames": [
+        "坦克300"
+      ],
+      "note": "越野 Special",
+      "_orig_brand": "坦克",
+      "status": "pano_found",
+      "seriesId": 5810,
+      "seriesName": "坦克300",
+      "panoId": 78289,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78289?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Tank",
+      "brandCn": "坦克",
+      "modelEn": "400",
+      "modelCn": "坦克400",
+      "years": "2023-",
+      "searchNames": [
+        "坦克400"
+      ],
+      "note": "越野 Special",
+      "_orig_brand": "坦克",
+      "status": "pano_found",
+      "seriesId": 6359,
+      "seriesName": "坦克400",
+      "panoId": 75581,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75581?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Tank",
+      "brandCn": "坦克",
+      "modelEn": "500",
+      "modelCn": "坦克500",
+      "years": "2022-",
+      "searchNames": [
+        "坦克500"
+      ],
+      "note": "越野 Special",
+      "_orig_brand": "坦克",
+      "status": "pano_found",
+      "seriesId": 6284,
+      "seriesName": "坦克500",
+      "panoId": 73937,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73937?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "AION",
+      "brandCn": "广汽昊铂",
+      "modelEn": "Hyper SSR",
+      "modelCn": "昊铂SSR",
+      "years": "2023-",
+      "searchNames": [
+        "昊铂SSR",
+        "Hyper SSR"
+      ],
+      "note": "性能 Special",
+      "_orig_brand": "埃安",
+      "status": "pano_found",
+      "seriesId": 6934,
+      "seriesName": "昊铂SSR",
+      "panoId": 59534,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/59534?_ahrotate=1",
+      "region": "CN"
+    },
+    {
+      "brandEn": "Beijing",
+      "brandCn": "北京越野",
+      "modelEn": "BJ40",
+      "modelCn": "北京BJ40",
+      "years": "2013-",
+      "searchNames": [
+        "北京BJ40",
+        "BJ40"
+      ],
+      "note": "越野 Special",
+      "_orig_brand": "北京",
+      "status": "pano_found",
+      "seriesId": 623,
+      "seriesName": "北京越野BJ40",
+      "panoId": 73807,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73807?_ahrotate=1",
+      "region": "CN"
+    }
+  ]
+}

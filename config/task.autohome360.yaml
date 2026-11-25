@@ -1,0 +1,241 @@
+# =============================================================================
+# task.autohome360.yaml —— 任务描述文件（录制一次后自动抽象出来的产物）
+#
+# 这个文件是整套系统的"中枢"：
+#   人工演示一次  ->  Recorder 录制原始轨迹  ->  Abstractor 抽象  ->  生成本文件
+#   之后批量执行时，Runner 读本文件 + targets.csv，把 {{变量}} 替换成具体值执行。
+#
+# 设计原则：
+#   - 每一步都必须有"前置条件 + 动作 + 等待 + 后置校验"，四件套缺一不可
+#   - 定位元素永远给"多个候选选择器"，从稳到脆依次尝试，而不是只记一个 CSS
+#   - 所有可能变化的量都抽成 {{变量}}，不写死
+# =============================================================================
+
+version: 1
+name: autohome_360_interior_capture
+recorded_at: "2026-09-03"
+recorded_from: "手动演示 1 次"
+source_url_template: "https://www.autohome.com.cn/{series_id}/#pvareaid=360"
+
+# ---------------------------------------------------------------------------
+# 1. 参数声明（由 targets.csv 的列名绑定，也可在 CLI 覆盖）
+#    required=true 的列缺失时，该条任务直接跳过并记入失败清单
+# ---------------------------------------------------------------------------
+params:
+  - { name: brand,      type: string, required: true }
+  - { name: series,     type: string, required: true }
+  - { name: model_url,  type: url,    required: true }
+  - { name: color,      type: string, required: true,  default: "默认" }
+  - { name: view_id,    type: string, required: true,  ref: "views.yaml" }
+  - { name: seq,        type: int,    required: false, default: 1 }
+
+# ---------------------------------------------------------------------------
+# 2. 状态通道探测（决定"怎么确认到位"，这是本方案与普通录制回放的核心差异）
+#    多通道按优先级探测，运行时自动降级：camera 数值 -> DOM 语义 -> 像素比对
+#
+#    ★ P0 已验证（2026-09-03）：第三方技术分析指向汽车之家「内景 720」使用 krpano
+#      引擎（脚本 tour-1.20.11.js）。实测 7 个车型全部命中 krpano 数值通道：
+#          krpano.get("view.hlookat") / .set("view.hlookat", v) / .call("lookto(h,v,fov)")
+#          krpano.get("xml.scene")、krpano.get("scene").getArray()
+#          krpano.call("loadscene(sceneName)")、krpano.call("stopautorotate()")
+#      机位 = krpano scene（scene.title 即中文机位名：驾驶位/副驾驶位/后排）。
+#      因此：
+#        - 视角对齐退化为数值 set（<0.5° 容差即可）
+#        - 机位切换用 loadscene，无需拖拽/视觉伺服
+#      注意：页面水印「汽车之家」是烘焙在全景 tile 里的，站点自带的「清屏」
+#      按钮只能隐藏 UI 控件（侧边栏/顶部按钮/底部配色条），无法去除水印。
+# ---------------------------------------------------------------------------
+state_probe:
+  channels:
+
+    - id: krpano                       # 优先级 0：最理想，数值通道
+      priority: 0
+      status: verified                  # P0 已验证：7/7 车型为 krpano，视角可读可写
+      resolve:                         # 依次尝试拿到 krpano 接口对象
+        - "document.getElementById('krpanoSWFObject')"   # 官方默认 ID
+        - "window.krpano"
+        - "扫描 id/class 含 krpano|pano 的元素，且具备 get/set/call 方法"
+        - "扫描 window 全局变量名含 krpano|pano|viewer 且具备 get 方法"
+      read:  { hlookat: "get('view.hlookat')", vlookat: "get('view.vlookat')", fov: "get('view.fov')" }
+      write: { hlookat: "set('view.hlookat', v)", vlookat: "set('view.vlookat', v)", fov: "set('view.fov', v)" }
+      goto:  "call('lookto(<h>,<v>,<fov>,linear(<sec>))')"
+      listen: "addChangeListener('view.hlookat', cb)"
+      scene: ["get('xml.scene')", "get('scene.count')", "call('loadscene(<name>)')"]
+      tolerance_deg: 0.5               # 数值通道精度高，容差可收紧
+      note: "若命中此通道，机位字典可直接用 h/v/fov 三个数值定义，鲁棒性远超基准图"
+
+    - id: js_camera_object             # 优先级 1：自研/three.js 暴露的 camera
+      priority: 1
+      status: unverified
+      resolve:
+        - "window.__viewer?.camera"
+        - "window.__PANO__?.getCamera?.()"
+        - "window.__pano?.camera"
+        - "window.THREE?.__lastCamera"
+      read: { yaw: "camera.rotation.y", pitch: "camera.rotation.x", fov: "camera.fov" }
+      tolerance_deg: 1.5
+
+    - id: dom_state                    # 优先级 2：页面语义
+      priority: 2
+      enabled: true
+      sources: [".view-tab.active::text", "[class*=hotspot].active::text", "location.hash"]
+      note: "机位若是预设按钮或 scene，读激活态即可"
+
+    - id: pixel_fallback               # 优先级 3：永远可用的兜底
+      priority: 3
+      enabled: true
+      method: [pHash, SSIM, ORB]
+      note: "前三通道都不可用时使用。此时必须启用视觉伺服对齐，且阈值需逐机位标定"
+
+# ---------------------------------------------------------------------------
+# 3. 步骤序列
+# ---------------------------------------------------------------------------
+steps:
+
+  # ---- 3.1 打开车型页 ------------------------------------------------------
+  - id: open
+    action: navigate
+    url: "{{model_url}}"
+    wait_until: domcontentloaded
+    settle:
+      # 显式等待：不是等固定秒数，而是等"条件成立"
+      - { type: network_idle, duration_ms: 800 }
+      - { type: selector, selectors: [".car-info", "#seriesInfo"] }
+    post_check:
+      - type: page_version
+        # 页面结构指纹：DOM 骨架 hash。变了说明改版，立刻停，别硬跑
+        expected: "{{fingerprint}}"
+        on_mismatch: abort_and_alert
+      - type: http_status
+        expect: [200]
+
+  # ---- 3.2 清理干扰层（弹窗、广告、浮层、APP 引导）-------------------------
+  - id: dismiss_overlays
+    action: dismiss
+    # 每个候选都"尝试点击，失败也不报错"，因为多数时候它们并不存在
+    targets:
+      - { selectors: [".close-btn", ".modal-close", "[aria-label='关闭']"], text_hint: "关闭" }
+      - { selectors: [".app-download-guide .close", ".float-download .close"], text_hint: "×" }
+      - { selectors: [".cookie-agree", ".privacy-agree"], text_hint: "同意" }
+      - { selectors: [".login-mask .close"], text_hint: "关闭" }
+    optional: true
+    max_dismiss: 5
+    post_check:
+      # 校验：屏幕中央不应再有遮罩层挡住画布
+      - { type: canvas_visible, selectors: ["canvas", ".pano-container canvas"] }
+
+  # ---- 3.3 进入 360° 看车内饰 ---------------------------------------------
+  - id: enter_interior
+    action: click
+    selectors:
+      - "[data-track='360-interior']"        # 最稳：埋点属性
+      - "text=360°看车"                       # 次之：可见文字
+      - ".nav-item:has-text('内饰')"           # 兜底：结构 + 文本
+      - "xpath=//a[contains(@href,'360')]"   # 最后：链接特征
+    settle:
+      - { type: selector, selectors: [".pano-container", "canvas.pano"] }
+    post_check:
+      - { type: canvas_visible, selectors: ["canvas"] }
+
+  # ---- 3.4 选择内饰配色（可变参数）----------------------------------------
+  - id: select_color
+    action: click
+    skip_if: "{{color}} == '默认'"
+    selectors:
+      - ".color-tab:has-text('{{color}}')"
+      - ".interior-color-item[title='{{color}}']"
+      - "text={{color}}"
+    settle:
+      - { type: canvas_stable, frame_diff_threshold: 0.004, consecutive_frames: 3 }
+      - { type: delay, ms: 1200 }
+    post_check:
+      - type: dom_state
+        expect_contains: { selector: ".color-tab.active", value: "{{color}}" }
+    on_fail:
+      # 该车型没有这个配色 —— 这是"数据缺失"，不是系统故障
+      action: skip_record
+      reason: "color_not_available"
+
+  # ---- 3.5 加载 360 全景（最耗时，也最容易失败的一步）----------------------
+  - id: wait_pano_ready
+    action: wait
+    pre_actions:
+      # 必须停掉 krpano 自动旋转，否则同机位连拍差异可达 8~14%
+      - { action: exec_js, script: "document.getElementById('krpanoSWFObject')?.call('stopautorotate()')" }
+    conditions:
+      - { type: selector, selectors: ["canvas", ".pano-container canvas"] }
+      # 帧稳定判定：连续 N 帧之间差异小于阈值，说明全景切片加载完且静止了
+      - { type: canvas_stable, frame_diff_threshold: 0.004, consecutive_frames: 3, timeout_ms: 45000 }
+      - { type: no_progress_indicator, selectors: [".loading", ".progress-bar", ".pano-loading"] }
+    on_timeout:
+      - { action: reload_once, then: retry }
+      - { action: degrade, to: "low_res_mode", note: "降级为低清全景再截" }
+      - { action: fail_record, reason: "pano_load_timeout" }
+
+  # ---- 3.6 切到目标机位 ----------------------------------------------------
+  - id: goto_view
+    action: goto_view
+    view_id: "{{view_id}}"
+    # P0 已验证：机位 = krpano scene。优先用 JS API 切 scene，再精度对齐。
+    strategy:
+      - krpano_scene    # 通过 krpano.call("loadscene(sceneName)") 直接切换
+      - krpano_lookto   # 若 scene 已加载，用 lookto(h,v,fov) 精确设定视角
+      - hotspot         # 兜底：点页面上的机位按钮
+    settle:
+      - { type: krpano_camera_stable, tolerance_deg: 0.5, timeout_ms: 10000 }
+      - { type: canvas_stable, frame_diff_threshold: 0.002, consecutive_frames: 3 }
+      - { type: delay, ms: 800 }
+
+  # ---- 3.7 视觉伺服对齐（krpano 数值通道下大幅弱化）------------------------
+  - id: align
+    action: align
+    baseline: "baselines/{{view_id}}.png"
+    max_iterations: 3                 # 数值通道下最多 3 轮微调
+    convergence:
+      ssim_min: 0.98                  # 停转后差异 <0.2%，阈值可提高
+      phash_max: 4
+      camera_delta_deg: 0.5           # 优先用 krpano 数值判定
+    # 数值通道优先；仅当数值不可读时才启用拖拽兜底
+    method: [camera_delta, ssim_check, orb_match, incremental_drag]
+    deadzone_px: 2
+    on_not_converged:
+      - { action: reset_to_view, view_id: "V08_overall", then: retry_align }
+      - { action: save_debug, dir: "evidence/align_fail" }
+      - { action: fail_record, reason: "align_not_converged" }
+
+  # ---- 3.8 截图 ------------------------------------------------------------
+  - id: capture
+    action: screenshot
+    target: { selectors: [".pano-container", "canvas"], fallback: viewport }
+    # 截图前先冻结干扰元素，保证同一机位两次截图完全一致
+    pre_actions:
+      # 清屏：点击站点自带的 .hide-btn（DOM 上 display:none，但已绑定点击事件）
+      # 作用：隐藏侧边机位栏、顶部按钮、底部配色条、热点标签等全部 UI 控件
+      # 注意：该按钮不能去除烘焙在全景里的「汽车之家」水印
+      - { action: dispatch_click, selectors: [".hide-btn"], fallback_js: "document.querySelector('.hide-btn')?.dispatchEvent(new MouseEvent('click',{bubbles:true,cancelable:true,view:window}))" }
+      - { action: wait, type: delay, ms: 600 }
+      - { action: hide, selectors: [".cursor-hint", ".tooltip", ".share-bar", ".hotspot-tip"] }
+      - { action: move_mouse_to, x: -10, y: -10 }   # 鼠标移出画面，避免 hover 高亮
+      - { action: pause_animations, value: true }
+    filename: "{{brand}}_{{series}}_{{color}}_{{view_id}}_{{seq}}"
+    save_raw: true                    # 同时存一份未裁剪原始图，便于回溯
+    post_check:
+      - { type: image_not_blank }     # 防止截到黑屏 / 纯色
+      - { type: verify_against, baseline: "baselines/{{view_id}}.png", ssim_min: 0.90 }
+
+# ---------------------------------------------------------------------------
+# 4. 单次任务的全局兜底
+# ---------------------------------------------------------------------------
+guards:
+  on_captcha: stop_all_and_alert      # 出现验证码：整体停止，不做任何破解
+  on_login_required:
+    action: stop_and_alert
+    note: "需要登录的内容默认不抓取；如确有授权账号，需在 compliance 中显式声明"
+  on_http_429: { action: backoff, multiplier: 4, then: continue }  # 被限流：退避
+  on_page_version_mismatch: stop_all_and_alert
+  screenshot_determinism:
+    # 保证"同一个机位截两次，结果一致"
+    fix_viewport: true
+    fix_dpr: true
+    disable_animations: true
+    hide_dynamic_elements: [".time", ".countdown", ".online-count"]

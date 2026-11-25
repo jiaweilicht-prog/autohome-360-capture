@@ -1,0 +1,5802 @@
+[
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "GMC_SIERRA_默认_主驾正视前排IP_01.json",
+    "new": "IMG_GMC_SIERRA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "GMC",
+    "model": "SIERRA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "GMC_SIERRA_默认_主驾正视前排IP_01.png",
+    "new": "IMG_GMC_SIERRA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "GMC",
+    "model": "SIERRA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "GMC_TERRAIN_默认_主驾正视前排IP_01.json",
+    "new": "IMG_GMC_TERRAIN_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "GMC",
+    "model": "TERRAIN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "GMC_TERRAIN_默认_主驾正视前排IP_01.png",
+    "new": "IMG_GMC_TERRAIN_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "GMC",
+    "model": "TERRAIN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_大切诺基(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_GRANDCHEROKEE-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GRANDCHEROKEE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_大切诺基(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_GRANDCHEROKEE-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GRANDCHEROKEE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_大切诺基4xe(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_GRANDCHEROKEE4XE-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GRANDCHEROKEE4XE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_大切诺基4xe(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_GRANDCHEROKEE4XE-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GRANDCHEROKEE4XE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_大指挥官PHEV_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_GRANDCOMMANDER-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GRANDCOMMANDER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_大指挥官PHEV_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_GRANDCOMMANDER-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GRANDCOMMANDER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_大指挥官_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_GRANDCOMMANDER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GRANDCOMMANDER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_大指挥官_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_GRANDCOMMANDER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GRANDCOMMANDER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_指南者_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_COMPASS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "COMPASS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_指南者_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_COMPASS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "COMPASS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_指挥官PHEV_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_COMMANDER-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "COMMANDER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_指挥官PHEV_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_COMMANDER-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "COMMANDER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_指挥官_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_COMMANDER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "COMMANDER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_指挥官_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_COMMANDER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "COMMANDER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_牧马人_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_WRANGLER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "WRANGLER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_牧马人_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_WRANGLER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "WRANGLER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_牧马人新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_WRANGLER-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "WRANGLER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_牧马人新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_WRANGLER-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "WRANGLER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_自由侠_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_RENEGADE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "RENEGADE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_自由侠_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_RENEGADE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "RENEGADE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_自由光_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_CHEROKEE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "CHEROKEE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_自由光_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_CHEROKEE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "CHEROKEE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_角斗士_默认_主驾正视前排IP_01.json",
+    "new": "IMG_JEEP_GLADIATOR_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GLADIATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Jeep_角斗士_默认_主驾正视前排IP_01.png",
+    "new": "IMG_JEEP_GLADIATOR_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GLADIATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "克莱斯勒_克莱斯勒300C(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHRY_300C_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHRY",
+    "model": "300C",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "克莱斯勒_克莱斯勒300C(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHRY_300C_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHRY",
+    "model": "300C",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "克莱斯勒_大捷龙(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHRY_PACIFICA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHRY",
+    "model": "PACIFICA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "克莱斯勒_大捷龙(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHRY_PACIFICA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHRY",
+    "model": "PACIFICA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_Brougham_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_BROUGHAM_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "BROUGHAM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_Brougham_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_BROUGHAM_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "BROUGHAM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_IQ傲歌_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_OPTIQ_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "OPTIQ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_IQ傲歌_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_OPTIQ_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "OPTIQ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_IQ锐歌_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_LYRIQ_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "LYRIQ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_IQ锐歌_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_LYRIQ_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "LYRIQ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯威德_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_KAIWEIDE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "KAIWEIDE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯威德_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_KAIWEIDE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "KAIWEIDE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克ATS-L_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_ATS-L_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "ATS-L",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克ATS-L_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_ATS-L_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "ATS-L",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT4(海外)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_CT4-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT4-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT4(海外)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_CT4-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT4-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT4_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_CT4_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT4_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_CT4_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT5(海外)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_CT5-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT5-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT5(海外)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_CT5-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT5-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT5_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_CT5_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT5_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_CT5_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT6_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_CT6_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克CT6_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_CT6_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克GT4_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_GT4_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "GT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克GT4_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_GT4_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "GT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT4_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_XT4_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT4_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_XT4_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT5-PHEV_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_XT5-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT5-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT5-PHEV_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_XT5-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT5-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT5_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_XT5_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT5_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_XT5_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT6(海外)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_XT6-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT6-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT6(海外)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_XT6-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT6-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT6_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_XT6_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XT6_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_XT6_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XTS_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_XTS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XTS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯迪拉克XTS_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_XTS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XTS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯雷德ESCALADE_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CADI_ESCALADE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "ESCALADE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "凯迪拉克_凯雷德ESCALADE_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CADI_ESCALADE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "ESCALADE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_VELITE-5_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_VELITE5_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "VELITE5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_VELITE-5_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_VELITE5_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "VELITE5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_世纪_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_CENTURY_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "CENTURY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_世纪_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_CENTURY_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "CENTURY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_凯越_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_EXCELLE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "EXCELLE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_凯越_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_EXCELLE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "EXCELLE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克E4_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_E4_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "E4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克E4_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_E4_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "E4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克E5_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_E5_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "E5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克E5_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_E5_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "E5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克GL6_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_GL6_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "GL6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克GL6_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_GL6_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "GL6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克GL8_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_GL8_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "GL8",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克GL8_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_GL8_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "GL8",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克GL8新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_GL8-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "GL8-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克GL8新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_GL8-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "GL8-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克至境E7_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ZHIJING-E7_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ZHIJING-E7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克至境E7_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ZHIJING-E7_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ZHIJING-E7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克至境L7_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ZHIJING-L7_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ZHIJING-L7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克至境L7_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ZHIJING-L7_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ZHIJING-L7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克至境世家_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ZHIJING-SHIJIA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ZHIJING-SHIJIA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_别克至境世家_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ZHIJING-SHIJIA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ZHIJING-SHIJIA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_君威(海外)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_REGAL-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "REGAL-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_君威(海外)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_REGAL-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "REGAL-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_君威_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_REGAL_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "REGAL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_君威_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_REGAL_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "REGAL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_君越_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_LACROSSE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "LACROSSE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_君越_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_LACROSSE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "LACROSSE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_威朗_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_VERANO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "VERANO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_威朗_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_VERANO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "VERANO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_微蓝6_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_VELITE6_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "VELITE6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_微蓝6_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_VELITE6_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "VELITE6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂扬_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ENVISTA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENVISTA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂扬_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ENVISTA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENVISTA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科威Plus_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ENVISION-PLUS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENVISION-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科威Plus_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ENVISION-PLUS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENVISION-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科威S_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ENVISION-S_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENVISION-S",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科威S_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ENVISION-S_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENVISION-S",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科拉GX_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ENCORE-GX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCORE-GX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科拉GX_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ENCORE-GX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCORE-GX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科拉PLUS_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ENCORE-PLUS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCORE-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科拉PLUS_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ENCORE-PLUS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCORE-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科拉_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ENCORE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCORE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科拉_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ENCORE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCORE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科旗_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ENCLAVE-CN_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCLAVE-CN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科旗_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ENCLAVE-CN_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCLAVE-CN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科雷_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_ENCLAVE-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCLAVE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_昂科雷_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_ENCLAVE-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCLAVE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_英朗_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_YINGLANG_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "YINGLANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_英朗_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_YINGLANG_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "YINGLANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_阅朗_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUICK_YUELANG_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "YUELANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "别克_阅朗_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUICK_YUELANG_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "YUELANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_冒险家(海外)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_CORSAIR-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "CORSAIR-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_冒险家(海外)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_CORSAIR-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "CORSAIR-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_冒险家_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_CORSAIR_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "CORSAIR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_冒险家_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_CORSAIR_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "CORSAIR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_冒险家新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_CORSAIR-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "CORSAIR-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_冒险家新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_CORSAIR-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "CORSAIR-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯MKC_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_MKC_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "MKC",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯MKC_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_MKC_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "MKC",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯MKX_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_MKX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "MKX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯MKX_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_MKX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "MKX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯MKZ_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_MKZ_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "MKZ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯MKZ_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_MKZ_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "MKZ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯Z_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_Z_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "Z",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯Z_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_Z_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "Z",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯大陆_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_CONTINENTAL_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "CONTINENTAL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_林肯大陆_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_CONTINENTAL_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "CONTINENTAL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_航海家(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_NAUTILUS-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "NAUTILUS-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_航海家(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_NAUTILUS-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "NAUTILUS-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_航海家_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_NAUTILUS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "NAUTILUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_航海家_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_NAUTILUS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "NAUTILUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_领航员_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_NAVIGATOR_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "NAVIGATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_领航员_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_NAVIGATOR_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "NAVIGATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_领航员壹号_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_NAVIGATOR-ONE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "NAVIGATOR-ONE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_领航员壹号_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_NAVIGATOR-ONE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "NAVIGATOR-ONE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_飞行家(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_AVIATOR-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "AVIATOR-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_飞行家(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_AVIATOR-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "AVIATOR-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_飞行家_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_AVIATOR_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "AVIATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_飞行家_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_AVIATOR_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "AVIATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_飞行家新能源(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LINCOLN_AVIATOR-PHEV-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "AVIATOR-PHEV-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "林肯_飞行家新能源(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LINCOLN_AVIATOR-PHEV-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "AVIATOR-PHEV-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-3(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_TESLA_MODEL3-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODEL3-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-3(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_TESLA_MODEL3-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODEL3-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-3_默认_主驾正视前排IP_01.json",
+    "new": "IMG_TESLA_MODEL3_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODEL3",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-3_默认_主驾正视前排IP_01.png",
+    "new": "IMG_TESLA_MODEL3_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODEL3",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-S_默认_主驾正视前排IP_01.json",
+    "new": "IMG_TESLA_MODELS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODELS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-S_默认_主驾正视前排IP_01.png",
+    "new": "IMG_TESLA_MODELS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODELS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-X_默认_主驾正视前排IP_01.json",
+    "new": "IMG_TESLA_MODELX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODELX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-X_默认_主驾正视前排IP_01.png",
+    "new": "IMG_TESLA_MODELX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODELX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-Y-L_默认_主驾正视前排IP_01.json",
+    "new": "IMG_TESLA_MODEL-YL_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODEL-YL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-Y-L_默认_主驾正视前排IP_01.png",
+    "new": "IMG_TESLA_MODEL-YL_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODEL-YL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-Y_默认_主驾正视前排IP_01.json",
+    "new": "IMG_TESLA_MODELY_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODELY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_Model-Y_默认_主驾正视前排IP_01.png",
+    "new": "IMG_TESLA_MODELY_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODELY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_赛博越野旅行车_默认_主驾正视前排IP_01.json",
+    "new": "IMG_TESLA_CYBERTRUCK_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "CYBERTRUCK",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "特斯拉_赛博越野旅行车_默认_主驾正视前排IP_01.png",
+    "new": "IMG_TESLA_CYBERTRUCK_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "CYBERTRUCK",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_Bronco(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_BRONCO-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "BRONCO-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_Bronco(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_BRONCO-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "BRONCO-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_Bronco-Sport_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_BRONCO-SPORT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "BRONCO-SPORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_Bronco-Sport_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_BRONCO-SPORT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "BRONCO-SPORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_C-MAX_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_CMAX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "CMAX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_C-MAX_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_CMAX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "CMAX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_EVOS_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_EVOS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EVOS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_EVOS_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_EVOS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EVOS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_E全顺_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_ETRANSIT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ETRANSIT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_E全顺_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_ETRANSIT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ETRANSIT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_Mustang_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_MUSTANG_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MUSTANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_Mustang_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_MUSTANG_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MUSTANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_Ranger(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_RANGER-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "RANGER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_Ranger(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_RANGER-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "RANGER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_全顺T8_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_TRANSIT-T8_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TRANSIT-T8",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_全顺T8_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_TRANSIT-T8_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TRANSIT-T8",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_全顺_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_TRANSIT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TRANSIT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_全顺_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_TRANSIT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TRANSIT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_探险者(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_EXPLORER-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EXPLORER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_探险者(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_EXPLORER-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EXPLORER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_探险者_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_EXPLORER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EXPLORER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_探险者_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_EXPLORER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EXPLORER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_撼路者_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_EVEREST_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EVEREST",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_撼路者_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_EVEREST_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EVEREST",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_新世代全顺_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_TRANSIT-CUSTOM_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TRANSIT-CUSTOM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_新世代全顺_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_TRANSIT-CUSTOM_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TRANSIT-CUSTOM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_游骑侠Ranger_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_RANGER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "RANGER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_游骑侠Ranger_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_RANGER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "RANGER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福克斯(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_FOCUS-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "FOCUS-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福克斯(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_FOCUS-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "FOCUS-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福克斯Active_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_FOCUS-ACTIVE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "FOCUS-ACTIVE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福克斯Active_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_FOCUS-ACTIVE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "FOCUS-ACTIVE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福克斯_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_FOCUS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "FOCUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福克斯_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_FOCUS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "FOCUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特F-150猛禽_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_F150-RAPTOR_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "F150-RAPTOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特F-150猛禽_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_F150-RAPTOR_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "F150-RAPTOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特智趣烈马_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_BRONCO-EV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "BRONCO-EV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特智趣烈马_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_BRONCO-EV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "BRONCO-EV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特烈马_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_BRONCO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "BRONCO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特烈马_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_BRONCO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "BRONCO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特电马(海外)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_MACH-E-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MACH-E-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特电马(海外)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_MACH-E-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MACH-E-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特电马_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_MACH-E_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MACH-E",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福特电马_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_MACH-E_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MACH-E",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福睿斯_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_ESCORT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ESCORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_福睿斯_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_ESCORT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ESCORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_翼搏_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_ECOSPORT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ECOSPORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_翼搏_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_ECOSPORT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ECOSPORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_翼虎_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_KUGA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "KUGA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_翼虎_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_KUGA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "KUGA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_蒙迪欧_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_MONDEO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MONDEO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_蒙迪欧_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_MONDEO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MONDEO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_蒙迪欧新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_MONDEO-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MONDEO-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_蒙迪欧新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_MONDEO-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MONDEO-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_途睿欧_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_TOURNEO-CUSTOM_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TOURNEO-CUSTOM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_途睿欧_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_TOURNEO-CUSTOM_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TOURNEO-CUSTOM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_金牛座_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_TAURUS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TAURUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_金牛座_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_TAURUS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TAURUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_锐界_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_EDGE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EDGE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_锐界_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_EDGE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EDGE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_锐际_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_ESCAPE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ESCAPE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_锐际_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_ESCAPE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ESCAPE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_锐际新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_ESCAPE-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ESCAPE-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_锐际新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_ESCAPE-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ESCAPE-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领界EV_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_LINGJIE-EV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGJIE-EV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领界EV_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_LINGJIE-EV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGJIE-EV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领界_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_LINGJIE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGJIE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领界_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_LINGJIE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGJIE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领睿_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_LINGRUI_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGRUI",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领睿_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_LINGRUI_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGRUI",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领睿新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_LINGRUI-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGRUI-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领睿新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_LINGRUI-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGRUI-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领裕_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_LINGYU_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGYU",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领裕_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_LINGYU_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGYU",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领裕新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FORD_LINGYU-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGYU-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "福特_领裕新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FORD_LINGYU-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGYU-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "道奇_Charger-SRT_默认_主驾正视前排IP_01.json",
+    "new": "IMG_DODGE_CHARGER-SRT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "DODGE",
+    "model": "CHARGER-SRT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "道奇_Charger-SRT_默认_主驾正视前排IP_01.png",
+    "new": "IMG_DODGE_CHARGER-SRT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "DODGE",
+    "model": "CHARGER-SRT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "道奇_Durango_默认_主驾正视前排IP_01.json",
+    "new": "IMG_DODGE_DURANGO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "DODGE",
+    "model": "DURANGO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "道奇_Durango_默认_主驾正视前排IP_01.png",
+    "new": "IMG_DODGE_DURANGO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "DODGE",
+    "model": "DURANGO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "道奇_挑战者_默认_主驾正视前排IP_01.json",
+    "new": "IMG_DODGE_CHALLENGER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "DODGE",
+    "model": "CHALLENGER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "道奇_挑战者_默认_主驾正视前排IP_01.png",
+    "new": "IMG_DODGE_CHALLENGER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "DODGE",
+    "model": "CHALLENGER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_Suburban_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_SUBURBAN_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "SUBURBAN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_Suburban_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_SUBURBAN_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "SUBURBAN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_Traverse(进口)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_TRAVERSE-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "TRAVERSE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_Traverse(进口)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_TRAVERSE-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "TRAVERSE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_乐风RV_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_LOVA-RV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "LOVA-RV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_乐风RV_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_LOVA-RV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "LOVA-RV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_创界_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_CHUANGJIE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CHUANGJIE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_创界_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_CHUANGJIE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CHUANGJIE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_创酷_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_TRACKER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "TRACKER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_创酷_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_TRACKER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "TRACKER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_开拓者(海外)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_BLAZER-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "BLAZER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_开拓者(海外)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_BLAZER-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "BLAZER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_开拓者_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_BLAZER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "BLAZER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_开拓者_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_BLAZER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "BLAZER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_探界者Plus_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_EQUINOX-PLUS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "EQUINOX-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_探界者Plus_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_EQUINOX-PLUS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "EQUINOX-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_探界者_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_EQUINOX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "EQUINOX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_探界者_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_EQUINOX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "EQUINOX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_星迈罗_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_SEEKER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "SEEKER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_星迈罗_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_SEEKER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "SEEKER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_沃兰多_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_ORLANDO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "ORLANDO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_沃兰多_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_ORLANDO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "ORLANDO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_畅巡_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_MENLO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MENLO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_畅巡_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_MENLO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MENLO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科帕奇_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_CAPTIVA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CAPTIVA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科帕奇_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_CAPTIVA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CAPTIVA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科沃兹_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_CAVALIER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CAVALIER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科沃兹_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_CAVALIER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CAVALIER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科迈罗_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_CAMARO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CAMARO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科迈罗_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_CAMARO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CAMARO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科鲁兹_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_CRUZE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CRUZE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科鲁兹_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_CRUZE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CRUZE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科鲁泽_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_MONZA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MONZA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_科鲁泽_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_MONZA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MONZA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_索罗德_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_SILVERADO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "SILVERADO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_索罗德_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_SILVERADO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "SILVERADO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_赛欧_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_SAIL_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "SAIL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_赛欧_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_SAIL_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "SAIL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_迈锐宝(海外)_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_MALIBU-IMP_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MALIBU-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_迈锐宝(海外)_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_MALIBU-IMP_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MALIBU-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_迈锐宝XL_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_MALIBU-XL_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MALIBU-XL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_迈锐宝XL_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_MALIBU-XL_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MALIBU-XL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_迈锐宝_默认_主驾正视前排IP_01.json",
+    "new": "IMG_CHEVY_MALIBU_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MALIBU",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "雪佛兰_迈锐宝_默认_主驾正视前排IP_01.png",
+    "new": "IMG_CHEVY_MALIBU_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MALIBU",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "GMC_SAVANA_默认_二排正视前排_01.json",
+    "new": "IMG_GMC_SAVANA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "GMC",
+    "model": "SAVANA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "GMC_SAVANA_默认_二排正视前排_01.png",
+    "new": "IMG_GMC_SAVANA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "GMC",
+    "model": "SAVANA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "GMC_SIERRA_默认_二排正视前排_01.json",
+    "new": "IMG_GMC_SIERRA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "GMC",
+    "model": "SIERRA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "GMC_SIERRA_默认_二排正视前排_01.png",
+    "new": "IMG_GMC_SIERRA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "GMC",
+    "model": "SIERRA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "GMC_TERRAIN_默认_二排正视前排_01.json",
+    "new": "IMG_GMC_TERRAIN_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "GMC",
+    "model": "TERRAIN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "GMC_TERRAIN_默认_二排正视前排_01.png",
+    "new": "IMG_GMC_TERRAIN_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "GMC",
+    "model": "TERRAIN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_大切诺基(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_GRANDCHEROKEE-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GRANDCHEROKEE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_大切诺基(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_GRANDCHEROKEE-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GRANDCHEROKEE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_大切诺基4xe(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_GRANDCHEROKEE4XE-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GRANDCHEROKEE4XE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_大切诺基4xe(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_GRANDCHEROKEE4XE-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GRANDCHEROKEE4XE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_大指挥官PHEV_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_GRANDCOMMANDER-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GRANDCOMMANDER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_大指挥官PHEV_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_GRANDCOMMANDER-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GRANDCOMMANDER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_大指挥官_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_GRANDCOMMANDER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GRANDCOMMANDER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_大指挥官_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_GRANDCOMMANDER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GRANDCOMMANDER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_指南者_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_COMPASS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "COMPASS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_指南者_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_COMPASS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "COMPASS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_指挥官PHEV_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_COMMANDER-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "COMMANDER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_指挥官PHEV_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_COMMANDER-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "COMMANDER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_指挥官_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_COMMANDER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "COMMANDER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_指挥官_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_COMMANDER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "COMMANDER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_牧马人_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_WRANGLER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "WRANGLER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_牧马人_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_WRANGLER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "WRANGLER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_牧马人新能源_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_WRANGLER-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "WRANGLER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_牧马人新能源_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_WRANGLER-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "WRANGLER-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_自由侠_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_RENEGADE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "RENEGADE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_自由侠_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_RENEGADE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "RENEGADE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_自由光_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_CHEROKEE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "CHEROKEE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_自由光_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_CHEROKEE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "CHEROKEE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_角斗士_默认_二排正视前排_01.json",
+    "new": "IMG_JEEP_GLADIATOR_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "JEEP",
+    "model": "GLADIATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Jeep_角斗士_默认_二排正视前排_01.png",
+    "new": "IMG_JEEP_GLADIATOR_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "JEEP",
+    "model": "GLADIATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "克莱斯勒_克莱斯勒300C(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_CHRY_300C_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHRY",
+    "model": "300C",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "克莱斯勒_克莱斯勒300C(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_CHRY_300C_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHRY",
+    "model": "300C",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "克莱斯勒_大捷龙(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_CHRY_PACIFICA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHRY",
+    "model": "PACIFICA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "克莱斯勒_大捷龙(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_CHRY_PACIFICA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHRY",
+    "model": "PACIFICA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_Brougham_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_BROUGHAM_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "BROUGHAM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_Brougham_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_BROUGHAM_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "BROUGHAM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_IQ傲歌_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_OPTIQ_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "OPTIQ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_IQ傲歌_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_OPTIQ_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "OPTIQ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_IQ锐歌_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_LYRIQ_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "LYRIQ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_IQ锐歌_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_LYRIQ_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "LYRIQ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯威德_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_KAIWEIDE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "KAIWEIDE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯威德_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_KAIWEIDE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "KAIWEIDE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克ATS-L_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_ATS-L_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "ATS-L",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克ATS-L_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_ATS-L_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "ATS-L",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT4(海外)_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_CT4-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT4-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT4(海外)_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_CT4-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT4-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT4_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_CT4_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT4_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_CT4_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT5(海外)_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_CT5-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT5-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT5(海外)_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_CT5-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT5-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT5_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_CT5_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT5_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_CT5_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT6_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_CT6_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "CT6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克CT6_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_CT6_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "CT6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克GT4_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_GT4_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "GT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克GT4_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_GT4_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "GT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT4_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_XT4_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT4_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_XT4_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT5-PHEV_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_XT5-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT5-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT5-PHEV_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_XT5-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT5-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT5_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_XT5_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT5_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_XT5_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT6(海外)_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_XT6-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT6-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT6(海外)_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_XT6-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT6-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT6_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_XT6_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XT6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XT6_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_XT6_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XT6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XTS_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_XTS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "XTS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯迪拉克XTS_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_XTS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "XTS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯雷德ESCALADE_默认_二排正视前排_01.json",
+    "new": "IMG_CADI_ESCALADE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CADI",
+    "model": "ESCALADE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "凯迪拉克_凯雷德ESCALADE_默认_二排正视前排_01.png",
+    "new": "IMG_CADI_ESCALADE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CADI",
+    "model": "ESCALADE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_VELITE-5_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_VELITE5_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "VELITE5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_VELITE-5_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_VELITE5_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "VELITE5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_世纪_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_CENTURY_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "CENTURY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_世纪_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_CENTURY_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "CENTURY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_凯越_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_EXCELLE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "EXCELLE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_凯越_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_EXCELLE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "EXCELLE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克E4_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_E4_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "E4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克E4_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_E4_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "E4",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克E5_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_E5_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "E5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克E5_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_E5_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "E5",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克GL6_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_GL6_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "GL6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克GL6_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_GL6_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "GL6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克GL8_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_GL8_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "GL8",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克GL8_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_GL8_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "GL8",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克GL8新能源_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_GL8-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "GL8-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克GL8新能源_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_GL8-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "GL8-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克至境E7_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ZHIJING-E7_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ZHIJING-E7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克至境E7_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ZHIJING-E7_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ZHIJING-E7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克至境L7_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ZHIJING-L7_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ZHIJING-L7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克至境L7_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ZHIJING-L7_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ZHIJING-L7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克至境世家_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ZHIJING-SHIJIA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ZHIJING-SHIJIA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_别克至境世家_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ZHIJING-SHIJIA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ZHIJING-SHIJIA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_君威(海外)_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_REGAL-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "REGAL-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_君威(海外)_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_REGAL-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "REGAL-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_君威_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_REGAL_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "REGAL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_君威_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_REGAL_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "REGAL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_君越_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_LACROSSE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "LACROSSE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_君越_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_LACROSSE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "LACROSSE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_威朗_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_VERANO_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "VERANO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_威朗_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_VERANO_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "VERANO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_微蓝6_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_VELITE6_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "VELITE6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_微蓝6_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_VELITE6_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "VELITE6",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_微蓝7_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_VELITE7_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "VELITE7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_微蓝7_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_VELITE7_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "VELITE7",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂扬_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ENVISTA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENVISTA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂扬_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ENVISTA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENVISTA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科威Plus_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ENVISION-PLUS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENVISION-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科威Plus_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ENVISION-PLUS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENVISION-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科威S_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ENVISION-S_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENVISION-S",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科威S_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ENVISION-S_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENVISION-S",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科拉GX_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ENCORE-GX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCORE-GX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科拉GX_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ENCORE-GX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCORE-GX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科拉PLUS_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ENCORE-PLUS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCORE-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科拉PLUS_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ENCORE-PLUS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCORE-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科拉_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ENCORE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCORE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科拉_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ENCORE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCORE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科旗_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ENCLAVE-CN_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCLAVE-CN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科旗_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ENCLAVE-CN_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCLAVE-CN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科雷_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_ENCLAVE-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "ENCLAVE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_昂科雷_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_ENCLAVE-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "ENCLAVE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_英朗_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_YINGLANG_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "YINGLANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_英朗_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_YINGLANG_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "YINGLANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_阅朗_默认_二排正视前排_01.json",
+    "new": "IMG_BUICK_YUELANG_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BUICK",
+    "model": "YUELANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "别克_阅朗_默认_二排正视前排_01.png",
+    "new": "IMG_BUICK_YUELANG_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BUICK",
+    "model": "YUELANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_冒险家(海外)_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_CORSAIR-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "CORSAIR-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_冒险家(海外)_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_CORSAIR-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "CORSAIR-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_冒险家_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_CORSAIR_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "CORSAIR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_冒险家_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_CORSAIR_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "CORSAIR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_冒险家新能源_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_CORSAIR-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "CORSAIR-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_冒险家新能源_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_CORSAIR-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "CORSAIR-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯MKC_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_MKC_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "MKC",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯MKC_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_MKC_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "MKC",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯MKX_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_MKX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "MKX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯MKX_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_MKX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "MKX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯MKZ_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_MKZ_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "MKZ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯MKZ_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_MKZ_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "MKZ",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯Z_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_Z_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "Z",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯Z_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_Z_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "Z",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯大陆_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_CONTINENTAL_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "CONTINENTAL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_林肯大陆_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_CONTINENTAL_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "CONTINENTAL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_航海家(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_NAUTILUS-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "NAUTILUS-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_航海家(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_NAUTILUS-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "NAUTILUS-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_航海家_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_NAUTILUS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "NAUTILUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_航海家_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_NAUTILUS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "NAUTILUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_领航员_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_NAVIGATOR_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "NAVIGATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_领航员_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_NAVIGATOR_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "NAVIGATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_领航员壹号_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_NAVIGATOR-ONE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "NAVIGATOR-ONE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_领航员壹号_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_NAVIGATOR-ONE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "NAVIGATOR-ONE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_飞行家(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_AVIATOR-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "AVIATOR-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_飞行家(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_AVIATOR-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "AVIATOR-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_飞行家_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_AVIATOR_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "AVIATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_飞行家_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_AVIATOR_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "AVIATOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_飞行家新能源(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_LINCOLN_AVIATOR-PHEV-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LINCOLN",
+    "model": "AVIATOR-PHEV-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "林肯_飞行家新能源(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_LINCOLN_AVIATOR-PHEV-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LINCOLN",
+    "model": "AVIATOR-PHEV-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-3(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_TESLA_MODEL3-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODEL3-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-3(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_TESLA_MODEL3-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODEL3-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-3_默认_二排正视前排_01.json",
+    "new": "IMG_TESLA_MODEL3_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODEL3",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-3_默认_二排正视前排_01.png",
+    "new": "IMG_TESLA_MODEL3_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODEL3",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-S_默认_二排正视前排_01.json",
+    "new": "IMG_TESLA_MODELS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODELS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-S_默认_二排正视前排_01.png",
+    "new": "IMG_TESLA_MODELS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODELS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-X_默认_二排正视前排_01.json",
+    "new": "IMG_TESLA_MODELX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODELX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-X_默认_二排正视前排_01.png",
+    "new": "IMG_TESLA_MODELX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODELX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-Y-L_默认_二排正视前排_01.json",
+    "new": "IMG_TESLA_MODEL-YL_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODEL-YL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-Y-L_默认_二排正视前排_01.png",
+    "new": "IMG_TESLA_MODEL-YL_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODEL-YL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-Y_默认_二排正视前排_01.json",
+    "new": "IMG_TESLA_MODELY_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "MODELY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_Model-Y_默认_二排正视前排_01.png",
+    "new": "IMG_TESLA_MODELY_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "MODELY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_赛博越野旅行车_默认_二排正视前排_01.json",
+    "new": "IMG_TESLA_CYBERTRUCK_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "TESLA",
+    "model": "CYBERTRUCK",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "特斯拉_赛博越野旅行车_默认_二排正视前排_01.png",
+    "new": "IMG_TESLA_CYBERTRUCK_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "TESLA",
+    "model": "CYBERTRUCK",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_Bronco(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_BRONCO-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "BRONCO-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_Bronco(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_BRONCO-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "BRONCO-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_Bronco-Sport_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_BRONCO-SPORT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "BRONCO-SPORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_Bronco-Sport_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_BRONCO-SPORT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "BRONCO-SPORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_C-MAX_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_CMAX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "CMAX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_C-MAX_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_CMAX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "CMAX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_EVOS_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_EVOS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EVOS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_EVOS_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_EVOS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EVOS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_E全顺_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_ETRANSIT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ETRANSIT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_E全顺_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_ETRANSIT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ETRANSIT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_Mustang_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_MUSTANG_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MUSTANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_Mustang_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_MUSTANG_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MUSTANG",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_Ranger(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_RANGER-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "RANGER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_Ranger(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_RANGER-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "RANGER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_全顺T8_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_TRANSIT-T8_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TRANSIT-T8",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_全顺T8_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_TRANSIT-T8_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TRANSIT-T8",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_全顺_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_TRANSIT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TRANSIT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_全顺_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_TRANSIT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TRANSIT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_探险者(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_EXPLORER-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EXPLORER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_探险者(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_EXPLORER-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EXPLORER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_探险者_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_EXPLORER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EXPLORER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_探险者_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_EXPLORER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EXPLORER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_撼路者_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_EVEREST_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EVEREST",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_撼路者_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_EVEREST_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EVEREST",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_新世代全顺_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_TRANSIT-CUSTOM_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TRANSIT-CUSTOM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_新世代全顺_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_TRANSIT-CUSTOM_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TRANSIT-CUSTOM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_游骑侠Ranger_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_RANGER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "RANGER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_游骑侠Ranger_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_RANGER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "RANGER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福克斯(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_FOCUS-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "FOCUS-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福克斯(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_FOCUS-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "FOCUS-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福克斯Active_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_FOCUS-ACTIVE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "FOCUS-ACTIVE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福克斯Active_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_FOCUS-ACTIVE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "FOCUS-ACTIVE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福克斯_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_FOCUS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "FOCUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福克斯_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_FOCUS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "FOCUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福特F-150猛禽_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_F150-RAPTOR_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "F150-RAPTOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福特F-150猛禽_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_F150-RAPTOR_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "F150-RAPTOR",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福特智趣烈马_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_BRONCO-EV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "BRONCO-EV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福特智趣烈马_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_BRONCO-EV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "BRONCO-EV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福特烈马_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_BRONCO_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "BRONCO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福特烈马_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_BRONCO_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "BRONCO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福特电马_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_MACH-E_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MACH-E",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福特电马_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_MACH-E_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MACH-E",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福睿斯_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_ESCORT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ESCORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_福睿斯_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_ESCORT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ESCORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_翼搏_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_ECOSPORT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ECOSPORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_翼搏_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_ECOSPORT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ECOSPORT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_翼虎_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_KUGA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "KUGA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_翼虎_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_KUGA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "KUGA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_蒙迪欧_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_MONDEO_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MONDEO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_蒙迪欧_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_MONDEO_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MONDEO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_蒙迪欧新能源_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_MONDEO-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "MONDEO-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_蒙迪欧新能源_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_MONDEO-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "MONDEO-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_途睿欧_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_TOURNEO-CUSTOM_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TOURNEO-CUSTOM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_途睿欧_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_TOURNEO-CUSTOM_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TOURNEO-CUSTOM",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_金牛座_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_TAURUS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "TAURUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_金牛座_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_TAURUS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "TAURUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_锐界_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_EDGE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "EDGE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_锐界_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_EDGE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "EDGE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_锐际_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_ESCAPE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ESCAPE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_锐际_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_ESCAPE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ESCAPE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_锐际新能源_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_ESCAPE-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "ESCAPE-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_锐际新能源_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_ESCAPE-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "ESCAPE-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领界EV_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_LINGJIE-EV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGJIE-EV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领界EV_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_LINGJIE-EV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGJIE-EV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领界_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_LINGJIE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGJIE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领界_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_LINGJIE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGJIE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领睿_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_LINGRUI_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGRUI",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领睿_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_LINGRUI_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGRUI",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领睿新能源_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_LINGRUI-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGRUI-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领睿新能源_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_LINGRUI-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGRUI-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领裕_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_LINGYU_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGYU",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领裕_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_LINGYU_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGYU",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领裕新能源_默认_二排正视前排_01.json",
+    "new": "IMG_FORD_LINGYU-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FORD",
+    "model": "LINGYU-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "福特_领裕新能源_默认_二排正视前排_01.png",
+    "new": "IMG_FORD_LINGYU-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FORD",
+    "model": "LINGYU-PHEV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "道奇_Charger-SRT_默认_二排正视前排_01.json",
+    "new": "IMG_DODGE_CHARGER-SRT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "DODGE",
+    "model": "CHARGER-SRT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "道奇_Charger-SRT_默认_二排正视前排_01.png",
+    "new": "IMG_DODGE_CHARGER-SRT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "DODGE",
+    "model": "CHARGER-SRT",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "道奇_Durango_默认_二排正视前排_01.json",
+    "new": "IMG_DODGE_DURANGO_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "DODGE",
+    "model": "DURANGO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "道奇_Durango_默认_二排正视前排_01.png",
+    "new": "IMG_DODGE_DURANGO_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "DODGE",
+    "model": "DURANGO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_Suburban_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_SUBURBAN_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "SUBURBAN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_Suburban_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_SUBURBAN_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "SUBURBAN",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_Traverse(进口)_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_TRAVERSE-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "TRAVERSE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_Traverse(进口)_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_TRAVERSE-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "TRAVERSE-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_乐风RV_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_LOVA-RV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "LOVA-RV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_乐风RV_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_LOVA-RV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "LOVA-RV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_创界_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_CHUANGJIE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CHUANGJIE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_创界_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_CHUANGJIE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CHUANGJIE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_创酷_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_TRACKER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "TRACKER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_创酷_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_TRACKER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "TRACKER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_开拓者(海外)_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_BLAZER-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "BLAZER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_开拓者(海外)_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_BLAZER-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "BLAZER-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_开拓者_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_BLAZER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "BLAZER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_开拓者_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_BLAZER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "BLAZER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_探界者Plus_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_EQUINOX-PLUS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "EQUINOX-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_探界者Plus_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_EQUINOX-PLUS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "EQUINOX-PLUS",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_探界者_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_EQUINOX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "EQUINOX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_探界者_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_EQUINOX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "EQUINOX",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_星迈罗_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_SEEKER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "SEEKER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_星迈罗_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_SEEKER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "SEEKER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_沃兰多_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_ORLANDO_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "ORLANDO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_沃兰多_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_ORLANDO_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "ORLANDO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_畅巡_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_MENLO_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MENLO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_畅巡_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_MENLO_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MENLO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科帕奇_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_CAPTIVA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CAPTIVA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科帕奇_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_CAPTIVA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CAPTIVA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科沃兹_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_CAVALIER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CAVALIER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科沃兹_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_CAVALIER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CAVALIER",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科迈罗_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_CAMARO_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CAMARO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科迈罗_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_CAMARO_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CAMARO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科鲁兹_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_CRUZE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "CRUZE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科鲁兹_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_CRUZE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "CRUZE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科鲁泽_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_MONZA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MONZA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_科鲁泽_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_MONZA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MONZA",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_索罗德_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_SILVERADO_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "SILVERADO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_索罗德_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_SILVERADO_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "SILVERADO",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_赛欧_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_SAIL_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "SAIL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_赛欧_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_SAIL_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "SAIL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_迈锐宝(海外)_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_MALIBU-IMP_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MALIBU-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_迈锐宝(海外)_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_MALIBU-IMP_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MALIBU-IMP",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_迈锐宝XL_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_MALIBU-XL_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MALIBU-XL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_迈锐宝XL_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_MALIBU-XL_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MALIBU-XL",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_迈锐宝_默认_二排正视前排_01.json",
+    "new": "IMG_CHEVY_MALIBU_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "CHEVY",
+    "model": "MALIBU",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "雪佛兰_迈锐宝_默认_二排正视前排_01.png",
+    "new": "IMG_CHEVY_MALIBU_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "CHEVY",
+    "model": "MALIBU",
+    "gen": "NA",
+    "subid": "NA"
+  }
+]

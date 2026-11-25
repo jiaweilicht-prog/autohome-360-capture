@@ -1,0 +1,178 @@
+{
+  "55680": {
+    "rear": {
+      "h": 0,
+      "score": 4256,
+      "sep": 1479.28,
+      "offset": 0,
+      "hFinal": 0,
+      "lowConfidence": false
+    },
+    "driver": {
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "61598": {
+    "driver": {
+      "h": 20,
+      "score": 2265.29,
+      "sep": 90.73,
+      "offset": 0,
+      "hFinal": 20,
+      "lowConfidence": true
+    }
+  },
+  "63837": {
+    "rear": {
+      "h": 30,
+      "score": 4815.5,
+      "sep": 348.85,
+      "offset": 0,
+      "hFinal": 30,
+      "lowConfidence": false
+    },
+    "driver": {
+      "h": 30,
+      "offset": 15,
+      "hFinal": 45,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "72934": {
+    "driver": {
+      "h": 15,
+      "score": 2288.1,
+      "sep": 46.9,
+      "lowConfidence": true
+    },
+    "rear": {
+      "h": 0,
+      "score": 3584.51,
+      "sep": 568.23
+    }
+  },
+  "73042": {
+    "driver": {
+      "h": 20,
+      "score": 1551.52,
+      "sep": 217.6,
+      "lowConfidence": false
+    },
+    "rear": {
+      "h": 0,
+      "score": 3093.67,
+      "sep": 407.65
+    }
+  },
+  "74039": {
+    "rear": {
+      "h": 0,
+      "score": 3275.54,
+      "sep": 1392.13,
+      "offset": 0,
+      "hFinal": 0,
+      "lowConfidence": false
+    },
+    "driver": {
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "74682": {
+    "rear": {
+      "h": 0,
+      "score": 1992.26,
+      "sep": 1668.52,
+      "offset": 0,
+      "hFinal": 0,
+      "lowConfidence": false
+    },
+    "driver": {
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "76181": {
+    "driver": {
+      "h": 15,
+      "score": 1454.57,
+      "sep": 288.44,
+      "lowConfidence": false
+    },
+    "rear": {
+      "h": 0,
+      "score": 3237.38,
+      "sep": 1323.28
+    }
+  },
+  "76465": {
+    "driver": {
+      "h": 20,
+      "score": 1669.72,
+      "sep": 707.7,
+      "lowConfidence": false
+    },
+    "rear": {
+      "h": 0,
+      "score": 3677.71,
+      "sep": 336.37
+    }
+  },
+  "77586": {
+    "rear": {
+      "h": 0,
+      "score": 3121.69,
+      "sep": 997.07,
+      "offset": 0,
+      "hFinal": 0,
+      "lowConfidence": false
+    },
+    "driver": {
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "78601": {
+    "rear": {
+      "h": 5,
+      "score": 4508.81,
+      "sep": 255.03,
+      "offset": 0,
+      "hFinal": 5,
+      "lowConfidence": false
+    },
+    "driver": {
+      "h": 5,
+      "offset": 15,
+      "hFinal": 20,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+[
+ {
+  "old": "output/images_by_view/主驾位前望/奥迪_奥迪R8_默认_主驾正视前排IP_01.png",
+  "new": "IMG_AUD_R8_4S_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "old": "output/images_by_view/主驾位前望/奥迪_奥迪TT_默认_主驾正视前排IP_01.png",
+  "new": "IMG_AUD_TT_8S_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "old": "output/images_by_view/主驾位前望/宝马_宝马5系_默认_主驾正视前排IP_01.png",
+  "new": "IMG_BMW_5_G38_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "old": "output/images_by_view/前舱正视/宝马_宝马5系_默认_二排正视前排_01.png",
+  "new": "IMG_BMW_5_G38_IPFRONT_NA_AUTO360_01.png"
+ }
+]

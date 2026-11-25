@@ -1,0 +1,627 @@
+[
+ {
+  "series": "奥迪A3",
+  "brandCode": "AUD",
+  "modelCode": "A3",
+  "genCode": "8V",
+  "panoId": "72934",
+  "found": 2,
+  "img": 0,
+  "paths": [
+   "output/images/奥迪/奥迪A3/默认/奥迪_奥迪A3_默认_主驾正视前排IP_01.png",
+   "output/images/奥迪/奥迪A3/默认/奥迪_奥迪A3_默认_二排正视前排_01.png"
+  ]
+ },
+ {
+  "series": "奥迪A4L",
+  "brandCode": "AUD",
+  "modelCode": "A4L",
+  "genCode": "B9",
+  "panoId": "73307",
+  "found": 2,
+  "img": 0,
+  "paths": [
+   "output/images/奥迪/奥迪A4L/默认/奥迪_奥迪A4L_默认_主驾正视前排IP_01.png",
+   "output/images/奥迪/奥迪A4L/默认/奥迪_奥迪A4L_默认_二排正视前排_01.png"
+  ]
+ },
+ {
+  "series": "奥迪A5L",
+  "brandCode": "AUD",
+  "modelCode": "A5L",
+  "genCode": "B9⚠",
+  "panoId": "73534",
+  "found": 2,
+  "img": 0,
+  "paths": [
+   "output/images/奥迪/奥迪A5L/默认/奥迪_奥迪A5L_默认_主驾正视前排IP_01.png",
+   "output/images/奥迪/奥迪A5L/默认/奥迪_奥迪A5L_默认_二排正视前排_01.png"
+  ]
+ },
+ {
+  "series": "奥迪A6L",
+  "brandCode": "AUD",
+  "modelCode": "A6L",
+  "genCode": "C8",
+  "panoId": "76524",
+  "found": 2,
+  "img": 0,
+  "paths": [
+   "output/images/奥迪/奥迪A6L/默认/奥迪_奥迪A6L_默认_主驾正视前排IP_01.png",
+   "output/images/奥迪/奥迪A6L/默认/奥迪_奥迪A6L_默认_二排正视前排_01.png"
+  ]
+ },
+ {
+  "series": "奥迪A8",
+  "brandCode": "AUD",
+  "modelCode": "A8",
+  "genCode": "D5⚠",
+  "panoId": "73042",
+  "found": 4,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_AUDI_A8_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_AUDI_A8_NA_IPFRONT_NA_AUTO360_01.png",
+   "output/images/奥迪/奥迪A8/默认/奥迪_奥迪A8_默认_主驾正视前排IP_01.png",
+   "output/images/奥迪/奥迪A8/默认/奥迪_奥迪A8_默认_二排正视前排_01.png"
+  ]
+ },
+ {
+  "series": "奥迪Q7",
+  "brandCode": "AUD",
+  "modelCode": "Q7",
+  "genCode": "4M⚠",
+  "panoId": "77393",
+  "found": 2,
+  "img": 0,
+  "paths": [
+   "output/images/奥迪/奥迪Q7/默认/奥迪_奥迪Q7_默认_主驾正视前排IP_01.png",
+   "output/images/奥迪/奥迪Q7/默认/奥迪_奥迪Q7_默认_二排正视前排_01.png"
+  ]
+ },
+ {
+  "series": "奥迪R8",
+  "brandCode": "AUD",
+  "modelCode": "R8",
+  "genCode": "4S",
+  "panoId": "55115",
+  "found": 2,
+  "img": 1,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_AUDI_R8_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images/奥迪/奥迪R8/默认/奥迪_奥迪R8_默认_主驾正视前排IP_01.png"
+  ]
+ },
+ {
+  "series": "奥迪TT",
+  "brandCode": "AUD",
+  "modelCode": "TT",
+  "genCode": "8S⚠",
+  "panoId": "29948",
+  "found": 2,
+  "img": 1,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_AUDI_TT_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images/奥迪/奥迪TT/默认/奥迪_奥迪TT_默认_主驾正视前排IP_01.png"
+  ]
+ },
+ {
+  "series": "宝马2系",
+  "brandCode": "BMW",
+  "modelCode": "2",
+  "genCode": "G42⚠",
+  "panoId": "76465",
+  "found": 2,
+  "img": 0,
+  "paths": [
+   "output/images/宝马/宝马2系/默认/宝马_宝马2系_默认_主驾正视前排IP_01.png",
+   "output/images/宝马/宝马2系/默认/宝马_宝马2系_默认_二排正视前排_01.png"
+  ]
+ },
+ {
+  "series": "宝马3系",
+  "brandCode": "BMW",
+  "modelCode": "3",
+  "genCode": "G20⚠",
+  "panoId": "76181",
+  "found": 2,
+  "img": 0,
+  "paths": [
+   "output/images/宝马/宝马3系/默认/宝马_宝马3系_默认_主驾正视前排IP_01.png",
+   "output/images/宝马/宝马3系/默认/宝马_宝马3系_默认_二排正视前排_01.png"
+  ]
+ },
+ {
+  "series": "宝马5系",
+  "brandCode": "BMW",
+  "modelCode": "5",
+  "genCode": "G38⚠",
+  "panoId": "76440",
+  "found": 1,
+  "img": 0,
+  "paths": [
+   "output/images/宝马/宝马5系/默认/宝马_宝马5系_默认_主驾正视前排IP_01.png"
+  ]
+ },
+ {
+  "series": "宝马6系GT",
+  "brandCode": "BMW",
+  "modelCode": "6GT",
+  "genCode": "G32",
+  "panoId": "69295",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "宝马i3",
+  "brandCode": "BMW",
+  "modelCode": "I3",
+  "genCode": "I01⚠",
+  "panoId": "76420",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "宝马i4",
+  "brandCode": "BMW",
+  "modelCode": "I4",
+  "genCode": "G26",
+  "panoId": "68076",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "宝马iX",
+  "brandCode": "BMW",
+  "modelCode": "IX",
+  "genCode": "I20",
+  "panoId": "63896",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_BMW_IX_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_BMW_IX_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "宝马iX3",
+  "brandCode": "BMW",
+  "modelCode": "IX3",
+  "genCode": "G08",
+  "panoId": "76392",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_BMW_IX3_G08_IPDRV_0204_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_BMW_IX3_G08_IPFRONT_0101_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "宝马X3",
+  "brandCode": "BMW",
+  "modelCode": "X3",
+  "genCode": "G01⚠",
+  "panoId": "76409",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_BMW_X3_G01_IPDRV_0204_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_BMW_X3_G01_IPFRONT_0101_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "宝马XM",
+  "brandCode": "BMW",
+  "modelCode": "XM",
+  "genCode": "G09",
+  "panoId": "62467",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_BMW_XM_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_BMW_XM_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "菲亚特500",
+  "brandCode": "FIA",
+  "modelCode": "500",
+  "genCode": "NA⚠",
+  "panoId": "63550",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "菲亚特500X",
+  "brandCode": "FIA",
+  "modelCode": "500X",
+  "genCode": "NA⚠",
+  "panoId": "41825",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "Mustang",
+  "brandCode": "FOR",
+  "modelCode": "MUSTANG",
+  "genCode": "S550⚠",
+  "panoId": "59483",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_FORD_MUSTANG_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_FORD_MUSTANG_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "全顺",
+  "brandCode": "FOR",
+  "modelCode": "TRANSIT",
+  "genCode": "NA⚠",
+  "panoId": "1015043",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_FORD_TRANSIT_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_FORD_TRANSIT_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "福克斯",
+  "brandCode": "FOR",
+  "modelCode": "FOCUS",
+  "genCode": "NA⚠",
+  "panoId": "56215",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_FORD_FOCUS_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_FORD_FOCUS_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "翼搏",
+  "brandCode": "FOR",
+  "modelCode": "ECOSPORT",
+  "genCode": "NA⚠",
+  "panoId": "39443",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_FORD_ECOSPORT_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_FORD_ECOSPORT_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "翼虎",
+  "brandCode": "FOR",
+  "modelCode": "KUGA",
+  "genCode": "NA⚠",
+  "panoId": "41626",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_FORD_KUGA_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_FORD_KUGA_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "蒙迪欧",
+  "brandCode": "FOR",
+  "modelCode": "MONDEO",
+  "genCode": "NA⚠",
+  "panoId": "75840",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_FORD_MONDEO_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_FORD_MONDEO_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "AMG GT",
+  "brandCode": "MER",
+  "modelCode": "AMGGT",
+  "genCode": "C190⚠",
+  "panoId": "75658",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_MER_AMG-GT_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_MER_AMG-GT_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "奔驰A级",
+  "brandCode": "MER",
+  "modelCode": "A",
+  "genCode": "W177⚠",
+  "panoId": "74509",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "奔驰B级",
+  "brandCode": "MER",
+  "modelCode": "B",
+  "genCode": "W247⚠",
+  "panoId": "59842",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "奔驰CLA AMG",
+  "brandCode": "MER",
+  "modelCode": "CLA",
+  "genCode": "C178⚠",
+  "panoId": "73657",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "奔驰CLE",
+  "brandCode": "MER",
+  "modelCode": "CLE",
+  "genCode": "C236",
+  "panoId": "77733",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "奔驰C级",
+  "brandCode": "MER",
+  "modelCode": "C",
+  "genCode": "W206⚠",
+  "panoId": "77922",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "奔驰E级",
+  "brandCode": "MER",
+  "modelCode": "E",
+  "genCode": "W214⚠",
+  "panoId": "77140",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_MER_E-CLASS_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_MER_E-CLASS_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "奔驰GLA",
+  "brandCode": "MER",
+  "modelCode": "GLA",
+  "genCode": "H247⚠",
+  "panoId": "72405",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "奔驰GLB",
+  "brandCode": "MER",
+  "modelCode": "GLB",
+  "genCode": "X247⚠",
+  "panoId": "75810",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "奔驰S级",
+  "brandCode": "MER",
+  "modelCode": "S",
+  "genCode": "W223⚠",
+  "panoId": "75445",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_MER_S-CLASS_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_MER_S-CLASS_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "标致2008",
+  "brandCode": "PEU",
+  "modelCode": "2008",
+  "genCode": "NA⚠",
+  "panoId": "53883",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "标致3008",
+  "brandCode": "PEU",
+  "modelCode": "3008",
+  "genCode": "NA⚠",
+  "panoId": "36493",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_PEU_3008_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_PEU_3008_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "标致308",
+  "brandCode": "PEU",
+  "modelCode": "308",
+  "genCode": "NA⚠",
+  "panoId": "37361",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "标致5008",
+  "brandCode": "PEU",
+  "modelCode": "5008",
+  "genCode": "NA⚠",
+  "panoId": "72121",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "标致508",
+  "brandCode": "PEU",
+  "modelCode": "508",
+  "genCode": "NA⚠",
+  "panoId": "75900",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_PEU_508_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_PEU_508_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "ID. Buzz",
+  "brandCode": "VW",
+  "modelCode": "IDBUZZ",
+  "genCode": "NA⚠",
+  "panoId": "64588",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "Passat",
+  "brandCode": "VW",
+  "modelCode": "PASSAT",
+  "genCode": "NA⚠",
+  "panoId": "37635",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "Polo",
+  "brandCode": "VW",
+  "modelCode": "POLO",
+  "genCode": "NA⚠",
+  "panoId": "62295",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "Tiguan",
+  "brandCode": "VW",
+  "modelCode": "TIGUAN",
+  "genCode": "NA⚠",
+  "panoId": "39236",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "大众ID.3",
+  "brandCode": "VW",
+  "modelCode": "ID3",
+  "genCode": "NA⚠",
+  "panoId": "72248",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "高尔夫",
+  "brandCode": "VW",
+  "modelCode": "GOLF",
+  "genCode": "MK8⚠",
+  "panoId": "75017",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "沃尔沃EM90",
+  "brandCode": "VOL",
+  "modelCode": "EM90",
+  "genCode": "NA⚠",
+  "panoId": "77555",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "沃尔沃EX30",
+  "brandCode": "VOL",
+  "modelCode": "EX30",
+  "genCode": "NA⚠",
+  "panoId": "71736",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_VOLVO_EX30_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_VOLVO_EX30_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ },
+ {
+  "series": "沃尔沃S90",
+  "brandCode": "VOL",
+  "modelCode": "S90",
+  "genCode": "NA⚠",
+  "panoId": "72952",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "沃尔沃V90",
+  "brandCode": "VOL",
+  "modelCode": "V90",
+  "genCode": "NA⚠",
+  "panoId": "70863",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "沃尔沃XC40",
+  "brandCode": "VOL",
+  "modelCode": "XC40",
+  "genCode": "NA⚠",
+  "panoId": "73358",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "沃尔沃XC60",
+  "brandCode": "VOL",
+  "modelCode": "XC60",
+  "genCode": "NA⚠",
+  "panoId": "78741",
+  "found": 0,
+  "img": 0,
+  "paths": []
+ },
+ {
+  "series": "沃尔沃XC90",
+  "brandCode": "VOL",
+  "modelCode": "XC90",
+  "genCode": "NA⚠",
+  "panoId": "75641",
+  "found": 2,
+  "img": 2,
+  "paths": [
+   "output/images_by_view/主驾位前望/IMG_VOLVO_XC90_NA_IPDRV_NA_AUTO360_01.png",
+   "output/images_by_view/前舱正视/IMG_VOLVO_XC90_NA_IPFRONT_NA_AUTO360_01.png"
+  ]
+ }
+]

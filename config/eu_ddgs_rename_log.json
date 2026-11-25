@@ -1,0 +1,2530 @@
+[
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "DS_DS-7_默认_主驾正视前排IP_01.json",
+    "new": "IMG_DS_DS7_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "DS",
+    "model": "DS7"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "DS_DS-7_默认_主驾正视前排IP_01.png",
+    "new": "IMG_DS_DS7_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "DS",
+    "model": "DS7"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "DS_DS-9_默认_主驾正视前排IP_01.json",
+    "new": "IMG_DS_DS9_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "DS",
+    "model": "DS9"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "DS_DS-9_默认_主驾正视前排IP_01.png",
+    "new": "IMG_DS_DS9_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "DS",
+    "model": "DS9"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "LEVC_LEVC-LX_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LEVC_LX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LEVC",
+    "model": "LX"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "LEVC_LEVC-LX_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LEVC_LX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LEVC",
+    "model": "LX"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "LEVC_LEVC-TX_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LEVC_TX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LEVC",
+    "model": "TX"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "LEVC_LEVC-TX_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LEVC_TX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LEVC",
+    "model": "TX"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Polestar极星_Polestar-3_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POLE_POLESTAR3_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POLE",
+    "model": "POLESTAR3"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Polestar极星_Polestar-3_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POLE_POLESTAR3_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POLE",
+    "model": "POLESTAR3"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Polestar极星_Polestar-4_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POLE_POLESTAR4_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POLE",
+    "model": "POLESTAR4"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "Polestar极星_Polestar-4_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POLE_POLESTAR4_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POLE",
+    "model": "POLESTAR4"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_918-Spyder_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POR_918-SPYDER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "918-SPYDER"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_918-Spyder_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POR_918-SPYDER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "918-SPYDER"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_Cayenne_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POR_CAYENNE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "CAYENNE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_Cayenne_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POR_CAYENNE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "CAYENNE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_Macan_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POR_MACAN_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "MACAN"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_Macan_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POR_MACAN_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "MACAN"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_Macan新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POR_MACAN-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "MACAN-PHEV"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_Macan新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POR_MACAN-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "MACAN-PHEV"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_Taycan_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POR_TAYCAN_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "TAYCAN"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_Taycan_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POR_TAYCAN_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "TAYCAN"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_保时捷718_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POR_718_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "718"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_保时捷718_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POR_718_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "718"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_保时捷911_默认_主驾正视前排IP_01.json",
+    "new": "IMG_POR_911_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "911"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "保时捷_保时捷911_默认_主驾正视前排IP_01.png",
+    "new": "IMG_POR_911_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "911"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "兰博基尼_Aventador_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LAM_AVENTADOR_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LAM",
+    "model": "AVENTADOR"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "兰博基尼_Aventador_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LAM_AVENTADOR_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LAM",
+    "model": "AVENTADOR"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "兰博基尼_Huracán_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LAM_HURACAN_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LAM",
+    "model": "HURACAN"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "兰博基尼_Huracán_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LAM_HURACAN_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LAM",
+    "model": "HURACAN"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "兰博基尼_Revuelto_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LAM_REVELTO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LAM",
+    "model": "REVELTO"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "兰博基尼_Revuelto_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LAM_REVELTO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LAM",
+    "model": "REVELTO"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "兰博基尼_Urus_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LAM_URUS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LAM",
+    "model": "URUS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "兰博基尼_Urus_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LAM_URUS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LAM",
+    "model": "URUS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "劳斯莱斯_古思特_默认_主驾正视前排IP_01.json",
+    "new": "IMG_RR_GHOST_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "RR",
+    "model": "GHOST"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "劳斯莱斯_古思特_默认_主驾正视前排IP_01.png",
+    "new": "IMG_RR_GHOST_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "RR",
+    "model": "GHOST"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "劳斯莱斯_幻影_默认_主驾正视前排IP_01.json",
+    "new": "IMG_RR_PHANTOM_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "RR",
+    "model": "PHANTOM"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "劳斯莱斯_幻影_默认_主驾正视前排IP_01.png",
+    "new": "IMG_RR_PHANTOM_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "RR",
+    "model": "PHANTOM"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "劳斯莱斯_库里南_默认_主驾正视前排IP_01.json",
+    "new": "IMG_RR_CULLINAN_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "RR",
+    "model": "CULLINAN"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "劳斯莱斯_库里南_默认_主驾正视前排IP_01.png",
+    "new": "IMG_RR_CULLINAN_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "RR",
+    "model": "CULLINAN"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "劳斯莱斯_闪灵_默认_主驾正视前排IP_01.json",
+    "new": "IMG_RR_SPECTRE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "RR",
+    "model": "SPECTRE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "劳斯莱斯_闪灵_默认_主驾正视前排IP_01.png",
+    "new": "IMG_RR_SPECTRE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "RR",
+    "model": "SPECTRE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_AMG-GT_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_AMG-GT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "AMG-GT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_AMG-GT_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_AMG-GT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "AMG-GT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰EQE-SUV_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_EQE-SUV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "EQE-SUV"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰EQE-SUV_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_EQE-SUV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "EQE-SUV"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰EQS_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_EQS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "EQS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰EQS_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_EQS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "EQS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰E级_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_E-CLASS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "E-CLASS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰E级_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_E-CLASS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "E-CLASS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰G级_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_G-CLASS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "G-CLASS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰G级_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_G-CLASS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "G-CLASS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰S级_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_S-CLASS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "S-CLASS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_奔驰S级_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_S-CLASS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "S-CLASS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_迈巴赫EQS-SUV_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_MAYBACH-EQS-SUV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "MAYBACH-EQS-SUV"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_迈巴赫EQS-SUV_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_MAYBACH-EQS-SUV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "MAYBACH-EQS-SUV"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_迈巴赫GLS_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_MAYBACH-GLS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "MAYBACH-GLS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_迈巴赫GLS_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_MAYBACH-GLS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "MAYBACH-GLS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_迈巴赫S级_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_MAYBACH-S_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "MAYBACH-S"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_迈巴赫S级_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_MAYBACH-S_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "MAYBACH-S"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_迈巴赫S级新能源_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MER_MAYBACH-S-PHEV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "MAYBACH-S-PHEV"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奔驰_迈巴赫S级新能源_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MER_MAYBACH-S-PHEV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "MAYBACH-S-PHEV"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪A8_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_A8_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "A8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪A8_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_A8_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "A8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪Q6L-e-tron_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_Q6L-ETRON_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "Q6L-ETRON"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪Q6L-e-tron_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_Q6L-ETRON_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "Q6L-ETRON"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪Q8_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_Q8_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "Q8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪Q8_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_Q8_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "Q8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪R8_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_R8_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "R8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪R8_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_R8_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "R8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪RS-e-tron-GT_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_RS-ETRON-GT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "RS-ETRON-GT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪RS-e-tron-GT_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_RS-ETRON-GT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "RS-ETRON-GT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪TT-RS_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_TT-RS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "TT-RS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪TT-RS_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_TT-RS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "TT-RS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪TTS_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_TTS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "TTS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪TTS_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_TTS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "TTS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪TT_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_TT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "TT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪TT_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_TT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "TT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪e-tron-GT_默认_主驾正视前排IP_01.json",
+    "new": "IMG_AUDI_ETRON-GT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "ETRON-GT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "奥迪_奥迪e-tron-GT_默认_主驾正视前排IP_01.png",
+    "new": "IMG_AUDI_ETRON-GT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "ETRON-GT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马7系_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_7_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "7"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马7系_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_7_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "7"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马M8_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_M8_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "M8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马M8_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_M8_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "M8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马X3_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_X3_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "X3"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马X3_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_X3_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "X3"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马X5_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_X5_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "X5"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马X5_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_X5_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "X5"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马XM_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_XM_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "XM"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马XM_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_XM_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "XM"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马Z4_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_Z4_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "Z4"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马Z4_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_Z4_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "Z4"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马i7_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_I7_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "I7"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马i7_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_I7_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "I7"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马i8_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_I8_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "I8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马i8_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_I8_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "I8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马iX_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BMW_IX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "IX"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宝马_宝马iX_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BMW_IX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "IX"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宾利_Bacalar_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BEN_BACALAR_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BEN",
+    "model": "BACALAR"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宾利_Bacalar_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BEN_BACALAR_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BEN",
+    "model": "BACALAR"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宾利_慕尚_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BEN_MULSANNE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BEN",
+    "model": "MULSANNE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宾利_慕尚_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BEN_MULSANNE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BEN",
+    "model": "MULSANNE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宾利_欧陆_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BEN_CONTINENTAL_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BEN",
+    "model": "CONTINENTAL"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宾利_欧陆_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BEN_CONTINENTAL_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BEN",
+    "model": "CONTINENTAL"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宾利_添越_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BEN_BENTAYGA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BEN",
+    "model": "BENTAYGA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "宾利_添越_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BEN_BENTAYGA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BEN",
+    "model": "BENTAYGA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "布加迪_Divo_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUGA_DIVO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUGA",
+    "model": "DIVO"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "布加迪_Divo_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUGA_DIVO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUGA",
+    "model": "DIVO"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "布加迪_Tourbillon_默认_主驾正视前排IP_01.json",
+    "new": "IMG_BUGA_TOURBILLON_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "BUGA",
+    "model": "TOURBILLON"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "布加迪_Tourbillon_默认_主驾正视前排IP_01.png",
+    "new": "IMG_BUGA_TOURBILLON_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "BUGA",
+    "model": "TOURBILLON"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "摩根_摩根Plus-6_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MORGAN_PLUS6_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MORGAN",
+    "model": "PLUS6"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "摩根_摩根Plus-6_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MORGAN_PLUS6_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MORGAN",
+    "model": "PLUS6"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "标致_标致3008_默认_主驾正视前排IP_01.json",
+    "new": "IMG_PEU_3008_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "PEU",
+    "model": "3008"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "标致_标致3008_默认_主驾正视前排IP_01.png",
+    "new": "IMG_PEU_3008_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "PEU",
+    "model": "3008"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "标致_标致408_默认_主驾正视前排IP_01.json",
+    "new": "IMG_PEU_408_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "PEU",
+    "model": "408"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "标致_标致408_默认_主驾正视前排IP_01.png",
+    "new": "IMG_PEU_408_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "PEU",
+    "model": "408"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "标致_标致508_默认_主驾正视前排IP_01.json",
+    "new": "IMG_PEU_508_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "PEU",
+    "model": "508"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "标致_标致508_默认_主驾正视前排IP_01.png",
+    "new": "IMG_PEU_508_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "PEU",
+    "model": "508"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "沃尔沃_沃尔沃ES90_默认_主驾正视前排IP_01.json",
+    "new": "IMG_VOLVO_ES90_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "VOLVO",
+    "model": "ES90"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "沃尔沃_沃尔沃ES90_默认_主驾正视前排IP_01.png",
+    "new": "IMG_VOLVO_ES90_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "VOLVO",
+    "model": "ES90"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "沃尔沃_沃尔沃EX30_默认_主驾正视前排IP_01.json",
+    "new": "IMG_VOLVO_EX30_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "VOLVO",
+    "model": "EX30"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "沃尔沃_沃尔沃EX30_默认_主驾正视前排IP_01.png",
+    "new": "IMG_VOLVO_EX30_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "VOLVO",
+    "model": "EX30"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "沃尔沃_沃尔沃EX90_默认_主驾正视前排IP_01.json",
+    "new": "IMG_VOLVO_EX90_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "VOLVO",
+    "model": "EX90"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "沃尔沃_沃尔沃EX90_默认_主驾正视前排IP_01.png",
+    "new": "IMG_VOLVO_EX90_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "VOLVO",
+    "model": "EX90"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "沃尔沃_沃尔沃XC90_默认_主驾正视前排IP_01.json",
+    "new": "IMG_VOLVO_XC90_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "VOLVO",
+    "model": "XC90"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "沃尔沃_沃尔沃XC90_默认_主驾正视前排IP_01.png",
+    "new": "IMG_VOLVO_XC90_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "VOLVO",
+    "model": "XC90"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_GTC4Lusso_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_GTC4LUSSO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "GTC4LUSSO"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_GTC4Lusso_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_GTC4LUSSO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "GTC4LUSSO"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_Portofino_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_PORTOFINO_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "PORTOFINO"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_Portofino_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_PORTOFINO_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "PORTOFINO"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_Purosangue_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_PUROSANGUE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "PUROSANGUE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_Purosangue_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_PUROSANGUE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "PUROSANGUE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_Roma_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_ROMA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "ROMA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_Roma_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_ROMA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "ROMA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_SF90_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_SF90_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "SF90"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_SF90_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_SF90_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "SF90"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利12Cilindri_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_12CILINDRI_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "12CILINDRI"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利12Cilindri_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_12CILINDRI_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "12CILINDRI"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利296_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_296_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "296"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利296_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_296_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "296"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利812_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_812_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "812"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利812_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_812_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "812"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利849_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_849_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "849"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利849_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_849_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "849"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利F80_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_F80_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "F80"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利F80_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_F80_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "F80"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利F8_默认_主驾正视前排IP_01.json",
+    "new": "IMG_FER_F8_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "F8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_法拉利F8_默认_主驾正视前排IP_01.png",
+    "new": "IMG_FER_F8_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "F8"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "科尼赛克_Agera_默认_主驾正视前排IP_01.json",
+    "new": "IMG_KONI_AGERA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "KONI",
+    "model": "AGERA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "科尼赛克_Agera_默认_主驾正视前排IP_01.png",
+    "new": "IMG_KONI_AGERA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "KONI",
+    "model": "AGERA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "英力士掷弹兵_英力士掷弹兵_默认_主驾正视前排IP_01.json",
+    "new": "IMG_INEOS_GRENADIER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "INEOS",
+    "model": "GRENADIER"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "英力士掷弹兵_英力士掷弹兵_默认_主驾正视前排IP_01.png",
+    "new": "IMG_INEOS_GRENADIER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "INEOS",
+    "model": "GRENADIER"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_ELETRE_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LOTUS_ELETRE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LOTUS",
+    "model": "ELETRE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_ELETRE_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LOTUS_ELETRE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LOTUS",
+    "model": "ELETRE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_EMEYA_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LOTUS_EMEYA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LOTUS",
+    "model": "EMEYA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_EMEYA_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LOTUS_EMEYA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LOTUS",
+    "model": "EMEYA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_EMIRA_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LOTUS_EMIRA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LOTUS",
+    "model": "EMIRA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_EMIRA_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LOTUS_EMIRA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LOTUS",
+    "model": "EMIRA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_Evora_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LOTUS_EVORA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LOTUS",
+    "model": "EVORA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_Evora_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LOTUS_EVORA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LOTUS",
+    "model": "EVORA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_FOR-ME_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LOTUS_FORME_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LOTUS",
+    "model": "FORME"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "莲花跑车_FOR-ME_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LOTUS_FORME_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LOTUS",
+    "model": "FORME"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "路虎_揽胜_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LR_RANGE-ROVER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LR",
+    "model": "RANGE-ROVER"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "路虎_揽胜_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LR_RANGE-ROVER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LR",
+    "model": "RANGE-ROVER"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "路虎_揽胜星脉_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LR_VELAR_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LR",
+    "model": "VELAR"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "路虎_揽胜星脉_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LR_VELAR_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LR",
+    "model": "VELAR"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "路虎_揽胜运动_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LR_RANGE-ROVER-SPORT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LR",
+    "model": "RANGE-ROVER-SPORT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "路虎_揽胜运动_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LR_RANGE-ROVER-SPORT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LR",
+    "model": "RANGE-ROVER-SPORT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "路虎_路虎卫士_默认_主驾正视前排IP_01.json",
+    "new": "IMG_LR_DEFENDER_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "LR",
+    "model": "DEFENDER"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "路虎_路虎卫士_默认_主驾正视前排IP_01.png",
+    "new": "IMG_LR_DEFENDER_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "LR",
+    "model": "DEFENDER"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_Artura_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MCLAREN_ARTURA_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MCLAREN",
+    "model": "ARTURA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_Artura_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MCLAREN_ARTURA_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MCLAREN",
+    "model": "ARTURA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦540C_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MCLAREN_540C_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MCLAREN",
+    "model": "540C"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦540C_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MCLAREN_540C_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MCLAREN",
+    "model": "540C"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦570_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MCLAREN_570_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MCLAREN",
+    "model": "570"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦570_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MCLAREN_570_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MCLAREN",
+    "model": "570"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦600LT_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MCLAREN_600LT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MCLAREN",
+    "model": "600LT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦600LT_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MCLAREN_600LT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MCLAREN",
+    "model": "600LT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦720S_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MCLAREN_720S_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MCLAREN",
+    "model": "720S"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦720S_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MCLAREN_720S_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MCLAREN",
+    "model": "720S"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦GT_默认_主驾正视前排IP_01.json",
+    "new": "IMG_MCLAREN_GT_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "MCLAREN",
+    "model": "GT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "迈凯伦_迈凯伦GT_默认_主驾正视前排IP_01.png",
+    "new": "IMG_MCLAREN_GT_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "MCLAREN",
+    "model": "GT"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_V8-Vantage_默认_主驾正视前排IP_01.json",
+    "new": "IMG_ASTON_V8-VANTAGE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "V8-VANTAGE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_V8-Vantage_默认_主驾正视前排IP_01.png",
+    "new": "IMG_ASTON_V8-VANTAGE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "V8-VANTAGE"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_Vanquish_默认_主驾正视前排IP_01.json",
+    "new": "IMG_ASTON_VANQUISH_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "VANQUISH"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_Vanquish_默认_主驾正视前排IP_01.png",
+    "new": "IMG_ASTON_VANQUISH_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "VANQUISH"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DB11_默认_主驾正视前排IP_01.json",
+    "new": "IMG_ASTON_DB11_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "DB11"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DB11_默认_主驾正视前排IP_01.png",
+    "new": "IMG_ASTON_DB11_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "DB11"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DB12_默认_主驾正视前排IP_01.json",
+    "new": "IMG_ASTON_DB12_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "DB12"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DB12_默认_主驾正视前排IP_01.png",
+    "new": "IMG_ASTON_DB12_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "DB12"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DBS_默认_主驾正视前排IP_01.json",
+    "new": "IMG_ASTON_DBS_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "DBS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DBS_默认_主驾正视前排IP_01.png",
+    "new": "IMG_ASTON_DBS_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "DBS"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DBX_默认_主驾正视前排IP_01.json",
+    "new": "IMG_ASTON_DBX_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "DBX"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DBX_默认_主驾正视前排IP_01.png",
+    "new": "IMG_ASTON_DBX_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "DBX"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "DS_DS-7_默认_二排正视前排_01.json",
+    "new": "IMG_DS_DS7_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "DS",
+    "model": "DS7"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "DS_DS-7_默认_二排正视前排_01.png",
+    "new": "IMG_DS_DS7_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "DS",
+    "model": "DS7"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "DS_DS-9_默认_二排正视前排_01.json",
+    "new": "IMG_DS_DS9_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "DS",
+    "model": "DS9"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "DS_DS-9_默认_二排正视前排_01.png",
+    "new": "IMG_DS_DS9_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "DS",
+    "model": "DS9"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "LEVC_LEVC-LX_默认_二排正视前排_01.json",
+    "new": "IMG_LEVC_LX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LEVC",
+    "model": "LX"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "LEVC_LEVC-LX_默认_二排正视前排_01.png",
+    "new": "IMG_LEVC_LX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LEVC",
+    "model": "LX"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "LEVC_LEVC-TX_默认_二排正视前排_01.json",
+    "new": "IMG_LEVC_TX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LEVC",
+    "model": "TX"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "LEVC_LEVC-TX_默认_二排正视前排_01.png",
+    "new": "IMG_LEVC_TX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LEVC",
+    "model": "TX"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Polestar极星_Polestar-3_默认_二排正视前排_01.json",
+    "new": "IMG_POLE_POLESTAR3_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "POLE",
+    "model": "POLESTAR3"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Polestar极星_Polestar-3_默认_二排正视前排_01.png",
+    "new": "IMG_POLE_POLESTAR3_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "POLE",
+    "model": "POLESTAR3"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Polestar极星_Polestar-4_默认_二排正视前排_01.json",
+    "new": "IMG_POLE_POLESTAR4_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "POLE",
+    "model": "POLESTAR4"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "Polestar极星_Polestar-4_默认_二排正视前排_01.png",
+    "new": "IMG_POLE_POLESTAR4_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "POLE",
+    "model": "POLESTAR4"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_Cayenne_默认_二排正视前排_01.json",
+    "new": "IMG_POR_CAYENNE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "CAYENNE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_Cayenne_默认_二排正视前排_01.png",
+    "new": "IMG_POR_CAYENNE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "CAYENNE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_Macan_默认_二排正视前排_01.json",
+    "new": "IMG_POR_MACAN_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "MACAN"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_Macan_默认_二排正视前排_01.png",
+    "new": "IMG_POR_MACAN_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "MACAN"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_Macan新能源_默认_二排正视前排_01.json",
+    "new": "IMG_POR_MACAN-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "MACAN-PHEV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_Macan新能源_默认_二排正视前排_01.png",
+    "new": "IMG_POR_MACAN-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "MACAN-PHEV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_Taycan_默认_二排正视前排_01.json",
+    "new": "IMG_POR_TAYCAN_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "TAYCAN"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_Taycan_默认_二排正视前排_01.png",
+    "new": "IMG_POR_TAYCAN_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "TAYCAN"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_保时捷911_默认_二排正视前排_01.json",
+    "new": "IMG_POR_911_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "POR",
+    "model": "911"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "保时捷_保时捷911_默认_二排正视前排_01.png",
+    "new": "IMG_POR_911_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "POR",
+    "model": "911"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "兰博基尼_Urus_默认_二排正视前排_01.json",
+    "new": "IMG_LAM_URUS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LAM",
+    "model": "URUS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "兰博基尼_Urus_默认_二排正视前排_01.png",
+    "new": "IMG_LAM_URUS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LAM",
+    "model": "URUS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "劳斯莱斯_古思特_默认_二排正视前排_01.json",
+    "new": "IMG_RR_GHOST_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "RR",
+    "model": "GHOST"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "劳斯莱斯_古思特_默认_二排正视前排_01.png",
+    "new": "IMG_RR_GHOST_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "RR",
+    "model": "GHOST"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "劳斯莱斯_幻影_默认_二排正视前排_01.json",
+    "new": "IMG_RR_PHANTOM_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "RR",
+    "model": "PHANTOM"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "劳斯莱斯_幻影_默认_二排正视前排_01.png",
+    "new": "IMG_RR_PHANTOM_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "RR",
+    "model": "PHANTOM"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "劳斯莱斯_库里南_默认_二排正视前排_01.json",
+    "new": "IMG_RR_CULLINAN_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "RR",
+    "model": "CULLINAN"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "劳斯莱斯_库里南_默认_二排正视前排_01.png",
+    "new": "IMG_RR_CULLINAN_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "RR",
+    "model": "CULLINAN"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "劳斯莱斯_闪灵_默认_二排正视前排_01.json",
+    "new": "IMG_RR_SPECTRE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "RR",
+    "model": "SPECTRE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "劳斯莱斯_闪灵_默认_二排正视前排_01.png",
+    "new": "IMG_RR_SPECTRE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "RR",
+    "model": "SPECTRE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_AMG-GT_默认_二排正视前排_01.json",
+    "new": "IMG_MER_AMG-GT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "AMG-GT"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_AMG-GT_默认_二排正视前排_01.png",
+    "new": "IMG_MER_AMG-GT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "AMG-GT"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_AMG-GT新能源_默认_二排正视前排_01.json",
+    "new": "IMG_MER_AMG-GT-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "AMG-GT-PHEV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_AMG-GT新能源_默认_二排正视前排_01.png",
+    "new": "IMG_MER_AMG-GT-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "AMG-GT-PHEV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰EQE-SUV_默认_二排正视前排_01.json",
+    "new": "IMG_MER_EQE-SUV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "EQE-SUV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰EQE-SUV_默认_二排正视前排_01.png",
+    "new": "IMG_MER_EQE-SUV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "EQE-SUV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰EQS_默认_二排正视前排_01.json",
+    "new": "IMG_MER_EQS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "EQS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰EQS_默认_二排正视前排_01.png",
+    "new": "IMG_MER_EQS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "EQS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰E级_默认_二排正视前排_01.json",
+    "new": "IMG_MER_E-CLASS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "E-CLASS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰E级_默认_二排正视前排_01.png",
+    "new": "IMG_MER_E-CLASS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "E-CLASS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰G级_默认_二排正视前排_01.json",
+    "new": "IMG_MER_G-CLASS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "G-CLASS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰G级_默认_二排正视前排_01.png",
+    "new": "IMG_MER_G-CLASS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "G-CLASS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰S级_默认_二排正视前排_01.json",
+    "new": "IMG_MER_S-CLASS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "S-CLASS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_奔驰S级_默认_二排正视前排_01.png",
+    "new": "IMG_MER_S-CLASS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "S-CLASS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_迈巴赫EQS-SUV_默认_二排正视前排_01.json",
+    "new": "IMG_MER_MAYBACH-EQS-SUV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "MAYBACH-EQS-SUV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_迈巴赫EQS-SUV_默认_二排正视前排_01.png",
+    "new": "IMG_MER_MAYBACH-EQS-SUV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "MAYBACH-EQS-SUV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_迈巴赫GLS_默认_二排正视前排_01.json",
+    "new": "IMG_MER_MAYBACH-GLS_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "MAYBACH-GLS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_迈巴赫GLS_默认_二排正视前排_01.png",
+    "new": "IMG_MER_MAYBACH-GLS_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "MAYBACH-GLS"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_迈巴赫S级_默认_二排正视前排_01.json",
+    "new": "IMG_MER_MAYBACH-S_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "MAYBACH-S"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_迈巴赫S级_默认_二排正视前排_01.png",
+    "new": "IMG_MER_MAYBACH-S_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "MAYBACH-S"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_迈巴赫S级新能源_默认_二排正视前排_01.json",
+    "new": "IMG_MER_MAYBACH-S-PHEV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "MER",
+    "model": "MAYBACH-S-PHEV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奔驰_迈巴赫S级新能源_默认_二排正视前排_01.png",
+    "new": "IMG_MER_MAYBACH-S-PHEV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "MER",
+    "model": "MAYBACH-S-PHEV"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪A8_默认_二排正视前排_01.json",
+    "new": "IMG_AUDI_A8_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "A8"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪A8_默认_二排正视前排_01.png",
+    "new": "IMG_AUDI_A8_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "A8"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪Q6L-e-tron_默认_二排正视前排_01.json",
+    "new": "IMG_AUDI_Q6L-ETRON_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "Q6L-ETRON"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪Q6L-e-tron_默认_二排正视前排_01.png",
+    "new": "IMG_AUDI_Q6L-ETRON_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "Q6L-ETRON"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪Q8_默认_二排正视前排_01.json",
+    "new": "IMG_AUDI_Q8_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "Q8"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪Q8_默认_二排正视前排_01.png",
+    "new": "IMG_AUDI_Q8_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "Q8"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪RS-e-tron-GT_默认_二排正视前排_01.json",
+    "new": "IMG_AUDI_RS-ETRON-GT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "RS-ETRON-GT"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪RS-e-tron-GT_默认_二排正视前排_01.png",
+    "new": "IMG_AUDI_RS-ETRON-GT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "RS-ETRON-GT"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪e-tron-GT_默认_二排正视前排_01.json",
+    "new": "IMG_AUDI_ETRON-GT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "AUDI",
+    "model": "ETRON-GT"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "奥迪_奥迪e-tron-GT_默认_二排正视前排_01.png",
+    "new": "IMG_AUDI_ETRON-GT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "AUDI",
+    "model": "ETRON-GT"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马7系_默认_二排正视前排_01.json",
+    "new": "IMG_BMW_7_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "7"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马7系_默认_二排正视前排_01.png",
+    "new": "IMG_BMW_7_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "7"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马M8_默认_二排正视前排_01.json",
+    "new": "IMG_BMW_M8_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "M8"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马M8_默认_二排正视前排_01.png",
+    "new": "IMG_BMW_M8_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "M8"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马X3_默认_二排正视前排_01.json",
+    "new": "IMG_BMW_X3_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "X3"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马X3_默认_二排正视前排_01.png",
+    "new": "IMG_BMW_X3_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "X3"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马X5_默认_二排正视前排_01.json",
+    "new": "IMG_BMW_X5_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "X5"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马X5_默认_二排正视前排_01.png",
+    "new": "IMG_BMW_X5_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "X5"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马XM_默认_二排正视前排_01.json",
+    "new": "IMG_BMW_XM_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "XM"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马XM_默认_二排正视前排_01.png",
+    "new": "IMG_BMW_XM_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "XM"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马i7_默认_二排正视前排_01.json",
+    "new": "IMG_BMW_I7_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "I7"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马i7_默认_二排正视前排_01.png",
+    "new": "IMG_BMW_I7_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "I7"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马iX_默认_二排正视前排_01.json",
+    "new": "IMG_BMW_IX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BMW",
+    "model": "IX"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宝马_宝马iX_默认_二排正视前排_01.png",
+    "new": "IMG_BMW_IX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BMW",
+    "model": "IX"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宾利_慕尚_默认_二排正视前排_01.json",
+    "new": "IMG_BEN_MULSANNE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BEN",
+    "model": "MULSANNE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宾利_慕尚_默认_二排正视前排_01.png",
+    "new": "IMG_BEN_MULSANNE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BEN",
+    "model": "MULSANNE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宾利_欧陆_默认_二排正视前排_01.json",
+    "new": "IMG_BEN_CONTINENTAL_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BEN",
+    "model": "CONTINENTAL"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宾利_欧陆_默认_二排正视前排_01.png",
+    "new": "IMG_BEN_CONTINENTAL_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BEN",
+    "model": "CONTINENTAL"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宾利_添越_默认_二排正视前排_01.json",
+    "new": "IMG_BEN_BENTAYGA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "BEN",
+    "model": "BENTAYGA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "宾利_添越_默认_二排正视前排_01.png",
+    "new": "IMG_BEN_BENTAYGA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "BEN",
+    "model": "BENTAYGA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "标致_标致3008_默认_二排正视前排_01.json",
+    "new": "IMG_PEU_3008_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "PEU",
+    "model": "3008"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "标致_标致3008_默认_二排正视前排_01.png",
+    "new": "IMG_PEU_3008_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "PEU",
+    "model": "3008"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "标致_标致408_默认_二排正视前排_01.json",
+    "new": "IMG_PEU_408_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "PEU",
+    "model": "408"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "标致_标致408_默认_二排正视前排_01.png",
+    "new": "IMG_PEU_408_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "PEU",
+    "model": "408"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "标致_标致508_默认_二排正视前排_01.json",
+    "new": "IMG_PEU_508_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "PEU",
+    "model": "508"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "标致_标致508_默认_二排正视前排_01.png",
+    "new": "IMG_PEU_508_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "PEU",
+    "model": "508"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "沃尔沃_沃尔沃ES90_默认_二排正视前排_01.json",
+    "new": "IMG_VOLVO_ES90_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "VOLVO",
+    "model": "ES90"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "沃尔沃_沃尔沃ES90_默认_二排正视前排_01.png",
+    "new": "IMG_VOLVO_ES90_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "VOLVO",
+    "model": "ES90"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "沃尔沃_沃尔沃EX30_默认_二排正视前排_01.json",
+    "new": "IMG_VOLVO_EX30_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "VOLVO",
+    "model": "EX30"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "沃尔沃_沃尔沃EX30_默认_二排正视前排_01.png",
+    "new": "IMG_VOLVO_EX30_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "VOLVO",
+    "model": "EX30"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "沃尔沃_沃尔沃EX90_默认_二排正视前排_01.json",
+    "new": "IMG_VOLVO_EX90_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "VOLVO",
+    "model": "EX90"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "沃尔沃_沃尔沃EX90_默认_二排正视前排_01.png",
+    "new": "IMG_VOLVO_EX90_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "VOLVO",
+    "model": "EX90"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "沃尔沃_沃尔沃XC90_默认_二排正视前排_01.json",
+    "new": "IMG_VOLVO_XC90_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "VOLVO",
+    "model": "XC90"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "沃尔沃_沃尔沃XC90_默认_二排正视前排_01.png",
+    "new": "IMG_VOLVO_XC90_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "VOLVO",
+    "model": "XC90"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "法拉利_Purosangue_默认_二排正视前排_01.json",
+    "new": "IMG_FER_PUROSANGUE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "FER",
+    "model": "PUROSANGUE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "法拉利_Purosangue_默认_二排正视前排_01.png",
+    "new": "IMG_FER_PUROSANGUE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "FER",
+    "model": "PUROSANGUE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "英力士掷弹兵_英力士掷弹兵_默认_二排正视前排_01.json",
+    "new": "IMG_INEOS_GRENADIER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "INEOS",
+    "model": "GRENADIER"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "英力士掷弹兵_英力士掷弹兵_默认_二排正视前排_01.png",
+    "new": "IMG_INEOS_GRENADIER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "INEOS",
+    "model": "GRENADIER"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "莲花跑车_ELETRE_默认_二排正视前排_01.json",
+    "new": "IMG_LOTUS_ELETRE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LOTUS",
+    "model": "ELETRE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "莲花跑车_ELETRE_默认_二排正视前排_01.png",
+    "new": "IMG_LOTUS_ELETRE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LOTUS",
+    "model": "ELETRE"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "莲花跑车_EMEYA_默认_二排正视前排_01.json",
+    "new": "IMG_LOTUS_EMEYA_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LOTUS",
+    "model": "EMEYA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "莲花跑车_EMEYA_默认_二排正视前排_01.png",
+    "new": "IMG_LOTUS_EMEYA_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LOTUS",
+    "model": "EMEYA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "莲花跑车_FOR-ME_默认_二排正视前排_01.json",
+    "new": "IMG_LOTUS_FORME_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LOTUS",
+    "model": "FORME"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "莲花跑车_FOR-ME_默认_二排正视前排_01.png",
+    "new": "IMG_LOTUS_FORME_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LOTUS",
+    "model": "FORME"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "路虎_揽胜_默认_二排正视前排_01.json",
+    "new": "IMG_LR_RANGE-ROVER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LR",
+    "model": "RANGE-ROVER"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "路虎_揽胜_默认_二排正视前排_01.png",
+    "new": "IMG_LR_RANGE-ROVER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LR",
+    "model": "RANGE-ROVER"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "路虎_揽胜星脉_默认_二排正视前排_01.json",
+    "new": "IMG_LR_VELAR_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LR",
+    "model": "VELAR"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "路虎_揽胜星脉_默认_二排正视前排_01.png",
+    "new": "IMG_LR_VELAR_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LR",
+    "model": "VELAR"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "路虎_揽胜运动_默认_二排正视前排_01.json",
+    "new": "IMG_LR_RANGE-ROVER-SPORT_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LR",
+    "model": "RANGE-ROVER-SPORT"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "路虎_揽胜运动_默认_二排正视前排_01.png",
+    "new": "IMG_LR_RANGE-ROVER-SPORT_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LR",
+    "model": "RANGE-ROVER-SPORT"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "路虎_路虎卫士_默认_二排正视前排_01.json",
+    "new": "IMG_LR_DEFENDER_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "LR",
+    "model": "DEFENDER"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "路虎_路虎卫士_默认_二排正视前排_01.png",
+    "new": "IMG_LR_DEFENDER_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "LR",
+    "model": "DEFENDER"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DB11_默认_二排正视前排_01.json",
+    "new": "IMG_ASTON_DB11_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "DB11"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DB11_默认_二排正视前排_01.png",
+    "new": "IMG_ASTON_DB11_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "DB11"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DB12_默认_二排正视前排_01.json",
+    "new": "IMG_ASTON_DB12_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "DB12"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DB12_默认_二排正视前排_01.png",
+    "new": "IMG_ASTON_DB12_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "DB12"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DBX_默认_二排正视前排_01.json",
+    "new": "IMG_ASTON_DBX_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "ASTON",
+    "model": "DBX"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "阿斯顿·马丁_阿斯顿·马丁DBX_默认_二排正视前排_01.png",
+    "new": "IMG_ASTON_DBX_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "ASTON",
+    "model": "DBX"
+  }
+]

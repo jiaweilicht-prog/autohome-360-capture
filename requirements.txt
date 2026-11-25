@@ -1,0 +1,10 @@
+# 采集主流程（run-p1.cjs 等 Node 脚本）不需要 Python。
+# 下面这些只在跑 probe/ 下的图像辅助脚本（CLIP 打分、拼图、格式转换）时才用到。
+
+Pillow>=10.0.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# —— 可选：仅 CLIP 图像精排相关脚本需要（体积较大，按需安装）——
+# torch>=2.0.0
+# open-clip-torch>=2.24.0

@@ -1,0 +1,142 @@
+{
+ "generatedAt": "2026-09-10T14:52:55.435Z",
+ "total": 6,
+ "found": 6,
+ "noPano": 0,
+ "notFound": 0,
+ "errors": 0,
+ "results": [
+  {
+   "group": "G17",
+   "brandCn": "起亚",
+   "modelEn": "K3",
+   "modelCn": "K3 EV 2022-2025",
+   "years": "2022-2025",
+   "searchNames": [
+    "起亚K3",
+    "K3 EV 2022-2025"
+   ],
+   "status": "pano_found",
+   "seriesId": 2886,
+   "seriesName": "起亚K3",
+   "panoId": 79043,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/79043?_ahrotate=1",
+   "nVehicleIds": 5,
+   "vehicleIds": [
+    "KIA_K3_BD_2012",
+    "KIA_K3_BD_Facelift_2015",
+    "KIA_K3_YD_2019",
+    "KIA_K3_YD_Facelift_2021",
+    "KIA_K3_EV_2022"
+   ]
+  },
+  {
+   "group": "G18",
+   "brandCn": "起亚",
+   "modelEn": "",
+   "modelCn": "K4 2025-2026",
+   "years": "2025-2026",
+   "searchNames": [
+    "起亚K4",
+    "K4 2025-2026"
+   ],
+   "status": "pano_found",
+   "seriesId": 3286,
+   "seriesName": "起亚K4",
+   "panoId": 27336,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/27336?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "KIA_K4_BD_2013",
+    "KIA_K4_BD_Facelift_2016",
+    "KIA_K4_2025"
+   ]
+  },
+  {
+   "group": "G19",
+   "brandCn": "起亚",
+   "modelEn": "Optima",
+   "modelCn": "K5 2016-2020",
+   "years": "2011-2015",
+   "searchNames": [
+    "起亚K5",
+    "K5 2016-2020"
+   ],
+   "status": "pano_found",
+   "seriesId": 2246,
+   "seriesName": "起亚K5",
+   "panoId": 69775,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/69775?_ahrotate=1",
+   "nVehicleIds": 4,
+   "vehicleIds": [
+    "KIA_Optima_TF_2011",
+    "KIA_Optima_TF_Facelift_2014",
+    "KIA_Optima_JF_2016",
+    "KIA_Optima_JF_Facelift_2018"
+   ]
+  },
+  {
+   "group": "G20",
+   "brandCn": "起亚",
+   "modelEn": "K9",
+   "modelCn": "K9 2018-2022",
+   "years": "2012-2015",
+   "searchNames": [
+    "起亚K900",
+    "K9 2018-2022"
+   ],
+   "status": "pano_found",
+   "seriesId": 3265,
+   "seriesName": "起亚K900",
+   "panoId": 34071,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/34071?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "KIA_K9_KH_2012",
+    "KIA_K9_KH_Facelift_2015",
+    "KIA_K9_RJ_2018"
+   ]
+  },
+  {
+   "group": "G21",
+   "brandCn": "起亚",
+   "modelEn": "KX5",
+   "modelCn": "KX5 2019-2021",
+   "years": "2016-2020",
+   "searchNames": [
+    "起亚KX5",
+    "KX5 2019-2021"
+   ],
+   "status": "pano_found",
+   "seriesId": 3954,
+   "seriesName": "起亚KX5",
+   "panoId": 51578,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/51578?_ahrotate=1",
+   "nVehicleIds": 2,
+   "vehicleIds": [
+    "KIA_KX5_NL_2016",
+    "KIA_KX5_NL_Facelift_2019"
+   ]
+  },
+  {
+   "group": "G22",
+   "brandCn": "起亚",
+   "modelEn": "KX7",
+   "modelCn": "KX7 2017-2020",
+   "years": "2017-2020",
+   "searchNames": [
+    "起亚KX7",
+    "KX7 2017-2020"
+   ],
+   "status": "pano_found",
+   "seriesId": 4200,
+   "seriesName": "起亚KX7",
+   "panoId": 49881,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/49881?_ahrotate=1",
+   "nVehicleIds": 1,
+   "vehicleIds": [
+    "KIA_KX7_XM_2017"
+   ]
+  }
+ ]
+}

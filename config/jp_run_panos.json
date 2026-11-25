@@ -1,0 +1,1220 @@
+{
+ "main": [
+  {
+   "brandCn": "丰田",
+   "seriesName": "威驰",
+   "panoId": 58177,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    58177,
+    58197,
+    54769,
+    54767
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "卡罗拉",
+   "panoId": 74685,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    74685,
+    76040,
+    34527,
+    35749
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "亚洲狮",
+   "panoId": 63244,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    63244
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "卡罗拉锐放",
+   "panoId": 75354,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    75354,
+    73873
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "RAV4荣放",
+   "panoId": 74683,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    74683,
+    74173,
+    58138,
+    36156
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "丰田C-HR",
+   "panoId": 62002,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    62002,
+    63234,
+    44730,
+    38860
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "铂智3X",
+   "panoId": 77656,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    77656
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "铂智4X",
+   "panoId": 70806,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    70806
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "广汽丰田bZ4X",
+   "panoId": 56854,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    56854,
+    56067,
+    50815
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "凌放HARRIER",
+   "panoId": 68442,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    68442,
+    68797
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "汉兰达",
+   "panoId": 74935,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    74935,
+    75239,
+    39008
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "Grand Highlander",
+   "panoId": 63359,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    63359
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "凯美瑞",
+   "panoId": 78811,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    78811
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "亚洲龙",
+   "panoId": 77062,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    77062
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "皇冠SportCross",
+   "panoId": 60295,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    60295,
+    67982
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "赛那SIENNA",
+   "panoId": 78081,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    78081,
+    78254
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "埃尔法",
+   "panoId": 63540,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    63540,
+    71298,
+    64662
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "普拉多",
+   "panoId": 77392,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    77392,
+    64018
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "兰德酷路泽(进口)",
+   "panoId": 55112,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    55112
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "铂智7",
+   "panoId": 72767,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    72767
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "丰田bZ5",
+   "panoId": 72739,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    72739
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "飞度",
+   "panoId": 72647,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    72647,
+    42555,
+    61230
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "凌派",
+   "panoId": 63255,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    63255,
+    56266
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "思域",
+   "panoId": 77419,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    77419,
+    61017,
+    72122
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "英仕派",
+   "panoId": 77719,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    77719,
+    73519
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "雅阁",
+   "panoId": 78335,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    78335,
+    72263
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "缤智",
+   "panoId": 75550,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    75550,
+    77714,
+    35255,
+    64446
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "ZR-V 致在",
+   "panoId": 59200,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    59200
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "本田CR-V",
+   "panoId": 78060,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    78060,
+    59443,
+    77667,
+    70327
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "冠道",
+   "panoId": 76630,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    76630,
+    69201
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "奥德赛",
+   "panoId": 73968,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    73968,
+    74214
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "猎光e:NS2",
+   "panoId": 66473,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    66473
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "广汽本田P7",
+   "panoId": 67766,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    67766
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "东风本田S7",
+   "panoId": 71976,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    71976
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "东风本田GT",
+   "panoId": 72799,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    72799
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "本田e:NS1",
+   "panoId": 56565,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    56565,
+    57030,
+    66474
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "轩逸",
+   "panoId": 74682,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    74682,
+    34282,
+    39191
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "骐达TIIDA",
+   "panoId": 63991,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    63991
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "天籁",
+   "panoId": 74182,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    74182,
+    39186,
+    24553,
+    39192
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "日产N6",
+   "panoId": 74151,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    74151
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "日产N7",
+   "panoId": 77571,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    77571
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "劲客",
+   "panoId": 63824,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    63824,
+    65487
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "逍客",
+   "panoId": 73478,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    73478
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "奇骏",
+   "panoId": 73628,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    73628,
+    58392
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "楼兰",
+   "panoId": 47163,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    47163,
+    39196
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "探陆",
+   "panoId": 78587,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    78587,
+    62738
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "途达",
+   "panoId": 42725,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    42725
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "ARIYA艾睿雅",
+   "panoId": 63860,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    63860
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "途乐",
+   "panoId": 57831,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    57831
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "日产NX8",
+   "panoId": 76408,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    76408
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达3 昂克赛拉",
+   "panoId": 67405,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    67405
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达CX-30",
+   "panoId": 74583,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    74583,
+    50797
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达CX-5",
+   "panoId": 73327,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    73327
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达CX-50行也",
+   "panoId": 60954,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    60954
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达CX-90",
+   "panoId": 54270,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    54270
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达CX-8",
+   "panoId": 37054,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    37054,
+    34434
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达CX-3",
+   "panoId": 32799,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    32799
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达EZ-6",
+   "panoId": 75511,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    75511
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达EZ-60",
+   "panoId": 76129,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    76129
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯ES",
+   "panoId": 72817,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    72817
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯LS",
+   "panoId": 66049,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    66049
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯NX",
+   "panoId": 75802,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    75802,
+    74355
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯RZ",
+   "panoId": 60659,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    60659
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯GX",
+   "panoId": 75873,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    75873
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯RX",
+   "panoId": 74909,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    74909,
+    70425
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯LX",
+   "panoId": 70761,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    70761
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯LM",
+   "panoId": 75454,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    75454
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯UX",
+   "panoId": 66712,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    66712,
+    42973
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯LC",
+   "panoId": 51913,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    51913
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪Q50",
+   "panoId": 16814,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    16814,
+    55844
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪QX50",
+   "panoId": 73820,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    73820
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪QX60",
+   "panoId": 65537,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    65537,
+    44835
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪QX80",
+   "panoId": 18862,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    18862
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪QX55",
+   "panoId": 59107,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    59107
+   ]
+  },
+  {
+   "brandCn": "斯巴鲁",
+   "seriesName": "森林人",
+   "panoId": 73605,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    73605
+   ]
+  },
+  {
+   "brandCn": "斯巴鲁",
+   "seriesName": "旭豹",
+   "panoId": 77120,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    77120,
+    58093
+   ]
+  },
+  {
+   "brandCn": "斯巴鲁",
+   "seriesName": "傲虎",
+   "panoId": 78426,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    78426
+   ]
+  },
+  {
+   "brandCn": "斯巴鲁",
+   "seriesName": "SOLTERRA",
+   "panoId": 51211,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    51211
+   ]
+  },
+  {
+   "brandCn": "三菱",
+   "seriesName": "阿图柯AIRTREK",
+   "panoId": 54536,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    54536
+   ]
+  },
+  {
+   "brandCn": "铃木",
+   "seriesName": "吉姆尼(进口)",
+   "panoId": 34980,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    34980
+   ]
+  },
+  {
+   "brandCn": "讴歌",
+   "seriesName": "讴歌RDX",
+   "panoId": 47292,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    47292,
+    24490
+   ]
+  },
+  {
+   "brandCn": "讴歌",
+   "seriesName": "讴歌MDX",
+   "panoId": 30236,
+   "group": "JP-MAIN",
+   "mergedFrom": [
+    30236
+   ]
+  }
+ ],
+ "special": [
+  {
+   "brandCn": "丰田",
+   "seriesName": "SUPRA",
+   "panoId": 59175,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    59175
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "丰田86",
+   "panoId": 54680,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    54680
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "GR YARIS",
+   "panoId": 77197,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    77197
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "皇冠SPORT",
+   "panoId": 65451,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    65451
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "皇冠",
+   "panoId": 33069,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    33069
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "Mirai",
+   "panoId": 59751,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    59751
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "普锐斯新能源(海外)",
+   "panoId": 60627,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    60627
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "普瑞维亚",
+   "panoId": 13441,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    13441
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "Tacoma",
+   "panoId": 58707,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    58707
+   ]
+  },
+  {
+   "brandCn": "丰田",
+   "seriesName": "坦途",
+   "panoId": 53460,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    53460
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "杰德",
+   "panoId": 38059,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    38059
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "思铂睿",
+   "panoId": 28585,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    28585
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "Passport",
+   "panoId": 37100,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    37100
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "Pilot",
+   "panoId": 35193,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    35193
+   ]
+  },
+  {
+   "brandCn": "本田",
+   "seriesName": "锋范",
+   "panoId": 39281,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    39281,
+    23072,
+    27240
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "日产370Z",
+   "panoId": 31637,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    31637
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "Titan",
+   "panoId": 29243,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    29243
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "纳瓦拉",
+   "panoId": 1023109,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    1023109
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "锋坦Frontier Pro",
+   "panoId": 75173,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    75173,
+    75186
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "日产NV200",
+   "panoId": 33176,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    33176
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "蓝鸟",
+   "panoId": 42679,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    42679
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "阳光",
+   "panoId": 26368,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    26368,
+    38756
+   ]
+  },
+  {
+   "brandCn": "日产",
+   "seriesName": "聆风",
+   "panoId": 65486,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    65486
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达MX-5",
+   "panoId": 65101,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    65101
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达RX-7",
+   "panoId": 51336,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    51336
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "马自达CX-4",
+   "panoId": 46955,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    46955
+   ]
+  },
+  {
+   "brandCn": "马自达",
+   "seriesName": "阿特兹",
+   "panoId": 49995,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    49995
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯IS",
+   "panoId": 30361,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    30361
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯RC",
+   "panoId": 36921,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    36921
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯RC F",
+   "panoId": 27362,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    27362
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯CT",
+   "panoId": 47260,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    47260
+   ]
+  },
+  {
+   "brandCn": "雷克萨斯",
+   "seriesName": "雷克萨斯GS",
+   "panoId": 24494,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    24494
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪Q60",
+   "panoId": 35195,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    35195
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪Q70",
+   "panoId": 37822,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    37822
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪ESQ",
+   "panoId": 20283,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    20283
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪QX30",
+   "panoId": 35081,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    35081
+   ]
+  },
+  {
+   "brandCn": "英菲尼迪",
+   "seriesName": "英菲尼迪QX70",
+   "panoId": 19832,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    19832
+   ]
+  },
+  {
+   "brandCn": "斯巴鲁",
+   "seriesName": "斯巴鲁WRX",
+   "panoId": 72350,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    72350
+   ]
+  },
+  {
+   "brandCn": "斯巴鲁",
+   "seriesName": "斯巴鲁BRZ",
+   "panoId": 75279,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    75279
+   ]
+  },
+  {
+   "brandCn": "斯巴鲁",
+   "seriesName": "翼豹",
+   "panoId": 41367,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    41367
+   ]
+  },
+  {
+   "brandCn": "斯巴鲁",
+   "seriesName": "力狮",
+   "panoId": 45643,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    45643
+   ]
+  },
+  {
+   "brandCn": "讴歌",
+   "seriesName": "讴歌NSX",
+   "panoId": 21434,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    21434
+   ]
+  },
+  {
+   "brandCn": "讴歌",
+   "seriesName": "讴歌TLX-L",
+   "panoId": 29959,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    29959
+   ]
+  },
+  {
+   "brandCn": "讴歌",
+   "seriesName": "讴歌CDX",
+   "panoId": 46014,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    46014
+   ]
+  },
+  {
+   "brandCn": "讴歌",
+   "seriesName": "讴歌ILX",
+   "panoId": 35757,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    35757
+   ]
+  },
+  {
+   "brandCn": "讴歌",
+   "seriesName": "讴歌RLX",
+   "panoId": 31260,
+   "group": "JP-SPECIAL",
+   "mergedFrom": [
+    31260
+   ]
+  }
+ ]
+}

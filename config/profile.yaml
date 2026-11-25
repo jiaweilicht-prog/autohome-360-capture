@@ -1,0 +1,109 @@
+# =============================================================================
+# profile.yaml —— 全局运行参数（与具体任务无关）
+# 作用：控制"跑得多快、等多久、失败怎么办、东西存哪、合规到什么程度"
+# 说明：# 后面是注释，改数值不会影响结构
+# =============================================================================
+
+version: 1
+site: autohome
+
+# ---------------------------------------------------------------------------
+# 1. 浏览器环境
+#    关键点：360° 看车是 WebGL 渲染，无头模式下 GPU 缺失会导致画面异常或截不到图。
+#    -> 建议 headed 模式 + 虚拟显示器（macOS 用第二个桌面，Linux 用 xvfb）
+#    -> device_scale_factor 必须锁死，否则同一机位两次截图像素不一致，比对会失效
+# ---------------------------------------------------------------------------
+browser:
+  engine: chromium
+  headless: false
+  viewport: { width: 1600, height: 900 }
+  device_scale_factor: 2          # 锁死，不要跟随系统
+  locale: zh-CN
+  timezone: Asia/Shanghai
+  color_scheme: light             # 锁死主题，避免深色模式改变页面配色
+  reduce_motion: true             # 关闭页面动画，提升截图确定性
+  block_media: [video, audio]     # 不加载视频音频，提速且减少干扰
+  args:
+    - "--enable-unsafe-swiftshader"
+    - "--disable-lcd-text"
+    - "--force-color-profile=srgb"  # 锁死色彩配置，保证不同机器色彩一致
+
+# ---------------------------------------------------------------------------
+# 2. 并发与限流（抗压保护，也是自我保护）
+#    WebGL 上下文数量有浏览器级上限（通常 8~16），开太多会集体崩溃
+# ---------------------------------------------------------------------------
+concurrency:
+  max_contexts: 3                 # 同时开几个浏览器上下文，建议 2~4
+  per_action_delay_ms: [800, 1600]  # 每个动作之间的随机等待区间（毫秒）
+  per_model_delay_ms: [3000, 6000]  # 每个车型之间的随机等待区间
+  jitter: true                    # 开启随机抖动，避免请求呈现机械节奏
+  daily_quota: 300                # 单日最大截图数，超出自动停止
+
+# ---------------------------------------------------------------------------
+# 3. 重试与退避
+# ---------------------------------------------------------------------------
+retry:
+  max_attempts: 3
+  backoff: exponential            # 2s -> 4s -> 8s
+  backoff_base_ms: 2000
+  retry_on:                       # 这些情况值得重试
+    - timeout
+    - selector_missing
+    - verify_fail
+    - canvas_not_stable
+  stop_on:                        # 这些情况立刻停止全部任务（不是重试能解决的）
+    - captcha
+    - http_403
+    - http_429
+    - page_version_mismatch
+    - rate_limited
+
+# ---------------------------------------------------------------------------
+# 4. 超时（毫秒）
+# ---------------------------------------------------------------------------
+timeout_ms:
+  navigation: 30000               # 页面打开
+  selector: 15000                 # 等待元素出现
+  canvas_stable: 45000            # 等待 360 画面加载并静止（全景切片多，要给足）
+  align_loop: 60000               # 视觉伺服对齐的总预算
+  screenshot: 10000
+
+# ---------------------------------------------------------------------------
+# 5. 存储布局
+# ---------------------------------------------------------------------------
+storage:
+  root: ./output
+  raw_dir: raw                    # 原始截图（未裁剪，保留证据）
+  final_dir: final                # 成品（裁剪/处理后）
+  baseline_dir: baselines         # 基准图（人工验收通过的"黄金样本"）
+  evidence_dir: evidence          # 每次运行的证据包：轨迹、日志、相似度数值
+  manifest: ./output/manifest.db  # 断点续跑 + 去重的状态库（SQLite）
+
+# ---------------------------------------------------------------------------
+# 6. 合规闸门（重要）
+#    mode:
+#      internal_research —— 仅内部研究，保留来源标识
+#      licensed          —— 已获授权，需填写 license_ref 才允许启用去标识模块
+#    attribution: preserve（保留）| remove（移除，需 license_ref 非空）
+#    说明：即使设为 remove，系统也只会在 license_ref 存在且校验通过时执行。
+# ---------------------------------------------------------------------------
+compliance:
+  mode: internal_research
+  attribution: preserve
+  license_ref: null               # 例："AH-2026-0417-内部授权-张三"
+  respect_robots: true
+  identify_ua: "AutoInteriorShot/0.1 (+contact: your-name@company.com)"
+  keep_source_metadata: true      # 在图片 EXIF/侧车 JSON 里写入来源 URL 与抓取时间
+
+# ---------------------------------------------------------------------------
+# 7. 日志与告警
+# ---------------------------------------------------------------------------
+logging:
+  level: info
+  trace_dir: ./logs
+  alert_on:                       # 触发人工介入的事件
+    - page_version_mismatch       # 页面改版
+    - captcha
+    - verify_fail_exhausted       # 重试耗尽仍不一致
+    - stop_triggered
+  alert_channel: console          # console | email | webhook | feishu

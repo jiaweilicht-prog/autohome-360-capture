@@ -1,0 +1,32 @@
+{
+ "generatedAt": "2026-09-10T16:00:03.357Z",
+ "total": 1,
+ "found": 1,
+ "noPano": 0,
+ "notFound": 0,
+ "errors": 0,
+ "results": [
+  {
+   "group": "G20",
+   "brandCn": "起亚",
+   "modelEn": "K9",
+   "modelCn": "K9 2018-2022",
+   "years": "2012-2015",
+   "searchNames": [
+    "起亚K900",
+    "K9 2018-2022"
+   ],
+   "status": "pano_found",
+   "seriesId": 3265,
+   "seriesName": "起亚K900",
+   "panoId": 34071,
+   "panoUrl": "https://pano.autohome.com.cn/car/pano/34071?_ahrotate=1",
+   "nVehicleIds": 3,
+   "vehicleIds": [
+    "KIA_K9_KH_2012",
+    "KIA_K9_KH_Facelift_2015",
+    "KIA_K9_RJ_2018"
+   ]
+  }
+ ]
+}

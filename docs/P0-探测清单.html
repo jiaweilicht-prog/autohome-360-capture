@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>P0 可行性探测清单 · 汽车之家 360° 看车</title>
+<style>
+  :root{
+    --bg:#0f1115; --panel:#171a21; --panel2:#1d212a; --line:rgba(255,255,255,.10);
+    --line2:rgba(255,255,255,.18); --tx:#e6e8ee; --tx2:#9aa3b2; --tx3:#6b7482;
+    --blue:#5aa9f8; --teal:#4fc3a1; --amber:#f0b45e; --red:#e8757a; --purple:#9b8cf0;
+    --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--tx);
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-size:15px;line-height:1.75;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:940px;margin:0 auto;padding:0 28px 120px}
+
+  header{padding:56px 0 36px;border-bottom:1px solid var(--line);margin-bottom:40px}
+  .kicker{font-size:12px;letter-spacing:.16em;color:var(--teal);text-transform:uppercase;margin-bottom:14px}
+  h1{font-size:30px;line-height:1.3;margin:0 0 14px;font-weight:600;letter-spacing:-.01em}
+  .sub{color:var(--tx2);font-size:16px;max-width:720px;margin:0}
+
+  h2{font-size:21px;margin:56px 0 8px;font-weight:600;letter-spacing:-.01em;scroll-margin-top:20px}
+  h2 .num{color:var(--teal);font-family:var(--mono);font-size:14px;margin-right:10px;font-weight:400}
+  h3{font-size:16px;margin:28px 0 8px;font-weight:600}
+  p{color:var(--tx);margin:10px 0}
+  .lead{color:var(--tx2);font-size:14px;margin-bottom:22px}
+  ul,ol{color:var(--tx);padding-left:20px;margin:10px 0}
+  li{margin:7px 0}
+  li::marker{color:var(--tx3)}
+  code{font-family:var(--mono);font-size:13px;background:var(--panel2);padding:1px 6px;border-radius:4px;color:#c7d2e0}
+  strong{font-weight:600}
+
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:18px 0}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+  .card .lbl{font-size:12px;color:var(--tx2);margin-bottom:6px}
+  .card .note{font-size:13px;color:var(--tx2);line-height:1.65}
+  .grid{display:grid;gap:14px}
+  .g3{grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+
+  table{width:100%;border-collapse:collapse;margin:16px 0;font-size:13.5px}
+  th{text-align:left;color:var(--tx2);font-weight:500;font-size:12px;letter-spacing:.04em;
+     padding:9px 12px;border-bottom:1px solid var(--line2)}
+  td{padding:11px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+  tr:last-child td{border-bottom:none}
+  td.c{text-align:center}
+
+  .pill{display:inline-block;font-size:11px;padding:2px 8px;border-radius:999px;font-weight:500;white-space:nowrap}
+  .p-blue{background:rgba(90,169,248,.15);color:var(--blue)}
+  .p-teal{background:rgba(79,195,161,.15);color:var(--teal)}
+  .p-amber{background:rgba(240,180,94,.15);color:var(--amber)}
+  .p-red{background:rgba(232,117,122,.15);color:var(--red)}
+  .p-gray{background:rgba(255,255,255,.07);color:var(--tx2)}
+
+  .callout{border-left:3px solid var(--blue);background:rgba(90,169,248,.06);padding:14px 18px;
+           border-radius:0 8px 8px 0;margin:18px 0}
+  .callout.warn{border-left-color:var(--amber);background:rgba(240,180,94,.06)}
+  .callout.danger{border-left-color:var(--red);background:rgba(232,117,122,.07)}
+  .callout.ok{border-left-color:var(--teal);background:rgba(79,195,161,.06)}
+  .callout .ttl{font-weight:600;font-size:14px;margin-bottom:6px}
+  .callout p{margin:6px 0;font-size:14px}
+
+  .steps{counter-reset:s;margin:20px 0}
+  .step{position:relative;padding-left:46px;margin-bottom:26px}
+  .step:before{counter-increment:s;content:counter(s);position:absolute;left:0;top:0;
+    width:30px;height:30px;border-radius:50%;background:var(--panel2);border:1px solid var(--line2);
+    display:flex;align-items:center;justify-content:center;font-size:14px;color:var(--teal);font-family:var(--mono)}
+  .step .st{font-weight:600;font-size:16px;margin-bottom:4px}
+  .step .sd{font-size:14px;color:var(--tx2);line-height:1.75}
+  .step .sd code{font-size:12.5px}
+
+  .box{border:1px solid var(--line2);border-radius:10px;padding:14px 18px;margin:14px 0;
+       font-family:var(--mono);font-size:13px;color:#c7d2e0;background:var(--panel2)}
+  .box .k{color:var(--amber)}
+
+  .codehead{display:flex;align-items:center;justify-content:space-between;gap:12px;
+    background:var(--panel2);border:1px solid var(--line);border-bottom:none;
+    border-radius:10px 10px 0 0;padding:10px 16px;font-size:12.5px;color:var(--tx2);font-family:var(--mono)}
+  button{font-family:inherit;font-size:12.5px;padding:5px 14px;border-radius:7px;cursor:pointer;
+    background:transparent;border:0.5px solid var(--line2);color:var(--tx)}
+  button:hover{border-color:var(--blue);color:var(--blue)}
+  pre{margin:0;background:var(--panel2);border:1px solid var(--line);border-radius:0 0 10px 10px;
+      padding:16px;overflow-x:auto;font-family:var(--mono);font-size:12px;line-height:1.6;
+      max-height:340px;overflow-y:auto;color:#c7d2e0}
+
+  .checklist li{list-style:none;position:relative;padding-left:26px;margin:10px 0}
+  .checklist li:before{content:"";position:absolute;left:0;top:6px;width:14px;height:14px;
+    border:1.5px solid var(--line2);border-radius:3px}
+
+  footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--line);color:var(--tx3);font-size:13px}
+  @media (max-width:720px){ h1{font-size:25px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="kicker">P0 · Feasibility Probe</div>
+  <h1>可行性探测清单</h1>
+  <p class="sub">不写一行代码，用 20 分钟回答一个问题：这条路走不走得通？<br>
+     走通的话，怎么走最省事。</p>
+</header>
+
+<div class="callout ok">
+  <div class="ttl">为什么要先做这一步</div>
+  <p>主方案里有 11 个模块、8 种失败应对、6 个阶段。但所有工作量的前提，是一个还没验证的假设：<strong>我们能不能知道"现在视角在哪"</strong>。</p>
+  <p>如果页面把视角数据暴露在浏览器里（可读），那机位就是三个数字，精确、可复现，视觉伺服基本不用做。如果只能靠肉眼比对像素，那方案复杂度直接翻倍。</p>
+  <p><strong>这两种情况的工程量差 3~4 倍。</strong>先花 20 分钟确认，比闷头写两周再返工划算得多。</p>
+</div>
+
+<!-- ============ 0 ============ -->
+<h2><span class="num">00</span>已经查到的两件事</h2>
+<p class="lead">开工前我把能远程确认的先确认了，省你的时间。</p>
+
+<div class="grid g3">
+  <div class="card">
+    <div class="lbl">发现一 · 技术栈线索</div>
+    <div class="note">第三方技术分析（GitHub, 2018）指出：汽车之家<strong>内饰 720 全景用的是 krpano 引擎</strong>，外景环物用的是 spritespin。<br><br>
+    如果内饰仍是 krpano，那视角就<strong>可读可写</strong>——这是最好的结果。但这是 8 年前的信息，必须实测验证。</div>
+  </div>
+  <div class="card">
+    <div class="lbl">发现二 · robots.txt</div>
+    <div class="note"><code>User-agent: *</code> 下仅禁止 <code>/chezhan</code> 和 <code>/games</code>，<strong>车型页与 360 看车路径未被禁止</strong>，也没有 Crawl-delay 要求。<br><br>
+    但要注意：robots 允许 ≠ 内容授权，版权与用户协议是另一回事。</div>
+  </div>
+  <div class="card">
+    <div class="lbl">krpano 的公开接口</div>
+    <div class="note">若确为 krpano，可直接调用：<br>
+    <code>get("view.hlookat")</code> 读水平角<br>
+    <code>set("view.hlookat", 90)</code> 写角度<br>
+    <code>call("lookto(h,v,fov)")</code> 平滑跳转<br>
+    <code>addChangeListener(...)</code> 监听变化</div>
+  </div>
+</div>
+
+<div class="callout warn">
+  <div class="ttl">一个必须提醒的采样偏差</div>
+  <p>汽车之家多年来大概率换过技术栈——<strong>老车型可能用 krpano，新车型可能已经自研</strong>。只测一台车就下结论，很可能测到的只是"这一台的情况"。</p>
+  <p>所以请至少测 <strong>3 个车型</strong>，跨不同年代与品牌：</p>
+  <ul>
+    <li>一个新势力（理想 / 蔚来 / 小鹏）</li>
+    <li>一个合资或豪华（宝马 / 奔驰 / 大众）</li>
+    <li>一个较早期的自主车型（2020 年前后的）</li>
+  </ul>
+  <p>如果三台结果一致，结论才可信。如果不一致，方案就要按"混合通道"设计——每台车先探测再选通道。</p>
+</div>
+
+<!-- ============ 1 ============ -->
+<h2><span class="num">01</span>准备</h2>
+<ul class="checklist">
+  <li><strong>用 Chrome</strong>。Safari 和 Firefox 的开发者工具操作不同，别给自己找麻烦。</li>
+  <li><strong>关掉广告拦截插件</strong>。它们会隐藏页面元素，导致探测结果失真。</li>
+  <li><strong>浏览器窗口拉到接近全屏</strong>（建议 1600×900 左右）。后续批量采集会锁死这个尺寸，现在就定下来。</li>
+  <li><strong>不要登录</strong>。先按游客身份测——如果游客看不了全景，这本身就是一个重要结论。</li>
+  <li>准备一个车型的「360° 看车 → 内饰」页面地址。</li>
+</ul>
+
+<!-- ============ 2 ============ -->
+<h2><span class="num">02</span>四步操作</h2>
+
+<div class="steps">
+  <div class="step">
+    <div class="st">打开页面，等画面完全清晰</div>
+    <div class="sd">进入 360° 看车的<strong>内饰</strong>全景。这一步要有耐心——全景切片多，可能要等十几秒甚至更久。<br>
+    <strong>一定要等画面完全清晰、没有加载进度条了再往下走</strong>。加载途中跑探测会误判。</div>
+  </div>
+
+  <div class="step">
+    <div class="st">粘贴脚本，回车</div>
+    <div class="sd">按 <code>F12</code>（Mac 上是 <code>Cmd + Option + I</code>）打开开发者工具 → 点顶部 <strong>Console（控制台）</strong>标签 → 把下面的脚本<strong>整段</strong>粘贴进去 → 回车。<br>
+    脚本会自动扫描页面并打印一份报告，最后尝试自动复制到剪贴板。<br>
+    <span class="pill p-teal">放心</span> 脚本只读不写，不会改动页面、不提交任何数据。</div>
+  </div>
+
+  <div class="step">
+    <div class="st">跑三个手动验证</div>
+    <div class="sd">脚本跑完后，控制台里依次输入下面三条命令，每条回车一次：</div>
+    <div class="box">
+      <span class="k">__watch</span>(6)      <span style="color:#6b7482">→ 回车后【立刻用鼠标拖动画面】，看数字会不会变</span><br>
+      <span class="k">__testSet</span>(90)    <span style="color:#6b7482">→ 看画面会不会自己转到水平 90 度</span><br>
+      <span class="k">__scenes</span>()       <span style="color:#6b7482">→ 看机位是不是以「场景」形式存在</span>
+    </div>
+    <p class="sd">这三条分别回答：<strong>视角能不能读 · 能不能写 · 机位是不是现成的</strong>。这三条是整个 P0 的核心。</p>
+  </div>
+
+  <div class="step">
+    <div class="st">连拍三张，一起发我</div>
+    <div class="sd">把视角停在某个机位不动，用 <code>Cmd + Shift + 4</code> 连截三张图（中间不要碰鼠标、不要动画面）。<br>
+    这三张图我会拿来做像素级比对，判断<strong>同一机位能否截出完全一致的结果</strong>——这决定了后续相似度校验的阈值定多少。<br>
+    顺便用眼睛看一下：<strong>页面上的"汽车之家"标识在哪个位置</strong>（左上/右上/左下/右下/中央重叠），记下来。</div>
+  </div>
+</div>
+
+<div class="callout">
+  <div class="ttl">关于"连拍三张"要多说一句</div>
+  <p>这一步容易被忽略，但它直接决定后面的工作量。如果三张图<strong>完全一致</strong>，说明画面是静态的，相似度阈值可以定得很高，校验非常可靠。如果三张图<strong>有细微抖动</strong>（抗锯齿、自动旋转、光影动画），阈值就必须放宽，误判率上升，可能还得加"连拍取中位"的逻辑。</p>
+  <p>这是唯一一个我没法远程替你测的项目，只能靠这三张图。</p>
+</div>
+
+<!-- ============ 脚本 ============ -->
+<h2><span class="num">03</span>探测脚本</h2>
+<p class="lead">点右上角复制，第 2 步直接粘贴。文件也保存在 <code>probe/p0-probe.js</code>。</p>
+
+<div class="codehead">
+  <span>p0-probe.js · v1.0</span>
+  <button onclick="(function(b){var t=document.getElementById('probeSrc').textContent;navigator.clipboard.writeText(t).then(function(){b.textContent='已复制 ✓';setTimeout(function(){b.textContent='复制脚本'},1800)})})(this)">复制脚本</button>
+</div>
+<pre id="probeSrc">/* ============================================================================
+ * P0 可行性探测脚本 · v1.0
+ * 目标：汽车之家 360° 看车 · 内饰全景页
+ *
+ * ── 用法（三步，不需要懂代码）────────────────────────────────────────────
+ *   1. 用 Chrome 打开一个车型的「360° 看车 → 内饰」页面
+ *   2. 等全景画面完全清晰（这一步很重要，加载中就跑会误判）
+ *   3. 按 F12 打开开发者工具 → 切到 Console（控制台）→ 粘贴本文件全部内容
+ *      → 回车
+ *   4. 控制台会打印一份报告，最后会尝试自动复制到剪贴板。
+ *      把报告粘贴回给 Tom 即可。
+ *
+ * ── 跑完之后，还有三个可选的手动验证（同样粘贴到控制台回车）─────────────
+ *      __watch(6)        → 监听 6 秒。运行后请立刻用鼠标拖动画面，
+ *                          看打印出来的数字会不会变。变了 = 视角可读。
+ *      __testSet(90)     → 把水平视角设为 90 度，看画面会不会自己转过去。
+ *                          会转 = 视角可写（这是最好的结果）。
+ *      __scenes()        → 列出全景里所有「场景」。如果机位是以场景形式
+ *                          存在的，那连拖拽都不需要，直接切场景即可。
+ *
+ * 脚本只读不写，不会修改页面、不会提交任何数据。唯一会改变页面的是
+ * 你手动调用的 __testSet()。
+ * ============================================================================ */
+
+(function () {
+  &#x27;use strict&#x27;;
+
+  var REPORT = [];
+  var VERDICT = [];
+
+  function sec(t) { console.log(&#x27;\n%c▌ &#x27; + t, &#x27;color:#5aa9f8;font-weight:bold;font-size:13px&#x27;); }
+  function ok(m)  { console.log(&#x27;  %c✔ &#x27; + m, &#x27;color:#4fc3a1&#x27;); REPORT.push(&#x27;[OK] &#x27; + m); }
+  function no(m)  { console.log(&#x27;  %c✘ &#x27; + m, &#x27;color:#e8757a&#x27;); REPORT.push([&#x27;[NO] &#x27; + m]); }
+  function wr(m)  { console.log(&#x27;  %c! &#x27; + m, &#x27;color:#f0b45e&#x27;); REPORT.push(&#x27;[注意] &#x27; + m); }
+  function kv(k, v) { console.log(&#x27;      &#x27; + k + &#x27;: %c&#x27; + v, &#x27;color:#f0b45e&#x27;); REPORT.push(&#x27;    &#x27; + k + &#x27;: &#x27; + v); }
+
+  console.log(&#x27;%c\n╔══════════════════════════════════════════════════════╗&#x27;, &#x27;color:#5aa9f8&#x27;);
+  console.log(&#x27;%c║   P0 可行性探测 · 汽车之家 360° 看车内饰              ║&#x27;, &#x27;color:#5aa9f8;font-weight:bold&#x27;);
+  console.log(&#x27;%c╚══════════════════════════════════════════════════════╝&#x27;, &#x27;color:#5aa9f8&#x27;);
+
+  /* ── 0. 环境信息 ─────────────────────────────────────────────────────── */
+  sec(&#x27;0. 环境信息&#x27;);
+  kv(&#x27;页面 URL&#x27;, location.href);
+  kv(&#x27;视口 / 设备像素比&#x27;, window.innerWidth + &#x27;x&#x27; + window.innerHeight + &#x27; / DPR=&#x27; + window.devicePixelRatio);
+  kv(&#x27;浏览器&#x27;, (navigator.userAgent.match(/Chrome\/[\d.]+/) || [&#x27;unknown&#x27;])[0]);
+  if (window.devicePixelRatio !== 1 &amp;&amp; window.devicePixelRatio !== 2) {
+    wr(&#x27;设备像素比不是 1 或 2（当前 &#x27; + window.devicePixelRatio + &#x27;）。批量采集时必须锁死 DPR，否则同一机位在不同机器上截出来的图尺寸会不一致。&#x27;);
+  }
+
+  /* ── 1. 找全景引擎的 camera 接口 ─────────────────────────────────────── */
+  sec(&#x27;1. 全景引擎识别（最关键的一项）&#x27;);
+
+  function gatherCandidates() {
+    var out = [];
+    function push(src, o) {
+      if (!o || typeof o !== &#x27;object&#x27;) return;
+      for (var i = 0; i &lt; out.length; i++) if (out[i].o === o) return;
+      out.push({ src: src, o: o });
+    }
+
+    // 官方默认 ID（krpano 文档里的标准挂载点）
+    try { push(&quot;document.getElementById(&#x27;krpanoSWFObject&#x27;)&quot;, document.getElementById(&#x27;krpanoSWFObject&#x27;)); } catch (e) {}
+    try { push(&#x27;window.krpano&#x27;, window.krpano); } catch (e) {}
+    try { push(&#x27;window.krpanoJS&#x27;, window.krpanoJS); } catch (e) {}
+
+    // 扫描 DOM：id / class 里带全景关键词的容器
+    try {
+      var els = document.querySelectorAll(&#x27;div[id],div[class],object[id],embed[id]&#x27;);
+      for (var i = 0; i &lt; els.length; i++) {
+        var el = els[i];
+        var sig = (el.id || &#x27;&#x27;) + &#x27; &#x27; + (typeof el.className === &#x27;string&#x27; ? el.className : &#x27;&#x27;);
+        if (/krpano|pano|panorama|vrscene|viewer|360/i.test(sig)) {
+          push(&#x27;DOM #&#x27; + (el.id || (&#x27;&#x27; + el.className).slice(0, 30)), el);
+        }
+      }
+    } catch (e) {}
+
+    // 扫描 window 全局变量名
+    try {
+      Object.getOwnPropertyNames(window).forEach(function (n) {
+        if (/krpano|pano|viewer|camera|scene|spritespin|threesixty|photosphere/i.test(n)) {
+          try {
+            var v = window[n];
+            if (v &amp;&amp; typeof v === &#x27;object&#x27;) push(&#x27;window.&#x27; + n, v);
+          } catch (e) {}
+        }
+      });
+    } catch (e) {}
+
+    return out;
+  }
+
+  // 测试一个对象能不能用 krpano 风格读出视角
+  function probeKrpano(o) {
+    if (!o || typeof o.get !== &#x27;function&#x27;) return null;
+    try {
+      var h = o.get(&#x27;view.hlookat&#x27;);
+      if (h === null || h === undefined || h === &#x27;&#x27; || isNaN(parseFloat(h))) return null;
+      return {
+        hlookat: parseFloat(h),
+        vlookat: parseFloat(o.get(&#x27;view.vlookat&#x27;)),
+        fov: parseFloat(o.get(&#x27;view.fov&#x27;))
+      };
+    } catch (e) { return null; }
+  }
+
+  // 测试一个对象是不是 three.js 风格的 camera
+  function probeThree(o) {
+    var cam = null;
+    try { if (o.isCamera) cam = o; } catch (e) {}
+    try { if (!cam &amp;&amp; o.camera &amp;&amp; o.camera.isCamera) cam = o.camera; } catch (e) {}
+    try { if (!cam &amp;&amp; typeof o.getCamera === &#x27;function&#x27;) { var c = o.getCamera(); if (c &amp;&amp; c.isCamera) cam = c; } } catch (e) {}
+    if (!cam) return null;
+    return {
+      yaw: cam.rotation ? +(cam.rotation.y * 180 / Math.PI).toFixed(2) : null,
+      pitch: cam.rotation ? +(cam.rotation.x * 180 / Math.PI).toFixed(2) : null,
+      fov: cam.fov || null
+    };
+  }
+
+  var cands = gatherCandidates();
+  console.log(&#x27;      共找到 &#x27; + cands.length + &#x27; 个候选对象，逐个测试能否读出视角…&#x27;);
+
+  var foundKrpano = null, foundKrpanoSrc = null;
+  var foundThree = null, foundThreeSrc = null;
+
+  cands.forEach(function (c) {
+    var r = probeKrpano(c.o);
+    if (r &amp;&amp; !foundKrpano) { foundKrpano = r; foundKrpanoSrc = c.src; }
+    var t = probeThree(c.o);
+    if (t &amp;&amp; !foundThree) { foundThree = t; foundThreeSrc = c.src; }
+  });
+
+  var CAM = null, CAM_TYPE = null, CAM_SRC = null;
+
+  if (foundKrpano) {
+    CAM = foundKrpano; CAM_TYPE = &#x27;krpano&#x27;; CAM_SRC = foundKrpanoSrc;
+    ok(&#x27;找到 krpano 视角接口 —— 这是最好的结果&#x27;);
+    kv(&#x27;来源&#x27;, foundKrpanoSrc);
+    kv(&#x27;水平角 hlookat&#x27;, foundKrpano.hlookat);
+    kv(&#x27;垂直角 vlookat&#x27;, foundKrpano.vlookat);
+    kv(&#x27;视场角 fov&#x27;, foundKrpano.fov);
+    VERDICT.push(&#x27;视角通道：L0 krpano 数值通道可用&#x27;);
+  } else if (foundThree) {
+    CAM = foundThree; CAM_TYPE = &#x27;three&#x27;; CAM_SRC = foundThreeSrc;
+    ok(&#x27;找到 three.js camera 对象&#x27;);
+    kv(&#x27;来源&#x27;, foundThreeSrc);
+    kv(&#x27;yaw / pitch / fov&#x27;, foundThree.yaw + &#x27; / &#x27; + foundThree.pitch + &#x27; / &#x27; + foundThree.fov);
+    VERDICT.push(&#x27;视角通道：L1 three.js camera 可用&#x27;);
+  } else {
+    no(&#x27;未找到任何可读的视角接口&#x27;);
+    console.log(&#x27;      （已测试 &#x27; + cands.length + &#x27; 个候选：&#x27; + cands.slice(0, 6).map(function (c) { return c.src; }).join(&#x27;, &#x27;) + (cands.length &gt; 6 ? &#x27; …&#x27; : &#x27;&#x27;) + &#x27;）&#x27;);
+    wr(&#x27;这意味着只能靠像素比对来确认机位 —— 方案复杂度会明显上升，视觉伺服对齐成为必需。&#x27;);
+    VERDICT.push(&#x27;视角通道：仅 L2 像素比对可用（最差情况）&#x27;);
+  }
+
+  /* ── 2. krpano 场景（scene）检测 ─────────────────────────────────────── */
+  var K = null;
+  if (CAM_TYPE === &#x27;krpano&#x27;) {
+    sec(&#x27;2. 场景（scene）检测 —— 机位是否以场景形式存在&#x27;);
+    // 找回那个可用的接口对象
+    cands.forEach(function (c) { if (!K &amp;&amp; probeKrpano(c.o)) K = c.o; });
+
+    var sceneCount = null, curScene = null, names = [];
+    try { sceneCount = parseInt(K.get(&#x27;scene.count&#x27;), 10); } catch (e) {}
+    try { curScene = K.get(&#x27;xml.scene&#x27;); } catch (e) {}
+    if (sceneCount &amp;&amp; sceneCount &gt; 0) {
+      for (var s = 0; s &lt; sceneCount; s++) {
+        try {
+          var n = K.get(&#x27;scene[&#x27; + s + &#x27;].name&#x27;);
+          var t = K.get(&#x27;scene[&#x27; + s + &#x27;].title&#x27;);
+          if (n) names.push(n + (t ? &#x27;(&#x27; + t + &#x27;)&#x27; : &#x27;&#x27;));
+        } catch (e) {}
+      }
+    }
+    kv(&#x27;当前场景&#x27;, curScene === null ? &#x27;读不到&#x27; : curScene);
+    kv(&#x27;场景数量&#x27;, sceneCount === null ? &#x27;读不到&#x27; : sceneCount);
+    if (names.length) {
+      ok(&#x27;场景列表：&#x27; + names.join(&#x27; | &#x27;));
+      VERDICT.push(&#x27;机位形态：krpano 多场景，可直接 loadscene 切换，无需拖拽&#x27;);
+    } else {
+      wr(&#x27;读不到场景列表。机位可能是单场景内的视角切换，需要靠 hlookat/vlookat 定位。&#x27;);
+    }
+  }
+
+  /* ── 3. 页面上的机位按钮 / UI 元素 ───────────────────────────────────── */
+  sec(&#x27;3. 机位按钮扫描 —— 是否存在预设机位&#x27;);
+
+  var KEY = /主驾|副驾|中控|后排|前排|门板|顶棚|全景|内饰|外观|座椅|仪表|方向盘|后备箱|视角|机位|前视|后视/;
+  var hits = [];
+  try {
+    var nodes = document.querySelectorAll(&#x27;button,a,li,span,div[onclick],[role=&quot;button&quot;],[class*=tab],[class*=btn]&#x27;);
+    for (var i = 0; i &lt; nodes.length; i++) {
+      var el = nodes[i];
+      if (!el.offsetParent &amp;&amp; el.tagName !== &#x27;BODY&#x27;) continue;      // 只统计可见的
+      var txt = (el.innerText || el.textContent || &#x27;&#x27;).trim();
+      if (!txt || txt.length &gt; 12) continue;                        // 太长的多半是正文
+      if (!KEY.test(txt)) continue;
+      hits.push({
+        文本: txt,
+        标签: el.tagName.toLowerCase(),
+        id: el.id || &#x27;&#x27;,
+        class: (&#x27;&#x27; + (el.className || &#x27;&#x27;)).slice(0, 40)
+      });
+    }
+  } catch (e) {}
+
+  if (hits.length) {
+    ok(&#x27;找到 &#x27; + hits.length + &#x27; 个疑似机位 / 视角切换元素&#x27;);
+    console.table(hits.slice(0, 25));
+    REPORT.push(&#x27;机位元素：&#x27; + hits.slice(0, 25).map(function (h) { return h.文本; }).join(&#x27; | &#x27;));
+    VERDICT.push(&#x27;机位形态：存在预设按钮，优先点击切换&#x27;);
+  } else {
+    no(&#x27;没有找到任何机位切换按钮 —— 机位只能靠拖拽到达&#x27;);
+    VERDICT.push(&#x27;机位形态：无预设按钮，必须拖拽 + 视觉伺服&#x27;);
+  }
+
+  /* ── 4. Canvas 与 WebGL 上下文 ───────────────────────────────────────── */
+  sec(&#x27;4. Canvas / WebGL 检查（含一个经典陷阱）&#x27;);
+
+  var cs = [];
+  try {
+    var list = document.querySelectorAll(&#x27;canvas&#x27;);
+    for (var i = 0; i &lt; list.length; i++) {
+      var c = list[i];
+      var gl = null, attr = null, ctxType = null;
+      try { gl = c.getContext(&#x27;webgl2&#x27;); if (gl) ctxType = &#x27;webgl2&#x27;; } catch (e) {}
+      try { if (!gl) { gl = c.getContext(&#x27;webgl&#x27;); if (gl) ctxType = &#x27;webgl&#x27;; } } catch (e) {}
+      try { if (gl) attr = gl.getContextAttributes(); } catch (e) {}
+      cs.push({
+        id: c.id || &#x27;(无)&#x27;,
+        CSS尺寸: c.clientWidth + &#x27;x&#x27; + c.clientHeight,
+        缓冲尺寸: c.width + &#x27;x&#x27; + c.height,
+        上下文: ctxType || &#x27;2d/无&#x27;,
+        preserveDrawingBuffer: attr ? String(attr.preserveDrawingBuffer) : &#x27;未知&#x27;
+      });
+    }
+  } catch (e) {}
+
+  if (!cs.length) {
+    no(&#x27;页面上没有 canvas —— 全景可能不是 WebGL 渲染，需要重新确认技术路线&#x27;);
+  } else {
+    console.table(cs);
+    REPORT.push(&#x27;Canvas：&#x27; + JSON.stringify(cs));
+    var noPreserve = cs.filter(function (x) { return x.preserveDrawingBuffer === &#x27;false&#x27;; });
+    if (noPreserve.length) {
+      wr(&#x27;preserveDrawingBuffer = false —— 这是个已知陷阱：在浏览器控制台里直接调 canvas.toDataURL() 截出来的会是黑图。&#x27;);
+      console.log(&#x27;      → 对自动化的影响：Playwright 的 page.screenshot() 走浏览器合成器，不受此限制，所以批量采集阶段没问题。&#x27;);
+      console.log(&#x27;      → 仅影响你现在在控制台里手动取帧，不必担心。&#x27;);
+    }
+  }
+
+  /* ── 5. 干扰元素 / 登录态 / 加载状态 ─────────────────────────────────── */
+  sec(&#x27;5. 干扰元素与访问状态&#x27;);
+
+  function hasText(re) {
+    try {
+      var all = document.body.querySelectorAll(&#x27;div,span,a,button,p&#x27;);
+      for (var i = 0; i &lt; all.length; i++) {
+        var t = (all[i].innerText || &#x27;&#x27;).trim();
+        if (t &amp;&amp; t.length &lt; 60 &amp;&amp; re.test(t)) return t.slice(0, 30);
+      }
+    } catch (e) {}
+    return null;
+  }
+
+  var login = hasText(/登录|注册|请先登录|登录后查看/);
+  var captcha = hasText(/验证码|滑动验证|请完成安全验证/);
+  var loading = null;
+  try { loading = document.querySelector(&#x27;.loading,.pano-loading,.progress,.spinner,[class*=load]&#x27;); } catch (e) {}
+
+  if (login) { wr(&#x27;页面上出现登录相关文案：&quot;&#x27; + login + &#x27;&quot; —— 需确认全景是否要求登录&#x27;); VERDICT.push(&#x27;登录态：可能需要登录&#x27;); }
+  else ok(&#x27;未发现登录遮罩&#x27;);
+
+  if (captcha) { no(&#x27;检测到验证码 —— 立即停止，不要继续尝试&#x27;); VERDICT.push(&#x27;反爬：出现验证码&#x27;); }
+  else ok(&#x27;未发现验证码&#x27;);
+
+  if (loading) { wr(&#x27;存在加载中元素：&#x27; + (&#x27;&#x27; + loading.className).slice(0, 40) + &#x27; —— 说明画面可能还没加载完，建议等更久再截&#x27;); }
+  else ok(&#x27;未发现加载中元素（画面大概率已就绪）&#x27;);
+
+  // 统计浮层数量，判断弹窗干扰程度
+  var overlays = 0;
+  try {
+    overlays = document.querySelectorAll(&#x27;[class*=modal],[class*=popup],[class*=dialog],[class*=mask],[class*=float],[class*=guide],[class*=download]&#x27;).length;
+  } catch (e) {}
+  kv(&#x27;疑似浮层 / 弹窗元素数量&#x27;, overlays + (overlays &gt; 5 ? &#x27;（偏多，需要在自动化里专门处理）&#x27; : &#x27;&#x27;));
+
+  /* ── 6. 输出报告 ─────────────────────────────────────────────────────── */
+  sec(&#x27;探测报告（请复制这段发回）&#x27;);
+
+  var TEXT = [
+    &#x27;===== P0 探测报告 =====&#x27;,
+    &#x27;时间：&#x27; + new Date().toLocaleString(&#x27;zh-CN&#x27;),
+    &#x27;URL ：&#x27; + location.href,
+    &#x27;视口：&#x27; + window.innerWidth + &#x27;x&#x27; + window.innerHeight + &#x27;  DPR=&#x27; + window.devicePixelRatio,
+    &#x27;&#x27;,
+    &#x27;-- 判定 --&#x27;
+  ].concat(VERDICT).concat([
+    &#x27;&#x27;,
+    &#x27;-- 明细 --&#x27;
+  ]).concat(REPORT).concat([
+    &#x27;&#x27;,
+    &#x27;-- 手动验证（如有）--&#x27;,
+    &#x27;__watch()  结果：&#x27;,
+    &#x27;__testSet() 结果：&#x27;,
+    &#x27;__scenes()  结果：&#x27;,
+    &#x27;&#x27;,
+    &#x27;-- 画面上的标识位置（肉眼观察，比如右下角）--&#x27;,
+    &#x27;水印/角标位置：&#x27;,
+    &#x27;======================&#x27;
+  ]).join(&#x27;\n&#x27;);
+
+  console.log(TEXT);
+  try { copy(TEXT); console.log(&#x27;%c\n✔ 报告已尝试自动复制到剪贴板，直接粘贴即可。&#x27;, &#x27;color:#4fc3a1&#x27;); }
+  catch (e) { console.log(&#x27;\n（自动复制失败，请手动选中上面的报告复制）&#x27;); }
+
+  /* ── 7. 挂载后续手动验证函数 ─────────────────────────────────────────── */
+  window.__watch = function (sec) {
+    sec = sec || 6;
+    if (!K &amp;&amp; !CAM) { console.log(&#x27;未找到视角接口，无法监听&#x27;); return; }
+    var src = K || (CAM_TYPE === &#x27;three&#x27; ? cands.filter(function (c) { return probeThree(c.o); })[0].o : null);
+    if (!src) { console.log(&#x27;未找到视角接口对象&#x27;); return; }
+    var samples = [];
+    var t0 = performance.now();
+    console.log(&#x27;▶ 开始监听 &#x27; + sec + &#x27; 秒，请【现在用鼠标拖动画面】…&#x27;);
+    var id = setInterval(function () {
+      samples.push({
+        &#x27;时间(ms)&#x27;: Math.round(performance.now() - t0),
+        hlookat: CAM_TYPE === &#x27;krpano&#x27; ? parseFloat(src.get(&#x27;view.hlookat&#x27;)) : +(src.rotation.y * 180 / Math.PI).toFixed(2),
+        vlookat: CAM_TYPE === &#x27;krpano&#x27; ? parseFloat(src.get(&#x27;view.vlookat&#x27;)) : +(src.rotation.x * 180 / Math.PI).toFixed(2),
+        fov: CAM_TYPE === &#x27;krpano&#x27; ? parseFloat(src.get(&#x27;view.fov&#x27;)) : (src.fov || 0)
+      });
+      if (performance.now() - t0 &gt; sec * 1000) {
+        clearInterval(id);
+        console.table(samples);
+        var hs = samples.map(function (s) { return s.hlookat; });
+        var changed = Math.max.apply(null, hs) - Math.min.apply(null, hs);
+        if (changed &gt; 0.5) {
+          console.log(&#x27;%c✔ 数值随拖拽变化（幅度 &#x27; + changed.toFixed(2) + &#x27; 度）—— 视角可读，且是实时反映的。&#x27;, &#x27;color:#4fc3a1;font-weight:bold&#x27;);
+        } else {
+          console.log(&#x27;%c✘ 数值没有变化 —— 这个接口可能只是个副本，不反映真实视角。需要换个探测思路。&#x27;, &#x27;color:#e8757a;font-weight:bold&#x27;);
+        }
+      }
+    }, 200);
+  };
+
+  window.__testSet = function (h, v, f) {
+    if (CAM_TYPE !== &#x27;krpano&#x27; || !K) { console.log(&#x27;只有 krpano 通道支持直接设置视角。当前通道：&#x27; + (CAM_TYPE || &#x27;无&#x27;)); return; }
+    h = (h === undefined || h === null) ? 90 : h;
+    var before = parseFloat(K.get(&#x27;view.hlookat&#x27;));
+    try {
+      K.set(&#x27;view.hlookat&#x27;, h);
+      if (v !== undefined &amp;&amp; v !== null) K.set(&#x27;view.vlookat&#x27;, v);
+      if (f !== undefined &amp;&amp; f !== null) K.set(&#x27;view.fov&#x27;, f);
+    } catch (e) { console.log(&#x27;设置失败：&#x27; + e.message); return; }
+    setTimeout(function () {
+      var after = parseFloat(K.get(&#x27;view.hlookat&#x27;));
+      console.log(&#x27;设置前 hlookat=&#x27; + before + &#x27; → 设置后 hlookat=&#x27; + after);
+      console.log(&#x27;%c请看画面：如果视角自己转过去了，说明「视角可写」—— 这是最优结果，机位可以直接用数值定义，视觉伺服基本不需要了。&#x27;, &#x27;color:#f0b45e;font-weight:bold&#x27;);
+    }, 800);
+  };
+
+  window.__scenes = function () {
+    if (!K) { console.log(&#x27;未找到 krpano 接口&#x27;); return; }
+    var out = [];
+    var n = parseInt(K.get(&#x27;scene.count&#x27;), 10) || 0;
+    for (var i = 0; i &lt; n; i++) {
+      out.push({ 序号: i, name: K.get(&#x27;scene[&#x27; + i + &#x27;].name&#x27;), title: K.get(&#x27;scene[&#x27; + i + &#x27;].title&#x27;) });
+    }
+    if (!out.length) { console.log(&#x27;无场景列表&#x27;); return; }
+    console.table(out);
+    console.log(&#x27;若上面列出了「主驾 / 中控 / 后排」这类场景名，说明机位是场景切换，直接 loadscene 即可，完全不需要拖拽。&#x27;);
+  };
+
+  window.__report = function () { console.log(TEXT); };
+
+  sec(&#x27;接下来请依次手动运行（复制粘贴回车）&#x27;);
+  console.log(&#x27;   ① %c__watch(6)&#x27;, &#x27;color:#f0b45e&#x27;);
+  console.log(&#x27;      → 回车后立刻用鼠标拖动画面，看数字变不变\n&#x27;);
+  console.log(&#x27;   ② %c__testSet(90)&#x27;, &#x27;color:#f0b45e&#x27;);
+  console.log(&#x27;      → 看画面会不会自动转到水平 90 度\n&#x27;);
+  console.log(&#x27;   ③ %c__scenes()&#x27;, &#x27;color:#f0b45e&#x27;);
+  console.log(&#x27;      → 看机位是不是以「场景」形式存在\n&#x27;);
+  console.log(&#x27;   结果贴回给 Tom 即可。&#x27;);
+})();
+</pre>
+
+<!-- ============ 4 ============ -->
+<h2><span class="num">04</span>结果怎么读</h2>
+<p class="lead">跑完之后，对照这张表，就能知道接下来走哪条路。</p>
+
+<table>
+<thead>
+<tr><th style="width:70px">结果</th><th style="width:120px">视角通道</th><th style="width:120px">机位形态</th><th>方案分支</th><th style="width:110px">工程量</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="pill p-teal">A 最优</span></td>
+<td>可读 <strong>且可写</strong></td>
+<td>场景 / 预设按钮</td>
+<td>机位直接定义成 <code>hlookat / vlookat / fov</code> 三个数值，执行时一次 <code>set</code> 到位。视觉伺服只在最终复核时用一下。<strong>跨车型横向对比精度最高</strong>，机位字典可以写成数字表。</td>
+<td><strong>低</strong><br>约 1~1.5 周</td>
+</tr>
+<tr>
+<td><span class="pill p-blue">B 良好</span></td>
+<td>可读，<strong>不可写</strong></td>
+<td>需要拖拽</td>
+<td>鼠标拖拽粗调 → 读数值算残差 → 再拖 → 再读，几轮就收敛。仍然走闭环，但<strong>收敛判定用数值不用像素</strong>，比纯图像比对快且准。</td>
+<td><strong>中</strong><br>约 2 周</td>
+</tr>
+<tr>
+<td><span class="pill p-amber">C 一般</span></td>
+<td>读不到数值</td>
+<td>有预设按钮</td>
+<td>点按钮切机位，用像素比对校验。容差必须放宽，且要接受"按钮背后的实际角度可能微调过"的风险——需要每次跑冒烟检测。</td>
+<td><strong>中高</strong><br>约 2~2.5 周</td>
+</tr>
+<tr>
+<td><span class="pill p-red">D 最差</span></td>
+<td>读不到数值</td>
+<td>纯拖拽</td>
+<td>完整视觉伺服 + 逐机位阈值标定 + 弱纹理机位降级策略。可行，但<strong>精度上限受画面纹理丰富度制约</strong>，顶棚这类纯色区域会很难。</td>
+<td><strong>高</strong><br>约 3~4 周</td>
+</tr>
+<tr>
+<td><span class="pill p-red">E 停止</span></td>
+<td colspan="2">出现验证码 / 强制登录才能看全景</td>
+<td colspan="2"><strong>不做。</strong>这是站点明确的拒绝信号，绕过它性质就变了。转走官方授权、官方素材源或自行拍摄的路径。</td>
+</tr>
+</tbody>
+</table>
+
+<div class="callout danger">
+  <div class="ttl">如果结果是 D，建议先停一下再决定</div>
+  <p>D 不是不能做，而是<strong>性价比需要重新评估</strong>。3~4 周的工程量，换来的却是一个"顶棚机位可能永远对不准"的系统。</p>
+  <p>到那一步，建议先问自己一个问题：<strong>这 3~4 周，如果花在"自己开车去 4S 店按机位字典拍一遍"上，产出会不会更好？</strong>作为内饰设计师，你对机位、光线、构图判断的专业度，是任何自动化都比不了的。自动化真正的价值是"批量"，但如果批量出来的图不可比，批量就没有意义。</p>
+  <p>我的建议是：<strong>D 档下优先走自拍 + 少量网页补充</strong>，而不是硬啃自动化。</p>
+</div>
+
+<!-- ============ 5 ============ -->
+<h2><span class="num">05</span>发回给我的四样东西</h2>
+<ol>
+  <li><strong>探测报告文本</strong> —— 脚本最后打印的那段，直接粘贴</li>
+  <li><strong>三条手动命令的结论</strong> —— 用大白话讲就行，比如"拖的时候数字在变""设了 90 画面真的转过去了"</li>
+  <li><strong>同机位连拍的三张截图</strong></li>
+  <li><strong>页面 URL</strong> + 你目测的标识位置（如"右下角"）</li>
+</ol>
+<p>三个车型各来一套最好；时间紧就先做<strong>一个新势力车型</strong>，那一台通常技术栈最新、也最难。</p>
+
+<div class="callout">
+  <div class="ttl">或者，直接让我来跑</div>
+  <p>如果你不想自己动手，也可以把<strong>三个车型的 360 看车页面地址</strong>发我，我用浏览器自动化帮你跑完这套探测，直接出结论。</p>
+  <p>唯一区别是：你自己跑更可控（能亲眼看到拖画面时数字跳动的那个"啊哈时刻"），我跑更快。<strong>如果你想亲自确认关键那一秒，就自己来。</strong></p>
+</div>
+
+<footer>
+  P0 探测清单 v1.0 · 配套脚本 <code>probe/p0-probe.js</code> · 主方案 <code>docs/autohome360-capture-agent-design.html</code><br>
+  robots.txt 检查于 2026-09-03；合规章节不构成法律意见。
+</footer>
+
+</div>
+</body>
+</html>

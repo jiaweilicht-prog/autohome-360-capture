@@ -1,0 +1,236 @@
+{
+  "items": {
+    "73042_F1": {
+      "status": "done",
+      "path": "output/images/奥迪/奥迪A8/默认/奥迪_奥迪A8_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "奥迪",
+      "series": "奥迪A8"
+    },
+    "73042_R1": {
+      "status": "done",
+      "path": "output/images/奥迪/奥迪A8/默认/奥迪_奥迪A8_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "奥迪",
+      "series": "奥迪A8"
+    },
+    "72934_F1": {
+      "status": "done",
+      "path": "output/images/奥迪/奥迪A3/默认/奥迪_奥迪A3_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "奥迪",
+      "series": "奥迪A3"
+    },
+    "72934_R1": {
+      "status": "done",
+      "path": "output/images/奥迪/奥迪A3/默认/奥迪_奥迪A3_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "奥迪",
+      "series": "奥迪A3"
+    },
+    "76465_F1": {
+      "status": "done",
+      "path": "output/images/宝马/宝马2系/默认/宝马_宝马2系_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马2系"
+    },
+    "76465_R1": {
+      "status": "done",
+      "path": "output/images/宝马/宝马2系/默认/宝马_宝马2系_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马2系"
+    },
+    "76181_F1": {
+      "status": "done",
+      "path": "output/images/宝马/宝马3系/默认/宝马_宝马3系_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马3系"
+    },
+    "76181_R1": {
+      "status": "done",
+      "path": "output/images/宝马/宝马3系/默认/宝马_宝马3系_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马3系"
+    },
+    "77586_F1": {
+      "status": "done",
+      "path": "output/images/现代/IONIQ(艾尼氪)V/默认/现代_IONIQ(艾尼氪)V_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "现代",
+      "series": "IONIQ(艾尼氪)V"
+    },
+    "77586_R1": {
+      "status": "done",
+      "path": "output/images/现代/IONIQ(艾尼氪)V/默认/现代_IONIQ(艾尼氪)V_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "现代",
+      "series": "IONIQ(艾尼氪)V"
+    },
+    "74039_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/iCAR_iCAR-V27_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "iCAR",
+      "series": "iCAR V27"
+    },
+    "74039_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/iCAR_iCAR-V27_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "iCAR",
+      "series": "iCAR V27"
+    },
+    "63837_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/高合汽车_高合HiPhi-Y_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "高合汽车",
+      "series": "高合HiPhi Y"
+    },
+    "63837_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/高合汽车_高合HiPhi-Y_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "高合汽车",
+      "series": "高合HiPhi Y"
+    },
+    "74682_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/日产_轩逸_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "日产",
+      "series": "轩逸"
+    },
+    "74682_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/日产_轩逸_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "日产",
+      "series": "轩逸"
+    },
+    "55680_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/法拉利_Purosangue_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "法拉利",
+      "series": "Purosangue"
+    },
+    "55680_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/法拉利_Purosangue_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "法拉利",
+      "series": "Purosangue"
+    },
+    "78601_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/smart_smart精灵#1_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "smart",
+      "series": "smart精灵#1"
+    },
+    "78601_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/smart_smart精灵#1_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "smart",
+      "series": "smart精灵#1"
+    },
+    "61598_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/宝马_宝马Z4_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马Z4"
+    },
+    "76392_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/宝马_宝马iX3_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马iX3"
+    },
+    "76392_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/宝马_宝马iX3_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马iX3"
+    },
+    "76409_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/宝马_宝马X3_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马X3"
+    },
+    "76409_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/宝马_宝马X3_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马X3"
+    },
+    "76453_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/宝马_宝马X5_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马X5"
+    },
+    "76453_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/宝马_宝马X5_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马X5"
+    },
+    "77455_R1": {
+      "status": "done",
+      "path": "output/images_by_view/前舱正视/宝马_宝马7系_默认_二排正视前排_01.png",
+      "view": "R1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马7系"
+    },
+    "77455_F1": {
+      "status": "done",
+      "path": "output/images_by_view/主驾位前望/宝马_宝马7系_默认_主驾正视前排IP_01.png",
+      "view": "F1",
+      "tag": "",
+      "brand": "宝马",
+      "series": "宝马7系"
+    }
+  }
+}

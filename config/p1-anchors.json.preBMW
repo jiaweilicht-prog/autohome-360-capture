@@ -1,0 +1,223 @@
+{
+  "55680": {
+    "rear": {
+      "v": 3,
+      "h": 0,
+      "score": 4115.05,
+      "sep": null,
+      "offset": 0,
+      "hFinal": 0,
+      "method": "fastpath0",
+      "tplH": 0,
+      "tplSym": 0.9579,
+      "symPeak": 0.9579,
+      "fastTop": 141,
+      "revTop": 104,
+      "lowConfidence": false
+    },
+    "driver": {
+      "v": 3,
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "61598": {
+    "driver": {
+      "v": 3,
+      "h": 20,
+      "score": 2113.61,
+      "sep": 110.74,
+      "offset": 0,
+      "hFinal": 20,
+      "method": "template",
+      "tplH": 20,
+      "tplSym": 0.8538,
+      "symPeak": 0.8727,
+      "lowConfidence": false
+    }
+  },
+  "63837": {
+    "rear": {
+      "v": 3,
+      "h": 0,
+      "score": 5023.93,
+      "sep": null,
+      "offset": 0,
+      "hFinal": 0,
+      "method": "fastpath0",
+      "tplH": 0,
+      "tplSym": 0.9541,
+      "symPeak": 0.9541,
+      "fastTop": 130,
+      "revTop": 105,
+      "lowConfidence": false
+    },
+    "driver": {
+      "v": 3,
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "72934": {
+    "driver": {
+      "h": 15,
+      "score": 2288.1,
+      "sep": 46.9,
+      "lowConfidence": true
+    },
+    "rear": {
+      "h": 0,
+      "score": 3584.51,
+      "sep": 568.23
+    }
+  },
+  "73042": {
+    "driver": {
+      "h": 20,
+      "score": 1551.52,
+      "sep": 217.6,
+      "lowConfidence": false
+    },
+    "rear": {
+      "h": 0,
+      "score": 3093.67,
+      "sep": 407.65
+    }
+  },
+  "74039": {
+    "rear": {
+      "v": 3,
+      "h": 0,
+      "score": 3148.49,
+      "sep": null,
+      "offset": 0,
+      "hFinal": 0,
+      "method": "fastpath0",
+      "tplH": 0,
+      "tplSym": 0.95,
+      "symPeak": 0.95,
+      "fastTop": 118,
+      "revTop": 71,
+      "lowConfidence": false
+    },
+    "driver": {
+      "v": 3,
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "74682": {
+    "rear": {
+      "v": 3,
+      "h": 0,
+      "score": 2022.22,
+      "sep": null,
+      "offset": 0,
+      "hFinal": 0,
+      "method": "fastpath0",
+      "tplH": 0,
+      "tplSym": 0.9336,
+      "symPeak": 0.9336,
+      "fastTop": 107,
+      "revTop": 97,
+      "lowConfidence": false
+    },
+    "driver": {
+      "v": 3,
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "76181": {
+    "driver": {
+      "h": 15,
+      "score": 1454.57,
+      "sep": 288.44,
+      "lowConfidence": false
+    },
+    "rear": {
+      "h": 0,
+      "score": 3237.38,
+      "sep": 1323.28
+    }
+  },
+  "76465": {
+    "driver": {
+      "h": 20,
+      "score": 1669.72,
+      "sep": 707.7,
+      "lowConfidence": false
+    },
+    "rear": {
+      "h": 0,
+      "score": 3677.71,
+      "sep": 336.37
+    }
+  },
+  "77586": {
+    "rear": {
+      "h": 0,
+      "score": 3121.69,
+      "sep": 997.07,
+      "offset": 0,
+      "hFinal": 0,
+      "lowConfidence": false
+    },
+    "driver": {
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  },
+  "78601": {
+    "rear": {
+      "v": 3,
+      "h": 0,
+      "score": 4660.4,
+      "sep": null,
+      "offset": 0,
+      "hFinal": 0,
+      "method": "fastpath0",
+      "tplH": 0,
+      "tplSym": 0.9463,
+      "symPeak": 0.9463,
+      "fastTop": 116,
+      "revTop": 76,
+      "lowConfidence": false
+    },
+    "driver": {
+      "v": 3,
+      "h": 0,
+      "offset": 15,
+      "hFinal": 15,
+      "score": null,
+      "sep": null,
+      "lowConfidence": false,
+      "source": "rearFront+fixedOffset"
+    }
+  }
+}

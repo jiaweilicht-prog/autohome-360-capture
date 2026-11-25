@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>P0 补充：清屏按钮验证</title>
+  <style>
+    :root { --bg:#0f1115; --card:#181a20; --text:#e8eaed; --muted:#9aa0a6; --accent:#8ab4f8; --ok:#81c995; --warn:#f9ab00; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; padding: 2rem; max-width: 1200px; margin: 0 auto; }
+    h1 { font-size: 1.6rem; margin-bottom: .5rem; color: var(--accent); }
+    h2 { font-size: 1.2rem; margin-top: 2rem; color: var(--text); }
+    p { color: var(--muted); }
+    .lead { color: var(--text); font-size: 1.05rem; }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 1.5rem 0; }
+    .card { background: var(--card); border-radius: 12px; padding: 1rem; }
+    .card img { width: 100%; border-radius: 8px; display: block; }
+    .label { text-align: center; margin-top: .6rem; font-weight: 500; color: var(--text); }
+    .ok { color: var(--ok); }
+    .warn { color: var(--warn); }
+    code, pre { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: .9rem; }
+    pre { background: #000; padding: 1rem; border-radius: 8px; overflow-x: auto; color: #c3e88d; }
+    ul { color: var(--muted); }
+    li { margin: .4rem 0; }
+    .summary { background: var(--card); padding: 1.2rem 1.5rem; border-radius: 12px; margin: 1.5rem 0; }
+  </style>
+</head>
+<body>
+  <h1>P0 补充：清屏按钮验证</h1>
+  <p class="lead">2026-09-03，针对用户提示的「右上角清屏按钮」做程序化验证。</p>
+
+  <div class="summary">
+    <h2>结论</h2>
+    <ul>
+      <li><span class="ok">清屏按钮可用：</span>通过 <code>document.querySelector('.hide-btn').dispatchEvent(click)</code> 即可触发，无需做视觉坐标定位。</li>
+      <li><span class="ok">清屏效果确切：</span>左侧机位栏、顶部「反馈/分享/清屏」、底部配色条、右侧询价按钮、热点标签全部隐藏，画面只剩全景本身。</li>
+      <li><span class="warn">水印去不掉：</span>「汽车之家」水印烘焙在全景 tile 里，<code>elementFromPoint</code> 返回 krpano 容器而非 DOM 元素；清屏按钮对它无效。</li>
+      <li><span class="ok">不影响机位控制：</span>清屏后仍可通过 <code>krpano.call('loadscene(...)')</code> 切换 scene，适合批量截图流程。</li>
+    </ul>
+  </div>
+
+  <h2>对比截图</h2>
+  <div class="row">
+    <div class="card">
+      <img src="../probe/shots/hidesel_base.png" alt="清屏前">
+      <div class="label">清屏前：UI 控件全在，水印在右侧</div>
+    </div>
+    <div class="card">
+      <img src="../probe/shots/hidesel_after_dispatch.png" alt="清屏后">
+      <div class="label">清屏后：UI 全消，水印仍在</div>
+    </div>
+  </div>
+
+  <h2>触发代码</h2>
+  <pre>// 页面加载并停转后，直接派发点击事件
+await page.evaluate(() => {
+  const el = document.querySelector('.hide-btn');
+  if (el) {
+    el.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true, view: window }));
+  }
+});
+await page.waitForTimeout(800);
+</pre>
+
+  <h2>对后处理的影响</h2>
+  <ul>
+    <li>截图前加一步清屏，可得到「无 UI 控件」的干净构图，比后期擦除按钮/热点更合规、更稳定。</li>
+    <li>水印仍只能通过<strong>合规裁剪</strong>避开（若目标区域不覆盖水印区）、<strong>官方授权</strong>、<strong>官方素材源</strong>或<strong>自行拍摄</strong>解决。</li>
+    <li>配置 <code>task.autohome360.yaml</code> 已在 <code>capture.pre_actions</code> 中加入 <code>dispatch_click .hide-btn</code>。</li>
+  </ul>
+
+  <h2>水印位置参考</h2>
+  <p>在 1440×900 的截图中，水印大致位于右侧偏中区域（x≈1000–1300，y≈140–280）。批量后处理时，若目标机位需要完整右中区域，必须接受水印或改用合规来源。</p>
+</body>
+</html>

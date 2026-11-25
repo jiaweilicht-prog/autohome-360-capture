@@ -1,0 +1,1269 @@
+{
+  "generatedAt": "2026-09-07T16:37:55.927Z",
+  "total": 73,
+  "found": 54,
+  "noPano": 18,
+  "notFound": 1,
+  "errors": 0,
+  "results": [
+    {
+      "brandEn": "Audi",
+      "brandCn": "奥迪",
+      "modelEn": "A3",
+      "modelCn": "A3",
+      "years": "2015-2020",
+      "searchNames": [
+        "奥迪A3",
+        "Audi A3"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 3170,
+      "seriesName": "奥迪A3",
+      "panoId": 72934,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72934?_ahrotate=1"
+    },
+    {
+      "brandEn": "Audi",
+      "brandCn": "奥迪",
+      "modelEn": "A4",
+      "modelCn": "A4",
+      "years": "2016-2024",
+      "searchNames": [
+        "奥迪A4L",
+        "奥迪A4",
+        "Audi A4"
+      ],
+      "note": "中国市场以 A4L 为主",
+      "status": "pano_found",
+      "seriesId": 692,
+      "seriesName": "奥迪A4L",
+      "panoId": 73307,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73307?_ahrotate=1"
+    },
+    {
+      "brandEn": "Audi",
+      "brandCn": "奥迪",
+      "modelEn": "A5",
+      "modelCn": "A5",
+      "years": "2017-",
+      "searchNames": [
+        "奥迪A5L",
+        "奥迪A5",
+        "Audi A5"
+      ],
+      "note": "中国市场以 A5L 为主",
+      "status": "pano_found",
+      "seriesId": 7855,
+      "seriesName": "奥迪A5L",
+      "panoId": 73534,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73534?_ahrotate=1"
+    },
+    {
+      "brandEn": "Audi",
+      "brandCn": "奥迪",
+      "modelEn": "A6",
+      "modelCn": "A6",
+      "years": "2019-2026",
+      "searchNames": [
+        "奥迪A6L",
+        "奥迪A6",
+        "Audi A6"
+      ],
+      "note": "中国市场以 A6L 为主",
+      "status": "pano_found",
+      "seriesId": 18,
+      "seriesName": "奥迪A6L",
+      "panoId": 76524,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76524?_ahrotate=1"
+    },
+    {
+      "brandEn": "Audi",
+      "brandCn": "奥迪",
+      "modelEn": "A8",
+      "modelCn": "A8",
+      "years": "2015-",
+      "searchNames": [
+        "奥迪A8",
+        "Audi A8"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 146,
+      "seriesName": "奥迪A8",
+      "panoId": 73042,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73042?_ahrotate=1"
+    },
+    {
+      "brandEn": "Audi",
+      "brandCn": "奥迪",
+      "modelEn": "Q7",
+      "modelCn": "Q7",
+      "years": "2015-",
+      "searchNames": [
+        "奥迪Q7",
+        "Audi Q7"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 412,
+      "seriesName": "奥迪Q7",
+      "panoId": 77393,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77393?_ahrotate=1"
+    },
+    {
+      "brandEn": "Audi",
+      "brandCn": "奥迪",
+      "modelEn": "R8",
+      "modelCn": "R8",
+      "years": "2015-",
+      "searchNames": [
+        "奥迪R8",
+        "Audi R8"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 511,
+      "seriesName": "奥迪R8",
+      "panoId": 55115,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/55115?_ahrotate=1"
+    },
+    {
+      "brandEn": "Audi",
+      "brandCn": "奥迪",
+      "modelEn": "TT",
+      "modelCn": "TT",
+      "years": "2015-2023",
+      "searchNames": [
+        "奥迪TT",
+        "Audi TT"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 148,
+      "seriesName": "奥迪TT",
+      "panoId": 29948,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/29948?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "2 Series",
+      "modelCn": "2系",
+      "years": "2015-",
+      "searchNames": [
+        "宝马2系",
+        "BMW 2系"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 7827,
+      "seriesName": "宝马2系",
+      "panoId": 76465,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76465?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "3 Series",
+      "modelCn": "3系",
+      "years": "2015-",
+      "searchNames": [
+        "宝马3系",
+        "BMW 3系"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 66,
+      "seriesName": "宝马3系",
+      "panoId": 76181,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76181?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "5 Series",
+      "modelCn": "5系",
+      "years": "2017-",
+      "searchNames": [
+        "宝马5系",
+        "BMW 5系"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 65,
+      "seriesName": "宝马5系",
+      "panoId": 76440,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76440?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "6 Series GT",
+      "modelCn": "6系GT",
+      "years": "2017-",
+      "searchNames": [
+        "宝马6系GT",
+        "BMW 6系GT"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4472,
+      "seriesName": "宝马6系GT",
+      "panoId": 69295,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/69295?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "i3",
+      "modelCn": "i3",
+      "years": "2017-2022",
+      "searchNames": [
+        "宝马i3",
+        "BMW i3"
+      ],
+      "note": "注意与燃油 3 系区分",
+      "status": "pano_found",
+      "seriesId": 6544,
+      "seriesName": "宝马i3",
+      "panoId": 76420,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76420?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "i4",
+      "modelCn": "i4",
+      "years": "2021-",
+      "searchNames": [
+        "宝马i4",
+        "BMW i4"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 5480,
+      "seriesName": "宝马i4",
+      "panoId": 68076,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/68076?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "iX",
+      "modelCn": "iX",
+      "years": "2021-",
+      "searchNames": [
+        "宝马iX",
+        "BMW iX"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4942,
+      "seriesName": "宝马iX",
+      "panoId": 63896,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63896?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "iX3",
+      "modelCn": "iX3",
+      "years": "2020-",
+      "searchNames": [
+        "宝马iX3",
+        "BMW iX3"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 5758,
+      "seriesName": "宝马iX3",
+      "panoId": 76392,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76392?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "X3",
+      "modelCn": "X3",
+      "years": "2017-",
+      "searchNames": [
+        "宝马X3",
+        "BMW X3"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4658,
+      "seriesName": "宝马X3",
+      "panoId": 76409,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/76409?_ahrotate=1"
+    },
+    {
+      "brandEn": "BMW",
+      "brandCn": "宝马",
+      "modelEn": "XM",
+      "modelCn": "XM",
+      "years": "2022-",
+      "searchNames": [
+        "宝马XM",
+        "BMW XM"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 6303,
+      "seriesName": "宝马XM",
+      "panoId": 62467,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/62467?_ahrotate=1"
+    },
+    {
+      "brandEn": "Fiat",
+      "brandCn": "菲亚特",
+      "modelEn": "500e",
+      "modelCn": "500e",
+      "years": "2020-",
+      "searchNames": [
+        "菲亚特500e",
+        "Fiat 500e"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 601,
+      "seriesName": "菲亚特500",
+      "panoId": 63550,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/63550?_ahrotate=1"
+    },
+    {
+      "brandEn": "Fiat",
+      "brandCn": "菲亚特",
+      "modelEn": "500X",
+      "modelCn": "500X",
+      "years": "2014-",
+      "searchNames": [
+        "菲亚特500X",
+        "Fiat 500X"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 3624,
+      "seriesName": "菲亚特500X",
+      "panoId": 41825,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/41825?_ahrotate=1"
+    },
+    {
+      "brandEn": "Fiat",
+      "brandCn": "菲亚特",
+      "modelEn": "Panda",
+      "modelCn": "Panda",
+      "years": "2011-",
+      "searchNames": [
+        "菲亚特Panda",
+        "Fiat Panda"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 765,
+      "seriesName": "Panda",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Fiat",
+      "brandCn": "菲亚特",
+      "modelEn": "Tipo",
+      "modelCn": "Tipo",
+      "years": "2015-2020",
+      "searchNames": [
+        "菲亚特Tipo",
+        "Fiat Tipo"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 3841,
+      "seriesName": "Tipo",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Fiat",
+      "brandCn": "菲亚特",
+      "modelEn": "Grande Panda",
+      "modelCn": "Grande Panda",
+      "years": "2024-",
+      "searchNames": [
+        "菲亚特Grande Panda",
+        "Fiat Grande Panda"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 7816,
+      "seriesName": "Grande Panda",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Fiat",
+      "brandCn": "菲亚特",
+      "modelEn": "600",
+      "modelCn": "600",
+      "years": "2023-",
+      "searchNames": [
+        "菲亚特600",
+        "Fiat 600"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 7316,
+      "seriesName": "菲亚特600",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Ford",
+      "brandCn": "福特",
+      "modelEn": "EcoSport",
+      "modelCn": "翼搏",
+      "years": "2015-",
+      "searchNames": [
+        "福特翼搏",
+        "福特EcoSport",
+        "Ford EcoSport"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 2871,
+      "seriesName": "翼搏",
+      "panoId": 39443,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/39443?_ahrotate=1"
+    },
+    {
+      "brandEn": "Ford",
+      "brandCn": "福特",
+      "modelEn": "Fiesta",
+      "modelCn": "嘉年华",
+      "years": "2015-2023",
+      "searchNames": [
+        "福特嘉年华",
+        "福特Fiesta",
+        "Ford Fiesta"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 659,
+      "seriesName": "嘉年华",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Ford",
+      "brandCn": "福特",
+      "modelEn": "Focus",
+      "modelCn": "福克斯",
+      "years": "",
+      "searchNames": [
+        "福特福克斯",
+        "福特Focus",
+        "Ford Focus"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 364,
+      "seriesName": "福克斯",
+      "panoId": 56215,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/56215?_ahrotate=1"
+    },
+    {
+      "brandEn": "Ford",
+      "brandCn": "福特",
+      "modelEn": "Kuga",
+      "modelCn": "翼虎",
+      "years": "",
+      "searchNames": [
+        "福特翼虎",
+        "福特Kuga",
+        "Ford Kuga"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 2863,
+      "seriesName": "翼虎",
+      "panoId": 41626,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/41626?_ahrotate=1"
+    },
+    {
+      "brandEn": "Ford",
+      "brandCn": "福特",
+      "modelEn": "Mondeo",
+      "modelCn": "蒙迪欧",
+      "years": "",
+      "searchNames": [
+        "福特蒙迪欧",
+        "福特Mondeo",
+        "Ford Mondeo"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 117,
+      "seriesName": "蒙迪欧",
+      "panoId": 75840,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75840?_ahrotate=1"
+    },
+    {
+      "brandEn": "Ford",
+      "brandCn": "福特",
+      "modelEn": "Mustang",
+      "modelCn": "Mustang",
+      "years": "2015-",
+      "searchNames": [
+        "福特Mustang",
+        "福特野马",
+        "Ford Mustang"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 102,
+      "seriesName": "Mustang",
+      "panoId": 59483,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/59483?_ahrotate=1"
+    },
+    {
+      "brandEn": "Ford",
+      "brandCn": "福特",
+      "modelEn": "Transit",
+      "modelCn": "全顺",
+      "years": "",
+      "searchNames": [
+        "福特全顺",
+        "福特Transit",
+        "Ford Transit"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4192,
+      "seriesName": "全顺",
+      "panoId": 1015043,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/1015043?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "A-Class",
+      "modelCn": "A级",
+      "years": "",
+      "searchNames": [
+        "奔驰A级",
+        "Mercedes-Benz A级"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4764,
+      "seriesName": "奔驰A级",
+      "panoId": 74509,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/74509?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "B-Class",
+      "modelCn": "B级",
+      "years": "2022-",
+      "searchNames": [
+        "奔驰B级",
+        "Mercedes-Benz B级"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 398,
+      "seriesName": "奔驰B级",
+      "panoId": 59842,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/59842?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "C-Class",
+      "modelCn": "C级",
+      "years": "2021-",
+      "searchNames": [
+        "奔驰C级",
+        "Mercedes-Benz C级"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 588,
+      "seriesName": "奔驰C级",
+      "panoId": 77922,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77922?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "CLA",
+      "modelCn": "CLA",
+      "years": "2025-",
+      "searchNames": [
+        "奔驰CLA",
+        "Mercedes-Benz CLA"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 2967,
+      "seriesName": "奔驰CLA AMG",
+      "panoId": 73657,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73657?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "CLE",
+      "modelCn": "CLE",
+      "years": "2023-",
+      "searchNames": [
+        "奔驰CLE",
+        "Mercedes-Benz CLE"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 6916,
+      "seriesName": "奔驰CLE",
+      "panoId": 77733,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77733?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "E-Class",
+      "modelCn": "E级",
+      "years": "",
+      "searchNames": [
+        "奔驰E级",
+        "Mercedes-Benz E级"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 197,
+      "seriesName": "奔驰E级",
+      "panoId": 77140,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77140?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "GLA",
+      "modelCn": "GLA",
+      "years": "2026-",
+      "searchNames": [
+        "奔驰GLA",
+        "Mercedes-Benz GLA"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 3248,
+      "seriesName": "奔驰GLA",
+      "panoId": 72405,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72405?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "GLB",
+      "modelCn": "GLB",
+      "years": "2026-",
+      "searchNames": [
+        "奔驰GLB",
+        "Mercedes-Benz GLB"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 5348,
+      "seriesName": "奔驰GLB",
+      "panoId": 75810,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75810?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "S-Class",
+      "modelCn": "S级",
+      "years": "",
+      "searchNames": [
+        "奔驰S级",
+        "Mercedes-Benz S级"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 59,
+      "seriesName": "奔驰S级",
+      "panoId": 75445,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75445?_ahrotate=1"
+    },
+    {
+      "brandEn": "Mercedes-Benz",
+      "brandCn": "奔驰",
+      "modelEn": "AMG GT",
+      "modelCn": "AMG GT",
+      "years": "2015-",
+      "searchNames": [
+        "奔驰AMG GT",
+        "Mercedes-Benz AMG GT"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 3451,
+      "seriesName": "AMG GT",
+      "panoId": 75658,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75658?_ahrotate=1"
+    },
+    {
+      "brandEn": "Peugeot",
+      "brandCn": "标致",
+      "modelEn": "208",
+      "modelCn": "208",
+      "years": "",
+      "searchNames": [
+        "标致208",
+        "Peugeot 208"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 2544,
+      "seriesName": "标致208",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Peugeot",
+      "brandCn": "标致",
+      "modelEn": "308",
+      "modelCn": "308",
+      "years": "",
+      "searchNames": [
+        "标致308",
+        "Peugeot 308"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 877,
+      "seriesName": "标致308",
+      "panoId": 37361,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/37361?_ahrotate=1"
+    },
+    {
+      "brandEn": "Peugeot",
+      "brandCn": "标致",
+      "modelEn": "508",
+      "modelCn": "508",
+      "years": "",
+      "searchNames": [
+        "标致508",
+        "Peugeot 508"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 2299,
+      "seriesName": "标致508",
+      "panoId": 75900,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75900?_ahrotate=1"
+    },
+    {
+      "brandEn": "Peugeot",
+      "brandCn": "标致",
+      "modelEn": "2008",
+      "modelCn": "2008",
+      "years": "",
+      "searchNames": [
+        "标致2008",
+        "Peugeot 2008"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 3234,
+      "seriesName": "标致2008",
+      "panoId": 53883,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/53883?_ahrotate=1"
+    },
+    {
+      "brandEn": "Peugeot",
+      "brandCn": "标致",
+      "modelEn": "3008",
+      "modelCn": "3008",
+      "years": "",
+      "searchNames": [
+        "标致3008",
+        "Peugeot 3008"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 2619,
+      "seriesName": "标致3008",
+      "panoId": 36493,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/36493?_ahrotate=1"
+    },
+    {
+      "brandEn": "Peugeot",
+      "brandCn": "标致",
+      "modelEn": "5008",
+      "modelCn": "5008",
+      "years": "",
+      "searchNames": [
+        "标致5008",
+        "Peugeot 5008"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4271,
+      "seriesName": "标致5008",
+      "panoId": 72121,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72121?_ahrotate=1"
+    },
+    {
+      "brandEn": "Peugeot",
+      "brandCn": "标致",
+      "modelEn": "e-Expert",
+      "modelCn": "e-Expert",
+      "years": "",
+      "searchNames": [
+        "标致e-Expert",
+        "Peugeot e-Expert"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 6515,
+      "seriesName": "标致e-Expert",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Renault",
+      "brandCn": "雷诺",
+      "modelEn": "Clio",
+      "modelCn": "Clio",
+      "years": "",
+      "searchNames": [
+        "雷诺Clio",
+        "Renault Clio"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 784,
+      "seriesName": "Clio",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Renault",
+      "brandCn": "雷诺",
+      "modelEn": "Megane",
+      "modelCn": "梅甘娜",
+      "years": "2020-2022",
+      "searchNames": [
+        "雷诺梅甘娜",
+        "雷诺Megane",
+        "Renault Megane"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 196,
+      "seriesName": "梅甘娜",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Renault",
+      "brandCn": "雷诺",
+      "modelEn": "Talisman",
+      "modelCn": "塔利斯曼",
+      "years": "2015-",
+      "searchNames": [
+        "雷诺塔利斯曼",
+        "雷诺Talisman",
+        "Renault Talisman"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 2765,
+      "seriesName": "塔利斯曼",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Renault",
+      "brandCn": "雷诺",
+      "modelEn": "Zoe",
+      "modelCn": "Zoe",
+      "years": "2015-2024",
+      "searchNames": [
+        "雷诺Zoe",
+        "Renault Zoe"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 2706,
+      "seriesName": "雷诺ZOE",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Renault",
+      "brandCn": "雷诺",
+      "modelEn": "Scenic",
+      "modelCn": "风景",
+      "years": "",
+      "searchNames": [
+        "雷诺风景",
+        "雷诺Scenic",
+        "Renault Scenic"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 6750,
+      "seriesName": "风景",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Renault",
+      "brandCn": "雷诺",
+      "modelEn": "5 E-Tech",
+      "modelCn": "5 E-Tech",
+      "years": "2024-",
+      "searchNames": [
+        "雷诺5 E-Tech",
+        "Renault 5 E-Tech"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 6015,
+      "seriesName": "雷诺5",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Renault",
+      "brandCn": "雷诺",
+      "modelEn": "Symbioz",
+      "modelCn": "Symbioz",
+      "years": "2025-",
+      "searchNames": [
+        "雷诺Symbioz",
+        "Renault Symbioz"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 4548,
+      "seriesName": "SYMBIOZ",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "Arteon",
+      "modelCn": "Arteon",
+      "years": "2017-",
+      "searchNames": [
+        "大众Arteon",
+        "大众CC",
+        "Volkswagen Arteon"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 700,
+      "seriesName": "大众CC",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "Golf",
+      "modelCn": "高尔夫",
+      "years": "2015-",
+      "searchNames": [
+        "大众高尔夫",
+        "大众Golf",
+        "Volkswagen Golf"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 871,
+      "seriesName": "高尔夫",
+      "panoId": 75017,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75017?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "ID.3",
+      "modelCn": "ID.3",
+      "years": "",
+      "searchNames": [
+        "大众ID.3",
+        "Volkswagen ID.3"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 6265,
+      "seriesName": "大众ID.3",
+      "panoId": 72248,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72248?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "ID.4",
+      "modelCn": "ID.4",
+      "years": "",
+      "searchNames": [
+        "大众ID.4",
+        "Volkswagen ID.4"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 5427,
+      "seriesName": "大众ID.4(海外)",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "ID.5",
+      "modelCn": "ID.5",
+      "years": "",
+      "searchNames": [
+        "大众ID.5",
+        "Volkswagen ID.5"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 5985,
+      "seriesName": "大众ID.5",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "ID. Buzz",
+      "modelCn": "ID. Buzz",
+      "years": "",
+      "searchNames": [
+        "大众ID. Buzz",
+        "Volkswagen ID. Buzz"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4287,
+      "seriesName": "ID. Buzz",
+      "panoId": 64588,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/64588?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "Passat",
+      "modelCn": "帕萨特",
+      "years": "2023-",
+      "searchNames": [
+        "大众帕萨特",
+        "大众Passat",
+        "Volkswagen Passat"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 368,
+      "seriesName": "Passat",
+      "panoId": 37635,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/37635?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "Polo",
+      "modelCn": "Polo",
+      "years": "2017-",
+      "searchNames": [
+        "大众Polo",
+        "Volkswagen Polo"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 145,
+      "seriesName": "Polo",
+      "panoId": 62295,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/62295?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "T-Roc",
+      "modelCn": "探歌",
+      "years": "",
+      "searchNames": [
+        "大众探歌",
+        "大众T-Roc",
+        "Volkswagen T-Roc"
+      ],
+      "note": "",
+      "status": "series_not_found",
+      "seriesId": null,
+      "seriesName": null,
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "Tiguan",
+      "modelCn": "途观",
+      "years": "",
+      "searchNames": [
+        "大众途观",
+        "大众Tiguan",
+        "Volkswagen Tiguan"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 557,
+      "seriesName": "Tiguan",
+      "panoId": 39236,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/39236?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volkswagen",
+      "brandCn": "大众",
+      "modelEn": "Up!",
+      "modelCn": "up!",
+      "years": "",
+      "searchNames": [
+        "大众up!",
+        "Volkswagen up!"
+      ],
+      "note": "",
+      "status": "no_pano",
+      "seriesId": 780,
+      "seriesName": "大众up!",
+      "panoId": null,
+      "panoUrl": null
+    },
+    {
+      "brandEn": "Volvo",
+      "brandCn": "沃尔沃",
+      "modelEn": "EX30",
+      "modelCn": "EX30",
+      "years": "2023-",
+      "searchNames": [
+        "沃尔沃EX30",
+        "Volvo EX30"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 7275,
+      "seriesName": "沃尔沃EX30",
+      "panoId": 71736,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/71736?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volvo",
+      "brandCn": "沃尔沃",
+      "modelEn": "S90",
+      "modelCn": "S90",
+      "years": "2016-",
+      "searchNames": [
+        "沃尔沃S90",
+        "Volvo S90"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4206,
+      "seriesName": "沃尔沃S90",
+      "panoId": 72952,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/72952?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volvo",
+      "brandCn": "沃尔沃",
+      "modelEn": "V90",
+      "modelCn": "V90",
+      "years": "2016-",
+      "searchNames": [
+        "沃尔沃V90",
+        "Volvo V90"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 4029,
+      "seriesName": "沃尔沃V90",
+      "panoId": 70863,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/70863?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volvo",
+      "brandCn": "沃尔沃",
+      "modelEn": "XC40",
+      "modelCn": "XC40",
+      "years": "",
+      "searchNames": [
+        "沃尔沃XC40",
+        "Volvo XC40"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 5198,
+      "seriesName": "沃尔沃XC40",
+      "panoId": 73358,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/73358?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volvo",
+      "brandCn": "沃尔沃",
+      "modelEn": "XC60",
+      "modelCn": "XC60",
+      "years": "",
+      "searchNames": [
+        "沃尔沃XC60",
+        "Volvo XC60"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 3411,
+      "seriesName": "沃尔沃XC60",
+      "panoId": 78741,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/78741?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volvo",
+      "brandCn": "沃尔沃",
+      "modelEn": "XC90",
+      "modelCn": "XC90",
+      "years": "2015-",
+      "searchNames": [
+        "沃尔沃XC90",
+        "Volvo XC90"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 177,
+      "seriesName": "沃尔沃XC90",
+      "panoId": 75641,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/75641?_ahrotate=1"
+    },
+    {
+      "brandEn": "Volvo",
+      "brandCn": "沃尔沃",
+      "modelEn": "EM90",
+      "modelCn": "EM90",
+      "years": "2023-",
+      "searchNames": [
+        "沃尔沃EM90",
+        "Volvo EM90"
+      ],
+      "note": "",
+      "status": "pano_found",
+      "seriesId": 7365,
+      "seriesName": "沃尔沃EM90",
+      "panoId": 77555,
+      "panoUrl": "https://pano.autohome.com.cn/car/pano/77555?_ahrotate=1"
+    }
+  ]
+}

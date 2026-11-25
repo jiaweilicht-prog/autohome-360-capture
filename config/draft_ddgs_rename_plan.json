@@ -1,0 +1,959 @@
+[
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A3/默认/IMG_AUD_A3_8V_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A3/默认/IMG_AUD_A3_8V_IPFRONT_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A4L/默认/IMG_AUD_A4L_B9_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A4L/默认/IMG_AUD_A4L_B9_IPFRONT_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A5L/默认/IMG_AUD_A5L_B9_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A5L/默认/IMG_AUD_A5L_B9_IPFRONT_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A6L/默认/IMG_AUD_A6L_C8_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A6L/默认/IMG_AUD_A6L_C8_IPFRONT_NA_AUTO360_01.png"
+ },
+ {
+  "pano": "73042",
+  "brandCode": "AUD",
+  "modelCode": "A8",
+  "gen": "D5",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_AUD_A8_D5_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_AUD_A8_D5_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "73042",
+  "brandCode": "AUD",
+  "modelCode": "A8",
+  "gen": "D5",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_AUD_A8_D5_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_AUD_A8_D5_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A8/默认/IMG_AUD_A8_D5_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪A8/默认/IMG_AUD_A8_D5_IPFRONT_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪Q7/默认/IMG_AUD_Q7_4M_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪Q7/默认/IMG_AUD_Q7_4M_IPFRONT_NA_AUTO360_01.png"
+ },
+ {
+  "pano": "55115",
+  "brandCode": "AUD",
+  "modelCode": "R8",
+  "gen": "4S",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_AUD_R8_4S_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_AUD_R8_4S_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪R8/默认/IMG_AUD_R8_4S_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "pano": "29948",
+  "brandCode": "AUD",
+  "modelCode": "TT",
+  "gen": "8S",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_AUD_TT_8S_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_AUD_TT_8S_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "err": "视角未知 output/images/奥迪/奥迪TT/默认/IMG_AUD_TT_8S_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/宝马/宝马2系/默认/IMG_BMW_2_G42_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/宝马/宝马2系/默认/IMG_BMW_2_G42_IPFRONT_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/宝马/宝马3系/默认/IMG_BMW_3_G20_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/宝马/宝马3系/默认/IMG_BMW_3_G20_IPFRONT_NA_AUTO360_01.png"
+ },
+ {
+  "err": "视角未知 output/images/宝马/宝马5系/默认/IMG_BMW_5_G38_IPDRV_NA_AUTO360_01.png"
+ },
+ {
+  "pano": "69295",
+  "brandCode": "BMW",
+  "modelCode": "6GT",
+  "gen": "G32",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/宝马_宝马6系GT_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_BMW_6GT_G32_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "69295",
+  "brandCode": "BMW",
+  "modelCode": "6GT",
+  "gen": "G32",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/宝马_宝马6系GT_默认_二排正视前排_01.png",
+  "newName": "IMG_BMW_6GT_G32_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "76420",
+  "brandCode": "BMW",
+  "modelCode": "I3",
+  "gen": "I01",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/宝马_宝马i3_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_BMW_I3_I01_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "76420",
+  "brandCode": "BMW",
+  "modelCode": "I3",
+  "gen": "I01",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/宝马_宝马i3_默认_二排正视前排_01.png",
+  "newName": "IMG_BMW_I3_I01_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "68076",
+  "brandCode": "BMW",
+  "modelCode": "I4",
+  "gen": "G26",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/宝马_宝马i4_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_BMW_I4_G26_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "68076",
+  "brandCode": "BMW",
+  "modelCode": "I4",
+  "gen": "G26",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/宝马_宝马i4_默认_二排正视前排_01.png",
+  "newName": "IMG_BMW_I4_G26_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "63896",
+  "brandCode": "BMW",
+  "modelCode": "IX",
+  "gen": "I20",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_BMW_IX_I20_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_BMW_IX_I20_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "63896",
+  "brandCode": "BMW",
+  "modelCode": "IX",
+  "gen": "I20",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_BMW_IX_I20_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_BMW_IX_I20_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "76392",
+  "brandCode": "BMW",
+  "modelCode": "IX3",
+  "gen": "G08",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_BMW_IX3_G08_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_BMW_IX3_G08_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "76392",
+  "brandCode": "BMW",
+  "modelCode": "IX3",
+  "gen": "G08",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_BMW_IX3_G08_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_BMW_IX3_G08_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "76409",
+  "brandCode": "BMW",
+  "modelCode": "X3",
+  "gen": "G01",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_BMW_X3_G01_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_BMW_X3_G01_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "76409",
+  "brandCode": "BMW",
+  "modelCode": "X3",
+  "gen": "G01",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_BMW_X3_G01_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_BMW_X3_G01_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "62467",
+  "brandCode": "BMW",
+  "modelCode": "XM",
+  "gen": "G09",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_BMW_XM_G09_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_BMW_XM_G09_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "62467",
+  "brandCode": "BMW",
+  "modelCode": "XM",
+  "gen": "G09",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_BMW_XM_G09_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_BMW_XM_G09_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "63550",
+  "brandCode": "FIA",
+  "modelCode": "500",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/菲亚特_菲亚特500_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_FIA_500_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "63550",
+  "brandCode": "FIA",
+  "modelCode": "500",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/菲亚特_菲亚特500_默认_二排正视前排_01.png",
+  "newName": "IMG_FIA_500_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "41825",
+  "brandCode": "FIA",
+  "modelCode": "500X",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/菲亚特_菲亚特500X_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_FIA_500X_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "41825",
+  "brandCode": "FIA",
+  "modelCode": "500X",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/菲亚特_菲亚特500X_默认_二排正视前排_01.png",
+  "newName": "IMG_FIA_500X_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "59483",
+  "brandCode": "FOR",
+  "modelCode": "MUSTANG",
+  "gen": "S550",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_FOR_MUSTANG_S550_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_MUSTANG_S550_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "59483",
+  "brandCode": "FOR",
+  "modelCode": "MUSTANG",
+  "gen": "S550",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_FOR_MUSTANG_S550_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_MUSTANG_S550_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "1015043",
+  "brandCode": "FOR",
+  "modelCode": "TRANSIT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_FOR_TRANSIT_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_TRANSIT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "1015043",
+  "brandCode": "FOR",
+  "modelCode": "TRANSIT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_FOR_TRANSIT_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_TRANSIT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "56215",
+  "brandCode": "FOR",
+  "modelCode": "FOCUS",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_FOR_FOCUS_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_FOCUS_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "56215",
+  "brandCode": "FOR",
+  "modelCode": "FOCUS",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_FOR_FOCUS_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_FOCUS_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "39443",
+  "brandCode": "FOR",
+  "modelCode": "ECOSPORT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_FOR_ECOSPORT_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_ECOSPORT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "39443",
+  "brandCode": "FOR",
+  "modelCode": "ECOSPORT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_FOR_ECOSPORT_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_ECOSPORT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "41626",
+  "brandCode": "FOR",
+  "modelCode": "KUGA",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_FOR_KUGA_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_KUGA_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "41626",
+  "brandCode": "FOR",
+  "modelCode": "KUGA",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_FOR_KUGA_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_KUGA_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "75840",
+  "brandCode": "FOR",
+  "modelCode": "MONDEO",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_FOR_MONDEO_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_MONDEO_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "75840",
+  "brandCode": "FOR",
+  "modelCode": "MONDEO",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_FOR_MONDEO_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_FOR_MONDEO_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "75658",
+  "brandCode": "MER",
+  "modelCode": "AMGGT",
+  "gen": "C190",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_MER_AMGGT_C190_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_MER_AMGGT_C190_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "75658",
+  "brandCode": "MER",
+  "modelCode": "AMGGT",
+  "gen": "C190",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_MER_AMGGT_C190_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_MER_AMGGT_C190_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "74509",
+  "brandCode": "MER",
+  "modelCode": "A",
+  "gen": "W177",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/奔驰_奔驰A级_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MER_A_W177_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "74509",
+  "brandCode": "MER",
+  "modelCode": "A",
+  "gen": "W177",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/奔驰_奔驰A级_默认_二排正视前排_01.png",
+  "newName": "IMG_MER_A_W177_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "59842",
+  "brandCode": "MER",
+  "modelCode": "B",
+  "gen": "W247",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/奔驰_奔驰B级_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MER_B_W247_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "59842",
+  "brandCode": "MER",
+  "modelCode": "B",
+  "gen": "W247",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/奔驰_奔驰B级_默认_二排正视前排_01.png",
+  "newName": "IMG_MER_B_W247_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "73657",
+  "brandCode": "MER",
+  "modelCode": "CLA",
+  "gen": "C178",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/奔驰_奔驰CLA-AMG_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MER_CLA_C178_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "73657",
+  "brandCode": "MER",
+  "modelCode": "CLA",
+  "gen": "C178",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/奔驰_奔驰CLA-AMG_默认_二排正视前排_01.png",
+  "newName": "IMG_MER_CLA_C178_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "77733",
+  "brandCode": "MER",
+  "modelCode": "CLE",
+  "gen": "C236",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/奔驰_奔驰CLE_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MER_CLE_C236_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "77733",
+  "brandCode": "MER",
+  "modelCode": "CLE",
+  "gen": "C236",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/奔驰_奔驰CLE_默认_二排正视前排_01.png",
+  "newName": "IMG_MER_CLE_C236_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "77922",
+  "brandCode": "MER",
+  "modelCode": "C",
+  "gen": "W206",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/奔驰_奔驰C级_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MER_C_W206_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "77922",
+  "brandCode": "MER",
+  "modelCode": "C",
+  "gen": "W206",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/奔驰_奔驰C级_默认_二排正视前排_01.png",
+  "newName": "IMG_MER_C_W206_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "77140",
+  "brandCode": "MER",
+  "modelCode": "E",
+  "gen": "W214",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_MER_E_W214_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_MER_E_W214_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "77140",
+  "brandCode": "MER",
+  "modelCode": "E",
+  "gen": "W214",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_MER_E_W214_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_MER_E_W214_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "72405",
+  "brandCode": "MER",
+  "modelCode": "GLA",
+  "gen": "H247",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/奔驰_奔驰GLA_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MER_GLA_H247_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "72405",
+  "brandCode": "MER",
+  "modelCode": "GLA",
+  "gen": "H247",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/奔驰_奔驰GLA_默认_二排正视前排_01.png",
+  "newName": "IMG_MER_GLA_H247_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "75810",
+  "brandCode": "MER",
+  "modelCode": "GLB",
+  "gen": "X247",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/奔驰_奔驰GLB_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_MER_GLB_X247_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "75810",
+  "brandCode": "MER",
+  "modelCode": "GLB",
+  "gen": "X247",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/奔驰_奔驰GLB_默认_二排正视前排_01.png",
+  "newName": "IMG_MER_GLB_X247_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "75445",
+  "brandCode": "MER",
+  "modelCode": "S",
+  "gen": "W223",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_MER_S_W223_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_MER_S_W223_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "75445",
+  "brandCode": "MER",
+  "modelCode": "S",
+  "gen": "W223",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_MER_S_W223_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_MER_S_W223_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "53883",
+  "brandCode": "PEU",
+  "modelCode": "2008",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/标致_标致2008_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_PEU_2008_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "53883",
+  "brandCode": "PEU",
+  "modelCode": "2008",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/标致_标致2008_默认_二排正视前排_01.png",
+  "newName": "IMG_PEU_2008_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "36493",
+  "brandCode": "PEU",
+  "modelCode": "3008",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_PEU_3008_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_PEU_3008_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "36493",
+  "brandCode": "PEU",
+  "modelCode": "3008",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_PEU_3008_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_PEU_3008_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "37361",
+  "brandCode": "PEU",
+  "modelCode": "308",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/标致_标致308_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_PEU_308_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "37361",
+  "brandCode": "PEU",
+  "modelCode": "308",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/标致_标致308_默认_二排正视前排_01.png",
+  "newName": "IMG_PEU_308_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "72121",
+  "brandCode": "PEU",
+  "modelCode": "5008",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/标致_标致5008_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_PEU_5008_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "72121",
+  "brandCode": "PEU",
+  "modelCode": "5008",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/标致_标致5008_默认_二排正视前排_01.png",
+  "newName": "IMG_PEU_5008_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "75900",
+  "brandCode": "PEU",
+  "modelCode": "508",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_PEU_508_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_PEU_508_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "75900",
+  "brandCode": "PEU",
+  "modelCode": "508",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_PEU_508_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_PEU_508_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "64588",
+  "brandCode": "VW",
+  "modelCode": "IDBUZZ",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/大众_ID.-Buzz_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VW_IDBUZZ_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "64588",
+  "brandCode": "VW",
+  "modelCode": "IDBUZZ",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/大众_ID.-Buzz_默认_二排正视前排_01.png",
+  "newName": "IMG_VW_IDBUZZ_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "37635",
+  "brandCode": "VW",
+  "modelCode": "PASSAT",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/大众_Passat_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VW_PASSAT_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "37635",
+  "brandCode": "VW",
+  "modelCode": "PASSAT",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/大众_Passat_默认_二排正视前排_01.png",
+  "newName": "IMG_VW_PASSAT_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "62295",
+  "brandCode": "VW",
+  "modelCode": "POLO",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/大众_Polo_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VW_POLO_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "62295",
+  "brandCode": "VW",
+  "modelCode": "POLO",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/大众_Polo_默认_二排正视前排_01.png",
+  "newName": "IMG_VW_POLO_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "39236",
+  "brandCode": "VW",
+  "modelCode": "TIGUAN",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/大众_Tiguan_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VW_TIGUAN_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "39236",
+  "brandCode": "VW",
+  "modelCode": "TIGUAN",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/大众_Tiguan_默认_二排正视前排_01.png",
+  "newName": "IMG_VW_TIGUAN_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "72248",
+  "brandCode": "VW",
+  "modelCode": "ID3",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/大众_大众ID.3_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VW_ID3_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "72248",
+  "brandCode": "VW",
+  "modelCode": "ID3",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/大众_大众ID.3_默认_二排正视前排_01.png",
+  "newName": "IMG_VW_ID3_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "75017",
+  "brandCode": "VW",
+  "modelCode": "GOLF",
+  "gen": "MK8",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/大众_高尔夫_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VW_GOLF_MK8_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "75017",
+  "brandCode": "VW",
+  "modelCode": "GOLF",
+  "gen": "MK8",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/大众_高尔夫_默认_二排正视前排_01.png",
+  "newName": "IMG_VW_GOLF_MK8_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "77555",
+  "brandCode": "VOL",
+  "modelCode": "EM90",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/沃尔沃_沃尔沃EM90_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VOL_EM90_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "77555",
+  "brandCode": "VOL",
+  "modelCode": "EM90",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/沃尔沃_沃尔沃EM90_默认_二排正视前排_01.png",
+  "newName": "IMG_VOL_EM90_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "71736",
+  "brandCode": "VOL",
+  "modelCode": "EX30",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_VOL_EX30_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_VOL_EX30_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "71736",
+  "brandCode": "VOL",
+  "modelCode": "EX30",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_VOL_EX30_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_VOL_EX30_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "72952",
+  "brandCode": "VOL",
+  "modelCode": "S90",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/沃尔沃_沃尔沃S90_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VOL_S90_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "72952",
+  "brandCode": "VOL",
+  "modelCode": "S90",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/沃尔沃_沃尔沃S90_默认_二排正视前排_01.png",
+  "newName": "IMG_VOL_S90_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "70863",
+  "brandCode": "VOL",
+  "modelCode": "V90",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/沃尔沃_沃尔沃V90_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VOL_V90_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "70863",
+  "brandCode": "VOL",
+  "modelCode": "V90",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/沃尔沃_沃尔沃V90_默认_二排正视前排_01.png",
+  "newName": "IMG_VOL_V90_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "73358",
+  "brandCode": "VOL",
+  "modelCode": "XC40",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/沃尔沃_沃尔沃XC40_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VOL_XC40_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "73358",
+  "brandCode": "VOL",
+  "modelCode": "XC40",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/沃尔沃_沃尔沃XC40_默认_二排正视前排_01.png",
+  "newName": "IMG_VOL_XC40_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "78741",
+  "brandCode": "VOL",
+  "modelCode": "XC60",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/沃尔沃_沃尔沃XC60_默认_主驾正视前排IP_01.png",
+  "newName": "IMG_VOL_XC60_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "78741",
+  "brandCode": "VOL",
+  "modelCode": "XC60",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/沃尔沃_沃尔沃XC60_默认_二排正视前排_01.png",
+  "newName": "IMG_VOL_XC60_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": false
+ },
+ {
+  "pano": "75641",
+  "brandCode": "VOL",
+  "modelCode": "XC90",
+  "gen": "NA",
+  "v": "F1",
+  "oldPath": "output/images_by_view/主驾位前望/IMG_VOL_XC90_NA_IPDRV_NA_AUTO360_01.png",
+  "newName": "IMG_VOL_XC90_NA_IPDRV_NA_AUTO360_01.png",
+  "isImg": true
+ },
+ {
+  "pano": "75641",
+  "brandCode": "VOL",
+  "modelCode": "XC90",
+  "gen": "NA",
+  "v": "R1",
+  "oldPath": "output/images_by_view/前舱正视/IMG_VOL_XC90_NA_IPFRONT_NA_AUTO360_01.png",
+  "newName": "IMG_VOL_XC90_NA_IPFRONT_NA_AUTO360_01.png",
+  "isImg": true
+ }
+]

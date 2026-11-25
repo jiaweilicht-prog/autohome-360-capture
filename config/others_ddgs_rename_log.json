@@ -1,0 +1,242 @@
+[
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "现代_IONIQ(艾尼氪)V_默认_主驾正视前排IP_01.png",
+    "new": "IMG_HYD_IONIQV_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "HYD",
+    "model": "IONIQV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "现代_IONIQ(艾尼氪)V_默认_主驾正视前排IP_01.json",
+    "new": "IMG_HYD_IONIQV_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "HYD",
+    "model": "IONIQV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "iCAR_iCAR-V27_默认_主驾正视前排IP_01.png",
+    "new": "IMG_NA_ICARV27_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "ICARV27",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "iCAR_iCAR-V27_默认_主驾正视前排IP_01.json",
+    "new": "IMG_NA_ICARV27_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "ICARV27",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "日产_轩逸_默认_主驾正视前排IP_01.png",
+    "new": "IMG_NA_SYLPHY_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "SYLPHY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "日产_轩逸_默认_主驾正视前排IP_01.json",
+    "new": "IMG_NA_SYLPHY_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "SYLPHY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "smart_smart精灵#1_默认_主驾正视前排IP_01.png",
+    "new": "IMG_NA_SMART1_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "SMART1",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "smart_smart精灵#1_默认_主驾正视前排IP_01.json",
+    "new": "IMG_NA_SMART1_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "SMART1",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_Purosangue_默认_主驾正视前排IP_01.png",
+    "new": "IMG_NA_PUROSANGUE_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "PUROSANGUE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "法拉利_Purosangue_默认_主驾正视前排IP_01.json",
+    "new": "IMG_NA_PUROSANGUE_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "PUROSANGUE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "高合汽车_高合HiPhi-Y_默认_主驾正视前排IP_01.png",
+    "new": "IMG_NA_HIPHIY_NA_IPDRV_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "HIPHIY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "主驾位前望",
+    "view": "IPDRV",
+    "old": "高合汽车_高合HiPhi-Y_默认_主驾正视前排IP_01.json",
+    "new": "IMG_NA_HIPHIY_NA_IPDRV_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "HIPHIY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "现代_IONIQ(艾尼氪)V_默认_二排正视前排_01.png",
+    "new": "IMG_HYD_IONIQV_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "HYD",
+    "model": "IONIQV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "现代_IONIQ(艾尼氪)V_默认_二排正视前排_01.json",
+    "new": "IMG_HYD_IONIQV_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "HYD",
+    "model": "IONIQV",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "iCAR_iCAR-V27_默认_二排正视前排_01.png",
+    "new": "IMG_NA_ICARV27_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "ICARV27",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "iCAR_iCAR-V27_默认_二排正视前排_01.json",
+    "new": "IMG_NA_ICARV27_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "ICARV27",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "日产_轩逸_默认_二排正视前排_01.png",
+    "new": "IMG_NA_SYLPHY_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "SYLPHY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "日产_轩逸_默认_二排正视前排_01.json",
+    "new": "IMG_NA_SYLPHY_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "SYLPHY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "smart_smart精灵#1_默认_二排正视前排_01.png",
+    "new": "IMG_NA_SMART1_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "SMART1",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "smart_smart精灵#1_默认_二排正视前排_01.json",
+    "new": "IMG_NA_SMART1_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "SMART1",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "法拉利_Purosangue_默认_二排正视前排_01.png",
+    "new": "IMG_NA_PUROSANGUE_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "PUROSANGUE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "法拉利_Purosangue_默认_二排正视前排_01.json",
+    "new": "IMG_NA_PUROSANGUE_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "PUROSANGUE",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "高合汽车_高合HiPhi-Y_默认_二排正视前排_01.png",
+    "new": "IMG_NA_HIPHIY_NA_IPFRONT_NA_AUTO360_01.png",
+    "brand": "NA",
+    "model": "HIPHIY",
+    "gen": "NA",
+    "subid": "NA"
+  },
+  {
+    "dir": "前舱正视",
+    "view": "IPFRONT",
+    "old": "高合汽车_高合HiPhi-Y_默认_二排正视前排_01.json",
+    "new": "IMG_NA_HIPHIY_NA_IPFRONT_NA_AUTO360_01.json",
+    "brand": "NA",
+    "model": "HIPHIY",
+    "gen": "NA",
+    "subid": "NA"
+  }
+]
